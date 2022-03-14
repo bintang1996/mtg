@@ -19,14 +19,14 @@
                                 <form name="form1" method="post" action="create-navbar-act.php" enctype="multipart/form-data">
                                     <div class="mb-4">
                                         <label for="product_name" class="form-label">Navbar Name</label>
-                                        <input name="cat_name" type="text" placeholder="Type here" class="form-control" />
+                                        <input name="cat_name" type="text" placeholder="Type here" class="form-control" required/>
                                     </div>
                                     <div class="mb-4">
 
 
 
                                         <label class="form-label">Navbar Level</label>
-                                          <select name="cat_desc" class="form-select" id='kota3' class="form-control" onchange="fetch_select(this.value);">
+                                          <select name="cat_desc" class="form-select" id='kota3' class="form-control" required onchange="fetch_select(this.value);">
                                            
                                             <option value="1">Category Level 1</option>
                                             <option value="2">Category Level 2</option>
@@ -39,7 +39,7 @@
                                     <div class='mb-4 search-style-2'>
                                     <label class='control-label' for='KABUPATEN_KOTA'><b>Navbar Parent</b></label>
  
-                                    <select name='cat_parent' class="form-control" id='kota'>
+                                    <select name='cat_parent' class="form-control" id='kota' required>
                                         <option value="Parent">Parent</option>
                                     </select>
                                     </div>
@@ -63,7 +63,7 @@
 
                                     <div class="mb-4">
                                     <label class="form-label">Link</label>
-                                    <input type="text" name="P_ATTACHMENT"  class="form-control" />
+                                    <input type="text" name="P_ATTACHMENT"  class="form-control" required/>
                                     </div>
                                     <div class="d-grid">
                                         <button class="btn btn-primary">Create Navbar</button>
@@ -185,9 +185,9 @@ $("#kota3").select2({
                                                     <div class="dropdown">
                                                         <a href="#" data-bs-toggle="dropdown" class="btn btn-light rounded btn-sm font-sm"> <i class="material-icons md-more_horiz"></i> </a>
                                                         <div class="dropdown-menu">
-                                                            <a class="dropdown-item" href="#">View detail</a>
-                                                            <a class="dropdown-item" href="edit-category-page.php?cat_id=<?php echo $d['cat_id'];?>">Edit info</a>
-                                                            <a class="dropdown-item text-danger" href="delete-category-act.php?cat_id=<?php echo $d['cat_id'];?>">Delete</a>
+                                                           
+                                                            <a class="dropdown-item" href="edit-navbar-page.php?cat_id=<?php echo $d['cat_id'];?>">Edit info</a>
+                                                            <a class="dropdown-item text-danger" href="delete-navbar-act.php?cat_id=<?php echo $d['cat_id'];?>">Delete</a>
                                                         </div>
                                                     </div>
                                                     <!-- dropdown //end -->
