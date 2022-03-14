@@ -63,7 +63,7 @@
 
                                     <div class="mb-4">
                                     <label class="form-label">Link</label>
-                                    <input type="text" name="P_ATTACHMENT[]"  class="form-control" />
+                                    <input type="text" name="P_ATTACHMENT"  class="form-control" />
                                     </div>
                                     <div class="d-grid">
                                         <button class="btn btn-primary">Create Navbar</button>
