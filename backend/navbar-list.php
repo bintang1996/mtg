@@ -89,7 +89,7 @@
 {
  $.ajax({
  type: 'post',
- url: 'getsubcat.php',
+ url: 'getsubnav.php',
  data: {
   get_option:val
  },
