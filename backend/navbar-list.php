@@ -5,7 +5,7 @@
                         <h2 class="content-title card-title">Navigations Bar</h2>
                         <p>Add, edit or delete a Navbar</p>
                     </div>
-                    <form action="category-page.php" method="get">
+                    <form action="navbar-page.php" method="get">
                             <div class="input-group">
                             
                             <input type="text" class="form-control" name="cari" type="search" placeholder="Search term" />
