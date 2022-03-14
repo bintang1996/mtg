@@ -124,7 +124,7 @@ $("#kota3").select2({
 
 
                             <div class="col-md-9">
-                                <div class="table-responsive"><br>
+                                <div class="table-responsive">
                                     <table class="table table-hover">
                                         <thead>
                                             <tr>
