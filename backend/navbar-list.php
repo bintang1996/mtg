@@ -16,7 +16,7 @@
                     <div class="card-body">
                         <div class="row">
                             <div class="col-md-3">
-                                <form name="form1" method="post" action="create-category-act.php" enctype="multipart/form-data">
+                                <form name="form1" method="post" action="create-navbar-act.php" enctype="multipart/form-data">
                                     <div class="mb-4">
                                         <label for="product_name" class="form-label">Navbar Name</label>
                                         <input name="cat_name" type="text" placeholder="Type here" class="form-control" />
