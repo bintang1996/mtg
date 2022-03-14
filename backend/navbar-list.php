@@ -133,7 +133,7 @@ $("#kota3").select2({
                                                         <input class="form-check-input" type="checkbox" value="" />
                                                     </div>
                                                 </th>
-                                                <th>Img</th>
+                                                <th>URL</th>
                                                 <th>Category Name</th>
                                                 <th>Category Level</th>
                                                 <th>Parent</th>
@@ -177,7 +177,7 @@ $("#kota3").select2({
                                                         <input class="form-check-input" type="checkbox" value="" />
                                                     </div>
                                                 </td>
-                                                <td><img src='../frontend/assets/imgs/vendor/<?php echo $d['logo'];?>' draggable='false' style="max-width:100px;" /> </td>
+                                                <td><?php echo $d['logo'];?></td>
                                                 <td><b><?php echo $d['cat_name'];?></b></td>
                                                 <td><?php echo $d['cat_desc']; ?></td>
                                                 <td><?php $gh=$d['cat_parent']; $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_id='$gh'"); while($d45=mysqli_fetch_array($result)){ echo $d45['cat_name']; }?></td>
