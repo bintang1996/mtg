@@ -3,10 +3,10 @@ include "header.php";
 $a=$_POST['cat_name'];
 $b=$_POST['cat_desc'];
 $c=$_POST['cat_id'];
+$d=$_POST['cat_parent'];
 
 
-
-$query="update navbar set cat_name='$a', cat_desc='$b' where cat_id='$c'";
+$query="update navbar set cat_name='$a', cat_desc='$b', cat_parent='$d' where cat_id='$c'";
 $result= mysqli_query($GLOBALS["___mysqli_ston"], $query);
 
 
