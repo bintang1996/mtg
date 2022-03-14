@@ -9,8 +9,8 @@
 
                 <div class="content-header">
                     <div>
-                        <h2 class="content-title card-title">Navbars</h2>
-                        <p>Add, edit or delete a navbar</p>
+                        <h2 class="content-title card-title">Edit Navbar</h2>
+                        <p>Add, edit or delete a Navbar</p>
                     </div>
                     <div>
                         <input type="text" placeholder="Search Categories" class="form-control bg-white" />
