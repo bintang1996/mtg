@@ -34,7 +34,7 @@
 
                                     <div class="mb-4">
                                         <label class="form-label">Navbar Level</label>
-                                        <select name="cat_desc" class="form-select">
+                                        <select name="cat_desc" class="form-select" id='kota3' class="form-control" required onchange="fetch_select(this.value);">
                                         <option value="<?php echo $d['cat_desc'];?>" selected><?php echo $d['cat_desc'];?></option>
                                         
                                             <option value="1">Category Level 1</option>
