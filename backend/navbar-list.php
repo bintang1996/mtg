@@ -124,7 +124,7 @@ $("#kota3").select2({
 
 
                             <div class="col-md-9">
-                                <div class="table-responsive">
+                                <div class="table-responsive"><br>
                                     <table class="table table-hover">
                                         <thead>
                                             <tr>
@@ -192,7 +192,7 @@ $("#kota3").select2({
                                                     </div>
                                                     <!-- dropdown //end -->
                                                 </td>
-                                            </tr>
+                                            </tr><br><br>
                                         <?php } ?>                                 
                                            
                                         </tbody>
