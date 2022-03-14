@@ -143,11 +143,11 @@ $("#kota3").select2({
       <div class="modal-body">
       
       <h4>Change URL</h4><br>
-                                <form id="form1" name="form1" method="post" action="edit-media-cat-act.php" enctype="multipart/form-data">
+                                <form id="form1" name="form1" method="post" action="edit-url-nav-act.php" enctype="multipart/form-data">
                              
                                     <div class="tes">
                                     <input type="hidden" class="form-control" value="<?php echo $d['cat_id'];?>" name="cat_id" id="id" /> 
-                                     <input type="text" name="P_ATTACHMENT[]" id="P_ATTACHMENT" class="form-control" multiple />
+                                     <input type="text" name="P_ATTACHMENT" id="P_ATTACHMENT" class="form-control" multiple />
                                     </div>
 
 
