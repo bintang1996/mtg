@@ -35,7 +35,7 @@
         <aside class="navbar-aside" id="offcanvas_aside">
             <div class="aside-top">
                 <a href="index.html" class="brand-wrap">
-                    <img src="assets/imgs/theme/logo2.png" class="logo" alt="Nest Dashboard" />
+                    <img src="assets/imgs/theme/logo-1.webp" class="logo" alt="Nest Dashboard" />
                 </a>
                 <div>
                     <button class="btn btn-icon btn-aside-minimize"><i class="text-muted material-icons md-menu_open"></i></button>
