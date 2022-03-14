@@ -192,8 +192,8 @@ $("#kota3").select2({
                                                     </div>
                                                     <!-- dropdown //end -->
                                                 </td>
-                                            </tr><br><br>
-                                        <?php } ?>                                 
+                                            </tr>
+                                        <?php } ?>         <br>                        
                                            
                                         </tbody>
                                     </table>
