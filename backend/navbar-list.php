@@ -28,9 +28,9 @@
                                         <label class="form-label">Navbar Level</label>
                                           <select name="cat_desc" class="form-select" id='kota3' class="form-control" required onchange="fetch_select(this.value);">
                                            
-                                            <option value="1">Category Level 1</option>
-                                            <option value="2">Category Level 2</option>
-                                            <option value="3">Category Level 3</option>
+                                            <option value="1">1</option>
+                                            <option value="2">2</option>
+                                            <option value="3">3</option>
 
                                              </select>
 
