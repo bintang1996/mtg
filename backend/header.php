@@ -87,6 +87,7 @@
                             <span class="text">Appearance</span>
                         </a>
                         <div class="submenu">
+                        <a href="navbar-page.php">Navbar</a>
                             <a href="slider-page.php">Slider</a>
                             <a href="banner3col-page.php">Banner 3 Col</a>
                             <a href="product-slider-page.php">Product Slider</a>
