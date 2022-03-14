@@ -150,10 +150,10 @@ $("#kota3").select2({
                                         $mulai = ($page>1) ? ($page * $halaman) - $halaman : 0;
                                         $a=$mulai+1;
                                         $b=1+$a;			
-                                        $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name like '%".$cari."%'");
+                                        $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_name like '%".$cari."%'");
                                         $total = mysqli_num_rows($result);
                                         $pages = ceil($total/$halaman); 
-                                        $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name like '%".$cari."%' LIMIT $mulai, $halaman") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                                        $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_name like '%".$cari."%' LIMIT $mulai, $halaman") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
                                        
                                             }else{
                                             $halaman = 10;
@@ -161,10 +161,10 @@ $("#kota3").select2({
                                             $mulai = ($page>1) ? ($page * $halaman) - $halaman : 0;
                                             $a=$mulai+1;
                                             $b=1+$a;			
-                                            $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category");
+                                            $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar");
                                             $total = mysqli_num_rows($result);
                                             $pages = ceil($total/$halaman); 
-                                            $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category LIMIT $mulai, $halaman") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                                            $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar LIMIT $mulai, $halaman") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
                                         }    
 
                                        
@@ -180,7 +180,7 @@ $("#kota3").select2({
                                                 <td><img src='../frontend/assets/imgs/vendor/<?php echo $d['logo'];?>' draggable='false' style="max-width:100px;" /> </td>
                                                 <td><b><?php echo $d['cat_name'];?></b></td>
                                                 <td><?php echo $d['cat_desc']; ?></td>
-                                                <td><?php $gh=$d['cat_parent']; $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_id='$gh'"); while($d45=mysqli_fetch_array($result)){ echo $d45['cat_name']; }?></td>
+                                                <td><?php $gh=$d['cat_parent']; $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_id='$gh'"); while($d45=mysqli_fetch_array($result)){ echo $d45['cat_name']; }?></td>
                                                 <td class="text-end">
                                                     <div class="dropdown">
                                                         <a href="#" data-bs-toggle="dropdown" class="btn btn-light rounded btn-sm font-sm"> <i class="material-icons md-more_horiz"></i> </a>
