@@ -51,12 +51,12 @@
                     </li>
                     <li class="menu-item has-submenu">
                         <a class="menu-link" href="product-page.php">
-                            <i class="icon material-icons md-shopping_bag"></i>
-                            <span class="text">Products</span>
+                        <i class="icon material-icons md-plus"></i>
+                            <span class="text">Blog</span>
                         </a>
                         <div class="submenu">
-                            <a href="product-page.php">Product List</a>
-                            <a href="category-page.php">Categories/Brand</a>
+                            <a href="product-page.php">Article</a>
+                            <a href="category-page.php">Categories</a>
                         </div>
                     </li>
                     <li class="menu-item has-submenu">
