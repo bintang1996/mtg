@@ -3,7 +3,7 @@
     <head>
         <?php include "koneksi.php";?>
         <meta charset="utf-8" />
-        <title>Numedika</title>
+        <title>Meditrans</title>
         <meta http-equiv="x-ua-compatible" content="ie=edge" />
         <meta name="description" content="" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -12,7 +12,7 @@
         <meta property="og:url" content="" />
         <meta property="og:image" content="" />
         <!-- Favicon -->
-        <link rel="shortcut icon" type="image/x-icon" href="assets/imgs/theme/loading.gif" />
+        <link rel="shortcut icon" type="image/x-icon" href="assets/imgs/theme/logo-1.webp" />
         <!-- Template CSS -->
         <link href="assets/css/main.css?v=1.1" rel="stylesheet" type="text/css" />
     </head>
