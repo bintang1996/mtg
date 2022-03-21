@@ -85,7 +85,7 @@
 				<!-- MOBILE HEADER -->
 			    <div class="wsmobileheader clearfix">
 			    	<a id="wsnavtoggle" class="wsanimated-arrow"><span></span></a>
-			    	<span class="smllogo"><img src="images/logo-grey.png" width="180" height="40" alt="mobile-logo"/></span>
+			    	<span class="smllogo"><img src="images/logo-meditrans.png" width="180" height="40" alt="mobile-logo"/></span>
 			    	<a href="tel:123456789" class="callusbtn"><i class="fas fa-phone"></i></a>
 			 	</div>
 
@@ -119,7 +119,7 @@
 
     					<!-- LOGO IMAGE -->
     					<!-- For Retina Ready displays take a image with double the amount of pixels that your image will be displayed (e.g 360 x 80 pixels) -->
-    					<div class="desktoplogo"><a href="#hero-1"><img src="images/logo-grey.png"  width="180" height="40" alt="header-logo"></a></div>
+    					<div class="desktoplogo"><a href="#hero-1"><img src="images/logo-meditrans.png"  width="200"  alt="header-logo"></a></div>
 
     					<!-- MAIN MENU -->
       					<nav class="wsmenu clearfix">
@@ -130,46 +130,26 @@
 									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_desc=1 and cat_name!='Portofolio' and cat_name!='Galeri' and cat_name!='Kontak'");
 									while($d=mysqli_fetch_array($sql)){$x=$d['cat_id'];
 										?>  	
-							<!-- HALF MENU -->
-					          	<li aria-haspopup="true"><a href="#"><?php echo $d['cat_name'] ?><span class="wsarrow"></span></a>
-					            	<div class="wsmegamenu clearfix halfmenu">
-					              		<div class="container-fluid">
-					                		<div class="row">
 
-					                			<!-- Links -->
-							                	<ul class="col-lg-6 col-md-12 col-xs-12 link-list">
-													<?php
-													$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_parent='$x' and cat_desc=2");
-													while($d2=mysqli_fetch_array($sql2)){$z=$d2['cat_id'];
-														?>
-													<li class="title"><?php echo $d2['cat_name'] ?></li>
-													<?php } ?>
-
-													<?php
-													$sql3 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_parent='$z' and cat_desc=3");
-													while($d3=mysqli_fetch_array($sql3)){
-														?>
-								                    <li><a href="#"><?php echo $d3['cat_name'] ?></a></li>							                    
-								                    <?php } ?>
-														
-							                  	</ul>
-
-							                  	<!-- Links -->
-								                
-
-					                		</div>
-					              		</div>
-					            	</div>
-					          	</li>
-								<?php } ?>	
-								<!-- END HALF MENU -->
+							<!-- DROPDOWN MENU -->
+							<li aria-haspopup="true"><a href="<?php echo $d['logo']; ?>"><?php echo $d['cat_name'];?><span class="wsarrow"></span></a>
+					           		<ul class="sub-menu">
+									   <?php
+										$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_parent='$x' and cat_desc=2");
+										while($d2=mysqli_fetch_array($sql2)){
+											?>
+					           			<li aria-haspopup="true"><a href="<?php echo $d2['logo']; ?>"><?php echo $d2['cat_name'];?></a></li>
+					              		<?php } ?>
+					           		</ul>
+					          	</li>	<!-- END DROPDOWN MENU -->
+								  <?php } ?>	
 
 								<?php
-									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_desc=1 and cat_name='Portofolio' and cat_name='Galeri' and cat_name='Kontak'");
-									while($d=mysqli_fetch_array($sql)){$x=$d['cat_id'];
+									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_name='Portofolio' or cat_name='Kontak'");
+									while($d=mysqli_fetch_array($sql)){
 										?>  
 								<!-- SIMPLE NAVIGATION LINK -->
-								<li class="nl-simple" aria-haspopup="true"><a href="#">Simple Link</a></li>
+								<li class="nl-simple" aria-haspopup="true"><a href="<?php echo $d['logo']; ?>"><?php echo $d['cat_name'] ?></a></li>
 								<?php } ?>	
 
 					          	<!-- NAVIGATION MENU BUTTON -->
