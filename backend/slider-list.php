@@ -18,7 +18,7 @@ $link_slider=$_POST['link_slider'];
                 $temp1 = $_FILES['P_ATTACHMENT']['type'][$i];
 
 
-                move_uploaded_file($_FILES["P_ATTACHMENT"]["tmp_name"][$i], "../frontend/assets/imgs/slider/" . $newfilename);
+                move_uploaded_file($_FILES["P_ATTACHMENT"]["tmp_name"][$i], "../frontend/images/slider/" . $newfilename);
               
 
             
