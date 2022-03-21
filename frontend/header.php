@@ -163,7 +163,7 @@
 								                    <li><a href="service-1.html">Service Single #1</a></li>
 								                    <li><a href="service-2.html">Service Single #2</a></li>				                             
 								                </ul>
-												<?php } ?>
+												
 
 								                <!-- MEGAMENU LINKS -->
                									<ul class="col-lg-3 col-md-12 col-xs-12 link-list">
@@ -200,7 +200,7 @@
 							            </div>  <!-- End container -->	
 							        </div>  <!-- End wsmegamenu -->	
 							    </li>	<!-- END PAGES -->
-
+								<?php } ?>
 
 					          	<!-- HALF MENU -->
 					          	<li aria-haspopup="true"><a href="#">Half Menu <span class="wsarrow"></span></a>
