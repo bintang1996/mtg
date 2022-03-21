@@ -98,7 +98,7 @@
 			     		<div class="headertopleft">			     			
 			        		
 <div class="address clearfix"><span><i class="fas fa-map-marker-alt"></i>Jl Munggang No. 86-87, Balekambang, Kramat Jati, Jakarta Timur 13530 </span>
-							<span><i class="fas fa-map-marker-alt"></i>Rungkut Menanggal Harapan Blok O No. 28, Surabaya 60293 </span> <a href="tel:123456789" class="callusbtn"><i class="fas fa-phone"></i>(082)287009699</a>
+							 <a href="tel:(082)287009699" class="callusbtn"><i class="fas fa-phone"></i>(082)287009699</a>
 			            	</div>
 			     		</div>
 
