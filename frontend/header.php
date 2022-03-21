@@ -134,9 +134,9 @@
 					        	<li aria-haspopup="true"><a href="<?php echo $d['logo']; ?>"><?php echo $d['cat_name'];?><span class="wsarrow"></span></a>
 					           		<ul class="sub-menu">
 									   <?php
-									$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_parent='$x' and cat_desc=2");
-									while($d2=mysqli_fetch_array($sql2)){
-										?>
+										$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_parent='$x' and cat_desc=2");
+										while($d2=mysqli_fetch_array($sql2)){
+											?>
 					           			<li aria-haspopup="true"><a href="<?php echo $d2['logo']; ?>"><?php echo $d2['cat_name'];?></a></li>
 					              		<?php } ?>
 					           		</ul>
@@ -145,36 +145,43 @@
 
 					          
 							<?php } ?>
-					          	<!-- HALF MENU -->
-					          	<li aria-haspopup="true"><a href="#">Half Menu <span class="wsarrow"></span></a>
+					        
+							<?php
+									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_desc=1");
+									while($d=mysqli_fetch_array($sql)){$x=$d['cat_id'];
+										?>  	
+							<!-- HALF MENU -->
+					          	<li aria-haspopup="true"><a href="#"><?php echo $d['cat_name'] ?><span class="wsarrow"></span></a>
 					            	<div class="wsmegamenu clearfix halfmenu">
 					              		<div class="container-fluid">
 					                		<div class="row">
 
 					                			<!-- Links -->
 							                	<ul class="col-lg-6 col-md-12 col-xs-12 link-list">
-							                    	<li class="title">For Patients:</li>
-								                    <li><a href="#">Meet The Doctors</a></li>							                    
-								                    <li><a href="#">Patient Info Sheets</a></li>
-								                    <li><a href="#">Online Patients Portal</a></li>
-								                    <li><a href="#">Patients Testimonials</a></li>
-								                    <li><a href="#">Blog & Latest News</a></li>								                    
+													<?php
+													$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_parent='$x' and cat_desc=2");
+													while($d2=mysqli_fetch_array($sql2)){$z=$d2['cat_id'];
+														?>
+													<li class="title"><?php echo $d2['cat_name'] ?></li>
+													<?php } ?>
+
+													<?php
+													$sql3 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_parent='$z' and cat_desc=3");
+													while($d3=mysqli_fetch_array($sql3)){
+														?>
+								                    <li><a href="#"><?php echo $d3['cat_name'] ?></a></li>							                    
+								                    <?php } ?>
+														
 							                  	</ul>
 
 							                  	<!-- Links -->
-								                <ul class="col-lg-6 col-md-12 col-xs-12 link-list">
-								                    <li class="title">Quick Links:</li>
-								                    <li><a href="#">Terms & Privacy Policy</a></li>
-								                    <li><a href="#">Donor Privacy Policy</a></li>
-								                    <li><a href="#">Workers Compensation</a></li>
-								                    <li><a href="#">Insurance Information</a></li>
-								                    <li><a href="#">After Hours Care</a></li>
-								                </ul>
+								                
 
 					                		</div>
 					              		</div>
 					            	</div>
-					          	</li>	<!-- END HALF MENU -->
+					          	</li>
+								<?php } ?>	<!-- END HALF MENU -->
 
 
 					          	<!-- MEGAMENU -->
