@@ -14,14 +14,14 @@
                         ?>
                         <a href="#" class="btn btn-light rounded font-md">Export</a>
                         <a href="#" class="btn btn-light rounded font-md">Import</a>
-                        <a href="create-product-page.php?id=<?php echo $d['id'];?>" class="btn btn-primary btn-sm rounded">Create new</a>
+                        <a href="create-article-page.php?id=<?php echo $d['id'];?>" class="btn btn-primary btn-sm rounded">Create new</a>
 
                         <?php }}else{?>
 
 
                             <a href="#" class="btn btn-light rounded font-md">Export</a>
                         <a href="#" class="btn btn-light rounded font-md">Import</a>
-                        <a href="create-product-page.php?id=0" class="btn btn-primary btn-sm rounded">Create new</a>
+                        <a href="create-article-page.php?id=0" class="btn btn-primary btn-sm rounded">Create new</a>
 
 
 
@@ -37,7 +37,7 @@
                                 </div>
                             </div>
                             <div class="col-md-3 col-12 me-auto mb-md-0 mb-3">
-                            <form action="product-page.php" method="get">
+                            <form action="article-page.php" method="get">
                             <div class="input-group">
                             
                             <input type="text" class="form-control" name="cari" type="search" placeholder="Search term" />
@@ -97,7 +97,7 @@
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-sm-4 col-8 flex-grow-1 col-name">
-                                    <a class="itemside" href="edit-product-page.php?id=<?php echo $d['id']; $id=$d['id']; ?>">
+                                    <a class="itemside" href="edit-article-page.php?id=<?php echo $d['id']; $id=$d['id']; ?>">
 
                                  
 
@@ -121,7 +121,7 @@
                                     <span>-<?php echo $d['qty'];?>Pcs</span>
                                 </div>
                                 <div class="col-lg-2 col-sm-2 col-4 col-action text-end">
-                                    <a href="edit-product-page.php?id=<?php echo $d['id'];?>" class="btn btn-sm font-sm rounded btn-brand"> <i class="material-icons md-edit"></i> Edit </a>
+                                    <a href="edit-article-page.php?id=<?php echo $d['id'];?>" class="btn btn-sm font-sm rounded btn-brand"> <i class="material-icons md-edit"></i> Edit </a>
                                     <a href="delete-product.php?id=<?php echo $d['id'];?>" class="btn btn-sm font-sm btn-light rounded"> <i class="material-icons md-delete_forever"></i> Delete </a>
                                 </div>
                             </div>
