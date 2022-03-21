@@ -21,10 +21,11 @@
                           <?php
 									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM slider_top ORDER BY urutan");
 									while($d=mysqli_fetch_array($sql)){
-                                        $i=1;
+                                        $i=0;
+                                        $i=$i+1;
 
 								?> 	
-                                <li id="slide-<?php echo $i; $i=$i+1; ?>">			
+                                <li id="slide-<?php echo $i;  ?>">			
 								<a href="<?php echo $d['link_slider'] ?>"><img class="img-fluid" width="1200px" height="600px" src="images/slider/<?php echo $d['slider_img'] ?>" alt="hero-image"></a>
                                 </li>
                                 <?php } ?>
