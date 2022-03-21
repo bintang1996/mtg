@@ -126,9 +126,12 @@
         					<ul class="wsmenu-list">
 
                                 <!-- query untuk memilih db => navbar-->
-                                
+                                <?php
+									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar ");
+									while($d=mysqli_fetch_array($sql)){$x=$d['cat_id']; echo $x;
+										?>
         						<!-- DROPDOWN MENU -->
-					        	<li aria-haspopup="true"><a href="#">Home <span class="wsarrow"></span></a>
+					        	<li aria-haspopup="true"><a href="#"><?php echo $d['cat_name']; ?><span class="wsarrow"></span></a>
 					           		<ul class="sub-menu">
 					           			<li aria-haspopup="true"><a href="#">Dummy Link Style #1</a></li>
 					              		<li aria-haspopup="true"><a href="#">Dummy Link Style #2</a></li>
@@ -137,7 +140,7 @@
 					              		<li aria-haspopup="true"><a href="#">Dummy Link Style #5</a></li>
 					           		</ul>
 					          	</li>	<!-- END DROPDOWN MENU -->
-                                
+                                <?php }?>
 
 					          	<?php
 									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar ");
