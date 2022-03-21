@@ -80,7 +80,7 @@
 								<h5 class="h5-xs">Jam Operasional</h5>
 
 								<!-- JAM OPERASIONAL -->
-								<p class="p-sm">Senin - Jumat - <span>8:00 AM - 5:00 PM</span></p>
+								<p class="p-sm">Senin - Jumat - <span>8:00 - 17:00</span></p>
 								<p class="p-sm">Sabtu - Minggu - <span>Tutup</span></p>							
 
 							</div>
