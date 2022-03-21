@@ -153,7 +153,7 @@
 								<?php } ?>	
 
 					          	<!-- NAVIGATION MENU BUTTON -->
-							    <li class="nl-simple header-btn" aria-haspopup="true"><a href="appointment.html">Make an Appointment</a></li>
+							    <li class="nl-simple header-btn" aria-haspopup="true"><a href="appointment.html">Staff Login</a></li>
                                    
                                 
         					</ul>
