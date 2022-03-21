@@ -404,7 +404,7 @@
 					 			<span class="section-id blue-color">Best Practices</span>
 
 								<!-- Title -->
-								<h3 class="h3-md steelblue-color">Clinic with Innovative Approach to Treatment</h3>
+								<h3 class="h3-md steelblue-color">Inovasi Tiada Henti Untuk Menjadi Yang Terbaik di Industri Kesehatan</h3>
 
 								<!-- Text -->
 								<p class="mb-30">An enim nullam tempor sapien gravida donec enim ipsum blandit
