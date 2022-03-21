@@ -1,7 +1,8 @@
+<?php include "koneksi.php"; ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <?php include "koneksi.php";?>
+       
         <meta charset="utf-8" />
         <title>Meditrans</title>
         <meta http-equiv="x-ua-compatible" content="ie=edge" />
