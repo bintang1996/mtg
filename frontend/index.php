@@ -12,31 +12,17 @@
 					<div class="row d-flex align-items-center">
 
 
-						<!-- HERO TEXT -->
-						<div class="col-md-8 col-lg-7 col-xl-6">
-							<div class="hero-txt mb-40">
-								
-								<!-- Title -->
-								<h5 class="steelblue-color">Welcome To Our Clinic</h5>
-								<h2 class="steelblue-color">Take Care of Your Health</h2>
+						
 
-								<!-- Text -->
-								<p class="p-md">Feugiat primis ligula risus auctor egestas augue mauri viverra tortor in
-								   iaculis placerat eugiat mauris ipsum in viverra tortor and gravida purus pretium lorem 
-								   primis in orci integer mollis
-								</p>
-
-								<!-- Button -->
-								<a href="about-us.html" class="btn btn-blue blue-hover">More About Clinic</a>										
-
-							</div>
-						</div>	<!-- END HERO TEXT -->
-
-
-						<!-- HERO IMAGE -->
+						<!-- slider IMAGE -->
 						<div class="col-md-4 col-lg-5 col-xl-6">	
-							<div class="hero-1-img text-center">				
-								<img class="img-fluid" src="images/hero-1-img.png" alt="hero-image">
+							<div class="hero-1-img text-center">
+                                <?php
+									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM slider_top where ORDER BY urutan");
+									while($d=mysqli_fetch_array($sql)){
+								?> 				
+								<a href="<?php echo $d['link_slider'] ?>"><img class="img-fluid" src="images/<?php echo $d['slider_img'] ?>" alt="hero-image"></a>
+                                <?php } ?>
 							</div>
 						</div>
 
