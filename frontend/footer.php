@@ -61,7 +61,7 @@
 								<!-- Address -->
                                 
 								<p>Jl. Munggang No. 86-87 Balekambang, Kramat Jati,</p> 
-								<p>Jakarta Timur 13530 Indonesia</p>
+								<p>Jakarta Timur 13530 Indonesia</p><br><br>
 								
                                 <h5 class="h5-xs">Head Office Surabaya</h5>
 								<p>Rungkut Menanggal Harapan Blok O No. 28</p> 
