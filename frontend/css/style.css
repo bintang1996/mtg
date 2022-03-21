@@ -538,8 +538,8 @@ ul.content-list li:last-child {
 .blue-hover:hover,
 .white-color .blue-hover:hover {
   color: #fff!important;
-  background-color: #0e8eab;
-  border-color: #0e8eab;
+  background-color: #228848;
+  border-color: #228848;
 }
 
 /*------------------------------------------*/
