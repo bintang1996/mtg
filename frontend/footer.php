@@ -17,7 +17,7 @@
 
 								<!-- Footer Logo -->
 								<!-- For Retina Ready displays take a image with double the amount of pixels that your image will be displayed (e.g 360 x 80  pixels) -->
-								<img src="images/footer-logo.png" width="180" height="40" alt="footer-logo">
+								<img src="images/logo-meditrans.png" width="180" height="40" alt="footer-logo">
 
 								<!-- Text -->	
 								<p class="p-sm mt-20">Aliquam orci nullam tempor sapien gravida donec an enim ipsum porta
