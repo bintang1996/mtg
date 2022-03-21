@@ -76,7 +76,7 @@
 							<div class="footer-box mb-40">
 							
                                 <h5 class="h5-xs">Kantor Cabang</h5>
-								<p>Bandung, Palembang, Padang, dan Makassar</p> 
+								<p>Bandung, Palembang, Padang, dan Makassar</p><br><br> 
 								
 
 								<!-- Title -->
@@ -86,11 +86,7 @@
 								<p class="p-sm">Senin - Jumat - <span>8:00 - 17:00</span></p>
 								<p class="p-sm">Sabtu - Minggu - <span>Tutup</span></p>
                                 
-                                <!-- Email -->
-								<p class="foo-email mt-20">E: <a href="mailto:cs@meditransglobal.co.id">cs@meditransglobal.co.id</a></p>
-
-                                <!-- Phone -->
-                                <p>P: +62 812 8000 1102</p>
+                                
 
 							</div>
 						</div>
@@ -110,6 +106,11 @@
 								<p class="p-sm mt-15">Penyampaian keluhan pelanggan bisa dilakukan dengan menghubungi nomor di atas.
 								</p> 																												
 
+                                <!-- Email -->
+								<p class="foo-email mt-20">E: <a href="mailto:cs@meditransglobal.co.id">cs@meditransglobal.co.id</a></p>
+
+                                <!-- Phone -->
+                                <p>P: +62 812 8000 1102</p>
 							</div>
 						</div>	
 
