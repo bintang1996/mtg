@@ -142,7 +142,7 @@
 					          	<?php
 									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar ");
 									while($d=mysqli_fetch_array($sql)){$x=$d['cat_id'];
-									?>
+										?>
 								<!-- PAGES -->
 					          	<li aria-haspopup="true"><a href="#"><?php echo $d['cat_name']; ?> <span class="wsarrow"></span></a>
             						<div class="wsmegamenu clearfix">
