@@ -93,7 +93,7 @@
 								</p>
 
 								<!-- Button -->
-								<a href="timetable.html" class="btn btn-sm btn-tra-white mt-25">Baca</a>
+								<a href="https://www.meditransglobal.co.id/services/kerjasama-operasi-kso/" class="btn btn-sm btn-tra-white mt-25">Baca</a>
 
 							</div>
 						</div>
@@ -112,7 +112,7 @@
 								</p>
 
 								<!-- Button -->
-								<a href="#" class="btn btn-sm btn-tra-white mt-25">Baca</a>
+								<a href="https://www.meditransglobal.co.id/services/jasa-kontruksi-penyediaan-barang/" class="btn btn-sm btn-tra-white mt-25">Baca</a>
 
 							</div>
 						</div>
@@ -130,7 +130,7 @@
 								</p>
 
 								<!-- Button -->
-								<a href="#" class="btn btn-sm btn-tra-white mt-25">Baca</a>
+								<a href="https://www.meditransglobal.co.id/services/aplikasi-dan-sistem-kesehatan/" class="btn btn-sm btn-tra-white mt-25">Baca</a>
 
 							</div>
 						</div>
