@@ -152,7 +152,7 @@
                									<!-- MEGAMENU LINKS -->
                									<ul class="col-lg-3 col-md-12 col-xs-12 link-list">
 												   <?php
-													$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_desc = '2' and cat_parent = '$x'");
+													$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_desc = 2 and cat_parent = '$x'");
 													while($d2=mysqli_fetch_array($sql2)){
 													?>
 								                    <li class="title"><?php echo $d2['cat_name']; ?></li>
