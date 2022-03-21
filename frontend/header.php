@@ -133,11 +133,12 @@
         						<!-- DROPDOWN MENU -->
 					        	<li aria-haspopup="true"><a href="#"><?php echo $d['cat_name'];?><span class="wsarrow"></span></a>
 					           		<ul class="sub-menu">
-					           			<li aria-haspopup="true"><a href="#">Dummy Link Style #1</a></li>
-					              		<li aria-haspopup="true"><a href="#">Dummy Link Style #2</a></li>
-					              		<li aria-haspopup="true"><a href="#">Dummy Link Style #3</a></li>
-					              		<li aria-haspopup="true"><a href="#">Dummy Link Style #4</a></li>
-					              		<li aria-haspopup="true"><a href="#">Dummy Link Style #5</a></li>
+									   <?php
+									$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_parent=$x; and cat_desc=2");
+									while($d2=mysqli_fetch_array($sql2)){
+										?>
+					           			<li aria-haspopup="true"><a href="#"><?php echo $d2['cat_name'];?></a></li>
+					              		<?php } ?>
 					           		</ul>
 					          	</li>	<!-- END DROPDOWN MENU -->
                                 
