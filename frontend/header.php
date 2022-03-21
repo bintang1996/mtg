@@ -127,6 +127,7 @@
 
                                 <!-- query untuk memilih db => navbar-->
                                 <?php
+								include "koneksi.php";
 									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar ");
 									while($d=mysqli_fetch_array($sql)){$x=$d['cat_id']; echo $x;
 										?>
