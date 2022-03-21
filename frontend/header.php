@@ -19,7 +19,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 				
   		<!-- SITE TITLE -->
-		<title>MedService - Medical & Medical Health Landing Page Template</title>
+		<title>Meditrans Global - Distributor dan Penyedia Alat Kesehatan di Indonesia</title>
 							
 		<!-- FAVICON AND TOUCH ICONS  -->
 		<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
