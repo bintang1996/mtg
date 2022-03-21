@@ -139,21 +139,31 @@
 					          	</li>	<!-- END DROPDOWN MENU -->
                                 
 
-					          	<!-- PAGES -->
-					          	<li aria-haspopup="true"><a href="#">Pages <span class="wsarrow"></span></a>
+					          	<?php
+									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_name = 'Product'");
+									while($d=mysqli_fetch_array($sql)){$x=$d['cat_id'];
+										?>
+								<!-- PAGES -->
+					          	<li aria-haspopup="true"><a href="#"><?php echo $d['cat_name']; ?> <span class="wsarrow"></span></a>
             						<div class="wsmegamenu clearfix">
              							<div class="container">
                								<div class="row">
 
                									<!-- MEGAMENU LINKS -->
                									<ul class="col-lg-3 col-md-12 col-xs-12 link-list">
-								                    <li class="title">Standard Pages:</li>
+												   <?php
+													$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_desc = '2' and cat_parent = '$x'");
+													while($d2=mysqli_fetch_array($sql2)){
+													?>
+								                    <li class="title"><?php echo $d2['cat_name']; ?></li>
+													<?php } ?>
 								                    <li><a href="about-us.html">About Us Page</a></li>
 								                    <li><a href="who-we-are.html">Who We Are</a></li>
 								                    <li><a href="all-services.html">Our Services</a></li>
 								                    <li><a href="service-1.html">Service Single #1</a></li>
 								                    <li><a href="service-2.html">Service Single #2</a></li>				                             
 								                </ul>
+												<?php } ?>
 
 								                <!-- MEGAMENU LINKS -->
                									<ul class="col-lg-3 col-md-12 col-xs-12 link-list">
