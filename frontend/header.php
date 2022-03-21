@@ -127,7 +127,7 @@
 
                                 <!-- query untuk memilih db => navbar-->
 								<?php
-									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar ");
+									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_desc=1");
 									while($d=mysqli_fetch_array($sql)){$x=$d['cat_id'];
 										?>
         						<!-- DROPDOWN MENU -->
