@@ -92,14 +92,13 @@
 							<div class="footer-box mb-40">
 												
 								<!-- Title -->
-								<h5 class="h5-xs">Emergency Cases</h5>
+								<h5 class="h5-xs">Hotline Keluhan Pelanggan</h5>
 
 								<!-- Footer List -->
-								<h5 class="h5-xl blue-color">1-800-123-4560</h5>
+								<h5 class="h5-xl blue-color">+62 21 2204 7248</h5>
 
 								<!-- Text -->	
-								<p class="p-sm mt-15">Aliquam orci nullam undo tempor sapien gravida donec enim ipsum porta
-								   justo velna aucto magna
+								<p class="p-sm mt-15">Penyampaian keluhan pelanggan bisa dilakukan dengan menghubungi nomor di atas.
 								</p> 																												
 
 							</div>
