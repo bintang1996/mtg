@@ -163,7 +163,7 @@
 							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 
 								<!-- Section ID -->	
-					 			<span class="section-id blue-color">Welcome to MedService</span>
+					 			<span class="section-id blue-color">Welcome to Meditrans Globall</span>
 
 								<!-- Title -->
 								<h3 class="h3-md steelblue-color">Complete Medical Solutions in One Place</h3>
@@ -209,7 +209,7 @@
 						<div class="col-lg-10 offset-lg-1 section-title">		
 
 							<!-- Title 	-->	
-							<h3 class="h3-md steelblue-color">Total Health Care Solutions</h3>	
+							<h3 class="h3-md steelblue-color">Keahlian Kami</h3>	
 
 							<!-- Text -->
 							<p>Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis libero at tempus, 
