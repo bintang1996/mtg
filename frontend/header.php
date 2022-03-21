@@ -166,7 +166,7 @@
 
 								<?php
 									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_desc=1 and cat_name='Portofolio' and cat_name='Galeri' and cat_name='Kontak'");
-									while($d=mysqli_fetch_array($sql)){$x=$d['cat_id'];
+									while($d=mysqli_fetch_array($sql)){
 										?>  
 								<!-- SIMPLE NAVIGATION LINK -->
 								<li class="nl-simple" aria-haspopup="true"><a href="#"><?php echo $d['cat_name'] ?></a></li>
