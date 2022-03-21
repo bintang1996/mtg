@@ -21,7 +21,7 @@
 									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM slider_top ORDER BY urutan");
 									while($d=mysqli_fetch_array($sql)){
 								?> 				
-								<a href="<?php echo $d['link_slider'] ?>"><img class="img-fluid" width="900px" height="600px" src="images/slider/<?php echo $d['slider_img'] ?>" alt="hero-image"></a>
+								<a href="<?php echo $d['link_slider'] ?>"><img class="img-fluid" width="1200px" height="600px" src="images/slider/<?php echo $d['slider_img'] ?>" alt="hero-image"></a>
                                 <?php } ?>
 							</div>
 						</div>
