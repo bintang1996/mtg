@@ -28,9 +28,9 @@
 									<ul class="foo-socials text-center clearfix">
 
 										<li><a href="https://www.facebook.com/meditrans.id" class="ico-facebook"><i class="fab fa-facebook-f"></i></a></li>
-										<li><a href="#" class="ico-instagram"><i class="fab fa-instagram"></i></a></li>	
-										<li><a href="#" class="ico-google-plus"><i class="fab fa-google-plus-g"></i></a></li>
-										<li><a href="#" class="ico-tumblr"><i class="fab fa-tumblr"></i></a></li>			
+										<li><a href="https://www.instagram.com/meditrans.id/" class="ico-instagram"><i class="fab fa-instagram"></i></a></li>	
+										<li><a href="https://www.linkedin.com/company/meditransglobal/" class="ico-linkedin"><i class="fab fa-linkedin"></i></a></li>
+										<li><a href="https://wa.me/+6281280001102" class="ico-whatsapp"><i class="fab fa-whatsapp"></i></a></li>			
 																																				
 										<!--
 										<li><a href="#" class="ico-behance"><i class="fab fa-behance"></i></a></li>	
