@@ -23,7 +23,7 @@
                                 <form name="form1" method="post" action="edit-navbar-act.php" enctype="multipart/form-data">
                                     <?php
                                     $a=$_GET['cat_id'];
-                                    $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_id='$a'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                                    $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_id='$a'");
                                     while($d=mysqli_fetch_array($sql)){ ?>
                                     <div class="mb-4">
 
