@@ -20,8 +20,7 @@
 								<img src="images/logo-meditrans.png" width="200" alt="footer-logo">
 
 								<!-- Text -->	
-								<p class="p-sm mt-20">Aliquam orci nullam tempor sapien gravida donec an enim ipsum porta
-								   justo at velna auctor congue
+								<p class="p-sm mt-20">PT. Meditrans Global bergerak dibidang penyedia produk dan jasa dalam bidang kesehatan.
 								</p>  
 
 								<!-- Social Icons -->
@@ -57,34 +56,32 @@
 							<div class="footer-box mb-40">
 							
 								<!-- Title -->
-								<h5 class="h5-xs">Our Location</h5>
+								<h5 class="h5-xs">Lokasi Kami</h5>
 
 								<!-- Address -->
-								<p>121 King Street, Melbourne,</p> 
-								<p>Victoria 3000 Australia</p>
+								<p>Jl. Munggang No. 86-87 Balekambang, Kramat Jati,</p> 
+								<p>Jakarta Timur 13530 Indonesia</p>
 								
 								<!-- Email -->
-								<p class="foo-email mt-20">E: <a href="mailto:yourdomain@mail.com">hello@yourdomain.com</a></p>
+								<p class="foo-email mt-20">E: <a href="mailto:cs@meditransglobal.co.id">cs@meditransglobal.co.id</a></p>
 
 								<!-- Phone -->
-								<p>P: +12 9 8765 4321</p>
+								<p>P: +62 812 8000 1102</p>
 
 							</div>
 						</div>
 
 
-						<!-- FOOTER WORKING HOURS -->
+						<!-- FOOTER JAM OPERASIONAL -->
 						<div class="col-md-6 col-lg-3">
 							<div class="footer-box mb-40">
 							
 								<!-- Title -->
-								<h5 class="h5-xs">Working Time</h5>
+								<h5 class="h5-xs">Jam Operasional</h5>
 
-								<!-- Working Hours -->
-								<p class="p-sm">Mon - Wed - <span>9:00 AM - 7:00 PM</span></p>
-								<p class="p-sm">Thursday - <span>9:00 AM - 6:30 PM</span></p>
-								<p class="p-sm">Friday - <span>9:00 AM - 6:00 PM</span></p>
-								<p class="p-sm">Sat - Sun - <span>Closed</span></p>							
+								<!-- JAM OPERASIONAL -->
+								<p class="p-sm">Senin - Jumat - <span>8:00 AM - 5:00 PM</span></p>
+								<p class="p-sm">Sabtu - Minggu - <span>Tutup</span></p>							
 
 							</div>
 						</div>
@@ -116,7 +113,7 @@
 					<div class="bottom-footer">
 						<div class="row">
 							<div class="col-md-12">
-								<p class="footer-copyright">&copy; 2019 <span>MedService</span>. All Rights Reserved</p>
+								<p class="footer-copyright">&copy; 2022 <span>Meditrans Global</span>. All Rights Reserved</p>
 							</div>
 						</div>
 					</div>
