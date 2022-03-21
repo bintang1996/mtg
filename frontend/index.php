@@ -18,7 +18,7 @@
 						<div class="col-md-4 col-lg-5 col-xl-6">	
 							<div class="hero-1-img text-center">
                                 <?php
-									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM slider_top where ORDER BY urutan");
+									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM slider_top ORDER BY urutan");
 									while($d=mysqli_fetch_array($sql)){
 								?> 				
 								<a href="<?php echo $d['link_slider'] ?>"><img class="img-fluid" src="images/<?php echo $d['slider_img'] ?>" alt="hero-image"></a>
