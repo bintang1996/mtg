@@ -1,7 +1,8 @@
+<?php include "koneksi.php"; ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <?php include "koneksi.php";?>
+       
         <meta charset="utf-8" />
         <title>Meditrans</title>
         <meta http-equiv="x-ua-compatible" content="ie=edge" />
@@ -55,7 +56,7 @@
                             <span class="text">Blog</span>
                         </a>
                         <div class="submenu">
-                            <a href="product-page.php">Article</a>
+                            <a href="article-page.php">Article</a>
                             <a href="category-page.php">Categories</a>
                         </div>
                     </li>

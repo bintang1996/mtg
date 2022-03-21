@@ -1,12 +1,12 @@
 <section class="content-main">
                 <div class="content-header">
                     <div>
-                        <h2 class="content-title card-title">Products List</h2>
-                        <p>Create, edit, or delete porduct.</p>
+                        <h2 class="content-title card-title">Article List</h2>
+                        <p>Create, edit, or delete article.</p>
                     </div>
                     <div>
 <?php
-                    $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product order by id DESC LIMIT 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                    $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel order by id DESC LIMIT 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
                     $jumlah_barang = mysqli_num_rows($sql);
                     if ($jumlah_barang>0){
                     while($d=mysqli_fetch_array($sql)){
@@ -14,14 +14,14 @@
                         ?>
                         <a href="#" class="btn btn-light rounded font-md">Export</a>
                         <a href="#" class="btn btn-light rounded font-md">Import</a>
-                        <a href="create-product-page.php?id=<?php echo $d['id'];?>" class="btn btn-primary btn-sm rounded">Create new</a>
+                        <a href="create-article-page.php?id=<?php echo $d['id'];?>" class="btn btn-primary btn-sm rounded">Create new</a>
 
                         <?php }}else{?>
 
 
                             <a href="#" class="btn btn-light rounded font-md">Export</a>
                         <a href="#" class="btn btn-light rounded font-md">Import</a>
-                        <a href="create-product-page.php?id=0" class="btn btn-primary btn-sm rounded">Create new</a>
+                        <a href="create-article-page.php?id=0" class="btn btn-primary btn-sm rounded">Create new</a>
 
 
 
@@ -37,7 +37,7 @@
                                 </div>
                             </div>
                             <div class="col-md-3 col-12 me-auto mb-md-0 mb-3">
-                            <form action="product-page.php" method="get">
+                            <form action="article-page.php" method="get">
                             <div class="input-group">
                             
                             <input type="text" class="form-control" name="cari" type="search" placeholder="Search term" />
@@ -67,10 +67,10 @@
                     $mulai = ($page>1) ? ($page * $halaman) - $halaman : 0;
                     $a=$mulai+1;
                     $b=1+$a;			
-                    $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where p_name like '%".$cari."%'");
+                    $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where p_name like '%".$cari."%'");
                     $total = mysqli_num_rows($result);
                     $pages = ceil($total/$halaman); 
-                    $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where p_name like '%".$cari."%' LIMIT $mulai, $halaman") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                    $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where p_name like '%".$cari."%' LIMIT $mulai, $halaman") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
                         }else{
 
                             $halaman = 10;
@@ -78,10 +78,10 @@
                             $mulai = ($page>1) ? ($page * $halaman) - $halaman : 0;
                             $a=$mulai+1;
                             $b=1+$a;			
-                            $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product");
+                            $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel");
                             $total = mysqli_num_rows($result);
                             $pages = ceil($total/$halaman); 
-                            $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product order by id DESC LIMIT $mulai, $halaman") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                            $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel order by id DESC LIMIT $mulai, $halaman") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
                              
 
                         }
@@ -97,7 +97,7 @@
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-sm-4 col-8 flex-grow-1 col-name">
-                                    <a class="itemside" href="edit-product-page.php?id=<?php echo $d['id']; $id=$d['id']; ?>">
+                                    <a class="itemside" href="edit-article-page.php?id=<?php echo $d['id']; $id=$d['id']; ?>">
 
                                  
 
@@ -121,8 +121,8 @@
                                     <span>-<?php echo $d['qty'];?>Pcs</span>
                                 </div>
                                 <div class="col-lg-2 col-sm-2 col-4 col-action text-end">
-                                    <a href="edit-product-page.php?id=<?php echo $d['id'];?>" class="btn btn-sm font-sm rounded btn-brand"> <i class="material-icons md-edit"></i> Edit </a>
-                                    <a href="delete-product.php?id=<?php echo $d['id'];?>" class="btn btn-sm font-sm btn-light rounded"> <i class="material-icons md-delete_forever"></i> Delete </a>
+                                    <a href="edit-article-page.php?id=<?php echo $d['id'];?>" class="btn btn-sm font-sm rounded btn-brand"> <i class="material-icons md-edit"></i> Edit </a>
+                                    <a href="delete-article.php?id=<?php echo $d['id'];?>" class="btn btn-sm font-sm btn-light rounded"> <i class="material-icons md-delete_forever"></i> Delete </a>
                                 </div>
                             </div>
                             <!-- row .// -->
