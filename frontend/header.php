@@ -181,7 +181,7 @@
 								                    <li class="title">Special Pages:</li>
 								                    <li><a href="pricing-1.html">Pricing Packages #1</a></li>
 								                    <li><a href="pricing-2.html">Pricing Packages #2</a></li>								                    
-								                    <li><a href="appointment.html">Make an Appointment</a></li>
+								                    <li><a href="appointment.html">Staff Login</a></li>
 								                    <li><a href="faqs.html">FAQs Page</a></li>
 								                    <li><a href="terms.html">Terms of Use</a></li> 
 								                </ul>
