@@ -28,7 +28,7 @@
 									<ul class="foo-socials text-center clearfix">
 
 										<li><a href="https://www.facebook.com/meditrans.id" class="ico-facebook"><i class="fab fa-facebook-f"></i></a></li>
-										<li><a href="#" class="ico-twitter"><i class="fab fa-twitter"></i></a></li>	
+										<li><a href="#" class="ico-instagram"><i class="fab fa-instagram"></i></a></li>	
 										<li><a href="#" class="ico-google-plus"><i class="fab fa-google-plus-g"></i></a></li>
 										<li><a href="#" class="ico-tumblr"><i class="fab fa-tumblr"></i></a></li>			
 																																				
