@@ -126,10 +126,7 @@
         					<ul class="wsmenu-list">
 
                                 <!-- query untuk memilih db => navbar-->
-                                <?php
-                                    $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar");
-                                    while($d=mysqli_fetch_array($sql)){ 
-                                ?>
+                                
         						<!-- DROPDOWN MENU -->
 					        	<li aria-haspopup="true"><a href="#">Home <span class="wsarrow"></span></a>
 					           		<ul class="sub-menu">
@@ -330,9 +327,7 @@
 
 							    <!-- NAVIGATION MENU BUTTON -->
 							    <li class="nl-simple header-btn" aria-haspopup="true"><a href="appointment.html">Make an Appointment</a></li>
-                                <?php 
-                                    }
-                                ?>    
+                                   
                                 
         					</ul>
         				</nav>	<!-- END MAIN MENU -->
