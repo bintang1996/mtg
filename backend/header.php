@@ -56,7 +56,7 @@
                             <span class="text">Blog</span>
                         </a>
                         <div class="submenu">
-                            <a href="product-page.php">Article</a>
+                            <a href="aarticle-page.php">Article</a>
                             <a href="category-page.php">Categories</a>
                         </div>
                     </li>

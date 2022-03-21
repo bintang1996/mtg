@@ -6,7 +6,7 @@
                     </div>
                     <div>
 <?php
-                    $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product order by id DESC LIMIT 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                    $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel order by id DESC LIMIT 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
                     $jumlah_barang = mysqli_num_rows($sql);
                     if ($jumlah_barang>0){
                     while($d=mysqli_fetch_array($sql)){
@@ -67,10 +67,10 @@
                     $mulai = ($page>1) ? ($page * $halaman) - $halaman : 0;
                     $a=$mulai+1;
                     $b=1+$a;			
-                    $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where p_name like '%".$cari."%'");
+                    $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where p_name like '%".$cari."%'");
                     $total = mysqli_num_rows($result);
                     $pages = ceil($total/$halaman); 
-                    $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where p_name like '%".$cari."%' LIMIT $mulai, $halaman") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                    $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where p_name like '%".$cari."%' LIMIT $mulai, $halaman") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
                         }else{
 
                             $halaman = 10;
@@ -78,10 +78,10 @@
                             $mulai = ($page>1) ? ($page * $halaman) - $halaman : 0;
                             $a=$mulai+1;
                             $b=1+$a;			
-                            $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product");
+                            $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel");
                             $total = mysqli_num_rows($result);
                             $pages = ceil($total/$halaman); 
-                            $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product order by id DESC LIMIT $mulai, $halaman") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                            $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel order by id DESC LIMIT $mulai, $halaman") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
                              
 
                         }
