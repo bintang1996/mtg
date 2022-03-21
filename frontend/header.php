@@ -1,3 +1,7 @@
+<?php 
+    include "koneksi.php";
+?>
+
 <!DOCTYPE html> 
 <!-- MedService - Medical & Medical Health Landing Page Template design by Jthemes -->
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
