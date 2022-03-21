@@ -5,31 +5,38 @@
 
 
 
-			<!-- HERO-1
+			<!-- HERO-2
 			============================================= -->	
-			<section id="hero-1" class="bg-fixed hero-section division">
-				<div class="container" style="margin:0px;"> 						
-					<div class="row d-flex align-items-center">
+			<section id="hero-2" class="hero-section division">
 
 
-						
+				<!-- SLIDER -->
+				<div class="slider blue-nav">
+			    	<ul class="slides">
 
-						<!-- slider IMAGE -->
-						<div class="col-md-4 col-lg-5 col-xl-6">	
-							<div class="hero-1-img text-center">
-                                <?php
+
+				     	<!-- SLIDE #1 -->
+				      	
+
+                          <?php
 									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM slider_top ORDER BY urutan");
 									while($d=mysqli_fetch_array($sql)){
-								?> 				
+                                        $i=1;
+
+								?> 	
+                                <li id="slide-<?php echo $i; $i=$i+1; ?>">			
 								<a href="<?php echo $d['link_slider'] ?>"><img class="img-fluid" width="1200px" height="600px" src="images/slider/<?php echo $d['slider_img'] ?>" alt="hero-image"></a>
+                                </li>
                                 <?php } ?>
-							</div>
-						</div>
+						
+					    	<!-- END SLIDE #1 -->
 
 
-					</div>    <!-- End row -->
-				</div>     <!-- End container -->
-			</section>	<!-- END HERO-1 -->
+				    </ul>
+			  	</div>	<!-- END SLIDER -->
+
+
+			</section>	<!-- END HERO-2 -->
 
 
 
