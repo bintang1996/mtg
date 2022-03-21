@@ -169,7 +169,7 @@
 									while($d=mysqli_fetch_array($sql)){$x=$d['cat_id'];
 										?>  
 								<!-- SIMPLE NAVIGATION LINK -->
-								<li class="nl-simple" aria-haspopup="true"><a href="#">Simple Link</a></li>
+								<li class="nl-simple" aria-haspopup="true"><a href="#"><?php echo $d['cat_name'] ?></a></li>
 								<?php } ?>	
 
 					          	<!-- NAVIGATION MENU BUTTON -->
