@@ -60,31 +60,21 @@
 							<div class="abox-1 white-color">
 
 								<!-- Title -->
-								<h5 class="h5-md">Working Time</h5>
+								<h5 class="h5-md">Jam Operasional</h5>
 
 								<!-- Table -->
 								<table class="table white-color">
 									<tbody>
 									    <tr>
-									      	<td>Mon – Wed</td>
+									      	<td>Sen – Jum</td>
 									      	<td> - </td>
-									      	<td class="text-right">9:00 AM - 7:00 PM</td>
+									      	<td class="text-right">8:00 - 17:00</td>
 									    </tr>
 									    <tr>
-									      	<td>Thursday</td>
+									      	<td>Sab - Min</td>
 									      	<td> - </td>
-									      	<td class="text-right">9:00 AM - 6:30 PM</td>
+									      	<td class="text-right">TUTUP</td>
 									    </tr>
-									     <tr>
-									      	<td>Friday</td>
-									      	<td> - </td>
-									      	<td class="text-right">9:00 AM - 6:00 PM</td>
-									    </tr>
-									    <tr class="last-tr">
-									      	<td>Sun - Sun</td>
-									      	<td>-</td>
-									      	<td class="text-right">CLOSED</td>
-									   	 </tr>
 									  </tbody>
 								</table>
 
@@ -138,7 +128,7 @@
 								<!-- Text -->
 								<p class="mt-20">Hadir dengan inovasi terbaru kami yaitu produk telemedicine dan telediagnostik.
 								</p>
-								
+
 								<!-- Button -->
 								<a href="#" class="btn btn-sm btn-tra-white mt-25">Baca</a>
 
