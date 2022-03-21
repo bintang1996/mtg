@@ -96,15 +96,14 @@
 						<div id="abox-2" class="col-md-6 col-lg-3">
 							<div class="abox-1 white-color">
 
-								<h5 class="h5-md">Doctors Timetable</h5>
+								<h5 class="h5-md">Solusi Kerjasama Operasional (KSO)</h5>
 
 								<!-- Text -->
-								<p>An magnis nulla dolor at sapien augue erat iaculis purus tempor magna ipsum and
-								   vitae a purus primis ipsum magna ipsum
+								<p>Kerjasama Operasional dalam penyediaan peralatan medis khususnya di Bidang Radiologi dan Kardiologi.
 								</p>
 
 								<!-- Button -->
-								<a href="timetable.html" class="btn btn-sm btn-tra-white mt-25">View Timetable</a>
+								<a href="timetable.html" class="btn btn-sm btn-tra-white mt-25">Baca</a>
 
 							</div>
 						</div>
@@ -115,15 +114,15 @@
 							<div class="abox-1 white-color">
 
 								<!-- Title -->
-								<h5 class="h5-md">Appointments</h5>
+								<h5 class="h5-md">Jasa Konstruksi</h5>
 
 								<!-- Text -->
-								<p>An magnis nulla dolor at sapien augue erat iaculis purus tempor magna ipsum and
-								   vitae a purus primis ipsum magna ipsum
+								<p>Kami juga merupakan perusahaan Konstruksi untuk pembangunan ruangan Radiologi, 
+									CT-Scan maupun Ruangan Cathlab.
 								</p>
 
 								<!-- Button -->
-								<a href="#" class="btn btn-sm btn-tra-white mt-25">Make an Apointment</a>
+								<a href="#" class="btn btn-sm btn-tra-white mt-25">Baca</a>
 
 							</div>
 						</div>
@@ -134,13 +133,14 @@
 							<div class="abox-1 white-color">
 
 								<!-- Title -->
-								<h5 class="h5-md">Emergency Cases</h5>
+								<h5 class="h5-md">Sistem Informasi Rumah Sakit, Klinik, dan Telemedicine</h5>
 
 								<!-- Text -->
-								<h5 class="h5-lg emergency-call"><i class="fas fa-phone"></i> 1-800-123-4560</h5>
-								<p class="mt-20">An magnis nulla dolor sapien augue erat iaculis purus tempor magna ipsum and
-								   vitae a purus primis ipsum magna ipsum
+								<p class="mt-20">Hadir dengan inovasi terbaru kami yaitu produk telemedicine dan telediagnostik.
 								</p>
+								
+								<!-- Button -->
+								<a href="#" class="btn btn-sm btn-tra-white mt-25">Baca</a>
 
 							</div>
 						</div>
