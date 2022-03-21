@@ -100,7 +100,7 @@
 								<h5 class="h5-xs">Hotline Keluhan Pelanggan</h5>
 
 								<!-- Footer List -->
-								<h5 class="h5-xl blue-color">+62 21 2204 7248</h5>
+								<h5 class="h5-xl blue-color">(+62) 21 2204 7248</h5>
 
 								<!-- Text -->	
 								<p class="p-sm mt-15">Penyampaian keluhan pelanggan bisa dilakukan dengan menghubungi nomor di atas.
