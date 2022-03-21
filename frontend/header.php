@@ -126,9 +126,12 @@
         					<ul class="wsmenu-list">
 
                                 <!-- query untuk memilih db => navbar-->
-                                
+								<?php
+									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar ");
+									while($d=mysqli_fetch_array($sql)){$x=$d['cat_id'];
+										?>
         						<!-- DROPDOWN MENU -->
-					        	<li aria-haspopup="true"><a href="#">Home <span class="wsarrow"></span></a>
+					        	<li aria-haspopup="true"><a href="#"><?php echo $d['cat_name'];?><span class="wsarrow"></span></a>
 					           		<ul class="sub-menu">
 					           			<li aria-haspopup="true"><a href="#">Dummy Link Style #1</a></li>
 					              		<li aria-haspopup="true"><a href="#">Dummy Link Style #2</a></li>
@@ -139,69 +142,8 @@
 					          	</li>	<!-- END DROPDOWN MENU -->
                                 
 
-					          	<?php
-									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar ");
-									while($d=mysqli_fetch_array($sql)){$x=$d['cat_id'];
-										?>
-								<!-- PAGES -->
-					          	<li aria-haspopup="true"><a href="#"><?php echo $d['cat_name']; ?> <span class="wsarrow"></span></a>
-            						<div class="wsmegamenu clearfix">
-             							<div class="container">
-               								<div class="row">
-
-               									<!-- MEGAMENU LINKS -->
-               									<ul class="col-lg-3 col-md-12 col-xs-12 link-list">
-												   <?php
-													$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_desc = '2' and cat_parent = '$x'");
-													while($d2=mysqli_fetch_array($sql2)){
-													?>
-								                    <li class="title"><?php echo $d2['cat_name']; ?></li>
-													<?php } ?>
-								                    <li><a href="about-us.html">About Us Page</a></li>
-								                    <li><a href="who-we-are.html">Who We Are</a></li>
-								                    <li><a href="all-services.html">Our Services</a></li>
-								                    <li><a href="service-1.html">Service Single #1</a></li>
-								                    <li><a href="service-2.html">Service Single #2</a></li>				                             
-								                </ul>
-												
-
-								                <!-- MEGAMENU LINKS -->
-               									<ul class="col-lg-3 col-md-12 col-xs-12 link-list">
-								                    <li class="title">Medical Pages:</li>
-								                    <li><a href="all-departments.html">Our Departments</a></li>								                    
-								                    <li><a href="department-single.html">Department Single</a></li>
-								                    <li><a href="all-doctors.html">Meet the Doctors</a></li>
-								                    <li><a href="doctor-1.html">Doctor's Profile #1</a></li>
-								                    <li><a href="doctor-2.html">Doctor's Profile #2</a></li>
-								                    <li><a href="timetable.html">Doctors Timetable</a></li>									                    
-								                </ul>
-
-								                <!-- MEGAMENU LINKS -->
-               									<ul class="col-lg-3 col-md-12 col-xs-12 link-list">
-								                    <li class="title">Special Pages:</li>
-								                    <li><a href="pricing-1.html">Pricing Packages #1</a></li>
-								                    <li><a href="pricing-2.html">Pricing Packages #2</a></li>								                    
-								                    <li><a href="appointment.html">Make an Appointment</a></li>
-								                    <li><a href="faqs.html">FAQs Page</a></li>
-								                    <li><a href="terms.html">Terms of Use</a></li> 
-								                </ul>
-
-								                <!-- MEGAMENU LINKS -->
-               									<ul class="col-lg-3 col-md-12 col-xs-12 link-list">
-								                    <li class="title">Auxiliary Pages:</li>
-								                    <li><a href="gallery.html">Our Gallery</a></li>
-								                    <li><a href="blog-listing.html">Blog Listing Page</a></li>
-								                    <li><a href="single-post.html">Single Blog Post</a></li>								                   
-								                    <li><a href="contacts-1.html">Contact Us #1</a></li>
-								                    <li><a href="contacts-2.html">Contact Us #2</a></li> 						
-								                </ul>
-								                
-							                </div>  <!-- End row -->	
-							            </div>  <!-- End container -->	
-							        </div>  <!-- End wsmegamenu -->	
-							    </li>	<!-- END PAGES -->
-								<?php } ?>
-
+					          
+							<?php } ?>
 					          	<!-- HALF MENU -->
 					          	<li aria-haspopup="true"><a href="#">Half Menu <span class="wsarrow"></span></a>
 					            	<div class="wsmegamenu clearfix halfmenu">
