@@ -131,7 +131,7 @@
 									while($d=mysqli_fetch_array($sql)){$x=$d['cat_id'];
 										?>  	
 							<!-- HALF MENU -->
-					          	<li aria-haspopup="true"><a href="#"><?php echo $d['cat_name'] ?><span class="wsarrow"></span></a>
+					          	<li aria-haspopup="true"><a href="<?php echo $d['logo']; ?>"><?php echo $d['cat_name'] ?><span class="wsarrow"></span></a>
 					            	<div class="wsmegamenu clearfix halfmenu">
 					              		<div class="container-fluid">
 					                		<div class="row">
@@ -169,7 +169,7 @@
 									while($d=mysqli_fetch_array($sql)){
 										?>  
 								<!-- SIMPLE NAVIGATION LINK -->
-								<li class="nl-simple" aria-haspopup="true"><a href="#"><?php echo $d['cat_name'] ?></a></li>
+								<li class="nl-simple" aria-haspopup="true"><a href="<?php echo $d['logo']; ?>"><?php echo $d['cat_name'] ?></a></li>
 								<?php } ?>	
 
 					          	<!-- NAVIGATION MENU BUTTON -->
