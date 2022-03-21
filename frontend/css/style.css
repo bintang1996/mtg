@@ -981,6 +981,7 @@ span.id-color {
 
 #header-2 .wsmainfull.cloned .wsmenu > .wsmenu-list > li > a {
   padding: 10px 32px 10px 18px;
+
 }
 
 #header-2 .wsmainfull.cloned .wsmenu > .wsmenu-list > li.header-btn a {
@@ -1049,7 +1050,7 @@ span.id-color {
 }
 
 .headertopright a.twittericon:hover {
-  background-color: #55acee;
+  background-color: green;
   color: #fff;
 }
 

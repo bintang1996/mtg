@@ -203,7 +203,7 @@ video {
   margin-left: 10px;
   padding: 5px 15px 5px 15px;
   -webkit-border-radius: 4px;
-  -moz-border-radius: 4px
+  -moz-border-radius: 4px;
   border-radius: 4px;
 }
 
@@ -242,7 +242,7 @@ video {
 }
 
 .wsmenu > .wsmenu-list > li.header-btn a:hover {
-  background-color: #0e8eab;
+  background-color: #228848;
   color: #fff!important;
 }
 
