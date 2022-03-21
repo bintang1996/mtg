@@ -5,7 +5,7 @@ $id=$_GET['id'];
 $loc='../frontend/assets/imgs/shop';
 
 
-$data = mysqli_query($GLOBALS["___mysqli_ston"], "delete from product where id='$id'");
+$data = mysqli_query($GLOBALS["___mysqli_ston"], "delete from artikel where id='$id'");
 $data1 = mysqli_query($GLOBALS["___mysqli_ston"], "delete from collections where p_id='$id'");
 $data2 = mysqli_query($GLOBALS["___mysqli_ston"], "delete from variant where p_id='$id'");
 
@@ -34,13 +34,13 @@ $data3 = mysqli_query($GLOBALS["___mysqli_ston"], "delete from p_image where p_i
 if($data)
 {
 
-   echo "<meta http-equiv='refresh' content='1 url=product-page.php'>";
+   echo "<meta http-equiv='refresh' content='1 url=article-page.php'>";
 
 }
 else
 {
     echo "<script>alert('Failed')</script>";
-    echo "<meta http-equiv='refresh' content='1 url=product-page.php'>";
+    echo "<meta http-equiv='refresh' content='1 url=article-page.php'>";
 
 }
 
