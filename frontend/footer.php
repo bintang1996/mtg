@@ -56,17 +56,16 @@
 							<div class="footer-box mb-40">
 							
 								<!-- Title -->
-								<h5 class="h5-xs">Lokasi Kami</h5>
+								<h5 class="h5-xs">Head Office Jakarta</h5>
 
 								<!-- Address -->
+                                
 								<p>Jl. Munggang No. 86-87 Balekambang, Kramat Jati,</p> 
 								<p>Jakarta Timur 13530 Indonesia</p>
 								
-								<!-- Email -->
-								<p class="foo-email mt-20">E: <a href="mailto:cs@meditransglobal.co.id">cs@meditransglobal.co.id</a></p>
-
-								<!-- Phone -->
-								<p>P: +62 812 8000 1102</p>
+                                <h5 class="h5-xs">Head Office Surabaya</h5>
+								<p>Rungkut Menanggal Harapan Blok O No. 28</p> 
+								<p>Surabaya 60293 Indonesia</p>
 
 							</div>
 						</div>
@@ -81,7 +80,13 @@
 
 								<!-- JAM OPERASIONAL -->
 								<p class="p-sm">Senin - Jumat - <span>8:00 - 17:00</span></p>
-								<p class="p-sm">Sabtu - Minggu - <span>Tutup</span></p>							
+								<p class="p-sm">Sabtu - Minggu - <span>Tutup</span></p>
+                                
+                                <!-- Email -->
+								<p class="foo-email mt-20">E: <a href="mailto:cs@meditransglobal.co.id">cs@meditransglobal.co.id</a></p>
+
+                                <!-- Phone -->
+                                <p>P: +62 812 8000 1102</p>
 
 							</div>
 						</div>
