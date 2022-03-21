@@ -48,14 +48,14 @@ $id=$_POST['id'];
         if($result1)
         {
        
-           echo "<meta http-equiv='refresh' content='1 url=edit-product-page.php?id=";
+           echo "<meta http-equiv='refresh' content='1 url=edit-article-page.php?id=";
            echo $id;
            echo "'>";
         }
         else
         {
             echo "<script>alert('Failed')</script>";
-           echo "<meta http-equiv='refresh' content='1 url=edit-product-page.php?id=";
+           echo "<meta http-equiv='refresh' content='1 url=edit-article-page.php?id=";
            echo $id;
            echo "'>";
         }
@@ -74,14 +74,14 @@ $id=$_POST['id'];
             if($data)
             {
            
-               echo "<meta http-equiv='refresh' content='1 url=edit-product-page.php?id=";
+               echo "<meta http-equiv='refresh' content='1 url=edit-article-page.php?id=";
                echo $id1;
                echo "'>";
             }
             else
             {
                 echo "<script>alert('Failed')</script>";
-               echo "<meta http-equiv='refresh' content='1 url=edit-product-page.php?id=";
+               echo "<meta http-equiv='refresh' content='1 url=edit-article-page.php?id=";
                echo $id1;
                echo "'>";
             }
@@ -104,14 +104,14 @@ $id=$_POST['id'];
              if($result1)
              {
            
-                echo "<meta http-equiv='refresh' content='1 url=edit-product-page.php?id=";
+                echo "<meta http-equiv='refresh' content='1 url=edit-article-page.php?id=";
                 echo $id1;
                 echo "'>";
              }
              else
              {
                  echo "<script>alert('Failed')</script>";
-                echo "<meta http-equiv='refresh' content='1 url=edit-product-page.php?id=";
+                echo "<meta http-equiv='refresh' content='1 url=edit-article-page.php?id=";
                 echo $id1;
                 echo "'>";
              }
@@ -163,7 +163,7 @@ $id=$_POST['id'];
                 for($x=0;$x<$jumlah_dipilih;$x++){
                 mysqli_query($GLOBALS["___mysqli_ston"], "INSERT INTO collections (p_id, cat_name) values('$id', '$category[$x]')");} 
                      
-                $query = "update product set
+                $query = "update artikel set
                 p_name = '$a',
                 price_in_ppn = '$b', 
                 inven = '$c',
@@ -205,14 +205,14 @@ $id=$_POST['id'];
                 if($result)
                 {
               
-                   echo "<meta http-equiv='refresh' content='1 url=edit-product-page.php?id=";
+                   echo "<meta http-equiv='refresh' content='1 url=edit-article-page.php?id=";
                    echo $id;
                    echo "'>";
                 }
                 else
                 {
                    echo "<script>alert('Failed')</script>";
-                   echo "<meta http-equiv='refresh' content='1 url=edit-product-page.php?id=";
+                   echo "<meta http-equiv='refresh' content='1 url=edit-article-page.php?id=";
                    echo $id;
                    echo "'>";
                 }
@@ -233,14 +233,14 @@ $id=$_POST['id'];
             if($result1)
             {
           
-               echo "<meta http-equiv='refresh' content='1 url=edit-product-page.php?id=";
+               echo "<meta http-equiv='refresh' content='1 url=edit-article-page.php?id=";
                echo $a;
                echo "'>";
             }
             else
             {
                echo "<script>alert('Failed')</script>";
-               echo "<meta http-equiv='refresh' content='1 url=edit-product-page.php?id=";
+               echo "<meta http-equiv='refresh' content='1 url=edit-article-page.php?id=";
                echo $a;
                echo "'>";
             }
@@ -262,14 +262,14 @@ $id=$_POST['id'];
             if($result1)
             {
           
-               echo "<meta http-equiv='refresh' content='1 url=edit-product-page.php?id=";
+               echo "<meta http-equiv='refresh' content='1 url=edit-article-page.php?id=";
                echo $aa;
                echo "'>";
             }
             else
             {
                echo "<script>alert('Failed')</script>";
-               echo "<meta http-equiv='refresh' content='1 url=edit-product-page.php?id=";
+               echo "<meta http-equiv='refresh' content='1 url=edit-article-page.php?id=";
                echo $aa;
                echo "'>";
             }
@@ -294,14 +294,14 @@ $id=$_POST['id'];
             if($result1)
             {
           
-               echo "<meta http-equiv='refresh' content='1 url=edit-product-page.php?id=";
+               echo "<meta http-equiv='refresh' content='1 url=edit-article-page.php?id=";
                echo $id;
                echo "'>";
             }
             else
             {
                echo "<script>alert('Failed')</script>";
-               echo "<meta http-equiv='refresh' content='1 url=edit-product-page.php?id=";
+               echo "<meta http-equiv='refresh' content='1 url=edit-article-page.php?id=";
                echo $id;
                echo "'>";
             }
@@ -349,14 +349,14 @@ $id=$_POST['id'];
                     if($result1)
                     {
                    
-                       echo "<meta http-equiv='refresh' content='1 url=edit-product-page.php?id=";
+                       echo "<meta http-equiv='refresh' content='1 url=edit-article-page.php?id=";
                        echo $id;
                        echo "'>";
                     }
                     else
                     {
                         echo "<script>alert('Failed')</script>";
-                       echo "<meta http-equiv='refresh' content='1 url=edit-product-page.php?id=";
+                       echo "<meta http-equiv='refresh' content='1 url=edit-article-page.php?id=";
                        echo $id;
                        echo "'>";
                     }
@@ -466,14 +466,14 @@ $(document).ready(function() {
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/css/select2.min.css" rel="stylesheet" />
 
-<?php $id=$_GET['id']; $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$id'");  while($d1=mysqli_fetch_array($sql1)){ ?>
+<?php $id=$_GET['id']; $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where id='$id'");  while($d1=mysqli_fetch_array($sql1)){ ?>
 
 
     <section class="content-main">
                 <div class="row">
                     <div class="col-12">
                         <div class="content-header">
-                            <h2 class="content-title">Product Details</h2>
+                            <h2 class="content-title">Article Details</h2>
                            
                         </div>
 
@@ -494,7 +494,7 @@ $(document).ready(function() {
       <div class="modal-body">
       
       <h4>Upload Media</h4><br>
-                                <form id="form1" name="form1" method="post" action="edit-product-page.php" enctype="multipart/form-data">
+                                <form id="form1" name="form1" method="post" action="edit-article-page.php" enctype="multipart/form-data">
                              
                                     <div class="tes">
                                     <input type="hidden" class="form-control" value="<?php echo $d1['id'];?>" name="id" id="id" /> 
@@ -526,7 +526,7 @@ $(document).ready(function() {
 
 
 
-                        <form id="formgaul" name="form1" method="post" action="edit-product-page.php">
+                        <form id="formgaul" name="form1" method="post" action="edit-article-page.php">
                         <div class="card mb-4">
                             <div class="card-header">
                                 <h4>Media </h4>(png, jpg, jpeg, mp4, webm, ogg)
@@ -621,7 +621,7 @@ $(document).ready(function() {
                                 <h4>Basic Information</h4>
                             </div>
                             <div class="card-body">
-                            <form name="form" method="post" action="edit-product-page.php">
+                            <form name="form" method="post" action="edit-article-page.php">
                             <input type="hidden" name="id" value="<?php echo $d1['id'] ?>" id="product_name" />
                                    
                                     <div class="mb-4">
@@ -644,43 +644,25 @@ $(document).ready(function() {
                                             </select>
                                    </div>
                                     <div class="mb-4">
-                                        <label for="product_name" class="form-label">Product title</label>
+                                        <label for="product_name" class="form-label">Article title</label>
                                         <input type="text" value="<?php echo $d1['p_name'] ?>" name="p_name" placeholder="Type here" class="form-control" id="product_name" />
                                     </div>
-                                    <div class="mb-4">
-                                        <label for="product_name" class="form-label">Product code</label>
-                                        <input type="text" value="<?php echo $d1['p_code'] ?>" name="p_code" placeholder="Type here" class="form-control" id="product_name" />
-                                    </div>
+                                   
                                     <div class="mb-4">
                                         <label class="form-label">Full description</label>
                                         <textarea placeholder="Type here" class="form-control" name="p_desc" id="p_desc" rows="4"><?php echo $d1['p_desc'] ?></textarea>
                                     </div>
-                                    <div class="mb-4">
-                                        <label class="form-label">Spesification</label>
-                                        <textarea placeholder="Type here" class="form-control" name="spec" id="spec" rows="4"><?php echo $d1['spec'] ?></textarea>
-                                    </div>
+                              
 
 
                                     <script>
                    CKEDITOR.replace( 'spec' );
                 CKEDITOR.replace( 'p_desc' );
             </script>
+                                 
                                     <div class="mb-4">
-                                        <label for="product_name" class="form-label">Distributor ID</label>
-                                        <select name="distributor_id" class="form-select">
-                                            <option value="<?php $dist=$d1['distributor_id']; echo $dist ?>" selected><?php $dist=$d1['distributor_id']; $sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM vendor where dist_id='$dist'");  while($d2=mysqli_fetch_array($sql2)){ echo $d2['distributor_name']; } ?></option>
-                                            <?php $data7 = mysqli_query($GLOBALS["___mysqli_ston"], "select * from vendor");
-                                            while($d7 = mysqli_fetch_array($data7)){ ?>
-
-                                            <option value="<?php echo $d7['dist_id'];?>"><?php echo $d7['distributor_name'];?></option>
-
-                                           <?php } ?>
-
-                                        </select>
-                                    </div>
-                                    <div class="mb-4">
-                                        <label for="product_name" class="form-label">Warranty</label>
-                                        <input type="text" name="warranty" value="<?php echo $d1['warranty'] ?>" placeholder="Type here" class="form-control datepicker" id="product_name" />
+                                        <label for="product_name" class="form-label">Last Update</label>
+                                        <input type="text" name="warranty" value="<?php echo date('l, d-m-Y'); ?>" placeholder="Type here" class="form-control datepicker" id="product_name" readonly />
                                     </div>
 
 
@@ -704,78 +686,12 @@ $(document).ready(function() {
 
 
                                     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-                                    <table class="table proposal-table" id="proposal-table">
-
-                                    <tbody>
-                                        <tr>
-                                        <td><label class="form-label">Price (Exclude PPN)</label><input type="number" placeholder="Rp" name="price_ex_ppn" value="<?php echo $d1['price_ex_ppn'] ?>" class="form-control variable-field quantity" name="Quantity" /></td>
-                                        <td><label class="form-label">Sales Fee (%)</label><input type="number" placeholder="%" value="<?php echo $d1['salesfee'] ?>" class="form-control variable-field salesfee" name="salesfee" /></td>
-                                        
-                                        <td><label class="form-label">Discount (%)</label><input type="number" placeholder="%" value="<?php echo $d1['discount'] ?>" class="form-control variable-field costpriceunit" name="discount" /></td>
-                                        <td><label class="form-label">Discount (Rp)</label><input type="number" value="<?php echo $d1['discount_price'] ?>" class="form-control width-80 totalcostprice1" name="discount_price" readonly /></td>
-                                     
-                                         <td><label class="form-label">Final Price (Include PPN)</label><input type="number" value="<?php echo $d1['price_in_ppn'] ?>" class="form-control width-80 totalcostprice2" name="price_in_ppn" readonly /></td>
-                                       
-                                        </tr>
-
-                                    </tbody>
-                                    </table>
+                 
 
                                     </div>
 
 
 
-
-
-
-
-
-
-
-                                     
-                                            <div class="mb-4">
-                                                <label class="form-label">Transfer price</label>
-                                                <input placeholder="Rp" value="<?php echo $d1['trf_price'] ?>" name="trf_price" type="text" class="form-control" />
-                                            </div>
-                                       
-                                            <div class="mb-4">
-                                                <label class="form-label">Vendor Discount</label>
-                                                <input placeholder="Rp" value="<?php echo $d1['vendor_discount'] ?>" name="vendor_discount" type="text" class="form-control" />
-                                        </div>
-                                  
-                                
-                                    
-                                   
-                                            <div class="mb-4">
-                                                <label class="form-label">B2B Published Price</label>
-                                                <input placeholder="Rp" value="<?php echo $d1['b2b_publish_price'] ?>" name="b2b_publish_price" type="text" class="form-control" />
-                                            </div>
-                                  
-                                            <div class="mb-4">
-                                                <label class="form-label">B2B Maximum Discount</label>
-                                                <input placeholder="Rp" value="<?php echo $d1['b2b_max_disc'] ?>" name="b2b_max_disc" type="text" class="form-control" />
-                                        </div>
-                                
-
-
-                          
-
-
-
-
-
-                                    <div class="mb-4">
-                                        <label class="form-label">Contract Vendor Price</label>
-                                        <input type="text" value="<?php echo $d1['contract_vp'] ?>" name="contract_vp" placeholder="%" class="form-control" id="product_name" />
-                                    </div>
-                                    <div class="mb-4">
-                                        <label class="form-label">E Catalouge Price</label>
-                                        <input type="text" value="<?php echo $d1['ecatalouge_price'] ?>" name="ecatalouge_price" placeholder="%" class="form-control" id="product_name" />
-                                    </div>
-                                    <div class="mb-4">
-                                        <label class="form-label">E Catalouge Discount</label>
-                                        <input type="text" value="<?php echo $d1['ecatalouge_disc'] ?>" name="ecatalouge_disc" placeholder="%" class="form-control" id="product_name" />
-                                    </div>
                                     <label class="form-check mb-4">
                                         <input class="form-check-input" type="checkbox" name="status" value="checked" <?php echo $d1['status'] ?> />
                                         <span class="form-check-label"> Show Online </span>
@@ -787,148 +703,9 @@ $(document).ready(function() {
                         
                     </div>
                    
-                    <div class="col-lg-12">
-                        <div class="card mb-4">
-                            <div class="card-header">
-                                <h4>Inventory</h4>
-                            </div>
-                            <div class="card-body">
-                                <div class="row gx-2">
-                                    
-                                    <div class="col-sm-6 mb-3">
-                                        <label class="form-label">Inventory</label>
-                                        <select name="inven" class="form-select">
-                                            <option value="<?php echo $d1['inven'] ?>" selected><?php $gg=$d1['inven']; if($gg=='alert-success'){echo 'Instock';} else {echo 'Out of Stock';} ?></option>
-                                            <option value="alert-success">In Stock</option>
-                                            <option value="alert-danger">Out of Stock</option>
-                                        </select>
-                                    </div>
-                                    <div class="mb-4">
-                                        <label for="product_name" class="form-label">Qty</label>
-                                        <input type="number" name="qty" value="<?php echo $d1['qty'] ?>" class="form-control" />
-                                    </div>
-                                </div>
-                                <!-- row.// -->
-                            </div>
-                        </div>
+          
                         <!-- card end// -->
-                        <div class="card mb-12">
-                            <div class="card-header">
-                                <h4>Shipping Warehouse Location</h4>
-                            </div>
-                            <div class="card-body">
-                                
-                                    <div class="row">
-
-                	
-				<label class="control-label" for="PROVINSI"><b>Provinsi</b></label>
-				
-                <select name="PROVINSI" id="prop" class="form-control" onchange="fetch_select(this.value);" required>
-                <?php	
-       
-       $sql = mysqli_query($GLOBALS["___mysqli_ston"], "select * from product where id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-       while($d=mysqli_fetch_array($sql)){         
-       $t1= $d['PROVINSI'];				
-       $sql4 = mysqli_query($GLOBALS["___mysqli_ston"], "select * from provinsi where id_prov='$t1'");
-       while($r=mysqli_fetch_array($sql4)){
-       ?>
-        <option value="<?php echo $d['PROVINSI'];?>" selected><?php echo $r['nama'];?></option>
-        <?php }} ?>
-        <?php
-        include "koneksi.php";
-        $id = $_GET['id'];
-        $data = mysqli_query($GLOBALS["___mysqli_ston"], "select * from  provinsi order by nama");
-        while($d = mysqli_fetch_array($data)){
-        ?>
-        <option value="<?php echo $d['id_prov'];?>"><?php echo $d['nama'];?></option>
-        <?php } ?>
-                <select>
-                <br><br>
-                <label class="control-label" for="KECAMATAN"><b>Kabupaten</b></label>
-                 <select name="KABUPATEN" id="kota" class="form-control" onchange="fetch_select1(this.value);" required>
-         <?php	
-       
-        $sql = mysqli_query($GLOBALS["___mysqli_ston"], "select * from product where id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-        while($d=mysqli_fetch_array($sql)){         
-        $t= $d['KABUPATEN'];				
-        $sql4 = mysqli_query($GLOBALS["___mysqli_ston"], "select * from kabupaten where id_kab='$t'");
-        while($r=mysqli_fetch_array($sql4)){
-        ?>
-        <option value="<?php echo $t;?>" selected><?php echo $r['nama'];?></option>
-        <?php }} ?>
-                </select>
-                        <br><br>
-                        <label class="control-label" for="KABUPATEN_KOTA"><b>Kecamatan</b></label>
-        
-         <select name="KECAMATAN" id="kec" class="form-control" onchange="fetch_select2(this.value);" required>
-         <?php	
-    
-        $sql = mysqli_query($GLOBALS["___mysqli_ston"], "select * from product where id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-        while($d=mysqli_fetch_array($sql)){         
-        $f= $d['KECAMATAN'];				
-        $sql = mysqli_query($GLOBALS["___mysqli_ston"], "select * from kecamatan where id_kec='$f'");
-        while($a=mysqli_fetch_array($sql)){
-        ?>
-        <option value="<?php echo $f;?>" selected><?php echo $a['nama'];?></option>
-        <?php }} ?>
-                </select>
-         
-                
-                        <br><br>
-                
-                        <label class="control-label" for="KELURAHAN"><b>Kelurahan</b></label>
-                        <select name="KELURAHAN" id="kel" class="form-control" required>
-        <?php	
-        $HOSPITAL_PATIENT_ID = $_GET['HOSPITAL_PATIENT_ID'];
-        $sql = mysqli_query($GLOBALS["___mysqli_ston"], "select * from product where id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-        while($d=mysqli_fetch_array($sql)){         
-        $p= $d['KELURAHAN'];				
-        $sql = mysqli_query($GLOBALS["___mysqli_ston"], "select * from kelurahan where id_kel='$p'");
-        while($a=mysqli_fetch_array($sql)){
-        ?>
-        <option value="<?php echo $p;?>" selected><?php echo $a['nama'];?></option>
-        <?php }} ?>
-                </select>
-                        <br><br>
-                
-                                      
-                                        <div class="col-lg-6">
-                                       
-                                            <div class="mb-4">
-                                                <label for="product_name" class="form-label">Length</label>
-                                                <input type="text" name="length" value="<?php echo $d1['length'] ?>" placeholder="inch" class="form-control" id="product_name" />
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6">
-                                            <div class="mb-4">
-                                                <label for="product_name" class="form-label">Width</label>
-                                                <input type="text" name="width" value="<?php echo $d1['width'] ?>" placeholder="inch" class="form-control" id="product_name" />
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="mb-4">
-                                        <label for="product_name" class="form-label">Height</label>
-                                        <input type="text" name="height" value="<?php echo $d1['height'] ?>" placeholder="gam" class="form-control" id="product_name" />
-                                    </div>
-                                    <div class="mb-4">
-                                        <label for="product_name" class="form-label">Weight</label>
-                                        <input type="text" name="weight" value="<?php echo $d1['weight'] ?>" placeholder="Rp" class="form-control" id="product_name" />
-                                    </div>
-                                    <div class="mb-4">
-                                        <label for="product_name" class="form-label">Shipping fees</label>
-                                        <input type="text" name="shipping_fees" value="<?php echo $d1['shipping_fees'] ?>" placeholder="Rp" class="form-control" id="product_name" />
-                                    </div>
-                                    <button type="submit" name="submit4" class="btn btn-md rounded font-sm hover-up">SAVE</button></form>
-                            </div>
-                           
-                        </div>
-                      
-                        
-                    </div>
-
-
-
-                   
+               
 
 
 
@@ -957,7 +734,7 @@ $(document).ready(function() {
                                                 <input class="form-check-input" type="checkbox" value="" />
                                             </div>
                                         </th>
-                                        <th>Image</th>
+                                  
                                         <th>Title</th>
                                         <th>Variant</th>
                                  
@@ -989,8 +766,7 @@ $(document).ready(function() {
                                                 <input class="form-check-input" type="checkbox" value="" />
                                             </div>
                                         </td>
-                                        <td><img src='../frontend/assets/imgs/shop/<?php echo $d['P_ATTACHMENT'];?>' draggable='false'  STYLE="max-width:100px;"/></td>
-                                        <td><?php echo $d['variant_title']  ?></td>
+                                      <td><?php echo $d['variant_title']  ?></td>
                                         <td><b><?php echo $d['variant_name']  ?></b></td>
                                       
 
@@ -1042,7 +818,7 @@ $(document).ready(function() {
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-      <form name="form" method="post" action="edit-product-page.php">
+      <form name="form" method="post" action="edit-article-page.php">
           <div class="mb-3">    
           <input type="hidden" value="<?php echo $d1['id'] ?>" name="p_id" class="form-control" id="product_name" />
                           
