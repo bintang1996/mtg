@@ -75,6 +75,10 @@
 						<div class="col-md-6 col-lg-3">
 							<div class="footer-box mb-40">
 							
+                                <h5 class="h5-xs">Kantor Cabang</h5>
+								<p>Bandung, Palembang, Padang, dan Makassar</p> 
+								
+
 								<!-- Title -->
 								<h5 class="h5-xs">Jam Operasional</h5>
 
