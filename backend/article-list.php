@@ -1,8 +1,8 @@
 <section class="content-main">
                 <div class="content-header">
                     <div>
-                        <h2 class="content-title card-title">Products List</h2>
-                        <p>Create, edit, or delete porduct.</p>
+                        <h2 class="content-title card-title">Article List</h2>
+                        <p>Create, edit, or delete article.</p>
                     </div>
                     <div>
 <?php
@@ -122,7 +122,7 @@
                                 </div>
                                 <div class="col-lg-2 col-sm-2 col-4 col-action text-end">
                                     <a href="edit-article-page.php?id=<?php echo $d['id'];?>" class="btn btn-sm font-sm rounded btn-brand"> <i class="material-icons md-edit"></i> Edit </a>
-                                    <a href="delete-product.php?id=<?php echo $d['id'];?>" class="btn btn-sm font-sm btn-light rounded"> <i class="material-icons md-delete_forever"></i> Delete </a>
+                                    <a href="delete-article.php?id=<?php echo $d['id'];?>" class="btn btn-sm font-sm btn-light rounded"> <i class="material-icons md-delete_forever"></i> Delete </a>
                                 </div>
                             </div>
                             <!-- row .// -->
