@@ -102,7 +102,7 @@
 			     		</div>
 
 			     		<!-- Social Links -->
-					    <div class="headertopright">
+					    <div class="">
 							<a class="twittericon" title="Whatsapp" href="http://wa.me/6281280001102"><i class="fab fa-mobile "></i> <span class="mobiletext02">Whatsapp</span></a>
 					    	<a class="googleicon" title="Instagram" href="https://www.instagram.com/meditransglobal.id/"><i class="fab fa-instagram"></i> <span class="mobiletext02">Instagram</span></a>
 					        <a class="linkedinicon" title="Linkedin" href="https://www.linkedin.com/company/meditransglobal/"><i class="fab fa-linkedin-in"></i> <span class="mobiletext02">Linkedin</span></a>
