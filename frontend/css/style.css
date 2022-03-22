@@ -1035,7 +1035,7 @@ span.id-color {
   height: 40px;
   text-align: center;
   line-height: 40px;
-  color: #fff;
+  color: rgb(0, 0, 0);
   font-size: 13px;
   float: right;
 }
