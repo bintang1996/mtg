@@ -4760,6 +4760,7 @@ p.footer-copyright span {
 .foo-socials a.ico-vk:hover { background-color: #3b5998; border-color: #3b5998; color: #fff; }
 .foo-socials a.ico-yahoo:hover { background-color: #7b0099; border-color: #7b0099; color: #fff; }
 .foo-socials a.ico-yelp:hover { background-color: #d32323; border-color: #d32323; color: #fff; }
+.foo-socials a.ico-whatsapp:hover { background-color: #00A884; border-color: #00A884; color: #fff; 
 
 /*------------------------------------------*/
 /*   FOOTER NEWSLETTER FORM
