@@ -1047,6 +1047,11 @@ span.id-color {
   font-color: #E87722;
   
 }
+.headertopright a.phone:hover {
+  font-color: #E87722;
+  
+}
+
 .headertopright a.facebookicon:hover {
   background-color: #3b5998;
   color: #fff;
