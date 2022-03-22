@@ -109,7 +109,7 @@
 					        <a class="facebookicon" title="Facebook" href="https://www.facebook.com/meditrans.id/"><i class="fab fa-facebook-f"></i> <span class="mobiletext02">Facebook</span></a>
 							
 							<a class="email" href="" style="color: black"> TEST</a>
-							<div>✉</div>
+							<a class="email" href="" style="color: black">✉</a>
 							
 							
 				      	</div>
