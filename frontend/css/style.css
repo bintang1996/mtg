@@ -1071,7 +1071,7 @@ span.id-color {
 }
 
 .address span {
-  color: #fff;
+  color: rgb(0, 0, 0);
   font-size: 13px;
   line-height: 40px;
   margin-right: 9px;
