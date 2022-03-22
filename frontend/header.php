@@ -97,7 +97,7 @@
 			    		<!-- Address -->
 			     		<div class="headertopleft">			     			
 			        		
-						<div class="address clearfix"><span>🕗SCHEDULE MONDAYy - FRIDAY 08.00 - 17.00 WIB</span> 
+						<div class="address clearfix"><span>🕗 SCHEDULE MONDAY - FRIDAY 08.00 - 17.00 WIB</span> 
 			        </div>
 			     		</div>
 
