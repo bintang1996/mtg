@@ -97,7 +97,7 @@
 			    		<!-- Address -->
 			     		<div class="headertopleft">			     			
 			        		
-						<div class="address clearfix"><span><i class="fa fa-clock-o" style="font-size:24px;"></i>Jl Munggang No. 86-87, Balekambang, Kramat Jati, Jakarta Timur 13530</span> 
+						<div class="address clearfix"><span><i class="fa fa-clock-o" style="font-size:24px;color: black"></i>Jl Munggang No. 86-87, Balekambang, Kramat Jati, Jakarta Timur 13530</span> 
 			        </div>
 			     		</div>
 
