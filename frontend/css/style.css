@@ -1041,9 +1041,11 @@ span.id-color {
 }
 
 .headertopright a:hover {
-  background-color: #272B37;
+  background-color: #E87722;
 }
-
+.headertopright a.email:hover {
+  color: #E87722;
+}
 .headertopright a.facebookicon:hover {
   background-color: #3b5998;
   color: #fff;
