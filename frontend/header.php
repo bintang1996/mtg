@@ -105,7 +105,7 @@
 					    <div class="headertopright">
 							
 					        <a class="facebookicon" title="Facebook" href="https://www.facebook.com/meditrans.id/"><i class="fab fa-facebook-f"></i> <span class="mobiletext02">Facebook</span></a>
-							<div class="address clearfix"><span>🕗 SCHEDULE MONDAY - FRIDAY 08.00 - 17.00 WIB</span> 
+							<div class="address clearfix"><span><i class="fa fa-envelope"></i> SCHEDULE MONDAY - FRIDAY 08.00 - 17.00 WIB</span> 
 				      	</div>
 
 				    </div>
