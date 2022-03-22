@@ -1031,7 +1031,7 @@ span.id-color {
 }
 
 .headertopright a {
-  width: 40px;
+  width: auto;
   height: 40px;
 
   line-height: 40px;
