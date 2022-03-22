@@ -97,7 +97,7 @@
 			    		<!-- Address -->
 			     		<div class="headertopleft">			     			
 			        		
-						<div class="address clearfix"><span><i class="fab fa-clock-f" style="color: black"></i>SCHEDULE MONDAY - FRIDAY 08.00 - 17.00 WIB</span> 
+						<div class="address clearfix"><span>⏰SCHEDULE MONDAY - FRIDAY 08.00 - 17.00 WIB</span> 
 			        </div>
 			     		</div>
 
