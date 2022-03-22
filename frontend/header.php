@@ -103,11 +103,10 @@
 
 			     		<!-- Social Links -->
 					    <div class="headertopright">
-							<a class="phone" href="" style="color: black">(+62) 21 2204 7248</a>
-							<a class="phone" href="" style="color: black"><i class="fa fa-mobile" aria-hidden="true"></i>
-</a>
+							<a class="phone"  style="color: black">(+62) 21 2204 7248</a>
+							<a class="phone"  style="color: black"><i class="fa fa-mobile" aria-hidden="true"></i></a>
 							
-							<a class="email" href="mailto:info@meditransglobal.co.id" style="color: black"> INFO@MEDITRANSGLOBAL.CO.ID</a>
+							<a class="email" href="mailto:info@meditransglobal.co.id" style="color: black; margin-right:2.5em"> INFO@MEDITRANSGLOBAL.CO.ID</a>
 							<a class="email" href="mailto:info@meditransglobal.co.id" style="color: black">✉  </a>
 							
 							
