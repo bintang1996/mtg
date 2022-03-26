@@ -926,13 +926,11 @@ span.id-color {
 }
 
 #loader {
-  width: 256px;
-  height: 38px;
-  position: absolute;
+  width: 100px;
+ 
   left: 50%;
   top: 50%;
-  margin-left: -128px;
-  margin-top: -19px;
+
 }
 
 .loader-inner {
