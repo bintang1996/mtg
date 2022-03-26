@@ -103,8 +103,9 @@
 
 			     		<!-- Social Links -->
 					    <div class="headertopright">
-						<a class="googleicon" title="Google" href="#"><i class="fab fa-google"></i> <span class="mobiletext02">Google</span></a>
-					        <a class="linkedinicon" title="Linkedin" href="#"><i class="fab fa-linkedin-in"></i> <span class="mobiletext02">Linkedin</span></a>
+						<div class="address clearfix"><span style="color: grey;">🕗 SCHEDULE MONDAY - FRIDAY 08.00 - 17.00 WIB</span> 
+			        </div>
+					    <a class="linkedinicon" title="Linkedin" href="#"><i class="fab fa-linkedin-in"></i> <span class="mobiletext02">Linkedin</span></a>
 					        
 							
 				      	</div>
