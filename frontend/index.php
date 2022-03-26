@@ -216,11 +216,11 @@
 
 			<div class="mySlides">
 
-			<table class="table" width="100%" style="border:none; margin-bottom:0;">
+			<table class="table" width="100%" style="border:none; margin-bottom:0; margin-right:15%; margin-left:15%">
 			<tr><td width="50%"  class="text-center align-center">
 			<img class="img-fluid" width="70%" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
-			<td style="margin-right:15%; margin-left:15%"><br>
+			<td><br>
 			<h3 class="h3-md" style="color: #281E78;">SELAMAT DATANG DI MEDITRANS</h3>	
 			<p style="text-align:justify;">MPT. Meditrans Global (PT. MTG) berdiri sejak tahun 2012 di Surabaya, berawal dari bisnis penyedia barang dan jasa dan seiring waktu kami terus mengembangkan perusahaan ini ke bidang bidang bisnis lainnya.</p>
 
@@ -232,7 +232,7 @@
 			
 			<div class="mySlides">
 
-			<table class="table" width="100%" style="border:1px; margin-bottom:0;">
+			<table class="table" width="100%" style="border:1px; margin-bottom:0; margin-right:15%; margin-left:15%">
 			<tr><td width="50%" class="text-center align-center">
 			<img class="img-fluid"  width="70%" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
