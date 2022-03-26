@@ -66,7 +66,7 @@
 								<br><br>
 								<!-- Button -->
 								<a href="https://www.meditransglobal.co.id/services/jasa-kontruksi-penyediaan-barang/"  style="color: #E87722;"><b>CONTACT NOW</b></a>
-
+								<h5 class="h5-xs">Head Office Jakarta</h5>
 							</div>
 						</div>
 
