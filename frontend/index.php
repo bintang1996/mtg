@@ -120,7 +120,7 @@
 
 					<!-- SECTION TITLE -->	
 					<div class="row">	
-					<div class="col-lg-10 offset-lg-1 section-title">		
+					<div class="col-lg-10 section-title">		
 					<!-- Title 	-->	
 					<h3 class="h3-md white-color">LAYANAN KAMI</h3>						
 					</div> 
