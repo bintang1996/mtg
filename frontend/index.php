@@ -51,27 +51,9 @@
 
 				
 
-
-						<!-- ABOUT BOX #2 -->
-						<div id="abox-2" class="col-md-12 col-lg-3" style="margin-right:2%; border-radius:10%; min-width:32%; max-width:32%;">
-							<div class="abox-1 white-color" style="padding-right:20px;" >
-
-								<h5 class="h5-md" style="color: #E87722;">Solusi Kerjasama Operasional (KSO)</h5>
-
-								<!-- Text -->
-								<p style="color: black;">Kerjasama Operasional dalam penyediaan peralatan medis khususnya di Bidang Radiologi dan Kardiologi.
-								</p>
-
-								<!-- Button -->
-								<a href="https://www.meditransglobal.co.id/services/kerjasama-operasi-kso/" class="btn btn-sm btn-tra-white mt-25" style="color: #E87722;">Baca</a>
-
-							</div>
-						</div>
-
-
 						<!-- ABOUT BOX #3 -->
 						<div id="abox-3" class="col-md-12 col-lg-3" style="margin-right:2%; border-radius:10%; min-width:32%; max-width:32%">
-							<div class="abox-1 white-color">
+										<div class="abox-1 white-color">
 
 								<!-- Title -->
 								<p style="color: #E87722;">KSO</p>
@@ -87,6 +69,30 @@
 
 							</div>
 						</div>
+
+
+
+
+
+						<!-- ABOUT BOX #2 -->
+						<div id="abox-2" class="col-md-12 col-lg-3" style="margin-right:2%; border-radius:10%; min-width:32%; max-width:32%;">
+							<div class="abox-1 white-color" style="padding-right:20px;" >
+
+							<p style="color: #E87722;">PRODUK TERLENGKAP</p>
+								<h5 class="h5-md" style="color: #E87722;">Solusi Kerjasama Operasional (KSO)</h5>
+
+								<!-- Text -->
+								<p style="color: black;">Kerjasama Operasional dalam penyediaan peralatan medis khususnya di Bidang Radiologi dan Kardiologi.
+								</p>
+
+								<!-- Button -->
+								<a href="https://www.meditransglobal.co.id/services/kerjasama-operasi-kso/" class="btn btn-sm btn-tra-white mt-25" style="color: #E87722;">Baca</a>
+
+							</div>
+						</div>
+
+
+			
 
 
 						<!-- ABOUT BOX #4 -->
