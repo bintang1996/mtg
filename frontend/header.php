@@ -91,7 +91,7 @@
 
 
 			 	<!-- HEADER STRIP -->
-			 	<div class="headtoppart bg-blue clearfix">
+			 	<div class="headtoppart bg-blue clearfix" style="border-bottom: 1px solid grey;">
 			    	<div class="headerwp clearfix">
 
 			    		<!-- Address -->
