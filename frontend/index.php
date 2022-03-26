@@ -224,7 +224,8 @@
 			<tr><td width="50%"  class="text-center align-center">
 			<img class="img-fluid" width="70%" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
-			<td>	
+			<td>
+			<h3 class="h3-md steelblue-color">Keahlian Kami</h3>	
 			<p>MEncoba bertahan tapi tak geges</p>
 			</td>
 			</table>			
@@ -236,7 +237,8 @@
 			<tr><td width="50%" class="text-center align-center">
 			<img class="img-fluid"  width="70%" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
-			<td>	
+			<td>
+
 			<p>MEncoba bertahan tapi tak gege</p>
 			</td>
 			</table>			
