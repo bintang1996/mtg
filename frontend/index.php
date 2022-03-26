@@ -316,7 +316,7 @@
 
 			<!-- SERVICES-3
 			============================================= -->
-			<section id="services-3" class="bg-lightgrey wide-100 services-section division">
+			<section id="services-3" class="bg-lightgrey wide-100 services-section division" style="background-color:white;">
 				<div class="container">
 
 
