@@ -22,12 +22,12 @@
 		<title>Meditrans Global - Distributor dan Penyedia Alat Kesehatan di Indonesia</title>
 							
 		<!-- FAVICON AND TOUCH ICONS  -->
-		<link rel="shortcut icon" href="images/LOGOKICIK.png" type="image/x-icon">
-		<link rel="icon" href="images/LOGOKICIK.png" type="image/x-icon">
-		<link rel="apple-touch-icon" sizes="152x152" href="images/LOGOKICIK.png">
-		<link rel="apple-touch-icon" sizes="120x120" href="images/LOGOKICIK.png">
-		<link rel="apple-touch-icon" sizes="76x76" href="images/LOGOKICIK.png">
-		<link rel="apple-touch-icon" href="images/LOGOKICIK.png">
+		<link rel="shortcut icon" href="images/logo-kicik-meditrans.png" type="image/x-icon">
+		<link rel="icon" href="images/logo-kicik-meditrans.png" type="image/x-icon">
+		<link rel="apple-touch-icon" sizes="152x152" href="images/logo-kicik-meditrans.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="images/logo-kicik-meditrans.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="images/logo-kicik-meditrans.png">
+		<link rel="apple-touch-icon" href="images/logo-kicik-meditrans.png">
 
 		<!-- GOOGLE FONTS -->
 		<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet"> 	
