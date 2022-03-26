@@ -44,7 +44,7 @@
 
 			<!-- ABOUT-1
 			============================================= -->
-			<section id="about-1" class="about-section division" style="background-color:#281E78;">
+			<section id="about-1" class="about-section division" >
 				<div class="container">
 					<div class="row d-flex align-items-center">
 
