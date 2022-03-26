@@ -65,7 +65,7 @@
 								</p>
 								<br><br>
 								<!-- Button -->
-								<b href="https://www.meditransglobal.co.id/services/jasa-kontruksi-penyediaan-barang/"  style="color: #E87722;">CONTACT NOW</b>
+								<b href="https://www.meditransglobal.co.id/services/jasa-kontruksi-penyediaan-barang/"  style="color: #E87722;"><b>CONTACT NOW</b></b>
 
 							</div>
 						</div>
@@ -79,14 +79,14 @@
 							<div class="abox-1 white-color" style="padding-right:20px;" >
 
 							<p style="color: #E87722;">PRODUK TERLENGKAP</p>
-								<B><h5 style="color: #E87722;">BERKUALITAS TERBAIK</h5></B>
+								<h5 style="color: #E87722;"><b>BERKUALITAS TERBAIK</b></h5>
 
 								<!-- Text -->
 								<p style="color: black;">Kerjasama Operasional dalam penyediaan peralatan medis khususnya di Bidang Radiologi dan Kardiologi.
 								</p>
 								<br><br>
 								<!-- Button -->
-								<B href="https://www.meditransglobal.co.id/services/kerjasama-operasi-kso/" style="color: #E87722;">SHOP NOW</B>
+								<B href="https://www.meditransglobal.co.id/services/kerjasama-operasi-kso/" style="color: #E87722;"><b>SHOP NOW</b></B>
 
 							</div>
 						</div>
@@ -108,7 +108,7 @@
 								</p>
 <br><br>
 								<!-- Button -->
-								<B href="https://www.meditransglobal.co.id/services/aplikasi-dan-sistem-kesehatan/" style="color: #E87722;">LOCATION</B>
+								<B href="https://www.meditransglobal.co.id/services/aplikasi-dan-sistem-kesehatan/" style="color: #E87722;"><b>LOCATION</b></B>
 
 							</div>
 						</div>
