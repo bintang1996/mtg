@@ -222,7 +222,7 @@
 
 			<table class="table" style="border:none;">
 			<tr><td>
-			<img class="img-fluid" width="80%" src="images/pediatrics_700x700.jpg" alt="tab-image">
+			<img class="img-fluid" width="50%" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
 			<td>	
 			<p>MEncoba bertahan tapi tak geges</p>
