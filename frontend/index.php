@@ -74,7 +74,8 @@
 							<div class="abox-1 white-color">
 
 								<!-- Title -->
-								<h5 class="h5-md" style="color: #E87722;">Jasa Konstruksi</h5>
+								<p style="color: #E87722;">KSO</p>
+								<b><h5 class="h5-md" style="color: #E87722;">KEMITRAAN</h5></b>
 
 								<!-- Text -->
 								<p style="color: black;">Kami juga merupakan perusahaan Konstruksi untuk pembangunan ruangan Radiologi, 
@@ -82,7 +83,7 @@
 								</p>
 
 								<!-- Button -->
-								<a href="https://www.meditransglobal.co.id/services/jasa-kontruksi-penyediaan-barang/" class="btn btn-sm btn-tra-white mt-25" style="color: #E87722;">Baca</a>
+								<b href="https://www.meditransglobal.co.id/services/jasa-kontruksi-penyediaan-barang/" class="btn btn-sm btn-tra-white mt-25" style="color: #E87722;">CONTACT NOW</b>
 
 							</div>
 						</div>
