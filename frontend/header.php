@@ -107,7 +107,7 @@
 							<a class="phone"  style="color: black; margin-right:0.5em"><i class="fa fa-mobile" aria-hidden="true"></i></a>
 							
 							<a class="email" href="mailto:info@meditransglobal.co.id" style="color: black; margin-right:2.5em"> INFO@MEDITRANSGLOBAL.CO.ID</a>
-							<a class="email" href="mailto:info@meditransglobal.co.id" style="color: black; margin-right:0.5em">✉  </a>
+							<a class="email" href="mailto:info@meditransglobal.co.id" style="color: black; margin-right:0.5em"><i class="fa fa-mail" aria-hidden="true"></i></a>
 							
 							
 				      	</div>
