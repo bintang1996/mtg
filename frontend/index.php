@@ -63,7 +63,7 @@
 								<p style="color: black;">Kami juga merupakan perusahaan Konstruksi untuk pembangunan ruangan Radiologi, 
 									CT-Scan maupun Ruangan Cathlab.
 								</p>
-
+								<br><br>
 								<!-- Button -->
 								<b href="https://www.meditransglobal.co.id/services/jasa-kontruksi-penyediaan-barang/"  style="color: #E87722;">CONTACT NOW</b>
 
@@ -84,7 +84,7 @@
 								<!-- Text -->
 								<p style="color: black;">Kerjasama Operasional dalam penyediaan peralatan medis khususnya di Bidang Radiologi dan Kardiologi.
 								</p>
-
+								<br><br>
 								<!-- Button -->
 								<B href="https://www.meditransglobal.co.id/services/kerjasama-operasi-kso/" style="color: #E87722;">SHOP NOW</B>
 
@@ -106,7 +106,7 @@
 								<!-- Text -->
 								<p class="mt-20" style="color: black;">Hadir dengan inovasi terbaru kami yaitu produk telemedicine dan telediagnostik.
 								</p>
-
+<br><br>
 								<!-- Button -->
 								<B href="https://www.meditransglobal.co.id/services/aplikasi-dan-sistem-kesehatan/" style="color: #E87722;">LOCATION</B>
 
