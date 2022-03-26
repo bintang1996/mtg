@@ -1918,6 +1918,8 @@ p.header-widget-phone {
   -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .1);
   -moz-box-shadow: 0 0 10px rgba(0, 0, 0, .1);
   box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+
+
 }
 
 .abox-3-holder {
@@ -1948,6 +1950,7 @@ p.header-widget-phone {
 .abox-2 {
   padding: 45px 30px 40px;
   overflow: hidden;
+  margin-right: 25px;
 }
 
 .abox-3 {
