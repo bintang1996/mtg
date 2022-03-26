@@ -56,30 +56,16 @@
 		<link href="css/responsive.css" rel="stylesheet"> 
 	
 	</head>
-	<style>
-    .loader {
-    position: fixed;
-    left: 0px;
-    top: 0px;
-    width: 100%;
-    height: 100%;
-    z-index: 9999;
-    background: url('images/logo-meditrans.png') 50% 50% no-repeat rgb(249,249,249);
-    background-size: 200px;
-    opacity: .8;
-}
-    </style>
 	<body style="background-color:#281E78;">
 
-    <div class="loader"></div>
-	
+
 
 
 		<!-- PRELOADER SPINNER
 		============================================= -->	
-	
-  
-
+		<div id="loader-wrapper">
+			<div id="loader"><div class="loader-inner"></div></div>
+		</div>
 
 
 
