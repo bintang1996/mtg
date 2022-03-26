@@ -103,8 +103,8 @@
 
 			     		<!-- Social Links -->
 					    <div class="headertopright">
-						<div class="address clearfix"><span style="color: grey;"><i class="fab fa-mail"></i>  info@meditrans.id</span></div>
-						<div class="address clearfix"><span style="color: grey;"><i class="fab fa-phone"></i>  (+62) 21 2204 7248</span></div>
+						<div class="address clearfix"><span style="color: grey;"><i class="fa fa-mail"></i>  info@meditrans.id</span></div>
+						<div class="address clearfix"><span style="color: grey;"><i class="fa fa-phone"></i>  (+62) 21 2204 7248</span></div>
 					  
 					        
 							
