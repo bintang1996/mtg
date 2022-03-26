@@ -120,21 +120,11 @@
 
 				
 					<!-- Title 	-->	
-					<h3 style="margin-bottom:0;" class="h3-md col-lg-10 offset-lg-1 section-title white-color">LAYANAN KAMI</h3>						
+					<h3 style="margin-bottom:0;" class="h3-md col-lg-10 offset-lg-1 section-title white-color">Produk Kami</h3>						
 				
 					
 					<div class="row d-flex align-items-center text-center">
 
-					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
-					<!-- Icon -->
-					<div class="sbox-3-icon">
-						<span class="flaticon-031-scanner"></span>
-					</div>
-					<!-- Title -->
-					<h5 class="h5-xs white-color">KSO RADIOLOGY</h5>																																		
-					</div>
-					</div>
 
 					<div class="col">
 					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
@@ -143,9 +133,48 @@
 						<span class="flaticon-060-cardiogram-4"></span>
 					</div>
 					<!-- Title -->
-					<h5 class="h5-xs white-color">CARDIOLOGY</h5>																																		
+					<h5 class="h5-xs white-color">CARDIOVASCULAR</h5>																																		
 					</div>
 					</div>
+
+
+
+
+
+					<div class="col">
+					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
+					<!-- Icon -->
+					<div class="sbox-3-icon">
+						<span class="flaticon-031-scanner"></span>
+					</div>
+					<!-- Title -->
+					<h5 class="h5-xs white-color">RADIOLOGY</h5>																																		
+					</div>
+					</div>
+
+					<div class="col">
+					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
+					<!-- Icon -->
+					<div class="sbox-3-icon">
+						<span class="flaticon-136-monitor"></span>
+					</div>						
+					<!-- Title -->
+					<h5 class="h5-xs white-color">HEALTHCARE IT</h5>																																		
+					</div>
+					</div>
+
+					<div class="col">
+					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
+					<!-- Icon -->
+					<div class="sbox-3-icon">
+						<span class="flaticon-076-microscope"></span>
+					</div>						
+					<!-- Title -->
+					<h5 class="h5-xs white-color">LABORATORY</h5>																																		
+					</div>
+					</div>
+
+
 
 
 					<div class="col">
@@ -159,27 +188,9 @@
 					</div>
 					</div>
 				
-					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
-					<!-- Icon -->
-					<div class="sbox-3-icon">
-						<span class="flaticon-147-pills"></span>
-					</div>						
-					<!-- Title -->
-					<h5 class="h5-xs white-color">CONSUMABLES</h5>																																		
-					</div>
-					</div>
+					
 									
-					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
-					<!-- Icon -->
-					<div class="sbox-3-icon">
-						<span class="flaticon-136-monitor"></span>
-					</div>						
-					<!-- Title -->
-					<h5 class="h5-xs white-color">HEALTHCARE IT</h5>																																		
-					</div>
-					</div>
+				
 						
 					</div>    <!-- End row -->
 				</div>	   <!-- End container -->
