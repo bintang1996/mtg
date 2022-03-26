@@ -117,7 +117,7 @@
 			============================================= -->
 			<section id="about-5" class="pt-100 about-section division">
 				<div class="container">
-					<div class="row d-flex align-items-center">
+					<div class="row d-flex align-items-center text-center">
 
 
 					<div class="col">col</div>
