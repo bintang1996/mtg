@@ -63,7 +63,7 @@
 								</p>
 
 								<!-- Button -->
-								<a href="https://www.meditransglobal.co.id/services/kerjasama-operasi-kso/" class="btn btn-sm btn-tra-white mt-25">Baca</a>
+								<a href="https://www.meditransglobal.co.id/services/kerjasama-operasi-kso/" class="btn btn-sm btn-tra-white mt-25" style="color: #E87722;">Baca</a>
 
 							</div>
 						</div>
@@ -74,15 +74,15 @@
 							<div class="abox-1 white-color">
 
 								<!-- Title -->
-								<h5 class="h5-md">Jasa Konstruksi</h5>
+								<h5 class="h5-md" style="color: #E87722;">Jasa Konstruksi</h5>
 
 								<!-- Text -->
-								<p>Kami juga merupakan perusahaan Konstruksi untuk pembangunan ruangan Radiologi, 
+								<p style="color: #0000;">Kami juga merupakan perusahaan Konstruksi untuk pembangunan ruangan Radiologi, 
 									CT-Scan maupun Ruangan Cathlab.
 								</p>
 
 								<!-- Button -->
-								<a href="https://www.meditransglobal.co.id/services/jasa-kontruksi-penyediaan-barang/" class="btn btn-sm btn-tra-white mt-25">Baca</a>
+								<a href="https://www.meditransglobal.co.id/services/jasa-kontruksi-penyediaan-barang/" class="btn btn-sm btn-tra-white mt-25" style="color: #E87722;">Baca</a>
 
 							</div>
 						</div>
@@ -93,14 +93,14 @@
 							<div class="abox-1 white-color">
 
 								<!-- Title -->
-								<h5 class="h5-md">Sistem Informasi Rumah Sakit, Klinik, dan Telemedicine</h5>
+								<h5 class="h5-md" style="color: #E87722;">Sistem Informasi Rumah Sakit, Klinik, dan Telemedicine</h5>
 
 								<!-- Text -->
-								<p class="mt-20">Hadir dengan inovasi terbaru kami yaitu produk telemedicine dan telediagnostik.
+								<p class="mt-20" style="color: #0000;">Hadir dengan inovasi terbaru kami yaitu produk telemedicine dan telediagnostik.
 								</p>
 
 								<!-- Button -->
-								<a href="https://www.meditransglobal.co.id/services/aplikasi-dan-sistem-kesehatan/" class="btn btn-sm btn-tra-white mt-25">Baca</a>
+								<a href="https://www.meditransglobal.co.id/services/aplikasi-dan-sistem-kesehatan/" class="btn btn-sm btn-tra-white mt-25" style="color: #E87722;">Baca</a>
 
 							</div>
 						</div>

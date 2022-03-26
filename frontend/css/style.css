@@ -1934,10 +1934,10 @@ p.header-widget-phone {
 /*  ABOUT BOX
 /*------------------------------------------*/
 
-#abox-1 { background-color: rgb(67, 50, 190); border-radius: 6px 0 0 6px; }
-#abox-2 { background-color: rgb(59, 45, 167); }
-#abox-3 { background-color: #2e2385; }
-#abox-4 { background-color: #281E78;  border-radius: 0 6px 6px 0; }
+#abox-1 { background-color: #fff; border-radius: 6px 0 0 6px; }
+#abox-2 { background-color: #fff; }
+#abox-3 { background-color: #fff; }
+#abox-4 { background-color: #fff;  border-radius: 0 6px 6px 0; }
 
 .abox-1 {
   height: 300px;
