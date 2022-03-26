@@ -103,9 +103,9 @@
 
 			     		<!-- Social Links -->
 					    <div class="headertopright">
-						<div class="address clearfix"><span style="color: grey;">🕗 SCHEDULE MONDAY - FRIDAY 08.00 - 17.00 WIB</span> 
-			        </div>
-					    <a class="linkedinicon" title="Linkedin" href="#"><i class="fab fa-linkedin-in"></i> <span class="mobiletext02">Linkedin</span></a>
+						<div class="address clearfix"><span style="color: grey;"><i class="fab fa-mail"></i>  info@meditrans.id</span></div>
+						<div class="address clearfix"><span style="color: grey;"><i class="fab fa-phone"></i>  (+62) 21 2204 7248</span></div>
+					  
 					        
 							
 				      	</div>
