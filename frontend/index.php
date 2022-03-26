@@ -57,7 +57,7 @@
 
 								<!-- Title -->
 								<p style="color: #E87722;">KSO</p>
-								<b><h5 style="color: #E87722;">KEMITRAAN</h5></b>
+								<h5 style="color: #E87722;"><b>KEMITRAAN</b></h5>
 
 								<!-- Text -->
 								<p style="color: black;">Kami juga merupakan perusahaan Konstruksi untuk pembangunan ruangan Radiologi, 
