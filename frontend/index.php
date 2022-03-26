@@ -65,7 +65,7 @@
 								</p>
 								<br><br>
 								<!-- Button -->
-								<a href="https://www.meditransglobal.co.id/services/jasa-kontruksi-penyediaan-barang/"  style="color: #E87722;"><b>CONTACT NOW</b></a>
+								<a href="https://www.meditransglobal.co.id/services/jasa-kontruksi-penyediaan-barang/"  style="color: #E87722;"><h4><b>CONTACT NOW</b></h4></a>
 
 							</div>
 						</div>
