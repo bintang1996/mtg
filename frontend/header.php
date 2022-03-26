@@ -22,7 +22,7 @@
 		<title>Meditrans Global - Distributor dan Penyedia Alat Kesehatan di Indonesia</title>
 							
 		<!-- FAVICON AND TOUCH ICONS  -->
-		<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+		<link rel="shortcut icon" href="images/Meditrans-LOGO-FAVICO.png" type="image/x-icon">
 		<link rel="icon" href="images/favicon.ico" type="image/x-icon">
 		<link rel="apple-touch-icon" sizes="152x152" href="images/apple-touch-icon-152x152.png">
 		<link rel="apple-touch-icon" sizes="120x120" href="images/apple-touch-icon-120x120.png">
