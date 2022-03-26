@@ -220,7 +220,7 @@
 
 			<div class="mySlides">
 
-			<table class="table" width="100%" style="border:1px;">
+			<table class="table" width="100%" style="border:1px solid black;">
 			<tr><td class="text-center align-center">
 			<img class="img-fluid" width="50%" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
