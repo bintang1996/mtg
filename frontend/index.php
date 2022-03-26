@@ -262,6 +262,8 @@
 				Kami memiliki team yang solid untuk bekerjasama dengan Rumah Sakit ataupun perusahaan penyedia peralatan kesehatan baik principal ataupun pihak KSO untuk memberikan konsultasi dan pelaksanaan pekerjaan Pra Instalasi peralatan kesehatan seperti instalasi X-Ray, CT-Scan, MRI dan Cathlab.</p>
 			</td>
 			<td width="5%"></td>
+
+			<a href="#" class="btn btn-md btn-blue blue-hover">Select Plan</a>
 			</table>			
 			</div>
 		
