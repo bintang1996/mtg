@@ -117,7 +117,6 @@
 			============================================= -->
 			<section id="about-5" class="pt-100 about-section division" style="background-color:#281E78;">
 				<div class="container" style="background-color:#281E78;">
-					<div class="row d-flex align-items-center text-center">
 
 <!-- SECTION TITLE -->	
 <div class="row">	
@@ -128,6 +127,8 @@
 										
 						</div> 
 					</div>
+					<div class="row d-flex align-items-center text-center">
+
 					<div class="col">
 					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
 					<!-- Icon -->
