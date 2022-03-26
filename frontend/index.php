@@ -85,8 +85,7 @@
 								</p>
 								<br><br>
 								<!-- Button -->
-								<a href="https://www.meditransglobal.co.id/services/kerjasama-operasi-kso/" style="color: #E87722;"><b>SHOP NOW</b></a>
-
+								<a><h6 style="color: #E87722;"><b>SHOP NOW</b></h6></a>
 							</div>
 						</div>
 
@@ -107,8 +106,7 @@
 								</p>
 <br><br>
 								<!-- Button -->
-								<a href="https://www.meditransglobal.co.id/services/aplikasi-dan-sistem-kesehatan/" style="color: #E87722;"><b>LOCATION</b></a>
-
+								<a><h6 style="color: #E87722;"><b>LOCATION</b></h6></a>
 							</div>
 						</div>
 
