@@ -122,7 +122,7 @@
 					<div class="row align-items-center text-center title">	
 						
 					<!-- Title 	-->	
-					<h3 class="h3-md white-color text-center">LAYANAN KAMI</h3>						
+					<h3 class="title white-color text-center">LAYANAN KAMI</h3>						
 				
 					</div>
 					<div class="row d-flex align-items-center text-center">
