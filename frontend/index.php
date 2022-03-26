@@ -120,7 +120,7 @@
 
 				
 					<!-- Title 	-->	
-					<h3 class="col-lg-10 offset-lg-1 section-title white-color">LAYANAN KAMI</h3>						
+					<h3 class="h3-md col-lg-10 offset-lg-1 section-title white-color">LAYANAN KAMI</h3>						
 				
 					
 					<div class="row d-flex align-items-center text-center">
