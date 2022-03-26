@@ -57,7 +57,7 @@
 
 								<!-- Title -->
 								<p style="color: #E87722;">KSO</p>
-								<h5 style="color: #E87722;"><b>KEMITRAAN</b></h5>
+								<h4 style="color: #E87722;"><b>KEMITRAAN</b></h4>
 
 								<!-- Text -->
 								<p style="color: black;">Kami juga merupakan perusahaan Konstruksi untuk pembangunan ruangan Radiologi, 
@@ -65,7 +65,7 @@
 								</p>
 								<br><br>
 								<!-- Button -->
-								<b href="https://www.meditransglobal.co.id/services/jasa-kontruksi-penyediaan-barang/"  style="color: #E87722;"><b>CONTACT NOW</b></b>
+								<a href="https://www.meditransglobal.co.id/services/jasa-kontruksi-penyediaan-barang/"  style="color: #E87722;"><b>CONTACT NOW</b></a>
 
 							</div>
 						</div>
@@ -79,14 +79,14 @@
 							<div class="abox-1 white-color" style="padding-right:20px;" >
 
 							<p style="font-size:14px; color: #E87722;">PRODUK TERLENGKAP</p>
-								<h5 style="color: #E87722;"><b>BERKUALITAS TERBAIK</b></h5>
+								<h4 style="color: #E87722;"><b>BERKUALITAS TERBAIK</b></h4>
 
 								<!-- Text -->
 								<p style="color: black;">Kerjasama Operasional dalam penyediaan peralatan medis khususnya di Bidang Radiologi dan Kardiologi.
 								</p>
 								<br><br>
 								<!-- Button -->
-								<B href="https://www.meditransglobal.co.id/services/kerjasama-operasi-kso/" style="color: #E87722;"><b>SHOP NOW</b></B>
+								<a href="https://www.meditransglobal.co.id/services/kerjasama-operasi-kso/" style="color: #E87722;"><b>SHOP NOW</b></a>
 
 							</div>
 						</div>
@@ -101,14 +101,14 @@
 
 								<!-- Title -->
 								<p style="color: #E87722;">TEMUI KAMI DI KOTA ANDA</p>
-								<h5 style="color: #E87722;"><b>JARINGAN YANG LUAS<b></h5>
+								<h4 style="color: #E87722;"><b>JARINGAN YANG LUAS</b></h4>
 
 								<!-- Text -->
 								<p class="mt-20" style="color: black;">Hadir dengan inovasi terbaru kami yaitu produk telemedicine dan telediagnostik.
 								</p>
 <br><br>
 								<!-- Button -->
-								<B href="https://www.meditransglobal.co.id/services/aplikasi-dan-sistem-kesehatan/" style="color: #E87722;"><b>LOCATION</b></B>
+								<a href="https://www.meditransglobal.co.id/services/aplikasi-dan-sistem-kesehatan/" style="color: #E87722;"><b>LOCATION</b></a>
 
 							</div>
 						</div>
