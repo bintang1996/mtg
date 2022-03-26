@@ -232,7 +232,7 @@
 			
 			<div class="mySlides">
 
-			<table class="table" width="100%" style="border:1px;">
+			<table class="table" width="100%" style="border:1px; margin-bottom:0;">
 			<tr><td width="50%" class="text-center align-center">
 			<img class="img-fluid"  width="70%" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
