@@ -252,7 +252,7 @@ body {
 .bg-lightdark { background-color: #35363a; }
 .bg-dark { background-color: #2e2f33!important; }
 .bg-lightgrey { background-color: #f8f9fb; }
-.bg-blue { background-color: #fff; }
+.bg-blue { background-color: #281E78; }
 .bg-deepblue { background-color: #004a91; }
 .bg-steelblue { background-color: #004861; }
 .bg-darkgreen { background-color: #0dc176; }
@@ -1031,25 +1031,17 @@ span.id-color {
 }
 
 .headertopright a {
-  width: auto;
+  width: 40px;
   height: 40px;
-
+  text-align: center;
   line-height: 40px;
-  color: rgb(0, 0, 0);
+  color: #fff;
   font-size: 13px;
   float: right;
 }
 
 .headertopright a:hover {
-  
-}
-.headertopright a.email:hover {
-  font-color: #E87722;
-  
-}
-.headertopright a.phone:hover {
-  font-color: #E87722;
-  
+  background-color: #272B37;
 }
 
 .headertopright a.facebookicon:hover {
@@ -1079,7 +1071,7 @@ span.id-color {
 }
 
 .address span {
-  color: rgb(0, 0, 0);
+  color: #fff;
   font-size: 13px;
   line-height: 40px;
   margin-right: 9px;
@@ -1281,6 +1273,10 @@ p.header-widget-phone {
   z-index: 3;
 }
 
+#hero-1 {
+  background-image: url(../images/hero-1.jpg);
+  padding-top: 30px;
+}
 
 #hero-4 {
   background-image: url(../images/hero-4.jpg);
@@ -1922,8 +1918,6 @@ p.header-widget-phone {
   -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .1);
   -moz-box-shadow: 0 0 10px rgba(0, 0, 0, .1);
   box-shadow: 0 0 10px rgba(0, 0, 0, .1);
-
-
 }
 
 .abox-3-holder {
@@ -1954,7 +1948,6 @@ p.header-widget-phone {
 .abox-2 {
   padding: 45px 30px 40px;
   overflow: hidden;
-  margin-right: 25px;
 }
 
 .abox-3 {
@@ -4771,7 +4764,6 @@ p.footer-copyright span {
 .foo-socials a.ico-vk:hover { background-color: #3b5998; border-color: #3b5998; color: #fff; }
 .foo-socials a.ico-yahoo:hover { background-color: #7b0099; border-color: #7b0099; color: #fff; }
 .foo-socials a.ico-yelp:hover { background-color: #d32323; border-color: #d32323; color: #fff; }
-.foo-socials a.ico-whatsapp:hover { background-color: #00A884; border-color: #00A884; color: #fff; 
 
 /*------------------------------------------*/
 /*   FOOTER NEWSLETTER FORM
