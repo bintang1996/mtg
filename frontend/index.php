@@ -216,7 +216,7 @@
 
 			<div class="mySlides">
 
-			<table class="table" width="100%" style="border:none; margin-bottom:0; margin-right:5%; margin-left:5%">
+			<table class="table" width="100%" style="border:none; margin-bottom:0; margin-right:2%; margin-left:2%">
 			<tr><td width="50%"  class="text-center align-center">
 			<img class="img-fluid" width="70%" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
@@ -232,7 +232,7 @@
 			
 			<div class="mySlides">
 
-			<table class="table" width="100%" style="border:1px; margin-bottom:0; margin-right:15%; margin-left:15%">
+			<table class="table" width="100%" style="border:1px; margin-bottom:0; margin-right:2%; margin-left:2%">
 			<tr><td width="50%" class="text-center align-center">
 			<img class="img-fluid"  width="70%" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
