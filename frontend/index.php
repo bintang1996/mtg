@@ -217,7 +217,7 @@
 
 
 
-			<div class="row d-flex align-items-center text-center mySlides" style="width:100%">
+			<div class="row d-flex mySlides" style="width:100%">
 
 			<div class="col">
 			<img class="img-fluid" src="images/pediatrics_700x700.jpg" alt="tab-image">
