@@ -121,7 +121,7 @@
 					<!-- FOOTER COPYRIGHT -->
 					<div class="bottom-footer">
 						<div class="row">
-							<div class="col-md-6">
+							<div class="col-md-6" style="text-align:bottom;">
 								<p class="footer-copyright">&copy; 2022 <span>Meditrans Global</span>. All Rights Reserved</p>
 							
 							
