@@ -78,7 +78,7 @@
 						<div id="abox-2" class="col-md-12 col-lg-3" style="margin-right:2%; border-radius:10%; min-width:32%; max-width:32%;">
 							<div class="abox-1 white-color" style="padding-right:20px;" >
 
-							<p style="color: #E87722;">PRODUK TERLENGKAP</p>
+							<p style="font-size:14px; color: #E87722;">PRODUK TERLENGKAP</p>
 								<h5 style="color: #E87722;"><b>BERKUALITAS TERBAIK</b></h5>
 
 								<!-- Text -->
@@ -101,7 +101,7 @@
 
 								<!-- Title -->
 								<p style="color: #E87722;">TEMUI KAMI DI KOTA ANDA</p>
-								<B><h5 style="color: #E87722;">JARINGAN YANG LUAS</h5></B>
+								<h5 style="color: #E87722;"><b>JARINGAN YANG LUAS<b></h5>
 
 								<!-- Text -->
 								<p class="mt-20" style="color: black;">Hadir dengan inovasi terbaru kami yaitu produk telemedicine dan telediagnostik.
