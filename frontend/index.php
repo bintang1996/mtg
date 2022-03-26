@@ -118,14 +118,12 @@
 			<section id="about-5" class="pt-100 about-section division" style="background-color:#281E78;">
 				<div class="container" style="background-color:#281E78;">
 
-<!-- SECTION TITLE -->	
-<div class="row">	
-						<div class="col-lg-10 offset-lg-1 section-title">		
-
-							<!-- Title 	-->	
-							<h3 class="h3-md white-color">LAYANAN KAMI</h3>	
-										
-						</div> 
+					<!-- SECTION TITLE -->	
+					<div class="row">	
+					<div class="col-lg-10 offset-lg-1 section-title">		
+					<!-- Title 	-->	
+					<h3 class="h3-md white-color">LAYANAN KAMI</h3>						
+					</div> 
 					</div>
 					<div class="row d-flex align-items-center text-center">
 
