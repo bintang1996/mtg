@@ -217,7 +217,7 @@
 
 
 
-			<div class="row d-flex mySlides">
+			<div class="row mySlides">
 
 			<div class="col">
 			<img class="img-fluid" src="images/pediatrics_700x700.jpg" alt="tab-image">
@@ -231,7 +231,7 @@
 			
 
 
-			<div class="row d-flex mySlides">
+			<div class="row mySlides">
 
 			<div class="col">
 			<img class="img-fluid" src="images/pediatrics_700x700.jpg" alt="tab-image">
