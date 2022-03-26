@@ -127,7 +127,7 @@
 					<div class="col"><span class="flaticon-083-stethoscope"></span>col</div>
 
 					<div class="col">
-					<div class="sbox-3 icon-sm">
+					<div class="sbox-3 icon-sm" style="background-color:#281E78;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
 						<span class="flaticon-047-head"></span>
