@@ -123,7 +123,7 @@
 						<div class="col-lg-10 offset-lg-1 section-title">		
 
 							<!-- Title 	-->	
-							<h4 class="h3-md white-color">LAYANAN KAMI</h4>	
+							<h3 class="h3-md white-color">LAYANAN KAMI</h3>	
 										
 						</div> 
 					</div>
