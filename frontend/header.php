@@ -56,14 +56,7 @@
 		<link href="css/responsive.css" rel="stylesheet"> 
 	
 	</head>
-	<body style="background-color:#281E78;">
-
-
-
-
-		<!-- PRELOADER SPINNER
-		============================================= -->	
-		<style>
+	<style>
     .loader {
     position: fixed;
     left: 0px;
@@ -76,8 +69,16 @@
     opacity: .8;
 }
     </style>
-    <body>
+	<body style="background-color:#281E78;">
+
     <div class="loader"></div>
+
+
+		<!-- PRELOADER SPINNER
+		============================================= -->	
+	
+  
+
 
 
 
