@@ -53,7 +53,7 @@
 
 
 						<!-- ABOUT BOX #2 -->
-						<div id="abox-2" class="col-md-12 col-lg-4" style="margin-right:20px; border-radius:10%; ">
+						<div id="abox-2" class="col-md-12 col-lg-4" style="margin-right:2%; border-radius:10%; ">
 							<div class="abox-1 white-color" style="padding-right:20px;" >
 
 								<h5 class="h5-md">Solusi Kerjasama Operasional (KSO)</h5>
@@ -70,7 +70,7 @@
 
 
 						<!-- ABOUT BOX #3 -->
-						<div id="abox-3" class="col-md-12 col-lg-4" style="margin-right:20px; border-radius:10%;">
+						<div id="abox-3" class="col-md-12 col-lg-4" style="margin-right:2%; border-radius:10%;">
 							<div class="abox-1 white-color">
 
 								<!-- Title -->
