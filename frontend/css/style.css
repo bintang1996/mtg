@@ -936,8 +936,8 @@ span.id-color {
 }
 
 .loader-inner {
-  width: 256px;
-  height: 38px;
+  width: 100%;
+  height: auto;
   background: url(../images/logo-meditrans.png) 50% 50% no-repeat;  
 }
 
