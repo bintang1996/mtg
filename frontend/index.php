@@ -79,7 +79,7 @@
 							<div class="abox-1 white-color" style="padding-right:20px;" >
 
 							<p style="color: #E87722;">PRODUK TERLENGKAP</p>
-								<B><h5 class="h5-md" style="color: #E87722;">BERKUALITAS TERBAIK</h5><B>
+								<B><h5 class="h5-md" style="color: #E87722;">BERKUALITAS TERBAIK</h5></B>
 
 								<!-- Text -->
 								<p style="color: black;">Kerjasama Operasional dalam penyediaan peralatan medis khususnya di Bidang Radiologi dan Kardiologi.
@@ -101,7 +101,7 @@
 
 								<!-- Title -->
 								<p style="color: #E87722;">TEMUI KAMI DI KOTA ANDA</p>
-								<B><h5 class="h5-md" style="color: #E87722;">JARINGAN YANG LUAS</h5><B>
+								<B><h5 class="h5-md" style="color: #E87722;">JARINGAN YANG LUAS</h5></B>
 
 								<!-- Text -->
 								<p class="mt-20" style="color: black;">Hadir dengan inovasi terbaru kami yaitu produk telemedicine dan telediagnostik.
