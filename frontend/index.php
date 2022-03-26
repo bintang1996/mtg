@@ -65,7 +65,7 @@
 								</p>
 								<br><br>
 								<!-- Button -->
-								<h6 style="color: #E87722;"><b>KEMITRAAN</b></h6>
+								<a><h6 style="color: #E87722;"><b>CONTACT NOW</b></h6></a>
 							</div>
 						</div>
 
