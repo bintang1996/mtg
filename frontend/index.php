@@ -221,7 +221,7 @@
 			<div class="mySlides">
 
 			<table class="table" style="border:none;">
-			<tr><td>
+			<tr><td class="text-center align-center">
 			<img class="img-fluid" width="50%" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
 			<td>	
@@ -232,19 +232,19 @@
 			
 			<div class="mySlides">
 
-<table class="table" style="border:none;">
-<tr><td>
-<img class="img-fluid" src="images/pediatrics_700x700.jpg" alt="tab-image">
-</td>
-<td>	
-<p>MEncoba bertahan tapi tak gege</p>
-</td>
-</table>			
-</div>
+			<table class="table" style="border:none;">
+			<tr><td class="text-center align-center">
+			<img class="img-fluid" width="50%" src="images/pediatrics_700x700.jpg" alt="tab-image">
+			</td>
+			<td>	
+			<p>MEncoba bertahan tapi tak gege</p>
+			</td>
+			</table>			
+			</div>
 
 		
-<button class="w3-button w3-display-left w3-red" onclick="plusDivs(-1)">&#10094;</button>
-<button class="w3-button w3-display-right w3-red" onclick="plusDivs(1)">&#10095;</button>
+			<button class="w3-button w3-display-left w3-red" onclick="plusDivs(-1)">&#10094;</button>
+			<button class="w3-button w3-display-right w3-red" onclick="plusDivs(1)">&#10095;</button>
 			<div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 			
 				<span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
