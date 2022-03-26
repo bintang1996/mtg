@@ -134,7 +134,7 @@
 					</div>
 						
 					<!-- Title -->
-					<h5 class="h5-xs steelblue-color">Neurology</h5>
+					<h5 class="h5-xs white-color">Neurology</h5>
 																																		
 					</div>
 					</div>
