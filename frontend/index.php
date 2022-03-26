@@ -127,7 +127,7 @@
 						<span class="flaticon-031-scanner"></span>
 					</div>
 					<!-- Title -->
-					<h5 class="h5-xs white-color">Neurology</h5>																																		
+					<h5 class="h5-xs white-color">KSO RADIOLOGY</h5>																																		
 					</div>
 					</div>
 
@@ -138,7 +138,7 @@
 						<span class="flaticon-060-cardiogram-4"></span>
 					</div>
 					<!-- Title -->
-					<h5 class="h5-xs white-color">Neurology</h5>																																		
+					<h5 class="h5-xs white-color">CARDIOLOGY</h5>																																		
 					</div>
 					</div>
 
@@ -163,7 +163,7 @@
 						<span class="flaticon-076-microscope"></span>
 					</div>						
 					<!-- Title -->
-					<h5 class="h5-xs white-color">Neurology</h5>																																		
+					<h5 class="h5-xs white-color">CONSTRUCTION</h5>																																		
 					</div>
 					</div>
 				
@@ -174,11 +174,20 @@
 						<span class="flaticon-047-head"></span>
 					</div>						
 					<!-- Title -->
-					<h5 class="h5-xs white-color">Neurology</h5>																																		
+					<h5 class="h5-xs white-color">CONSUMABLES</h5>																																		
 					</div>
 					</div>
 									
-					
+					<div class="col">
+					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
+					<!-- Icon -->
+					<div class="sbox-3-icon">
+						<span class="flaticon-047-head"></span>
+					</div>						
+					<!-- Title -->
+					<h5 class="h5-xs white-color">HEALTHCARE IT</h5>																																		
+					</div>
+					</div>
 						
 					</div>    <!-- End row -->
 				</div>	   <!-- End container -->
