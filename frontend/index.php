@@ -230,7 +230,17 @@
 			</table>			
 			</div>
 			
+			<div class="mySlides">
 
+<table class="table" style="border:none;">
+<tr><td>
+<img class="img-fluid" src="images/pediatrics_700x700.jpg" alt="tab-image">
+</td>
+<td>	
+<p>MEncoba bertahan tapi tak gege</p>
+</td>
+</table>			
+</div>
 
 		
 
