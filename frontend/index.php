@@ -120,11 +120,19 @@
 					<div class="row d-flex align-items-center text-center">
 
 
-					<div class="col">col</div>
-					<div class="col">col</div>
-					<div class="col">col</div>
-					<div class="col">col</div>
-					<div class="col">col</div>
+					<div class="col"><span class="flaticon-060-cardiogram-4"></span>col</div>
+
+					<div class="col"><span class="flaticon-083-stethoscope"></span>col</div>
+
+					<div class="col"><span class="flaticon-083-stethoscope"></span>col</div>
+
+					<div class="col">
+						<div class="sbox-3-icon">
+							<span class="flaticon-076-microscope"></span>
+						</div>
+					</div>
+
+					<div class="col"><span class="flaticon-083-stethoscope"></span>col</div>
 				\
 
 						
