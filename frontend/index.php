@@ -120,13 +120,12 @@
 					<div class="row d-flex align-items-center">
 
 
-					<div class="row">
 					<div class="col">col</div>
 					<div class="col">col</div>
 					<div class="col">col</div>
 					<div class="col">col</div>
 					<div class="col">col</div>
-					</div>
+				\
 
 						
 					</div>    <!-- End row -->
