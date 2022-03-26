@@ -147,19 +147,6 @@
 					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
-						<span class="flaticon-047-head"></span>
-					</div>
-					<!-- Title -->
-					<h5 class="h5-xs white-color">Neurology</h5>																																		
-					</div>
-					</div>
-
-
-
-					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
-					<!-- Icon -->
-					<div class="sbox-3-icon">
 						<span class="flaticon-076-microscope"></span>
 					</div>						
 					<!-- Title -->
