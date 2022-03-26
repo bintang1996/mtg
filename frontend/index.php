@@ -217,31 +217,19 @@
 
 
 
-			<div class="row d-flex mySlides">
+			<div class="mySlides">
 
-			<div class="col">
+<table class="table" style="border:none;"><tr><td>
 			<img class="img-fluid" src="images/pediatrics_700x700.jpg" alt="tab-image">
-			</div>
+									</td><td>
+		
+			<p>MEncoba bertahan tapi tak gege</p>
+									</td>
 
-			<div class="col">
-			<p style="color:white;">MEncoba bertahan tapi tak gege</p>
-			</div>
-
+</table>			
 			</div>
 			
 
-
-			<div class="row d-flex mySlides">
-
-			<div class="col">
-			<img class="img-fluid" src="images/pediatrics_700x700.jpg" alt="tab-image">
-			</div>
-
-			<div class="col">
-			<p>MEncoba bertahan tapi tak gege</p>
-			</div>
-
-			</div>
 
 		
 
