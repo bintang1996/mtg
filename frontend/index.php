@@ -108,7 +108,7 @@
 								</p>
 <br><br>
 								<!-- Button -->
-								<a href="https://www.meditransglobal.co.id/services/aplikasi-dan-sistem-kesehatan/" style="color: #E87722;"><b>LOCATION</b></a>
+								<a href="https://www.meditransglobal.co.id/services/aplikasi-dan-sistem-kesehatan/" style="color: #E87722;"><h6>LOCATION</h6></a>
 
 							</div>
 						</div>
