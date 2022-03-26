@@ -222,7 +222,7 @@
 
 			<table class="table" width="100%" style="border:1px solid black;">
 			<tr><td width="50%"  class="text-center align-center">
-			<img class="img-fluid" src="images/pediatrics_700x700.jpg" alt="tab-image">
+			<img class="img-fluid" width="70%" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
 			<td>	
 			<p>MEncoba bertahan tapi tak geges</p>
@@ -234,7 +234,7 @@
 
 			<table class="table" width="100%" style="border:1px;">
 			<tr><td width="50%" class="text-center align-center">
-			<img class="img-fluid" src="images/pediatrics_700x700.jpg" alt="tab-image">
+			<img class="img-fluid"  width="70%" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
 			<td>	
 			<p>MEncoba bertahan tapi tak gege</p>
