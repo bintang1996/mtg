@@ -236,12 +236,9 @@
 
 						
 								<!-- SERVICE BOX #1 -->
-								<div class="sbox-3 icon-sm">
+								<div class="sbox-6">
 
-									<!-- Icon -->
-									<div class="sbox-3-icon">
-										<span class="flaticon-083-stethoscope"></span>
-									</div>
+									
 										
 									<!-- Title -->
 									<h5 class="h5-xs steelblue-color">Pediatrics</h5>
@@ -255,12 +252,9 @@
 
 
 								<!-- SERVICE BOX #2 -->
-								<div class="sbox-3 icon-sm">
+								<div class="sbox-6 ">
 
-									<!-- Icon -->
-									<div class="sbox-3-icon">
-										<span class="flaticon-047-head"></span>
-									</div>
+								
 										
 									<!-- Title -->
 									<h5 class="h5-xs steelblue-color">Neurology</h5>
@@ -274,12 +268,9 @@
 
 
 								<!-- SERVICE BOX #3 -->
-								<div class="sbox-3 icon-sm">
+								<div class="sbox-6">
 
-									<!-- Icon -->
-									<div class="sbox-3-icon">
-										<span class="flaticon-015-blood-donation-1"></span>
-									</div>
+							
 										
 									<!-- Title -->
 									<h5 class="h5-xs steelblue-color">Haematology</h5>
@@ -292,99 +283,6 @@
 								</div>
 
 
-								<!-- SERVICE BOX #4 -->
-								<div class="sbox-3 icon-sm">
-
-									<!-- Icon -->
-									<div class="sbox-3-icon">
-										<span class="flaticon-048-lungs"></span>
-									</div>
-										
-									<!-- Title -->
-									<h5 class="h5-xs steelblue-color">X-Ray Diagnostic</h5>
-
-									<!-- Text -->
-									<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
-									   tempus feugiat dolor lacinia cubilia curae integer congue leo metus
-									</p>
-																																						
-								</div>
-
-
-								<!-- SERVICE BOX #5 -->
-								<div class="sbox-3 icon-sm">
-
-									<!-- Icon -->
-									<div class="sbox-3-icon">
-										<span class="flaticon-060-cardiogram-4"></span>
-									</div>
-										
-									<!-- Title -->
-									<h5 class="h5-xs steelblue-color">Cardiology</h5>
-
-									<!-- Text -->
-									<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
-									   tempus feugiat dolor lacinia cubilia curae integer congue leo metus
-									</p>
-																																						
-								</div>
-
-
-								<!-- SERVICE BOX #6 -->
-								<div class="sbox-3 icon-sm">
-
-									<!-- Icon -->
-									<div class="sbox-3-icon">
-										<span class="flaticon-031-scanner"></span>
-									</div>
-										
-									<!-- Title -->
-									<h5 class="h5-xs steelblue-color">MRI</h5>
-
-									<!-- Text -->
-									<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
-									   tempus feugiat dolor lacinia cubilia curae integer congue leo metus
-									</p>
-																																						
-								</div>
-
-
-								<!-- SERVICE BOX #7 -->
-								<div class="sbox-3 icon-sm">
-
-									<!-- Icon -->
-									<div class="sbox-3-icon">
-										<span class="flaticon-076-microscope"></span>
-									</div>
-										
-									<!-- Title -->
-									<h5 class="h5-xs steelblue-color">Laboratory Services</h5>
-
-									<!-- Text -->
-									<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
-									   tempus feugiat dolor lacinia cubilia curae integer congue leo metus
-									</p>
-																																						
-								</div>
-
-
-								<!-- SERVICE BOX #8 -->
-								<div class="sbox-3 icon-sm">
-
-									<!-- Icon -->
-									<div class="sbox-3-icon">
-										<span class="flaticon-068-ambulance-3"></span>
-									</div>
-										
-									<!-- Title -->
-									<h5 class="h5-xs steelblue-color">Emergency Help</h5>
-
-									<!-- Text -->
-									<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
-									   tempus feugiat dolor lacinia cubilia curae integer congue leo metus
-									</p>
-																																						
-								</div>
 
 							
 							</div>
