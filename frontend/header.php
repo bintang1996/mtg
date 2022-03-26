@@ -97,16 +97,19 @@
 			    		<!-- Address -->
 			     		<div class="headertopleft">			     			
 			        		
-						<div class="address clearfix"><span><i class="fas fa-map-marker-alt"></i>Jl Munggang No. 86-87, Balekambang, Kramat Jati, Jakarta Timur 13530</span> 
+						<div class="address clearfix"><span>🕗 SCHEDULE MONDAY - FRIDAY 08.00 - 17.00 WIB</span> 
 			        </div>
 			     		</div>
 
 			     		<!-- Social Links -->
 					    <div class="headertopright">
-						<a class="twittericon" title="Whatsapp" href="http://wa.me/6281280001102"><i class="fab fa-whatsapp "></i> <span class="mobiletext02">Whatsapp</span></a>
-					    	<a class="googleicon" title="Instagram" href="https://www.instagram.com/meditransglobal.id/"><i class="fab fa-instagram"></i> <span class="mobiletext02">Instagram</span></a>
-					        <a class="linkedinicon" title="Linkedin" href="https://www.linkedin.com/company/meditransglobal/"><i class="fab fa-linkedin-in"></i> <span class="mobiletext02">Linkedin</span></a>
-					        <a class="facebookicon" title="Facebook" href="https://www.facebook.com/meditrans.id/"><i class="fab fa-facebook-f"></i> <span class="mobiletext02">Facebook</span></a>
+							<a class="phone"  style="color: black">(+62) 21 2204 7248</a>
+							<a class="phone"  style="color: black; margin-right:0.5em"><i class="fa fa-mobile" aria-hidden="true"></i></a>
+							
+							<a class="email" href="mailto:info@meditransglobal.co.id" style="color: black; margin-right:2.5em"> INFO@MEDITRANSGLOBAL.CO.ID</a>
+							<a class="email" href="mailto:info@meditransglobal.co.id" style="color: black; margin-right:0.5em">✉  </a>
+							
+							
 				      	</div>
 
 				    </div>

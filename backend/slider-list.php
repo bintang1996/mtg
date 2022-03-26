@@ -18,7 +18,7 @@ $link_slider=$_POST['link_slider'];
                 $temp1 = $_FILES['P_ATTACHMENT']['type'][$i];
 
 
-                move_uploaded_file($_FILES["P_ATTACHMENT"]["tmp_name"][$i], "../frontend/assets/imgs/slider/" . $newfilename);
+                move_uploaded_file($_FILES["P_ATTACHMENT"]["tmp_name"][$i], "../frontend/images/slider/" . $newfilename);
               
 
             
@@ -245,7 +245,7 @@ items.forEach(function(item) {
                                             
                                             <input type="hidden"  value="<?php echo $d3['id_slider'];?>" name="gaul[]" /> 
 
-                                                    <img src='../frontend/assets/imgs/slider/<?php echo $d3['slider_img'];?>' draggable='false'  /> 
+                                                    <img src='../frontend/images/slider/<?php echo $d3['slider_img'];?>' draggable='false'  /> 
                                                         <div class="info-wrap">
                                                             <p class="title text-truncate"><?php echo $d3['link_slider'];?></p>
                                                             <div class="price mb-2"><?php $urutan1=$d3['urutan']; if($urutan1==1){echo "Default";}?></div>
@@ -266,7 +266,7 @@ items.forEach(function(item) {
 
                                                             <div class="card card-product-grid" draggable="true" style="cursor:move;" >
                                                                 <input type="hidden"  value="<?php echo $d3['id_slider'];?>" name="gaul[]" /> 
-                                                                    <video draggable='false' controls> <source src='../frontend/assets/imgs/slider/<?php echo $d3['slider_img'];?>'/> </video>
+                                                                    <video draggable='false' controls> <source src='../frontend/images/slider/<?php echo $d3['slider_img'];?>'/> </video>
                                                                     <div class="info-wrap">
                                                                         <p class="title text-truncate"><?php echo $d3['link_slider'];?></p>
                                                                         <div class="price mb-2"><?php $urutan1=$d3['urutan']; if($urutan1==1){echo "Default";}?></div>

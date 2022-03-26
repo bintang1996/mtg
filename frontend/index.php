@@ -5,45 +5,39 @@
 
 
 
-			<!-- HERO-1
+			<!-- HERO-2
 			============================================= -->	
-			<section id="hero-1" class="bg-fixed hero-section division">
-				<div class="container">						
-					<div class="row d-flex align-items-center">
+			<section id="hero-2" class="hero-section division">
 
 
-						<!-- HERO TEXT -->
-						<div class="col-md-8 col-lg-7 col-xl-6">
-							<div class="hero-txt mb-40">
-								
-								<!-- Title -->
-								<h5 class="steelblue-color">Welcome To Our Clinic</h5>
-								<h2 class="steelblue-color">Take Care of Your Health</h2>
-
-								<!-- Text -->
-								<p class="p-md">Feugiat primis ligula risus auctor egestas augue mauri viverra tortor in
-								   iaculis placerat eugiat mauris ipsum in viverra tortor and gravida purus pretium lorem 
-								   primis in orci integer mollis
-								</p>
-
-								<!-- Button -->
-								<a href="about-us.html" class="btn btn-blue blue-hover">More About Clinic</a>										
-
-							</div>
-						</div>	<!-- END HERO TEXT -->
+				<!-- SLIDER -->
+				<div class="slider blue-nav">
+			    	<ul class="slides">
 
 
-						<!-- HERO IMAGE -->
-						<div class="col-md-4 col-lg-5 col-xl-6">	
-							<div class="hero-1-img text-center">				
-								<img class="img-fluid" src="images/hero-1-img.png" alt="hero-image">
-							</div>
-						</div>
+				     	<!-- SLIDE #1 -->
+				      	
+
+                          <?php
+									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM slider_top ORDER BY urutan");
+									while($d=mysqli_fetch_array($sql)){
+                                        $i=0;
+                                        $i=$i+1;
+
+								?> 	
+                                <li id="slide-<?php echo $i;  ?>">			
+								<a href="<?php echo $d['link_slider'] ?>"><img class="img-fluid" width="1200px" height="600px" src="images/slider/<?php echo $d['slider_img'] ?>" alt="hero-image"></a>
+                                </li>
+                                <?php } ?>
+						
+					    	<!-- END SLIDE #1 -->
 
 
-					</div>    <!-- End row -->
-				</div>     <!-- End container -->
-			</section>	<!-- END HERO-1 -->
+				    </ul>
+			  	</div>	<!-- END SLIDER -->
+
+
+			</section>	<!-- END HERO-2 -->
 
 
 

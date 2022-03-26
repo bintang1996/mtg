@@ -56,17 +56,16 @@
 							<div class="footer-box mb-40">
 							
 								<!-- Title -->
-								<h5 class="h5-xs">Lokasi Kami</h5>
+								<h5 class="h5-xs">Head Office Jakarta</h5>
 
 								<!-- Address -->
+                                
 								<p>Jl. Munggang No. 86-87 Balekambang, Kramat Jati,</p> 
-								<p>Jakarta Timur 13530 Indonesia</p>
+								<p>Jakarta Timur 13530 Indonesia</p><br><br>
 								
-								<!-- Email -->
-								<p class="foo-email mt-20">E: <a href="mailto:cs@meditransglobal.co.id">cs@meditransglobal.co.id</a></p>
-
-								<!-- Phone -->
-								<p>P: +62 812 8000 1102</p>
+                                <h5 class="h5-xs">Head Office Surabaya</h5>
+								<p>Rungkut Menanggal Harapan Blok O No. 28</p> 
+								<p>Surabaya 60293 Indonesia</p>
 
 							</div>
 						</div>
@@ -76,12 +75,18 @@
 						<div class="col-md-6 col-lg-3">
 							<div class="footer-box mb-40">
 							
+                                <h5 class="h5-xs">Kantor Cabang</h5>
+								<p>Bandung, Palembang, Padang, dan Makassar</p><br><br> 
+								
+
 								<!-- Title -->
 								<h5 class="h5-xs">Jam Operasional</h5>
 
 								<!-- JAM OPERASIONAL -->
 								<p class="p-sm">Senin - Jumat - <span>8:00 - 17:00</span></p>
-								<p class="p-sm">Sabtu - Minggu - <span>Tutup</span></p>							
+								<p class="p-sm">Sabtu - Minggu - <span>Tutup</span></p>
+                                
+                                
 
 							</div>
 						</div>
@@ -95,12 +100,17 @@
 								<h5 class="h5-xs">Hotline Keluhan Pelanggan</h5>
 
 								<!-- Footer List -->
-								<h5 class="h5-xl blue-color">+62 21 2204 7248</h5>
+								<h5 class="h5-xl blue-color">(+62) 21 2204 7248</h5>
 
 								<!-- Text -->	
 								<p class="p-sm mt-15">Penyampaian keluhan pelanggan bisa dilakukan dengan menghubungi nomor di atas.
 								</p> 																												
 
+                                <!-- Email -->
+								<p class="foo-email mt-20">E: <a href="mailto:cs@meditransglobal.co.id">cs@meditransglobal.co.id</a></p>
+
+                                <!-- Phone -->
+                                <p>P: +62 812 8000 1102</p>
 							</div>
 						</div>	
 
