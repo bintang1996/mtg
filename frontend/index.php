@@ -224,8 +224,8 @@
 			<tr><td width="50%"  class="text-center align-center">
 			<img class="img-fluid" width="70%" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
-			<td>
-			<h3 class="h3-md steelblue-color">Keahlian Kami</h3>	
+			<td><br>
+			<h3 class="h3-md steelblue-color" style="font-color: #281E78;">Keahlian Kami</h3>	
 			<p>MEncoba bertahan tapi tak geges</p>
 			</td>
 			</table>			
