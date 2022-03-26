@@ -220,7 +220,7 @@
 
 			<div class="mySlides">
 
-			<table class="table" style="border:none;">
+			<table class="table" style="border:1px;">
 			<tr><td class="text-center align-center">
 			<img class="img-fluid" width="50%" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
@@ -232,7 +232,7 @@
 			
 			<div class="mySlides">
 
-			<table class="table" style="border:none;">
+			<table class="table" style="border:1px;">
 			<tr><td class="text-center align-center">
 			<img class="img-fluid" width="50%" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
