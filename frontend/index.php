@@ -79,14 +79,14 @@
 							<div class="abox-1 white-color" style="padding-right:20px;" >
 
 							<p style="color: #E87722;">PRODUK TERLENGKAP</p>
-								<h5 class="h5-md" style="color: #E87722;">Solusi Kerjasama Operasional (KSO)</h5>
+								<B><h5 class="h5-md" style="color: #E87722;">Solusi Kerjasama Operasional (KSO)</h5><B>
 
 								<!-- Text -->
 								<p style="color: black;">Kerjasama Operasional dalam penyediaan peralatan medis khususnya di Bidang Radiologi dan Kardiologi.
 								</p>
 
 								<!-- Button -->
-								<a href="https://www.meditransglobal.co.id/services/kerjasama-operasi-kso/" class="btn btn-sm btn-tra-white mt-25" style="color: #E87722;">Baca</a>
+								<B href="https://www.meditransglobal.co.id/services/kerjasama-operasi-kso/" class="btn btn-sm btn-tra-white mt-25" style="color: #E87722;">Baca</B>
 
 							</div>
 						</div>
@@ -100,14 +100,15 @@
 							<div class="abox-1 white-color">
 
 								<!-- Title -->
-								<h5 class="h5-md" style="color: #E87722;">Sistem Informasi Rumah Sakit, Klinik, dan Telemedicine</h5>
+								<p style="color: #E87722;">PRODUK TERLENGKAP</p>
+								<B><h5 class="h5-md" style="color: #E87722;">Sistem Informasi Rumah Sakit, Klinik, dan Telemedicine</h5><B>
 
 								<!-- Text -->
 								<p class="mt-20" style="color: black;">Hadir dengan inovasi terbaru kami yaitu produk telemedicine dan telediagnostik.
 								</p>
 
 								<!-- Button -->
-								<a href="https://www.meditransglobal.co.id/services/aplikasi-dan-sistem-kesehatan/" class="btn btn-sm btn-tra-white mt-25" style="color: #E87722;">Baca</a>
+								<B href="https://www.meditransglobal.co.id/services/aplikasi-dan-sistem-kesehatan/" class="btn btn-sm btn-tra-white mt-25" style="color: #E87722;">Baca</B>
 
 							</div>
 						</div>
