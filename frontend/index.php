@@ -208,6 +208,9 @@
 			a b{
 				text-decoration:bold;
 			}
+			.w3-transparent, .w3-hover-none:hover {
+    background-color: red;
+}
 			</style>
 			
 			<div class="w3-content w3-display-container" style="max-width:100%; background-color:#f8f9fb;">
