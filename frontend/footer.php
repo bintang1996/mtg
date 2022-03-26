@@ -126,8 +126,8 @@
 							
 							
 							</div>
-							<div class="col-md-6">
-							<ul class="foo-socials text-center align-right clearfix" style="align:right;">
+							<div class="col-md-6" style="text-align:right;">
+							<ul class="foo-socials text-center align-right clearfix" >
 
 <li><a href="https://www.facebook.com/meditrans.id" class="ico-facebook"><i class="fab fa-facebook-f"></i></a></li>
 <li><a href="https://www.instagram.com/meditrans.id/" class="ico-instagram"><i class="fab fa-instagram"></i></a></li>	
