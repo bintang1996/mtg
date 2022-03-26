@@ -108,7 +108,7 @@
 								</p>
 <br><br>
 								<!-- Button -->
-								<a href="https://www.meditransglobal.co.id/services/aplikasi-dan-sistem-kesehatan/" style="color: #E87722;"><h6>LOCATION</h6></a>
+								<a href="https://www.meditransglobal.co.id/services/aplikasi-dan-sistem-kesehatan/" style="color: #E87722;"><b>LOCATION</b></a>
 
 							</div>
 						</div>
@@ -208,6 +208,9 @@
 			.mySlides {display:none}
 			.w3-left, .w3-right, .w3-badge {cursor:pointer; color:red;}
 			.w3-badge {height:13px;width:13px;padding:0; color: orange;}
+			b{
+				text-decoration:bold;
+			}
 			</style>
 			
 			<div class="w3-content w3-display-container" style="max-width:100%; background-color:#f8f9fb;">
