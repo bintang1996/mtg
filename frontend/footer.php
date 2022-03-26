@@ -121,9 +121,33 @@
 					<!-- FOOTER COPYRIGHT -->
 					<div class="bottom-footer">
 						<div class="row">
-							<div class="col-md-12">
+							<div class="col-md-6">
 								<p class="footer-copyright">&copy; 2022 <span>Meditrans Global</span>. All Rights Reserved</p>
+							
+							
 							</div>
+							<div class="col-md-6">
+							<ul class="foo-socials text-center clearfix">
+
+<li><a href="https://www.facebook.com/meditrans.id" class="ico-facebook"><i class="fab fa-facebook-f"></i></a></li>
+<li><a href="https://www.instagram.com/meditrans.id/" class="ico-instagram"><i class="fab fa-instagram"></i></a></li>	
+<li><a href="https://www.linkedin.com/company/meditransglobal/" class="ico-linkedin"><i class="fab fa-linkedin"></i></a></li>
+<li><a href="https://wa.me/+6281280001102" class="ico-whatsapp"><i class="fab fa-whatsapp"></i></a></li>			
+																										
+<!--
+<li><a href="#" class="ico-behance"><i class="fab fa-behance"></i></a></li>	
+<li><a href="#" class="ico-dribbble"><i class="fab fa-dribbble"></i></a></li>											
+<li><a href="#" class="ico-instagram"><i class="fab fa-instagram"></i></a></li>	
+<li><a href="#" class="ico-linkedin"><i class="fab fa-linkedin-in"></i></a></li>
+<li><a href="#" class="ico-pinterest"><i class="fab fa-pinterest-p"></i></a></li>									
+<li><a href="#" class="ico-youtube"><i class="fab fa-youtube"></i></a></li>											
+<li><a href="#" class="ico-vk"><i class="fab fa-vk"></i></a></li>
+<li><a href="#" class="ico-yelp"><i class="fab fa-yelp"></i></a></li>
+<li><a href="#" class="ico-yahoo"><i class="fab fa-yahoo"></i></a></li>
+-->	
+
+</ul></div>
+
 						</div>
 					</div>
 
