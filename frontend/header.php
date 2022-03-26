@@ -72,6 +72,7 @@
 	<body style="background-color:#281E78;">
 
     <div class="loader"></div>
+	<div class="screen-overlay"></div>
 
 
 		<!-- PRELOADER SPINNER
