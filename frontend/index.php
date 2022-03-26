@@ -260,10 +260,11 @@
 
 			<p style="text-align:justify;">Berlatar belakang pendiri perusahaan yang memiliki pengalaman dibidang peralatan penunjang kesehatan, Saat ini kami memfokuskan pengembangan perusahaan dalam hal pelayanan Barang dan Jasa penunjang kesehatan. 
 				Kami memiliki team yang solid untuk bekerjasama dengan Rumah Sakit ataupun perusahaan penyedia peralatan kesehatan baik principal ataupun pihak KSO untuk memberikan konsultasi dan pelaksanaan pekerjaan Pra Instalasi peralatan kesehatan seperti instalasi X-Ray, CT-Scan, MRI dan Cathlab.</p>
+				<br><a href="#" class="btn btn-md btn-blue blue-hover">Select Plan</a>
 			</td>
 			<td width="5%"></td>
 
-			<a href="#" class="btn btn-md btn-blue blue-hover">Select Plan</a>
+			
 			</table>			
 			</div>
 		
