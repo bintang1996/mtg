@@ -213,7 +213,7 @@
 }
 			</style>
 			
-			<div class="w3-content w3-display-container" style="max-width:100%; background-color:#f8f9fc;">
+			<div class="w3-content w3-display-container" style="max-width:100%; background-color:light-grey;">
 
 
 
