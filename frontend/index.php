@@ -141,13 +141,9 @@
 						<span class="flaticon-060-cardiogram-4"></span>
 					</div>
 					<!-- Title -->
-					<h5 class="h5-xs white-color">CARDIOVASCULAR</h5>																																		
+					<h5 class="h5-xs white-color" style="margin-top:0;">CARDIOVASCULAR</h5>																																		
 					</div>
 					</div>
-
-
-
-
 
 					<div class="col">
 					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
@@ -156,7 +152,7 @@
 						<span class="flaticon-031-scanner"></span>
 					</div>
 					<!-- Title -->
-					<h5 class="h5-xs white-color">RADIOLOGY</h5>																																		
+					<h5 class="h5-xs white-color" style="margin-top:0;">RADIOLOGY</h5>																																		
 					</div>
 					</div>
 
@@ -167,7 +163,7 @@
 						<span class="flaticon-136-monitor"></span>
 					</div>						
 					<!-- Title -->
-					<h5 class="h5-xs white-color">HEALTHCARE IT</h5>																																		
+					<h5 class="h5-xs white-color" style="margin-top:0;">HEALTHCARE IT</h5>																																		
 					</div>
 					</div>
 
@@ -178,7 +174,7 @@
 						<span class="flaticon-076-microscope"></span>
 					</div>						
 					<!-- Title -->
-					<h5 class="h5-xs white-color">LABORATORY</h5>																																		
+					<h5 class="h5-xs white-color" style="margin-top:0;">LABORATORY</h5>																																		
 					</div>
 					</div>
 
@@ -192,7 +188,7 @@
 						<span class="flaticon-129-hospital-1"></span>
 					</div>						
 					<!-- Title -->
-					<h5 class="h5-xs white-color">CONSTRUCTION</h5>																																		
+					<h5 class="h5-xs white-color" style="margin-top:0;">CONSTRUCTION</h5>																																		
 					</div>
 					</div>
 				
@@ -225,8 +221,11 @@
 			<img class="img-fluid" width="70%" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
 			<td><br>
-			<h3 class="h3-md" style="color: #281E78;">Keahlian Kami</h3>	
-			<p>MEncoba bertahan tapi tak geges</p>
+			<h3 class="h3-md" style="color: #281E78;">SELAMAT DATANG DI MEDITRANS</h3>	
+			<p>MPT. Meditrans Global (PT. MTG) berdiri sejak tahun 2012 di Surabaya, berawal dari bisnis penyedia barang dan jasa dan seiring waktu kami terus mengembangkan perusahaan ini ke bidang bidang bisnis lainnya.</p>
+
+			<p>Berlatar belakang pendiri perusahaan yang memiliki pengalaman dibidang peralatan penunjang kesehatan, Saat ini kami memfokuskan pengembangan perusahaan dalam hal pelayanan Barang dan Jasa penunjang kesehatan. 
+				Kami memiliki team yang solid untuk bekerjasama dengan Rumah Sakit ataupun perusahaan penyedia peralatan kesehatan baik principal ataupun pihak KSO untuk memberikan konsultasi dan pelaksanaan pekerjaan Pra Instalasi peralatan kesehatan seperti instalasi X-Ray, CT-Scan, MRI dan Cathlab.</p>
 			</td>
 			</table>			
 			</div>
