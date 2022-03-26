@@ -119,7 +119,15 @@
 				<div class="container" style="background-color:#281E78;">
 					<div class="row d-flex align-items-center text-center">
 
+<!-- SECTION TITLE -->	
+<div class="row">	
+						<div class="col-lg-10 offset-lg-1 section-title">		
 
+							<!-- Title 	-->	
+							<h3 class="h3-md white-color">LAYANAN KAMI</h3>	
+										
+						</div> 
+					</div>
 					<div class="col">
 					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
 					<!-- Icon -->
@@ -158,7 +166,7 @@
 					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
-						<span class=".flaticon-147-pills"></span>
+						<span class="flaticon-147-pills"></span>
 					</div>						
 					<!-- Title -->
 					<h5 class="h5-xs white-color">CONSUMABLES</h5>																																		
