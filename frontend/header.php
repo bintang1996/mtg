@@ -56,7 +56,7 @@
 		<link href="css/responsive.css" rel="stylesheet"> 
 	
 	</head>
-	<body>
+	<body style="background-color:#281E78;">
 
 
 
