@@ -127,7 +127,7 @@
 							
 							</div>
 							<div class="col-md-6">
-							<ul class="foo-socials text-right clearfix" style="align:center;">
+							<ul class="foo-socials text-right clearfix" style="align:right;">
 
 <li><a href="https://www.facebook.com/meditrans.id" class="ico-facebook"><i class="fab fa-facebook-f"></i></a></li>
 <li><a href="https://www.instagram.com/meditrans.id/" class="ico-instagram"><i class="fab fa-instagram"></i></a></li>	
