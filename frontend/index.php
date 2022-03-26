@@ -127,9 +127,21 @@
 					<div class="col"><span class="flaticon-083-stethoscope"></span>col</div>
 
 					<div class="col">
-						<div class="sbox-3-icon" style="color: white; font-size:30px;">
-							<span style="color: white; font-size:30px;" font-size:30px;class="flaticon-076-microscope"></span>
-						</div>
+					<div class="sbox-3 icon-sm">
+					<!-- Icon -->
+					<div class="sbox-3-icon">
+						<span class="flaticon-047-head"></span>
+					</div>
+						
+					<!-- Title -->
+					<h5 class="h5-xs steelblue-color">Neurology</h5>
+
+					<!-- Text -->
+					<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
+					tempus feugiat dolor lacinia cubilia curae integer congue leo metus
+					</p>
+																																		
+					</div>
 					</div>
 
 					<div class="col"><span class="flaticon-083-stethoscope"></span>col</div>
