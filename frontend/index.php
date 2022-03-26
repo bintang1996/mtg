@@ -213,7 +213,7 @@
 			.w3-badge {height:13px;width:13px;padding:0}
 			</style>
 			
-			<div class="w3-content w3-display-container" style="max-width:100%; background-color:##f8f9fb;">
+			<div class="w3-content w3-display-container" style="max-width:100%; background-color:#f8f9fb;">
 
 
 
