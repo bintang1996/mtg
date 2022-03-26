@@ -119,7 +119,7 @@
 				<div class="container" style="background-color:#281E78;">
 
 					<!-- SECTION TITLE -->	
-					<div class="row align-items-center text-center title">	
+					<div class="row col-lg-10 offset-lg-1 section-title">	
 						
 					<!-- Title 	-->	
 					<h3 class="title white-color text-center">LAYANAN KAMI</h3>						
