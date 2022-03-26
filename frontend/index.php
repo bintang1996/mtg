@@ -115,8 +115,8 @@
 
 			<!-- ABOUT-5
 			============================================= -->
-			<section id="about-5" class="pt-100 about-section division">
-				<div class="container">
+			<section id="about-5" class="pt-100 about-section division" style="background-color:#281E78;">
+				<div class="container" style="background-color:#281E78;">
 					<div class="row d-flex align-items-center text-center">
 
 
