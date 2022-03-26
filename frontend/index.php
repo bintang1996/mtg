@@ -208,7 +208,7 @@
 			.mySlides {display:none}
 			.w3-left, .w3-right, .w3-badge {cursor:pointer; color:red;}
 			.w3-badge {height:13px;width:13px;padding:0; color: orange;}
-			b{
+			a b{
 				text-decoration:bold;
 			}
 			</style>
