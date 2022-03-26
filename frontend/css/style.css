@@ -928,7 +928,7 @@ span.id-color {
 #loader {
   width: 100%;
   height: 100%;
-
+  background-size: 50px;
   position: absolute;
   left: 0px;
   top: 0px;
@@ -936,12 +936,13 @@ span.id-color {
 
 .loader-inner {
   position: fixed;
-  width: 50%;
-  height: 50%;
+  width: 100%;
+  height: 100%;
   z-index: 9999;
-  background-size: 50px;
+ 
   opacity: .8;
-  background: url(../images/logo-meditrans.png) 50% 50% no-repeat;  
+  background: url('../images/logo-meditrans.png') 50% no-repeat;  
+  background-size: 50px;
 }
 
 
