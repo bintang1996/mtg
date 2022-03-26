@@ -56,10 +56,10 @@
 						<div id="abox-2" class="col-md-12 col-lg-3" style="margin-right:2%; border-radius:10%; min-width:32%; max-width:32%;">
 							<div class="abox-1 white-color" style="padding-right:20px;" >
 
-								<h5 class="h5-md">Solusi Kerjasama Operasional (KSO)</h5>
+								<h5 class="h5-md" style="color: #E87722;">Solusi Kerjasama Operasional (KSO)</h5>
 
 								<!-- Text -->
-								<p>Kerjasama Operasional dalam penyediaan peralatan medis khususnya di Bidang Radiologi dan Kardiologi.
+								<p style="color: black;">Kerjasama Operasional dalam penyediaan peralatan medis khususnya di Bidang Radiologi dan Kardiologi.
 								</p>
 
 								<!-- Button -->
@@ -77,7 +77,7 @@
 								<h5 class="h5-md" style="color: #E87722;">Jasa Konstruksi</h5>
 
 								<!-- Text -->
-								<p style="color: #0000;">Kami juga merupakan perusahaan Konstruksi untuk pembangunan ruangan Radiologi, 
+								<p style="color: black;">Kami juga merupakan perusahaan Konstruksi untuk pembangunan ruangan Radiologi, 
 									CT-Scan maupun Ruangan Cathlab.
 								</p>
 
@@ -96,7 +96,7 @@
 								<h5 class="h5-md" style="color: #E87722;">Sistem Informasi Rumah Sakit, Klinik, dan Telemedicine</h5>
 
 								<!-- Text -->
-								<p class="mt-20" style="color: #0000;">Hadir dengan inovasi terbaru kami yaitu produk telemedicine dan telediagnostik.
+								<p class="mt-20" style="color: black;">Hadir dengan inovasi terbaru kami yaitu produk telemedicine dan telediagnostik.
 								</p>
 
 								<!-- Button -->
