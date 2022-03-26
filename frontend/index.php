@@ -224,7 +224,7 @@
 			</div>
 
 			<div class="col">
-			<p>MEncoba bertahan tapi tak gege</p>
+			<p style="color:white;">MEncoba bertahan tapi tak gege</p>
 			</div>
 
 			</div>
