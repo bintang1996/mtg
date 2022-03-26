@@ -220,7 +220,7 @@
 			<tr><td width="50%"  class="text-center align-center">
 			<img class="img-fluid" width="70%" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
-			<td><br>
+			<td style="margin-right:15%; margin-left:15%"><br>
 			<h3 class="h3-md" style="color: #281E78;">SELAMAT DATANG DI MEDITRANS</h3>	
 			<p>MPT. Meditrans Global (PT. MTG) berdiri sejak tahun 2012 di Surabaya, berawal dari bisnis penyedia barang dan jasa dan seiring waktu kami terus mengembangkan perusahaan ini ke bidang bidang bisnis lainnya.</p>
 
