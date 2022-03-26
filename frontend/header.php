@@ -104,7 +104,7 @@
 			     		<!-- Social Links -->
 					    <div class="headertopright">
 							<a style="color: black;">(+62) 21 2204 7248</a>
-							<a style="color: black; margin-right:0.5em"><i class="fa fa-mobile" aria-hidden="true"></i></a>
+							<a style="color: black;"><i class="fa fa-mobile" aria-hidden="true"></i></a>
 							
 							<a  style="color: black;"> INFO@MEDITRANSGLOBAL.CO.ID</a>
 							<a  style="color: black;"><i class="fa fa-mail" aria-hidden="true"></i></a>
