@@ -936,6 +936,7 @@ span.id-color {
 }
 
 .loader-inner {
+  width: 100px;
 
   background: url(../images/logo-meditrans.png) center center no-repeat;  
 }
