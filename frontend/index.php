@@ -147,7 +147,7 @@
 					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
-						<span class="flaticon-076-microscope"></span>
+						<span class="flaticon-129-hospital-1"></span>
 					</div>						
 					<!-- Title -->
 					<h5 class="h5-xs white-color">CONSTRUCTION</h5>																																		
@@ -158,7 +158,7 @@
 					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
-						<span class="flaticon-047-head"></span>
+						<span class=".flaticon-147-pills"></span>
 					</div>						
 					<!-- Title -->
 					<h5 class="h5-xs white-color">CONSUMABLES</h5>																																		
@@ -169,7 +169,7 @@
 					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
-						<span class="flaticon-047-head"></span>
+						<span class="flaticon-136-monitor"></span>
 					</div>						
 					<!-- Title -->
 					<h5 class="h5-xs white-color">HEALTHCARE IT</h5>																																		
