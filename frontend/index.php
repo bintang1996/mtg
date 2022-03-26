@@ -221,8 +221,8 @@
 			<div class="mySlides">
 
 			<table class="table" width="100%" style="border:1px solid black;">
-			<tr><td class="text-center align-center">
-			<img class="img-fluid" width="50%" src="images/pediatrics_700x700.jpg" alt="tab-image">
+			<tr><td width="50%"  class="text-center align-center">
+			<img class="img-fluid" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
 			<td>	
 			<p>MEncoba bertahan tapi tak geges</p>
@@ -233,8 +233,8 @@
 			<div class="mySlides">
 
 			<table class="table" width="100%" style="border:1px;">
-			<tr><td class="text-center align-center">
-			<img class="img-fluid" width="50%" src="images/pediatrics_700x700.jpg" alt="tab-image">
+			<tr><td width="50%" class="text-center align-center">
+			<img class="img-fluid" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
 			<td>	
 			<p>MEncoba bertahan tapi tak gege</p>
