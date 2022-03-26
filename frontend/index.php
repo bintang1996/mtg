@@ -65,7 +65,7 @@
 								</p>
 								<br><br>
 								<!-- Button -->
-								<h5 style="color: #E87722;"><b>KEMITRAAN</b></h5>
+								<h6 style="color: #E87722;"><b>KEMITRAAN</b></h6>
 							</div>
 						</div>
 
