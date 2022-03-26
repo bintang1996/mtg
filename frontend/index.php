@@ -49,35 +49,11 @@
 					<div class="row d-flex align-items-center">
 
 
-						<!-- ABOUT BOX #1 -->
-						<div id="abox-1" class="col-md-6 col-lg-3">
-							<div class="abox-1 white-color">
-
-								<!-- Title -->
-								<h5 class="h5-md">Jam Operasional</h5>
-
-								<!-- Table -->
-								<table class="table white-color">
-									<tbody>
-									    <tr>
-									      	<td>Sen – Jum</td>
-									      	<td> - </td>
-									      	<td class="text-right">8:00 - 17:00</td>
-									    </tr>
-									    <tr>
-									      	<td>Sab - Min</td>
-									      	<td> - </td>
-									      	<td class="text-right">TUTUP</td>
-									    </tr>
-									  </tbody>
-								</table>
-
-							</div>
-						</div>
+				
 
 
 						<!-- ABOUT BOX #2 -->
-						<div id="abox-2" class="col-md-6 col-lg-3">
+						<div id="abox-2" class="col-md-6 col-lg-3" style="margin-right:20px; border-radius:10%;">
 							<div class="abox-1 white-color">
 
 								<h5 class="h5-md">Solusi Kerjasama Operasional (KSO)</h5>
@@ -94,7 +70,7 @@
 
 
 						<!-- ABOUT BOX #3 -->
-						<div id="abox-3" class="col-md-6 col-lg-3">
+						<div id="abox-3" class="col-md-6 col-lg-3" style="margin-right:20px; border-radius:10%;">
 							<div class="abox-1 white-color">
 
 								<!-- Title -->
