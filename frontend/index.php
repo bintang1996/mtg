@@ -213,7 +213,7 @@
 			.w3-badge {height:13px;width:13px;padding:0}
 			</style>
 
-			<div class="w3-content w3-display-container" style="max-width:100%">
+			<div class="w3-content w3-display-container" style="max-width:90%">
 
 
 
@@ -228,7 +228,17 @@
 			</div>
 
 			</div>
+			<div class="row mySlides" style="width:100%">
 
+<div class="col">
+<img class="img-fluid" src="images/pediatrics_700x700.jpg" alt="tab-image">
+</div>
+
+<div class="col">
+<p>MEncoba bertahan tapi tak gege</p>
+</div>
+
+</div>
 
 			
 
