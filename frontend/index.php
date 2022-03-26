@@ -236,7 +236,7 @@
 
 						
 								<!-- SERVICE BOX #1 -->
-								<div class="sbox-6">
+								<div class="sbox-3">
 
 									
 										
@@ -251,24 +251,10 @@
 								</div>
 
 
-								<!-- SERVICE BOX #2 -->
-								<div class="sbox-6 ">
-
-								
-										
-									<!-- Title -->
-									<h5 class="h5-xs steelblue-color">Neurology</h5>
-
-									<!-- Text -->
-									<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
-									   tempus feugiat dolor lacinia cubilia curae integer congue leo metus
-									</p>
-																																						
-								</div>
-
+						
 
 								<!-- SERVICE BOX #3 -->
-								<div class="sbox-6">
+								<div class="sbox-3">
 
 							
 										
