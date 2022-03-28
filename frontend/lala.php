@@ -3,7 +3,6 @@
 #chartdiv {
   width: 100%;
   height: 500px;
-  overflow: hidden;
 }
 </style>
 
@@ -21,37 +20,13 @@ am5.ready(function() {
 // https://www.amcharts.com/docs/v5/getting-started/#Root_element
 var root = am5.Root.new("chartdiv");
 
+
 // Set themes
 // https://www.amcharts.com/docs/v5/concepts/themes/
 root.setThemes([
   am5themes_Animated.new(root)
 ]);
 
-// Create the map chart
-// https://www.amcharts.com/docs/v5/charts/map-chart/
-var chart = root.container.children.push(
-  am5map.MapChart.new(root, {
-    panX: "rotateX",
-    panY: "translateY",
-    projection: am5map.geoMercator()
-  })
-);
-
-var cont = chart.children.push(
-  am5.Container.new(root, {
-    layout: root.horizontalLayout,
-    x: 20,
-    y: 40
-  })
-);
-
-// Add labels and controls
-cont.children.push(
-  am5.Label.new(root, {
-    centerY: am5.p50,
-    text: "Map"
-  })
-);
 
 // Create the map chart
 // https://www.amcharts.com/docs/v5/charts/map-chart/
@@ -63,67 +38,139 @@ var chart = root.container.children.push(am5map.MapChart.new(root, {
   homeZoomLevel: 10
 }));
 
-var switchButton = cont.children.push(
-  am5.Button.new(root, {
-    themeTags: ["switch"],
-    centerY: am5.p50,
-    icon: am5.Circle.new(root, {
-      themeTags: ["icon"]
-    })
-  })
-);
-
-switchButton.on("active", function() {
-  if (!switchButton.get("active")) {
-    chart.set("projection", am5map.geoMercator());
-    chart.set("panY", "translateY");
-    chart.set("rotationY", 0);
-    backgroundSeries.mapPolygons.template.set("fillOpacity", 0);
-  } else {
-    chart.set("projection", am5map.geoOrthographic());
-    chart.set("panY", "rotateY")
-
-    backgroundSeries.mapPolygons.template.set("fillOpacity", 0.1);
-  }
-});
-
-cont.children.push(
-  am5.Label.new(root, {
-    centerY: am5.p50,
-    text: "Globe"
-  })
-);
-
-// Create series for background fill
-// https://www.amcharts.com/docs/v5/charts/map-chart/map-polygon-series/#Background_polygon
-var backgroundSeries = chart.series.push(am5map.MapPolygonSeries.new(root, {}));
-backgroundSeries.mapPolygons.template.setAll({
-  fill: root.interfaceColors.get("alternativeBackground"),
-  fillOpacity: 0,
-  strokeOpacity: 0
-});
-
-// Add background polygon
-// https://www.amcharts.com/docs/v5/charts/map-chart/map-polygon-series/#Background_polygon
-backgroundSeries.data.push({
-  geometry: am5map.getGeoRectangle(90, 180, -90, -180)
-});
 
 // Create main polygon series for countries
 // https://www.amcharts.com/docs/v5/charts/map-chart/map-polygon-series/
-var polygonSeries = chart.series.push(
-  am5map.MapPolygonSeries.new(root, {
-    geoJSON: am5geodata_worldLow
-  })
-);
+var polygonSeries = chart.series.push(am5map.MapPolygonSeries.new(root, {
+  geoJSON: am5geodata_worldLow,
+  exclude: ["AQ"]
+}));
 
-// Create line series for trajectory lines
-// https://www.amcharts.com/docs/v5/charts/map-chart/map-line-series/
-var lineSeries = chart.series.push(am5map.MapLineSeries.new(root, {}));
-lineSeries.mapLines.template.setAll({
-  stroke: root.interfaceColors.get("alternativeBackground"),
-  strokeOpacity: 0.3
-});
+// Add zoom control
+// https://www.amcharts.com/docs/v5/charts/map-chart/map-pan-zoom/#Zoom_control
+chart.set("zoomControl", am5map.ZoomControl.new(root, {}));
+
+
+// Set clicking on "water" to zoom out
+chart.chartContainer.get("background").events.on("click", function() {
+  chart.goHome();
+})
+
+polygonSeries.events.on("datavalidated", function() {
+  chart.goHome();
+})
+
+var pointSeries = chart.series.push(am5map.MapPointSeries.new(root, {}));
+pointSeries.bullets.push(function() {
+  return am5.Bullet.new(root, {
+    sprite: am5.Picture.new(root, {
+      templateField: "pictureSettings"
+    })
+  })
+})
+
+pointSeries.bullets.push(function() {
+  return am5.Bullet.new(root, {
+    sprite: am5.Label.new(root, {
+      templateField: "labelSettings",
+      centerX: am5.p50,
+      dy: 10
+    })
+  })
+})
+
+pointSeries.data.setAll([{
+  geometry: { type: "Point", coordinates: [-3.703790, 40.416775] },
+  pictureSettings: {
+    src: "https://www.amcharts.com/wp-content/uploads/assets/weather/animated/rainy-1.svg",
+    width: 50,
+    height: 50,
+    centerX: am5.p50,
+    centerY: am5.p50
+  },
+  labelSettings: {
+    text: "Madrid: +22C"
+  }
+},
+{
+  geometry: { type: "Point", coordinates: [2.352222, 48.856614] },
+  pictureSettings: {
+    src: "https://www.amcharts.com/wp-content/uploads/assets/weather/animated/thunder.svg",
+    width: 50,
+    height: 50,
+    centerX: am5.p50,
+    centerY: am5.p50
+  },
+  labelSettings: {
+    text: "Paris: +18C"
+  }
+},
+{
+  geometry: { type: "Point", coordinates: [13.404954, 52.520007] },
+  pictureSettings: {
+    src: "https://www.amcharts.com/wp-content/uploads/assets/weather/animated/cloudy-day-1.svg",
+    width: 50,
+    height: 50,
+    centerX: am5.p50,
+    centerY: am5.p50
+  },
+  labelSettings: {
+    text: "Berlin: +13C"
+  }
+},
+{
+  geometry: { type: "Point", coordinates: [21.012229, 52.229676] },
+  pictureSettings: {
+    src: "https://www.amcharts.com/wp-content/uploads/assets/weather/animated/day.svg",
+    width: 50,
+    height: 50,
+    centerX: am5.p50,
+    centerY: am5.p50
+  },
+  labelSettings: {
+    text: "Warsaw: +22C"
+  }
+},
+{
+  geometry: { type: "Point", coordinates: [12.480180, 41.872389] },
+  pictureSettings: {
+    src: "https://www.amcharts.com/wp-content/uploads/assets/weather/animated/day.svg",
+    width: 50,
+    height: 50,
+    centerX: am5.p50,
+    centerY: am5.p50
+  },
+  labelSettings: {
+    text: "Rome: +29C"
+  }
+},
+{
+  geometry: { type: "Point", coordinates: [-0.127758, 51.507351] },
+  pictureSettings: {
+    src: "https://www.amcharts.com/wp-content/uploads/assets/weather/animated/rainy-7.svg",
+    width: 50,
+    height: 50,
+    centerX: am5.p50,
+    centerY: am5.p50
+  },
+  labelSettings: {
+    text: "London: +10C"
+  }
+},
+{
+  geometry: { type: "Point", coordinates: [18.068581, 59.329323] },
+  pictureSettings: {
+    src: "https://www.amcharts.com/wp-content/uploads/assets/weather/animated/rainy-1.svg",
+    width: 50,
+    height: 50,
+    centerX: am5.p50,
+    centerY: am5.p50
+  },
+  labelSettings: {
+    text: "Stockholm: +8C"
+  }
+}
+])
 
 // Create point series for markers
 // https://www.amcharts.com/docs/v5/charts/map-chart/map-point-series/
@@ -291,4 +338,9 @@ chart.appear(1000, 100);
 
 <!-- HTML -->
 <div id="chartdiv"></div>
-amCharts
+
+
+
+
+
+
