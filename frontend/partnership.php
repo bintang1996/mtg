@@ -288,8 +288,12 @@
 
         <!-- TABS-1
 			============================================= -->
-			<section id="tabs-1" class="wide-100 tabs-section division">
+			<section id="tabs-1" class="wide-100 tabs-section division" style="background-color:FFFFFF;"
+            
+>
 				<div class="container">	
+                    <!-- Title 	-->	
+					<h3 style="margin-bottom:0;" class="h3-md col-lg-10 offset-lg-1 section-title white-color">Layanan Kerjasama</h3>	
 				 	<div class="row">
 				 		<div class="col-md-12">
 				 			
