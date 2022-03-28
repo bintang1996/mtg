@@ -79,12 +79,12 @@
 			backgroundColor : 'transparent',
 			markers : 
 			[{
-				latLng : [41.90, 12.45],
-				name : 'Vatican City'
+				latLng : [-6.200000, 106.816666],
+				name : 'Jakarta'
 			}, 
 			{
-				latLng : [0.33, 6.73],
-				name : 'São Tomé and Príncipe'
+				latLng : [-7.257472, 112.752090],
+				name : 'Surabaya'
 			}]
 		});
 
