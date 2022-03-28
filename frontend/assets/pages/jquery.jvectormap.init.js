@@ -53,7 +53,7 @@
 				name : 'São Tomé and Príncipe'
 			}],
 			onRegionClick: function(e,  code,  isSelected,  selectedRegions){
-				$('#map').vectorMap('get','mapObject').setFocus({region: ID});
+				$('#map').vectorMap('get','mapObject').setFocus({region: code});
 			  }
 		});
 
