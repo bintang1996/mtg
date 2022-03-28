@@ -416,17 +416,17 @@
 					<div class="row text-center">	
 						<div class="col">		
 							
-						<i class="fas fa-home fa-5" style="font-size:50px;"></i><br><B>ADDRESS</B><BR><P>JL. MUNGGANG NO. 86 - 87 BALEKAMBANG,<BR>
+						<i class="fas fa-home" style="font-size:200px;"></i><br><B>ADDRESS</B><BR><BR><P>JL. MUNGGANG NO. 86 - 87 BALEKAMBANG,<BR>
 						KRAMAT JATI, JAKARTA TIMUR 13530<P>
 
 						</div> 
 						<div class="col">		
 							
-						<i class="fas fa-mobile fa-5"></i><br><B>ADDRESS</B><BR><P>JL. MUNGGANG NO. 86 - 87 BALEKAMBANG,<BR>
+						<i class="fas fa-mobile" style="font-size:200px;"></i><br><B>ADDRESS</B><BR><BR><P>JL. MUNGGANG NO. 86 - 87 BALEKAMBANG,<BR>
 						KRAMAT JATI, JAKARTA TIMUR 13530<P>							
 						</div> 
 						<div class="col">		
-						<i class="fas fa-envelope fa-5"></i><br><B>ADDRESS</B><BR><P>JL. MUNGGANG NO. 86 - 87 BALEKAMBANG,<BR>
+						<i class="fas fa-envelope" style="font-size:200px;"></i><br><B>ADDRESS</B><BR><BR><P>JL. MUNGGANG NO. 86 - 87 BALEKAMBANG,<BR>
 						KRAMAT JATI, JAKARTA TIMUR 13530<P>
 														
 						</div> 
