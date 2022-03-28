@@ -78,7 +78,7 @@
                     'stroke-width': 1.5
                 }
             },
-			backgroundColor : 'transparent',
+			backgroundColor : 'red',
 			markers : 
 			[{
 				latLng : [-6.20, 106.81],
