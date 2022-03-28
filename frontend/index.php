@@ -336,7 +336,7 @@
 			</section>	 <!-- END SERVICES-3 -->	
 
 	
-			<section id="services-3" class="bg-lightgrey wide-100 services-section division" style="background-color:#ececec;">
+			<section id="services-3" class="bg-lightgrey wide-100 services-section division" style="background-color:#ececec; padding-top:50px;">
 				<div class="container">
 
 
@@ -363,7 +363,7 @@
 
 			<!-- TESTIMONIALS-2
 			============================================= -->
-			<section id="reviews-2" class="bg-lightgrey wide-100 reviews-section division">
+			<section id="reviews-2" class="bg-lightgrey wide-100 reviews-section division" style="padding-top:50px;">
 				<div class="container">
 
 				<div class="row">	
