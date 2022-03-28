@@ -366,7 +366,7 @@
 				<!-- TEXT BLOCK -->		
 				<div class="container">
 					<div class="row d-flex align-items-center">	
-						<div class="col-lg-6">
+						<div class="col-md-6">
 							<div class="info-9-table white-color wow fadeInUp" data-wow-delay="0.4s">
 
 								<!-- Title -->
