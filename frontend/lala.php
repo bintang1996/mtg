@@ -44,7 +44,7 @@ var chart = root.container.children.push(am5map.MapChart.new(root, {
 // https://www.amcharts.com/docs/v5/charts/map-chart/map-polygon-series/
 var polygonSeries = chart.series.push(am5map.MapPolygonSeries.new(root, {
   geoJSON: am5geodata_worldLow,
-  exclude: ["AQ"]
+  exclude: ["ID"]
 }));
 
 // Add zoom control
