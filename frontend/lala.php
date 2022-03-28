@@ -28,13 +28,14 @@ root.setThemes([
 ]);
 
 
+
 // Create the map chart
 // https://www.amcharts.com/docs/v5/charts/map-chart/
 var chart = root.container.children.push(am5map.MapChart.new(root, {
   panX: "translateX",
   panY: "translateY",
   projection: am5map.geoMercator(),
-  homeGeoPoint: { longitude: -6.26, latitude: 106.85 },
+  homeGeoPoint: { longitude: 10, latitude: 51 },
   homeZoomLevel: 6
 }));
 
@@ -48,7 +49,9 @@ var polygonSeries = chart.series.push(am5map.MapPolygonSeries.new(root, {
 
 // Add zoom control
 // https://www.amcharts.com/docs/v5/charts/map-chart/map-pan-zoom/#Zoom_control
-chart.set("zoomControl", am5map.ZoomControl.new(root, {}));
+chart.events.on("ready", function(ev) {
+  chart.zoomToMapObject(polygonSeries.getPolygonById("ID"));
+});
 
 
 // Set clicking on "water" to zoom out
