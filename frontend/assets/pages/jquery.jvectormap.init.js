@@ -2,7 +2,7 @@ $(document).ready(function () {
 	function listRegionNames(map) {
 	   var options = "";
 	  $.each(jvm.Map.maps[map].paths, function(index, value) {
-		options += '<option value="' + index + '">' + value.name + '</option>';
+		options += '<option value="ID" selected>INDO</option>';
 	  });
 	  $("#regions").html(options).change(function() {
 		var mapObj = $("#map").vectorMap("get", "mapObject");
