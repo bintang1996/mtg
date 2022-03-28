@@ -384,7 +384,7 @@
 			 							<a href="service-1.html">
 
 				 							<!-- Icon -->
-											<span class="flaticon-083-stethoscope blue-color"></span>
+											<span class="flaticon-015-blood-donation-1 blue-color"></span>
 
 											<!-- Text -->
 											<div class="sbox-7-txt">
@@ -462,7 +462,7 @@
 			 							<a href="service-2.html">
 
 				 							<!-- Icon -->
-											<span class="flaticon-048-lungs blue-color"></span>
+											<span class="flaticon-047-head blue-color"></span>
 
 											<!-- Text -->
 											<div class="sbox-7-txt">
@@ -488,7 +488,7 @@
 			 							<a href="service-1.html">
 
 				 							<!-- Icon -->
-											<span class="flaticon-060-cardiogram-4 blue-color"></span>
+											<span class="flaticon-015-blood-donation-1 blue-color"></span>
 
 											<!-- Text -->
 											<div class="sbox-7-txt">
@@ -514,7 +514,7 @@
 			 							<a href="service-2.html">
 
 				 							<!-- Icon -->
-											<span class="flaticon-031-scanner blue-color"></span>
+											<span class="flaticon-047-head blue-color"></span>
 
 											<!-- Text -->
 											<div class="sbox-7-txt">
@@ -540,7 +540,7 @@
 			 							<a href="service-1.html">
 
 				 							<!-- Icon -->
-											<span class="flaticon-076-microscope blue-color"></span>
+											<span class="flaticon-015-blood-donation-1 blue-color"></span>
 
 											<!-- Text -->
 											<div class="sbox-7-txt">
@@ -566,7 +566,7 @@
 			 							<a href="service-2.html">
 
 				 							<!-- Icon -->
-											<span class="flaticon-068-ambulance-3 blue-color"></span>
+											<span class="flaticon-047-head blue-color"></span>
 
 											<!-- Text -->
 											<div class="sbox-7-txt">
