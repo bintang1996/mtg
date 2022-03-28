@@ -13,7 +13,7 @@
 	VectorMap.prototype.init = function() {
 		//various examples
 		$('#world-map-markers').vectorMap({
-			map : 'id_mill',
+			map : 'idn_mill',
 			normalizeFunction : 'polynomial',
 			hoverOpacity : 0.7,
 			hoverColor : false,
