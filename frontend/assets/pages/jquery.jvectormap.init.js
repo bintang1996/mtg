@@ -11,7 +11,7 @@
 	};
 
 
-	var zoomSettings = {scale: 3, lat: 0.789275, lng: 113.921326, animate: true};
+	var zoomSettings = {scale: 1, lat: 0.789275, lng: 113.921326, animate: true};
 	mapObj.setFocus(zoomSettings);
 
 	
