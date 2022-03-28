@@ -428,31 +428,36 @@
 							<h3 class="h3-md steelblue-color" style="color: #281E78;"><b>OFFICE & SITE LOCATION</b></h3>								
 						</div> 
 					</div>
+					<div class="row">
+											
+											<table>
+											<tr>
+												<th colspan="5">First Name</th>
+											
+											</tr>
+											<tr>
+												<td><span class="flaticon-placeholder"></span> Jakarta</td>
+												<td></td>
+												<td><span class="flaticon-placeholder"></span>Bandung</td>
+												<td></td>
+												<td><span class="flaticon-placeholder"></span>Makassar</td>
+											</tr>
+											<tr>
+												<td><span class="flaticon-placeholder"></span>Surabaya</td>
+												<td></td>
+												<td><span class="flaticon-placeholder"></span>Palembang</td>
+												<td></td>
+												<td><span class="flaticon-placeholder"></span>Padang</td>
+											</tr>
+											</table>
+											</div>
 				
 					<!-- SECTION TITLE -->	
 					<div class="row">	
 						<img src="images/map1.png" width="100%" alt="testimonial-avatar">
 					</div>	
 
-					<div class="row">
-											
-					<table>
-					<tr>
-						<th colspan="3">First Name</th>
-					
-					</tr>
-					<tr>
-						<td>Hillary</td>
-						<td>Nyakundi</td>
-						<td>tables@mail.com</td>
-					</tr>
-					<tr>
-						<td>Lary</td>
-						<td>Mak</td>
-						<td>developer@mail.com</td>
-					</tr>
-					</table>
-					</div>
+
 				</div>	   <!-- End container -->
 			</section>	 <!-- END TESTIMONIALS-2 -->
 
