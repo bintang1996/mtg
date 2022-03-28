@@ -1,6 +1,6 @@
 <?php include "header.php";?>
 
-
+<link href="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css" rel="stylesheet">
 <canvas class="mapboxgl-canvas" tabindex="0" aria-label="Map" width="3324" height="900" style="width: 1662px; height: 450px;"></canvas>
 <script src="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js"></script>
 <script>
