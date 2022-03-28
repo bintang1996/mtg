@@ -44,10 +44,8 @@
 							<div class="txt-block pc-30 mb-40 wow fadeInUp" data-wow-delay="0.4s">
 
 								<!-- Section ID -->	
-					 			<span class="section-id blue-color">Welcome to MedService</span>
-
-								<!-- Title -->
-								<h3 class="h3-md steelblue-color">Clinic with Innovative Approach to Treatment</h3>
+					 			<!-- Title -->
+								<h3 class="h3-md steelblue-color">Latar Belakang KSO</h3>
 
 								<!-- Text -->
 								<p class="mb-30">An enim nullam tempor sapien gravida donec enim ipsum blandit
@@ -113,5 +111,46 @@
 					</div>    <!-- End row -->
 				</div>	   <!-- End container -->
 			</section>	<!-- END INFO-1 -->
+
+
+            <!-- INFO-2
+			============================================= -->
+			<section id="info-1" class="wide-60 info-section division">
+				<div class="container">
+					<div class="row d-flex align-items-center">
+
+                         <!-- TEXT BLOCK -->	
+						<div class="col-lg-6">
+							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
+
+								
+								<!-- Title -->
+								<h3 class="h3-md steelblue-color">Model Bisnis</h3>
+
+								<!-- Text -->
+								<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor tempus feugiat
+								   dolor lacinia cubilia curae integer congue leo metus, eu mollislorem primis in orci integer
+								   metus mollis faucibus. An enim nullam tempor sapien gravida donec pretium and ipsum porta
+								   justo integer at velna vitae auctor integer congue
+								</p>
+
+							</div>
+						</div>	<!-- END TEXT BLOCK -->	
+
+						<!-- IMAGE BLOCK -->
+						<div class="col-lg-6">
+							<div class="info-1-img text-center mb-40 wow fadeInUp" data-wow-delay="0.6s">
+								<img class="img-fluid" src="images/image-11.png" alt="info-image">
+							</div>
+						</div>
+
+
+						
+
+					
+						
+					</div>    <!-- End row -->
+				</div>	   <!-- End container -->
+			</section>	<!-- END INFO-2 -->
 
 <?php include "footer.php";?>
