@@ -335,7 +335,7 @@
 				</div>	   <!-- End container -->
 			</section>	 <!-- END SERVICES-3 -->	
 
-			============================================= -->
+	
 			<section id="services-3" class="bg-lightgrey wide-100 services-section division" style="background-color:#ececec;">
 				<div class="container">
 
