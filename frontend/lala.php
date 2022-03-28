@@ -231,6 +231,12 @@ var cities = [
     url: "https://www.google.com/maps/place/PT.+Meditrans+Global/@-2.9601349,119.3594472,15z/data=!4m6!3m5!1s0x0:0x2715ae49e66b9300!4b1!8m2!3d-6.2750118!4d106.8540065"
   },
   {
+    title: "JAKARTA HEAD OFFICE",
+    latitude: -6.2,
+    longitude: 106.816,
+    url: "https://www.google.com/maps/place/PT.+Meditrans+Global/@-2.9601349,119.3594472,15z/data=!4m6!3m5!1s0x0:0x2715ae49e66b9300!4b1!8m2!3d-6.2750118!4d106.8540065"
+  },
+  {
     title: "SURABAYA HEAD OFFICE",
     latitude: -7.337,
     longitude: 112.776,
