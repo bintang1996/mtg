@@ -2,7 +2,7 @@
 
 	<!-- SERVICES-3
 			============================================= -->
-			<section id="services-3" class="bg-lightgrey wide-100 services-section division" style="background-color:white;">
+			<section id="services-3" class="bg-lightgrey wide-100 services-section division" style="background-color:white; padding-bottom:0px;">
 				<div class="container">
 
 
@@ -34,7 +34,7 @@
 			</section>	 <!-- END SERVICES-3 -->
 			<!-- FOOTER-1
 			============================================= -->
-			<footer id="footer-1" class="wide-40 footer division" style="background-color:white; padding-top:0px;">
+			<footer id="footer-1" class="wide-40 footer division" style="background-color:white; ">
 				<div class="container">
 
 
