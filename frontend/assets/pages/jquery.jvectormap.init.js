@@ -1,75 +1,36 @@
-/**
- * Theme: Syntra - Bootstrap 4 Web App kit
- * Author: Mannat-themes
- * VectorMap
- */
-
-! function($) {
-	"use strict";
-
-	var VectorMap = function() {
-	};
-
-
-	var zoomSettings = {scale: 1, lat: 0.789275, lng: 113.921326, animate: true};
-	mapObj.setFocus(zoomSettings);
-
-	
-	VectorMap.prototype.init = function() {
-		//various examples
-		$('#world-map-markers').vectorMap({
-			map : 'world_mill_en',
-			normalizeFunction : 'polynomial',
-			hoverOpacity : 0.7,
-			hoverColor : false,
-			regionStyle : {
-				initial : {
-					fill : '#ad7fa8'
-				}
-			},
-			 markerStyle: {
-                initial: {
-                    r: 9,
-                    'fill': '#7382b3',
-                    'fill-opacity': 0.9,
-                    'stroke': '#fff',
-                    'stroke-width' : 7,
-                    'stroke-opacity': 0.4
-                },
-
-                hover: {
-                    'stroke': '#fff',
-                    'fill-opacity': 1,
-                    'stroke-width': 1.5
-                }
-            },
-			backgroundColor : 'transparent',
-			markers : 
-			[{
-				latLng : [-6.200000, 106.816666],
-				name : 'Vatican City'
-			}, 
-			{
-				latLng : [0.33, 6.73],
-				name : 'São Tomé and Príncipe'
-			}],
-			
-		});
-
-
-
-		
-		
-
-	},
-	//init
-	$.VectorMap = new VectorMap, $.VectorMap.Constructor =
-	VectorMap
-}(window.jQuery),
-
-//initializing
-function($) {
-	"use strict";
-	$.VectorMap.init()
-}(window.jQuery);
-
+$(document).ready(function () {
+	function listRegionNames(map) {
+	   var options = "";
+	  $.each(jvm.Map.maps[map].paths, function(index, value) {
+		options += '<option value="' + index + '">' + value.name + '</option>';
+	  });
+	  $("#regions").html(options).change(function() {
+		var mapObj = $("#map").vectorMap("get", "mapObject");
+		mapObj.clearSelectedRegions();
+		mapObj.setSelectedRegions(this.value);
+		mapObj.setFocus({scale: 1, x: 0.5, y: 0.5, animate: false});
+		customZoomToRegion(mapObj, this.value, 0.01 * $("#factor").val());
+	  });
+	}
+	function customZoomToRegion(map, code, factor) {
+	  var bBox = map.regions[code].element.shape.getBBox();
+	  var normRCX = (bBox.x + 0.5 * bBox.width)/map.defaultWidth;
+	  var normRCY = (bBox.y + 0.5 * bBox.height)/map.defaultHeight;
+	  var scale = Math.min(map.defaultWidth/bBox.width, map.defaultHeight/bBox.height);
+	  map.setFocus({x: normRCX, y: normRCY, scale: scale * factor, animate: true});
+	}
+	var map = "world_mill_en";
+	listRegionNames(map);
+	$("#map").vectorMap({
+	  map: map,
+	  zoomMax: 100,
+	  regionsSelectable: true,
+	  onRegionClick: function(e,  code,  isSelected,  selectedRegions){
+		var mapObj = $("#"+e.target.parentElement.id).vectorMap("get", "mapObject");
+		mapObj.clearSelectedRegions();
+		mapObj.setFocus({scale: 1, x: 0.5, y: 0.5, animate: false});
+		customZoomToRegion(mapObj, code, 0.01 * $("#factor").val());
+		return true;
+	  }
+	});
+  });

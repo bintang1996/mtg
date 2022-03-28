@@ -6,52 +6,27 @@
 
 
     
-                <div class="container-fluid">
-                    <div class="page-head">
-                        <h4 class="mt-2 mb-2">Vector Map</h4>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="card m-b-30">
-                                <div class="card-body">
-                                    <h5 class="header-title pb-3">World Map</h5>
-                                    <div class="">
-                                       <div id="world-map-markers" style="height: 500px"></div> 
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!--end row-->
-
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="card m-b-30">
-                                <div class="card-body">
-                                    <h5 class="header-title pb-3">India Map</h5>
-                                    <div class="">
-                                       <div id="india" style="height: 400px"></div> 
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!--end row-->
-
+        <html>
+            <head>
+              <title>jVectorMap Labels</title>
+              <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jvectormap@2.0.4/jquery-jvectormap.min.css" type="text/css">
+              <style>
+                .jvectormap-region.jvectormap-element {
+                  text-shadow: -1px -1px 3px #fff, 1px -1px 3px #fff, -1px 1px 3px #fff, 1px 1px 3px #fff;
+                }
+              </style>
+              <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+              <script src="https://cdn.jsdelivr.net/npm/jvectormap@2.0.4/jquery-jvectormap.min.js"></script>
+              <script src="https://cdn.jsdelivr.net/npm/jvectormap@2.0.4/tests/assets/jquery-jvectormap-world-mill-en.js"></script>
+            </head>
+            <body>
+              Zoom to: <select id="regions"></select>
+              Factor: 0.2<input id="factor" type="range" min="20" max="100" value="50">1.0
+              <hr>
+              <div id="map" style="width: 600px; height: 400px"></div>
+            </body>
+            </html>
 
               
-                    
-                </div><!--end container-->
-
-              
-        <!-- jQuery -->
-        <script src="assets/js/jquery-3.2.1.min.js"></script>
-        
-        
-         <!-- Jvector map -->
-        <script src="assets/plugins/jvectormap/jquery-jvectormap-2.0.2.min.js"></script>
-        <script src="assets/plugins/jvectormap/jquery-jvectormap-world-mill-en.js"></script>
-        <script src="assets/plugins/jvectormap/gdp-data.js"></script>
-
-
-        <script src="assets/plugins/jvectormap/jquery-jvectormap.id.js"></script>
-        <script src="assets/pages/jquery.jvectormap.init.js"></script>
+      
 
