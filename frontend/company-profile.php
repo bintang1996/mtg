@@ -164,7 +164,7 @@
 								<!-- Doctor Meta -->		
 								<div class="doctor-meta">
 
-									<h5 class="h5-sm steelblue-color">Jonathan Barnes D.M.</h5>
+									<h5 class="h5-sm steelblue-color">Ibnu Affan</h5>
 									<span class="blue-color">Chief Medical Officer</span>
 
 									<p class="p-sm grey-color">Donec vel sapien augue integer turpis cursus porta, mauris sed
@@ -198,7 +198,7 @@
 								<!-- Doctor Meta -->		
 								<div class="doctor-meta">
 
-									<h5 class="h5-sm steelblue-color">Hannah Harper D.M.</h5>
+									<h5 class="h5-sm steelblue-color">Tari Pristiyani</h5>
 									<span class="blue-color">Anesthesiologist</span>
 
 									<p class="p-sm grey-color">Donec vel sapien augue integer turpis cursus porta, mauris sed
@@ -232,7 +232,7 @@
 								<!-- Doctor Meta -->		
 								<div class="doctor-meta">
 
-									<h5 class="h5-sm steelblue-color">Matthew Anderson D.M.</h5>
+									<h5 class="h5-sm steelblue-color">Eddy Santoso</h5>
 									<span class="blue-color">Cardiology</span>
 
 									<p class="p-sm grey-color">Donec vel sapien augue integer turpis cursus porta, mauris sed
@@ -266,7 +266,7 @@
 								<!-- Doctor Meta -->		
 								<div class="doctor-meta">
 
-									<h5 class="h5-sm steelblue-color">Megan Coleman D.M.</h5>
+									<h5 class="h5-sm steelblue-color">Horraizi Hosen</h5>
 									<span class="blue-color">Neurosurgeon</span>
 
 									<p class="p-sm grey-color">Donec vel sapien augue integer turpis cursus porta, mauris sed
