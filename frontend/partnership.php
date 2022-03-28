@@ -27,12 +27,12 @@
 
 <!-- INFO-4
 			============================================= -->
-			<section id="info-4" class="wide-100 info-section division" style="background-color:#FFFFFF;>
-				<div class="container" style="background-color:#FFFFFF;>
+			<section id="info-4" class="wide-100 info-section division">
+				<div class="container">
 
 
 					<!-- TOP ROW -->
-					<div class="top-row mb-80">
+					<div class="top-row mb-80"style="background-color:#FFFFFF;">
 						<div class="row d-flex align-items-center">
 
 
@@ -72,7 +72,7 @@
 
 
 					<!-- BOTTOM ROW -->
-					<div class="bottom-row">
+					<div class="bottom-row" style="background-color:#FFFFFF;">
 						<div class="row d-flex align-items-center">
 
 
