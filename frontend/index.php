@@ -450,7 +450,7 @@
 												<td><i class="fab fa-discourse"></i> Padang</td>
 											</tr>
 											</table>
-											</div>
+											</div><br><br>
 				
 					<!-- SECTION TITLE -->	
 					<div class="row">	
