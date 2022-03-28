@@ -323,66 +323,15 @@
 					<!-- SECTION TITLE -->	
 					<div class="row">	
 						<div class="col-lg-10 offset-lg-1 section-title">		
-
 							<!-- Title 	-->	
-							<h3 class="h3-md steelblue-color" style="color: #281E78;"><b>PRODUCT BRAND</b></h3>	
-
-							<!-- Text -->
-							<p>Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis libero at tempus, 
-							   blandit posuere ligula varius congue cursus porta feugiat
-							</p>
-										
+							<h3 class="h3-md steelblue-color" style="color: #281E78;"><b>PRODUCT BRAND</b></h3>								
 						</div> 
 					</div>
 				
 					
-					<!-- SERVICES CONTENT -->
-					<div class="row">
-						<div class="col-md-12">					
-							<div class="owl-carousel owl-theme services-holder">
-
-						
-								<!-- SERVICE BOX #1 -->
-								<div class="sbox-3">
-
-									
-										
-									<!-- Title -->
-									<h5 class="h5-xs steelblue-color">Pediatrics</h5>
-
-									<!-- Text -->
-									<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
-									   tempus feugiat dolor lacinia cubilia curae integer congue leo metus
-									</p>
-																																						
-								</div>
-
-
-						
-
-								<!-- SERVICE BOX #3 -->
-								<div class="sbox-3">
-
-							
-										
-									<!-- Title -->
-									<h5 class="h5-xs steelblue-color">Haematology</h5>
-
-									<!-- Text -->
-									<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
-									   tempus feugiat dolor lacinia cubilia curae integer congue leo metus
-									</p>
-																																						
-								</div>
-
-
-
-							
-							</div>
-						</div>									
-					</div>	<!-- END SERVICES CONTENT --> 
-							
-						
+				
+					
+					
 				</div>	   <!-- End container -->
 			</section>	 <!-- END SERVICES-3 -->	
 
