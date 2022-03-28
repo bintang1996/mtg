@@ -2,7 +2,7 @@
 
 			<!-- BREADCRUMB
 			============================================= -->
-			<div id="breadcrumb" class="division">
+			<div id="breadcrumb" class="division" style="background-color: white;">
 				<div class="container">
 					<div class="row">						
 						<div class="col">
@@ -107,7 +107,7 @@
                                 </div>
                                 </div>
                             </div>
-                            
+
 							</div>	
 						</div>	<!-- END TABS NAVIGATION -->
 
