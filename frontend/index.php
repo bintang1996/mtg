@@ -436,11 +436,11 @@
 											
 											</tr>
 											<tr>
-												<td><<i class="fa-solid fa-location-dot"></i> Jakarta</td>
+												<td><i class="fa-solid fa-location-dot"></i> Jakarta</td>
 												<td> </td>
 												<td><i class="fa-solid fa-hospital"></i> Bandung</td>
 												<td> </td>
-												<td><<i class="fa-solid fa-hospital"></i> Makassar</td>
+												<td><i class="fa-solid fa-hospital"></i> Makassar</td>
 											</tr>
 											<tr>
 												<td><i class="fa-solid fa-location-dot"></i> Surabaya</td>
