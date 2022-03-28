@@ -41,7 +41,7 @@
 			backgroundColor : 'transparent',
 			markers : 
 			[{
-				latLng : [-6.20, 106.816],
+				latLng : [-6.20, 106.81],
 				name : 'Vatican City'
 			}, 
 			{
