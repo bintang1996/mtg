@@ -82,8 +82,9 @@
 							<h3 class="h3-md steelblue-color">Our Leaders</h3>	
 
 							<!-- Text -->
-							<p>Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis libero at tempus, 
-							   blandit posuere ligula varius congue cursus porta feugiat
+							<p>The Board of Directors of Meditrans Global is fully committed to credible and transparent governance 
+								in order to be able to provide the best service, improve company performance and the company's 
+								contribution to all our stakeholders in the long term.
 							</p>
 										
 						</div> 
