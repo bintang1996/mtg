@@ -27,8 +27,8 @@
 
 <!-- INFO-4
 			============================================= -->
-			<section id="info-4" class="wide-100 info-section division">
-				<div class="container">
+			<section id="info-4" class="wide-100 info-section division" style="background-color:#FFFFFF;>
+				<div class="container" style="background-color:#FFFFFF;>
 
 
 					<!-- TOP ROW -->
