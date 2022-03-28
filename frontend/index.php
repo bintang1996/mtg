@@ -329,15 +329,7 @@
 					</div>
 					<div class="row d-flex align-items-center text-center">
 						<div class="col">
-							<?php
-							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d=mysqli_fetch_array($sql)){
-							?> 
-							
-							<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" max-width="200px" max-height="5px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
-							
-							
-							<?php }?>
+						
 							<?php
 							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 							while($d=mysqli_fetch_array($sql)){
