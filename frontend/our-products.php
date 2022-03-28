@@ -37,7 +37,23 @@
 
 				 		<!-- TABS NAVIGATION -->
 				 		<div class="col-lg-4">
-							
+                         <div id="collapseOne" class="collapse show" data-parent="#accordion">
+                                <div id="accordion">
+                                <div class="card">
+                                <div class="card-header">
+                                    <a class="card-link" data-toggle="collapse" href="#collapseOne">
+                                    Collapsible Group Item #1
+                                    </a>
+                                </div>
+                                
+                                <div id="tabs-nav" class="list-group text-center clearfix">
+							    <ul class="nav nav-pills" id="pills-tab" role="tablist">
+
+							    	<!-- TAB-1 LINK -->
+								  	<li class="nav-item icon-xs">
+								    	<a class="nav-link active" id="tab11-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
+								    		Routine Medical Care
+								    	</a>
 								  	</li>
 
 								  	<!-- TAB-2 LINK -->
@@ -62,27 +78,6 @@
 									</li>
 
 								</ul>
-                                <div id="accordion">
-                                <div class="card">
-                                <div id="tabs-nav" class="list-group text-center clearfix">
-							    <ul class="nav nav-pills" id="pills-tab" role="tablist">
-
-							    
-								    	
-                                <div class="card-header">
-                                    	<!-- TAB-1 LINK -->
-								  	<li class="nav-item icon-xs">
-                                    <a class="card-link" data-toggle="collapse" href="#collapseOne">
-                                    Collapsible Group Item #1
-                                    </a>
-</li>
-                                </div>
-                                <div id="collapseOne" class="collapse show" data-parent="#accordion">
-                                    <div class="card-body">
-                                    <a class="nav-link active" id="tab11-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
-								    		Routine Medical Care
-								    	</a>
-                                    </div>
                                 </div>
                                 </div>
                                 <div class="card">
