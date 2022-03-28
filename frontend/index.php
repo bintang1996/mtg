@@ -334,7 +334,7 @@
 							while($d=mysqli_fetch_array($sql)){
 							?> 
 							
-							<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="100px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>"></a>
+							<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>"></a>
 							
 							
 							<?php }?>
