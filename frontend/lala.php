@@ -238,27 +238,27 @@ var cities = [
 
   },
   {
-    title: "JAKARTA HEAD OFFICE",
-    latitude: -6.2,
-    longitude: 106.816,
+    title: "SITE BANDUNG",
+    latitude: -6.903,
+    longitude: 107.608,
     url: "https://www.google.com/maps/place/PT.+Meditrans+Global/@-2.9601349,119.3594472,15z/data=!4m6!3m5!1s0x0:0x2715ae49e66b9300!4b1!8m2!3d-6.2750118!4d106.8540065"
 
   },
   {
-    title: "Tokyo",
-    latitude: 35.6785,
-    longitude: 139.6823,
+    title: "SITE PALEMBANG",
+    latitude: -2.991,
+    longitude: 104.770,
     url: "http://www.google.co.jp"
   },
   {
-    title: "Ankara",
-    latitude: 39.9439,
-    longitude: 32.856
+    title: "SITE PADANG",
+    latitude: -0.934,
+    longitude: 100.251
   },
   {
-    title: "Buenos Aires",
-    latitude: -34.6118,
-    longitude: -58.4173
+    title: "SITE MAKASSAR",
+    latitude: -5.111,
+    longitude: 119.333
   }
   
 ];
