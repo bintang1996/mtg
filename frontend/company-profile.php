@@ -101,7 +101,7 @@
 								<div class="hover-overlay text-center"> 
 
 									<!-- Photo -->
-									<img class="img-fluid" src="images/doctor-1.jpg" alt="doctor-foto">	
+									<img class="img-fluid" src="images/ibnu.png" alt="doctor-foto">	
 									<div class="item-overlay"></div>
 
 									<!-- Profile Link -->		
@@ -139,7 +139,7 @@
 								<div class="hover-overlay text-center"> 
 
 									<!-- Photo -->
-									<img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">	
+									<img class="img-fluid" src="images/tari.png" alt="doctor-foto">	
 									<div class="item-overlay"></div>
 
 									<!-- Profile Link -->		
@@ -176,7 +176,7 @@
 								<div class="hover-overlay text-center"> 
 
 									<!-- Photo -->
-									<img class="img-fluid" src="images/doctor-3.jpg" alt="doctor-foto">	
+									<img class="img-fluid" src="images/eddy.png" alt="doctor-foto">	
 									<div class="item-overlay"></div>
 
 									<!-- Profile Link -->		
@@ -213,7 +213,7 @@
 								<div class="hover-overlay text-center"> 
 
 									<!-- Photo -->
-									<img class="img-fluid" src="images/doctor-4.jpg" alt="doctor-foto">	
+									<img class="img-fluid" src="images/roy.png" alt="doctor-foto">	
 									<div class="item-overlay"></div>
 
 									<!-- Profile Link -->		
