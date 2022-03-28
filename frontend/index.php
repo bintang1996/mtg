@@ -438,16 +438,16 @@
 											<tr>
 												<td><i class="fab fa-discourse"></i> Jakarta</td>
 												<td> </td>
-												<td><div class="sbox-3-icon"><span class="flaticon-placeholder"></span></div> Bandung</td>
+												<td><i class="fab fa-discourse"></i> Bandung</td>
 												<td> </td>
-												<td><div class="sbox-3-icon"><span class="flaticon-placeholder"></span></div> Makassar</td>
+												<td><i class="fab fa-discourse"></i> Makassar</td>
 											</tr>
 											<tr>
-												<td><div class="sbox-3-icon"><span class="flaticon-placeholder"></span></div> Surabaya</td>
+												<td><i class="fab fa-discourse"></i> Surabaya</td>
 												<td></td>
-												<td><div class="sbox-3-icon"><span class="flaticon-placeholder"></span></div> Palembang</td>
+												<td><i class="fab fa-discourse"></i> Palembang</td>
 												<td></td>
-												<td><div class="sbox-3-icon"><span class="flaticon-placeholder"></span></div> Padang</td>
+												<td><i class="fab fa-discourse"></i> Padang</td>
 											</tr>
 											</table>
 											</div>
