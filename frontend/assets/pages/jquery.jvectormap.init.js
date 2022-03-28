@@ -53,7 +53,7 @@
 
 
 		$('#india').vectorMap({
-			map : 'id_ID',
+			map : 'id_mill_ID',
 			normalizeFunction : 'polynomial',
 			hoverOpacity : 0.7,
 			hoverColor : false,
