@@ -10,6 +10,10 @@
 	var VectorMap = function() {
 	};
 
+
+
+
+	
 	VectorMap.prototype.init = function() {
 		//various examples
 		$('#world-map-markers').vectorMap({
@@ -47,7 +51,10 @@
 			{
 				latLng : [0.33, 6.73],
 				name : 'São Tomé and Príncipe'
-			}]
+			}],
+			onRegionLoad: function(e,  code,  isSelected,  selectedRegions){
+				$('#map').vectorMap('get','mapObject').setFocus({region: ID});
+			  }
 		});
 
 
@@ -103,3 +110,4 @@ function($) {
 	"use strict";
 	$.VectorMap.init()
 }(window.jQuery);
+
