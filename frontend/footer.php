@@ -1,123 +1,44 @@
 
 
+	<!-- SERVICES-3
+			============================================= -->
+			<section id="services-3" class="bg-lightgrey wide-100 services-section division" style="background-color:white;">
+				<div class="container">
 
+
+					<!-- SECTION TITLE -->	
+					<div class="row text-center">	
+						<div class="col">		
+							
+						<i class="fas fa-home" style="font-size:100px;"></i><BR><br><BR><B>ADDRESS</B><BR><BR><P>JL. MUNGGANG NO. 86 - 87 BALEKAMBANG,<BR>
+						KRAMAT JATI, JAKARTA TIMUR 13530<P>
+
+						</div> 
+						<div class="col">		
+							
+						<i class="fas fa-mobile" style="font-size:100px;"></i><BR><br><BR><B>PHONE</B><BR><BR><P>HOTLINE: (+62) 21 2204 7248<BR>
+						SERVICE CENTER: (+62) 81 28000 1102<P>							
+						</div> 
+						<div class="col">		
+						<i class="fas fa-envelope" style="font-size:100px;"></i><BR><br><BR><B>EMAIL</B><BR><BR><P>INFO@MEDITRANS.ID<BR>
+						CS@MEDITRANS.ID<P>
+														
+						</div> 
+					</div>
+				
+					
+				
+					
+					
+				</div>	   <!-- End container -->
+			</section>	 <!-- END SERVICES-3 -->
 			<!-- FOOTER-1
 			============================================= -->
 			<footer id="footer-1" class="wide-40 footer division" style="background-color:white;">
 				<div class="container">
 
 
-					<!-- FOOTER CONTENT -->
-					<div class="row">	
-
-
-						<!-- FOOTER INFO -->
-						<div class="col-md-6 col-lg-3">
-							<div class="footer-info mb-40">
-
-								<!-- Footer Logo -->
-								<!-- For Retina Ready displays take a image with double the amount of pixels that your image will be displayed (e.g 360 x 80  pixels) -->
-								<img src="images/logo-meditrans.png" width="200" alt="footer-logo">
-
-								<!-- Text -->	
-								<p class="p-sm mt-20">PT. Meditrans Global bergerak dibidang penyedia produk dan jasa dalam bidang kesehatan.
-								</p>  
-
-								<!-- Social Icons -->
-								<div class="footer-socials-links mt-20">
-									<ul class="foo-socials text-center clearfix">
-
-										<li><a href="https://www.facebook.com/meditrans.id" class="ico-facebook"><i class="fab fa-facebook-f"></i></a></li>
-										<li><a href="https://www.instagram.com/meditrans.id/" class="ico-instagram"><i class="fab fa-instagram"></i></a></li>	
-										<li><a href="https://www.linkedin.com/company/meditransglobal/" class="ico-linkedin"><i class="fab fa-linkedin"></i></a></li>
-										<li><a href="https://wa.me/+6281280001102" class="ico-whatsapp"><i class="fab fa-whatsapp"></i></a></li>			
-																																				
-										<!--
-										<li><a href="#" class="ico-behance"><i class="fab fa-behance"></i></a></li>	
-										<li><a href="#" class="ico-dribbble"><i class="fab fa-dribbble"></i></a></li>											
-										<li><a href="#" class="ico-instagram"><i class="fab fa-instagram"></i></a></li>	
-										<li><a href="#" class="ico-linkedin"><i class="fab fa-linkedin-in"></i></a></li>
-										<li><a href="#" class="ico-pinterest"><i class="fab fa-pinterest-p"></i></a></li>									
-										<li><a href="#" class="ico-youtube"><i class="fab fa-youtube"></i></a></li>											
-										<li><a href="#" class="ico-vk"><i class="fab fa-vk"></i></a></li>
-										<li><a href="#" class="ico-yelp"><i class="fab fa-yelp"></i></a></li>
-										<li><a href="#" class="ico-yahoo"><i class="fab fa-yahoo"></i></a></li>
-									    -->	
-
-									</ul>									
-								</div>	
-							
-							</div>		
-						</div>
-
-
-						<!-- FOOTER CONTACTS -->
-						<div class="col-md-6 col-lg-3">
-							<div class="footer-box mb-40">
-							
-								<!-- Title -->
-								<h5 class="h5-xs">Head Office Jakarta</h5>
-
-								<!-- Address -->
-                                
-								<p>Jl. Munggang No. 86-87 Balekambang, Kramat Jati,</p> 
-								<p>Jakarta Timur 13530 Indonesia</p><br><br>
-								
-                                <h5 class="h5-xs">Head Office Surabaya</h5>
-								<p>Rungkut Menanggal Harapan Blok O No. 28</p> 
-								<p>Surabaya 60293 Indonesia</p>
-
-							</div>
-						</div>
-
-
-						<!-- FOOTER JAM OPERASIONAL -->
-						<div class="col-md-6 col-lg-3">
-							<div class="footer-box mb-40">
-							
-                                <h5 class="h5-xs">Kantor Cabang</h5>
-								<p>Bandung, Palembang, Padang, dan Makassar</p><br><br> 
-								
-
-								<!-- Title -->
-								<h5 class="h5-xs">Jam Operasional</h5>
-
-								<!-- JAM OPERASIONAL -->
-								<p class="p-sm">Senin - Jumat - <span>8:00 - 17:00</span></p>
-								<p class="p-sm">Sabtu - Minggu - <span>Tutup</span></p>
-                                
-                                
-
-							</div>
-						</div>
-
-
-						<!-- FOOTER PHONE NUMBER -->
-						<div class="col-md-6 col-lg-3">
-							<div class="footer-box mb-40">
-												
-								<!-- Title -->
-								<h5 class="h5-xs">Hotline Keluhan Pelanggan</h5>
-
-								<!-- Footer List -->
-								<h5 class="h5-xl blue-color">(+62) 21 2204 7248</h5>
-
-								<!-- Text -->	
-								<p class="p-sm mt-15">Penyampaian keluhan pelanggan bisa dilakukan dengan menghubungi nomor di atas.
-								</p> 																												
-
-                                <!-- Email -->
-								<p class="foo-email mt-20">E: <a href="mailto:cs@meditransglobal.co.id">cs@meditransglobal.co.id</a></p>
-
-                                <!-- Phone -->
-                                <p>P: +62 812 8000 1102</p>
-							</div>
-						</div>	
-
-
-					</div>	  <!-- END FOOTER CONTENT -->
-
-
+				
 					<!-- FOOTER COPYRIGHT -->
 					<div class="bottom-footer">
 						<div class="row">
