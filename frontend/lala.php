@@ -28,7 +28,6 @@ root.setThemes([
 ]);
 
 
-
 // Create the map chart
 // https://www.amcharts.com/docs/v5/charts/map-chart/
 var chart = root.container.children.push(am5map.MapChart.new(root, {
@@ -44,14 +43,12 @@ var chart = root.container.children.push(am5map.MapChart.new(root, {
 // https://www.amcharts.com/docs/v5/charts/map-chart/map-polygon-series/
 var polygonSeries = chart.series.push(am5map.MapPolygonSeries.new(root, {
   geoJSON: am5geodata_worldLow,
-  exclude: ["ID"]
+  exclude: ["AQ"]
 }));
 
 // Add zoom control
 // https://www.amcharts.com/docs/v5/charts/map-chart/map-pan-zoom/#Zoom_control
-chart.events.on("ready", function(ev) {
-  chart.zoomToMapObject(polygonSeries.getPolygonById("ID"));
-})
+chart.set("zoomControl", am5map.ZoomControl.new(root, {}));
 
 
 // Set clicking on "water" to zoom out
