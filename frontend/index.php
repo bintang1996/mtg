@@ -432,7 +432,7 @@
 											
 											<table>
 											<tr>
-												<th colspan="5"><h4 style="color: #281E78;">><b>TEMUKAN KAMI DI KOTA ANDA!</b></h4></th>
+												<th colspan="5"><h4 style="color: #281E78;"><b>TEMUKAN KAMI DI KOTA ANDA!</b></h4></th>
 											
 											</tr>
 											<tr>
