@@ -165,10 +165,14 @@
 								<div class="doctor-meta">
 
 									<h5 class="h5-sm steelblue-color">Ibnu Affan</h5>
-									<span class="blue-color">Chief Medical Officer</span>
+									<span class="blue-color">Chief Executive Officer</span>
 
-									<p class="p-sm grey-color">Donec vel sapien augue integer turpis cursus porta, mauris sed
-									   augue luctus magna dolor luctus ipsum neque
+									<p class="p-sm grey-color">CEO of Heartology is start up of a premium cardiovascular services 
+																Former CEO of SMU Healthcare which co-founder the business
+																Prior to co-founding SMU, He was in GE Healthcare (11 Years) and Phillips 
+																Healthcare (8 Years) with deep domination expertise in diagnostic Imaging 
+																and cardiology and very strong government and private Hospitals Network
+																Earned a bachelor’s Engineering Physics Degree – ITS Surabaya
 									</p>
 
 								</div>	
@@ -199,7 +203,7 @@
 								<div class="doctor-meta">
 
 									<h5 class="h5-sm steelblue-color">Tari Pristiyani</h5>
-									<span class="blue-color">Anesthesiologist</span>
+									<span class="blue-color">Director of Operation and Marketing</span>
 
 									<p class="p-sm grey-color">Donec vel sapien augue integer turpis cursus porta, mauris sed
 									   augue luctus magna dolor luctus ipsum neque
@@ -233,7 +237,7 @@
 								<div class="doctor-meta">
 
 									<h5 class="h5-sm steelblue-color">Eddy Santoso</h5>
-									<span class="blue-color">Cardiology</span>
+									<span class="blue-color">Director of Sales</span>
 
 									<p class="p-sm grey-color">Donec vel sapien augue integer turpis cursus porta, mauris sed
 									   augue luctus magna dolor luctus ipsum neque
@@ -267,7 +271,7 @@
 								<div class="doctor-meta">
 
 									<h5 class="h5-sm steelblue-color">Horraizi Hosen</h5>
-									<span class="blue-color">Neurosurgeon</span>
+									<span class="blue-color">Director of Engineering</span>
 
 									<p class="p-sm grey-color">Donec vel sapien augue integer turpis cursus porta, mauris sed
 									   augue luctus magna dolor luctus ipsum neque
