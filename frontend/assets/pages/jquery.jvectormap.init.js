@@ -55,6 +55,8 @@
 		$('#india').vectorMap({
 			map : 'id_ID',
 			backgroundColor : '#87CEFA',
+			normalizeFunction : 'polynomial',
+			hoverOpacity : 0.7,
 			regionStyle : {
 				initial : {
 					fill : '#8aa678'
