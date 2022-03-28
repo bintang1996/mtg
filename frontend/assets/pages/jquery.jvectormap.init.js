@@ -79,11 +79,11 @@
 			backgroundColor : 'transparent',
 			markers : 
 			[{
-				latLng : [-6.200000, 106.816666],
+				latLng : [-6.20, 106.81],
 				name : 'Jakarta'
 			}, 
 			{
-				latLng : [-7.257472, 112.752090],
+				latLng : [-7.25, 112.75],
 				name : 'Surabaya'
 			}]
 		});
