@@ -413,7 +413,7 @@
 
 
 					<!-- SECTION TITLE -->	
-					<div class="row">	
+					<div class="row text-center">	
 						<div class="col">		
 							
 						<i class="fas fa-home"></i><br><B>ADDRESS</B><BR><P>JL. MUNGGANG NO. 86 - 87 BALEKAMBANG,<BR>
