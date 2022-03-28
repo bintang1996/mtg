@@ -444,7 +444,7 @@
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Pediatrics</h5>
+												<h5 class="h5-sm steelblue-color">Loyalty</h5>
 													
 												<!-- Text -->
 												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
@@ -470,7 +470,7 @@
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Neurology</h5>
+												<h5 class="h5-sm steelblue-color">Honesty</h5>
 													
 												<!-- Text -->
 												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
@@ -496,7 +496,7 @@
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Haematology</h5>
+												<h5 class="h5-sm steelblue-color">Trust</h5>
 													
 												<!-- Text -->
 												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
@@ -522,7 +522,7 @@
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">X-Ray Diagnostic</h5>
+												<h5 class="h5-sm steelblue-color">Ingenuity</h5>
 													
 												<!-- Text -->
 												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
@@ -548,7 +548,7 @@
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Cardiology</h5>
+												<h5 class="h5-sm steelblue-color">Accountability</h5>
 													
 												<!-- Text -->
 												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
@@ -574,7 +574,7 @@
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">MRI Diagnostics</h5>
+												<h5 class="h5-sm steelblue-color">Simplicity</h5>
 													
 												<!-- Text -->
 												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
@@ -600,7 +600,7 @@
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Laboratory Services</h5>
+												<h5 class="h5-sm steelblue-color">Respect</h5>
 													
 												<!-- Text -->
 												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
@@ -626,7 +626,7 @@
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Emergency Help</h5>
+												<h5 class="h5-sm steelblue-color">Passion</h5>
 													
 												<!-- Text -->
 												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
