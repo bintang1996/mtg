@@ -28,7 +28,7 @@
 			</div>	<!-- END BREADCRUMB -->	
 	<!-- DOCTORS-1
 			============================================= -->
-			<section id="doctors-1" class="wide-40 doctors-section division">
+			<section id="doctors-1" class="wide-40 doctors-section division" style="background-color:white;">
 				<div class="container">
 
 
