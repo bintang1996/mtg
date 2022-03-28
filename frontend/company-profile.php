@@ -275,11 +275,8 @@
 								<h4 class="h4-xs">VISI</h4>
 
 								<!-- Text -->
-								<p>Porta semper lacus cursus and feugiat primis ultrice ligula risus auctor tempus feugiat
-								   and dolor lacinia cursus turpis dolores ut aliquam a quaerat sodales sapien pretium
-
-								   Porta semper lacus cursus and feugiat primis ultrice ligula risus auctor tempus feugiat
-								   and dolor lacinia cursus turpis dolores ut aliquam a quaerat sodales sapien pretium
+								<p>Menjadi Penyedia Barang dan Jasa yang terpercaya dan dapat diandalkan serta berkomitmen 
+									tinggi dalam mengedepankan aspek Kualitas, Harga dan Keselamatan dan Kerja.
 								</p>
 							</div>	
 						</div>	
@@ -291,11 +288,9 @@
 								<h4 class="h4-xs">MISI</h4>
 
 								<!-- Text -->
-								<p>Porta semper lacus cursus and feugiat primis ultrice ligula risus auctor tempus feugiat
-								   and dolor lacinia cursus turpis dolores ut aliquam a quaerat sodales sapien pretium
-
-								   Porta semper lacus cursus and feugiat primis ultrice ligula risus auctor tempus feugiat
-								   and dolor lacinia cursus turpis dolores ut aliquam a quaerat sodales sapien pretium
+								<p>Membangun perusahaan yang mampu menciptakan lapangan kerja berkualitas bagi sebanyak 
+									mungkin rakyat Indonesia, dengan mengusung nilai-nilai kompetensi, tumbuh dan berkembang 
+									serta standard yang tinggi.
 								</p>
 							</div>	
 						</div>
