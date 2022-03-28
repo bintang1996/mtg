@@ -120,15 +120,7 @@
 			}]
 		});
 
-		$('#usa').vectorMap({
-			map : 'us_aea_en',
-			backgroundColor : 'transparent',
-			regionStyle : {
-				initial : {
-					fill : '#4489e4'
-				}
-			}
-		});
+
 
 		$('#india').vectorMap({
 			map : 'id_ID',
@@ -140,59 +132,8 @@
 			}
 		});
 
-
-
-		$('#chicago').vectorMap({
-			map : 'us-il-chicago_mill_en',
-			backgroundColor : 'transparent',
-			regionStyle : {
-				initial : {
-					fill : '#f5d479'
-				}
-			}
-		});
-
-
-		$('#australia').vectorMap({
-			map : 'au_mill',
-			backgroundColor : 'transparent',
-			regionStyle : {
-				initial : {
-					fill : '#003366'
-				}
-			}
-		});
 		
-		
-		$('#canada').vectorMap({
-			map : 'ca_lcc',
-			backgroundColor : 'transparent',
-			regionStyle : {
-				initial : {
-					fill : '#ed879c'
-				}
-			}
-		});
-		
-		$('#germany').vectorMap({
-			map : 'de_mill',
-			backgroundColor : 'transparent',
-			regionStyle : {
-				initial : {
-					fill : '#ee88cd'
-				}
-			}
-		});
-		
-		$('#asia').vectorMap({
-			map : 'asia_mill',
-			backgroundColor : 'transparent',
-			regionStyle : {
-				initial : {
-					fill : '#7382b3'
-				}
-			}
-		});
+
 	},
 	//init
 	$.VectorMap = new VectorMap, $.VectorMap.Constructor =
