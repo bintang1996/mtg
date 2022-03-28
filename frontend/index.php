@@ -344,7 +344,7 @@
 					<div class="row">	
 						<div class="col-lg-10 offset-lg-1 section-title">		
 							<!-- Title 	-->	
-							<h3 class="h3-md steelblue-color" style="color: #281E78;"><b>OUR STORIES, NEWS, EDUCATION, & RECENT POST</b></h3>								
+							<h4 class="h3-md steelblue-color" style="color: #281E78;"><b>OUR STORIES, NEWS, EDUCATION, & RECENT POST</b></h4>								
 						</div> 
 					</div>
 				
