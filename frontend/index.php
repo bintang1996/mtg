@@ -348,7 +348,8 @@
 						</div> 
 					</div>
 				
-					
+					<div class="row">
+			</div>
 				
 					
 					
@@ -377,7 +378,25 @@
 						<img src="images/map1.png" width="100%" alt="testimonial-avatar">
 					</div>	
 
-						
+					<div class="row">
+											
+					<table>
+					<tr>
+						<th colspan="3">First Name</th>
+					
+					</tr>
+					<tr>
+						<td>Hillary</td>
+						<td>Nyakundi</td>
+						<td>tables@mail.com</td>
+					</tr>
+					<tr>
+						<td>Lary</td>
+						<td>Mak</td>
+						<td>developer@mail.com</td>
+					</tr>
+					</table>
+					</div>
 				</div>	   <!-- End container -->
 			</section>	 <!-- END TESTIMONIALS-2 -->
 
