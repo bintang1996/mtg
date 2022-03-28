@@ -42,9 +42,7 @@
 
 							    	<!-- TAB-1 LINK -->
 								  	<li class="nav-item icon-xs">
-								    	<a class="nav-link active" id="tab11-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
-								    		Routine Medical Care
-								    	</a>
+								    	
 								  	</li>
 
 								  	<!-- TAB-2 LINK -->
@@ -78,7 +76,9 @@
                                 </div>
                                 <div id="collapseOne" class="collapse show" data-parent="#accordion">
                                     <div class="card-body">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                    <a class="nav-link active" id="tab11-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
+								    		Routine Medical Care
+								    	</a>
                                     </div>
                                 </div>
                                 </div>
