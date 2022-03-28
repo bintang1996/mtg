@@ -640,11 +640,11 @@
 						<div class="col-lg-10 offset-lg-1 section-title">		
 
 							<!-- Title 	-->	
-							<h3 class="h3-md steelblue-color">Our Medical Specialists</h3>	
+							<h3 class="h3-md steelblue-color">Our Network</h3>	
 
 							<!-- Text -->
-							<p>Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis libero at tempus, 
-							   blandit posuere ligula varius congue cursus porta feugiat
+							<p>We are trusted to distributed and ........................, 
+								..........................................................
 							</p>
 										
 						</div> 
