@@ -12,12 +12,12 @@
 								<nav aria-label="breadcrumb">
 								  	<ol class="breadcrumb">
 								    	<li class="breadcrumb-item"><a href="index.html">Home</a></li>
-								    	<li class="breadcrumb-item active" aria-current="page">Our Services</li>
+								    	<li class="breadcrumb-item active" aria-current="page">Our Products</li>
 								  	</ol>
 								</nav>
 
 								<!-- Title -->
-								<h4 class="h4-sm steelblue-color">Our Services</h4>
+								<h4 class="h4-sm steelblue-color">Our Products</h4>
 
 							</div>
 						</div>
