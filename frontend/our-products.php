@@ -37,7 +37,7 @@
 
 				 		<!-- TABS NAVIGATION -->
 				 		<div class="col-lg-4">
-                         <div id="collapseOne" class="collapse show" data-parent="#accordion">
+							
                                 <div id="accordion">
                                 <div class="card">
                                 <div class="card-header">
@@ -45,7 +45,7 @@
                                     Collapsible Group Item #1
                                     </a>
                                 </div>
-                                
+                                <div id="collapseOne" class="collapse show" data-parent="#accordion">
                                 <div id="tabs-nav" class="list-group text-center clearfix">
 							    <ul class="nav nav-pills" id="pills-tab" role="tablist">
 
