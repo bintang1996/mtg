@@ -51,7 +51,7 @@ var polygonSeries = chart.series.push(am5map.MapPolygonSeries.new(root, {
 // https://www.amcharts.com/docs/v5/charts/map-chart/map-pan-zoom/#Zoom_control
 chart.events.on("ready", function(ev) {
   chart.zoomToMapObject(polygonSeries.getPolygonById("ID"));
-});
+})
 
 
 // Set clicking on "water" to zoom out
