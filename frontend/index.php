@@ -363,7 +363,7 @@
 
 			<!-- TESTIMONIALS-2
 			============================================= -->
-			<section id="reviews-2" class="bg-lightgrey wide-100 reviews-section division" style="padding-top:50px;">
+			<section id="reviews-2" class="bg-lightgrey wide-100 reviews-section division" style="padding-top:50px; padding-bottom:50px;">
 				<div class="container">
 
 				<div class="row">	
