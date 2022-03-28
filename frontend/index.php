@@ -330,7 +330,7 @@
 					<div class="row d-flex align-items-center text-center">
 						<div class="col">
 							<?php
-							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category order by id") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 							while($d=mysqli_fetch_array($sql)){
 							?> 
 							
