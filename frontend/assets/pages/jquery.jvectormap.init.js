@@ -141,7 +141,7 @@
 		});
 
 		$('#uk').vectorMap({
-			map : 'id_ID',
+			map : 'id_mill',
 			backgroundColor : 'transparent',
 			regionStyle : {
 				initial : {
