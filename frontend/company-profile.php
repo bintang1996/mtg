@@ -356,4 +356,281 @@
 
 			</section>	<!-- END VISI-MISI -->
 
+
+			<!-- COMPANY-VALUES
+			============================================= -->
+			<section id="services-7" class="bg-lightgrey wide-70 servicess-section division">
+				<div class="container">
+					<div class="row">
+
+
+						<!-- SERVICE BOXES -->	
+						<div class="col-lg-8">
+							<div class="row">
+
+
+								<!-- SERVICE BOX #1 -->
+			 					<div class="col-md-6">
+			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.4s">
+			 							<a href="service-1.html">
+
+				 							<!-- Icon -->
+											<span class="flaticon-083-stethoscope blue-color"></span>
+
+											<!-- Text -->
+											<div class="sbox-7-txt">
+				
+												<!-- Title -->
+												<h5 class="h5-sm steelblue-color">Pediatrics</h5>
+													
+												<!-- Text -->
+												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
+												   auctor tempus feugiat dolor
+												</p>
+
+											</div>
+
+										</a>
+			 						</div>
+			 					</div>  <!-- END SERVICE BOX #1 -->
+
+
+			 					<!-- SERVICE BOX #2 -->
+			 					<div class="col-md-6">
+			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.6s">
+			 							<a href="service-2.html">
+
+				 							<!-- Icon -->
+											<span class="flaticon-047-head blue-color"></span>
+
+											<!-- Text -->
+											<div class="sbox-7-txt">
+				
+												<!-- Title -->
+												<h5 class="h5-sm steelblue-color">Neurology</h5>
+													
+												<!-- Text -->
+												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
+												   auctor tempus feugiat dolor
+												</p>
+
+											</div>
+
+				 						</a>
+			 						</div>
+			 					</div>  <!-- END SERVICE BOX #2 -->
+
+
+			 					<!-- SERVICE BOX #3 -->
+			 					<div class="col-md-6">
+			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.4s">
+			 							<a href="service-1.html">
+
+				 							<!-- Icon -->
+											<span class="flaticon-015-blood-donation-1 blue-color"></span>
+
+											<!-- Text -->
+											<div class="sbox-7-txt">
+				
+												<!-- Title -->
+												<h5 class="h5-sm steelblue-color">Haematology</h5>
+													
+												<!-- Text -->
+												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
+												   auctor tempus feugiat dolor
+												</p>
+
+											</div>
+
+				 						</a>
+			 						</div>
+			 					</div>  <!-- END SERVICE BOX #3-->
+
+
+			 					<!-- SERVICE BOX #4 -->
+			 					<div class="col-md-6">
+			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.6s">
+			 							<a href="service-2.html">
+
+				 							<!-- Icon -->
+											<span class="flaticon-048-lungs blue-color"></span>
+
+											<!-- Text -->
+											<div class="sbox-7-txt">
+				
+												<!-- Title -->
+												<h5 class="h5-sm steelblue-color">X-Ray Diagnostic</h5>
+													
+												<!-- Text -->
+												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
+												   auctor tempus feugiat dolor
+												</p>
+
+											</div>
+
+				 						</a>
+			 						</div>
+			 					</div>  <!-- END SERVICE BOX #4 -->
+
+
+			 					<!-- SERVICE BOX #5 -->
+			 					<div class="col-md-6">
+			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.4s">
+			 							<a href="service-1.html">
+
+				 							<!-- Icon -->
+											<span class="flaticon-060-cardiogram-4 blue-color"></span>
+
+											<!-- Text -->
+											<div class="sbox-7-txt">
+				
+												<!-- Title -->
+												<h5 class="h5-sm steelblue-color">Cardiology</h5>
+													
+												<!-- Text -->
+												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
+												   auctor tempus feugiat dolor
+												</p>
+
+											</div>
+
+				 						</a>
+			 						</div>
+			 					</div>  <!-- END SERVICE BOX #5 -->
+
+
+			 					<!-- SERVICE BOX #6 -->
+			 					<div class="col-md-6">
+			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.6s">
+			 							<a href="service-2.html">
+
+				 							<!-- Icon -->
+											<span class="flaticon-031-scanner blue-color"></span>
+
+											<!-- Text -->
+											<div class="sbox-7-txt">
+				
+												<!-- Title -->
+												<h5 class="h5-sm steelblue-color">MRI Diagnostics</h5>
+													
+												<!-- Text -->
+												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
+												   auctor tempus feugiat dolor
+												</p>
+
+											</div>
+
+										</a>
+			 						</div>
+			 					</div>  <!-- END SERVICE BOX #6 -->
+
+
+			 					<!-- SERVICE BOX #7 -->
+			 					<div class="col-md-6">
+			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.4s">
+			 							<a href="service-1.html">
+
+				 							<!-- Icon -->
+											<span class="flaticon-076-microscope blue-color"></span>
+
+											<!-- Text -->
+											<div class="sbox-7-txt">
+				
+												<!-- Title -->
+												<h5 class="h5-sm steelblue-color">Laboratory Services</h5>
+													
+												<!-- Text -->
+												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
+												   auctor tempus feugiat dolor
+												</p>
+
+											</div>
+
+				 						</a>
+			 						</div>
+			 					</div>  <!-- END SERVICE BOX #7 -->
+
+
+			 					<!-- SERVICE BOX #8 -->
+			 					<div class="col-md-6">
+			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.6s">
+			 							<a href="service-2.html">
+
+				 							<!-- Icon -->
+											<span class="flaticon-068-ambulance-3 blue-color"></span>
+
+											<!-- Text -->
+											<div class="sbox-7-txt">
+				
+												<!-- Title -->
+												<h5 class="h5-sm steelblue-color">Emergency Help</h5>
+													
+												<!-- Text -->
+												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
+												   auctor tempus feugiat dolor
+												</p>
+
+											</div>
+
+										</a>
+			 						</div>
+			 					</div>  <!-- END SERVICE BOX #8 -->
+
+			 					
+	 						</div>
+						</div>	<!-- END SERVICE BOXES -->	
+
+
+						<!-- INFO TABLE -->
+						<div class="col-lg-4">
+							<div class="services-7-table blue-table mb-30 wow fadeInUp" data-wow-delay="0.6s">
+
+								<!-- Title -->
+								<h4 class="h4-xs">Opening Hours:</h4>
+
+								<!-- Text -->
+								<p class="p-sm">Porta semper lacus cursus and feugiat primis ultrice ligula risus auctor
+								   tempus feugiat and dolor lacinia cursus
+								</p>
+
+								<!-- Table -->
+								<table class="table">
+									<tbody>
+									    <tr>
+									      	<td>Mon – Wed</td>
+									      	<td> - </td>
+									      	<td class="text-right">9:00 AM - 7:00 PM</td>
+									    </tr>
+									    <tr>
+									      	<td>Thursday</td>
+									      	<td> - </td>
+									      	<td class="text-right">9:00 AM - 6:30 PM</td>
+									    </tr>
+									     <tr>
+									      	<td>Friday</td>
+									      	<td> - </td>
+									      	<td class="text-right">9:00 AM - 6:00 PM</td>
+									    </tr>
+									    <tr class="last-tr">
+									      	<td>Sun - Sun</td>
+									      	<td>-</td>
+									      	<td class="text-right">CLOSED</td>
+									   	 </tr>
+									  </tbody>
+								</table>
+
+								<!-- Title -->
+								<h5 class="h5-sm">Need a personal health plan?</h5>
+
+								<!-- Text -->
+								<p class="p-sm">Porta semper lacus cursus, and feugiat primis ultrice ligula at risus auctor</p>
+
+							</div>	
+						</div>	<!-- END INFO TABLE -->
+
+						
+					</div>    <!-- End row -->
+				</div>	   <!-- End container -->
+			</section>	<!-- END COMPANY-VALUES -->
+
 <?php include "footer.php";?>
