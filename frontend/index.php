@@ -335,7 +335,25 @@
 				</div>	   <!-- End container -->
 			</section>	 <!-- END SERVICES-3 -->	
 
+			============================================= -->
+			<section id="services-3" class="bg-lightgrey wide-100 services-section division" style="background-color:#ececec;">
+				<div class="container">
 
+
+					<!-- SECTION TITLE -->	
+					<div class="row">	
+						<div class="col-lg-10 offset-lg-1 section-title">		
+							<!-- Title 	-->	
+							<h3 class="h3-md steelblue-color" style="color: #281E78;"><b>OUR STORIES, NEWS, EDUCATION, & RECENT POST</b></h3>								
+						</div> 
+					</div>
+				
+					
+				
+					
+					
+				</div>	   <!-- End container -->
+			</section>	 <!-- END SERVICES-3 -->	
 
 
 		
