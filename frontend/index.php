@@ -436,7 +436,7 @@
 											
 											</tr>
 											<tr>
-												<td><div class="sbox-3-icon"><span class="flaticon-placeholder"></span></div> Jakarta</td>
+												<td><i class="bi bi-bag"></i> Jakarta</td>
 												<td> </td>
 												<td><div class="sbox-3-icon"><span class="flaticon-placeholder"></span></div> Bandung</td>
 												<td> </td>
