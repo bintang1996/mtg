@@ -398,7 +398,7 @@
 				
 					<!-- SECTION TITLE -->	
 					<div class="row">	
-						<img src="images/map1.png" width="100%" alt="testimonial-avatar">
+						<?php include "lala.php";?>
 					</div>	
 
 
