@@ -81,7 +81,7 @@
 			
 			markers : 
 			[{
-				latLng : [-6.20, 106.81],
+				latLng : [1.3, 103.8],
 				name : 'Jakarta'
 			}, 
 			{
