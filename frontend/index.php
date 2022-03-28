@@ -412,7 +412,7 @@
 				
 					<!-- SECTION TITLE -->	
 					<div class="row">	
-						<img src="images/map1.png" width="100%" alt="testimonial-avatar">
+						<img src="images/mapfix.png" width="100%" alt="testimonial-avatar">
 					</div>	
 
 						
