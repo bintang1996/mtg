@@ -417,7 +417,7 @@
 												</div>	<!-- End Options List -->
 
 												<!-- Button -->
-												<a href="service-1.html" class="btn btn-blue blue-hover mt-30">Lebih Lanjut Tentang Kerjasama</a>
+												<a href="service-1.html" class="btn btn-blue blue-hover mt-30">Lebih Lanjut Tentang Kerjasama KSO</a>
 
 											</div>	
 										</div>	<!-- END TAB-1 TEXT -->
@@ -505,7 +505,7 @@
 												</div>	<!-- End Options List -->
 
 												<!-- Button -->
-												<a href="service-2.html" class="btn btn-blue blue-hover mt-30">Lebih Lanjut Tentang Kerjasama</a>
+												<a href="service-2.html" class="btn btn-blue blue-hover mt-30">Lebih Lanjut Tentang Kerjasama KSO</a>
 
 											</div>	
 										</div>	<!-- END TAB-2 TEXT -->
@@ -593,7 +593,7 @@
 												</div>	<!-- End Options List -->
 
 												<!-- Button -->
-												<a href="service-1.html" class="btn btn-blue blue-hover mt-30">Lebih Lanjut Tentang Kerjasama</a>
+												<a href="service-1.html" class="btn btn-blue blue-hover mt-30">Lebih Lanjut Tentang Kerjasama KSO</a>
 
 											</div>	
 										</div>	<!-- END TAB-3 TEXT -->
@@ -681,7 +681,7 @@
 												</div>	<!-- End Options List -->
 
 												<!-- Button -->
-												<a href="service-2.html" class="btn btn-blue blue-hover mt-30">Lebih Lanjut Tentang Kerjasama</a>
+												<a href="service-2.html" class="btn btn-blue blue-hover mt-30">Lebih Lanjut Tentang Kerjasama KSO</a>
 
 											</div>	
 										</div>	<!-- END TAB-4 TEXT -->
