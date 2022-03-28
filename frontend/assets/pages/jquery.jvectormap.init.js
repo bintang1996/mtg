@@ -140,15 +140,7 @@
 			}
 		});
 
-		$('#uk').vectorMap({
-			map : 'id_mill',
-			backgroundColor : 'transparent',
-			regionStyle : {
-				initial : {
-					fill : '#df8f87'
-				}
-			}
-		});
+
 
 		$('#chicago').vectorMap({
 			map : 'us-il-chicago_mill_en',
