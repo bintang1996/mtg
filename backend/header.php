@@ -61,6 +61,16 @@
                         </div>
                     </li>
                     <li class="menu-item has-submenu">
+                        <a class="menu-link" href="product-page.php">
+                        <i class="icon material-icons md-stars"></i> 
+                            <span class="text">Product Brands</span>
+                        </a>
+                        <div class="submenu">
+                            <a href="product-page.php">Product</a>
+                            <a href="category-page.php">Categories</a>
+                        </div>
+                    </li>
+                    <li class="menu-item has-submenu">
                         <a class="menu-link" href="page-orders-1.html">
                             <i class="icon material-icons md-shopping_cart"></i>
                             <span class="text">Orders</span>
@@ -122,9 +132,7 @@
                             <span class="text">Reviews</span>
                         </a>
                     </li>
-                    <li class="menu-item">
-                        <a class="menu-link" href="page-brands.html"> <i class="icon material-icons md-stars"></i> <span class="text">Brands</span> </a>
-                    </li>
+                 
                     <li class="menu-item">
                         <a class="menu-link" disabled href="#">
                             <i class="icon material-icons md-pie_chart"></i>
