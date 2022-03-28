@@ -84,7 +84,7 @@
 
 				<!-- MOBILE HEADER -->
 			    <div class="wsmobileheader clearfix">
-			    	<a id="wsnavtoggle" class="wsanimated-arrow"><span></span></a>
+			    	<a href ="index.php" id="wsnavtoggle" class="wsanimated-arrow"><span></span></a>
 			    	<span class="smllogo"><img src="images/logo-meditrans.png" width="180" height="40" alt="mobile-logo"/></span>
 			    	<a href="tel:123456789" class="callusbtn"><i class="fas fa-phone"></i></a>
 			 	</div>
@@ -120,7 +120,7 @@
 
     					<!-- LOGO IMAGE -->
     					<!-- For Retina Ready displays take a image with double the amount of pixels that your image will be displayed (e.g 360 x 80 pixels) -->
-    					<div class="desktoplogo"><a href="#hero-1"><img src="images/logo-meditrans.png"  width="200"  alt="header-logo"></a></div>
+    					<div class="desktoplogo"><a href ="index.php"><img src="images/logo-meditrans.png"  width="200"  alt="header-logo"></a></div>
 
     					<!-- MAIN MENU -->
       					<nav class="wsmenu clearfix">
