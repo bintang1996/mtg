@@ -403,7 +403,13 @@
 			<section id="reviews-2" class="bg-lightgrey wide-100 reviews-section division">
 				<div class="container">
 
-
+				<div class="row">	
+						<div class="col-lg-10 offset-lg-1 section-title">		
+							<!-- Title 	-->	
+							<h3 class="h3-md steelblue-color" style="color: #281E78;"><b>PRODUCT BRAND</b></h3>								
+						</div> 
+					</div>
+				
 					<!-- SECTION TITLE -->	
 					<div class="row">	
 						<img src="images/maps1.png" width="100%" alt="testimonial-avatar">
