@@ -35,7 +35,7 @@
 						<!-- IMAGE BLOCK -->
 						<div class="col-lg-6">
 							<div class="info-1-img text-center mb-40 wow fadeInUp" data-wow-delay="0.6s">
-								<img class="img-fluid" src="images/image-11.png" alt="info-image">
+								<img class="img-fluid" src="images/meditrans-office-ps2.png" alt="info-image">
 							</div>
 						</div>
 
@@ -57,56 +57,6 @@
 
 								Selain itu kami juga berpengalaman dalam hal Konstruksi dan Renovasi untuk ruangan Operasi, ruang radiologi yang membutuhkan instalasi anti radiasi (Timbal Pb) maupun struktur penguat lantai dan rangka atas. Team kami sudah sangat berpengalaman dikarenakan kami sudah banyak bekerjasama dengan perusahaan besar seperti Aneka Gas, Siemens Healthcare, GE Healthcare dan banyak Rumah Sakit Pemerintah ataupun Swasta.
 								</p>
-
-								<!-- Options List -->
-								<div class="row">
-
-									<div class="col-xl-6">
-
-										<!-- Option #1 -->
-										<div class="box-list m-top-15">							
-											<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-											<p class="p-sm">Nemo ipsam egestas volute and turpis dolores quaerat</p>							
-										</div>
-
-										<!-- Option #2 -->
-										<div class="box-list">	
-											<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-											<p class="p-sm">Magna luctus tempor</p>				
-										</div>
-
-										<!-- Option #3 -->
-										<div class="box-list">	
-											<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-											<p class="p-sm">An enim nullam tempor at pretium purus blandit</p>				
-										</div>
-
-									</div>
-
-									<div class="col-xl-6">
-
-										<!-- Option #4 -->
-										<div class="box-list">	
-											<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-											<p class="p-sm">Magna luctus tempor blandit a vitae suscipit mollis</p>				
-										</div>
-
-										<!-- Option #5 -->
-										<div class="box-list m-top-15">							
-											<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-											<p class="p-sm">Nemo ipsam egestas volute turpis dolores quaerat</p>							
-										</div>
-
-										<!-- Option #6 -->
-										<div class="box-list">	
-											<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-											<p class="p-sm">An enim nullam tempor</p>				
-										</div>
-
-									</div>
-
-								</div>	<!-- End Options List -->
-
 							</div>
 						</div>	<!-- END TEXT BLOCK -->	
 
@@ -151,7 +101,7 @@
 								<div class="hover-overlay text-center"> 
 
 									<!-- Photo -->
-									<img class="img-fluid" src="images/doctor-1.jpg" alt="doctor-foto">	
+									<img class="img-fluid" src="images/ibnu.png" alt="doctor-foto">	
 									<div class="item-overlay"></div>
 
 									<!-- Profile Link -->		
@@ -189,7 +139,7 @@
 								<div class="hover-overlay text-center"> 
 
 									<!-- Photo -->
-									<img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">	
+									<img class="img-fluid" src="images/tari.png" alt="doctor-foto">	
 									<div class="item-overlay"></div>
 
 									<!-- Profile Link -->		
@@ -226,7 +176,7 @@
 								<div class="hover-overlay text-center"> 
 
 									<!-- Photo -->
-									<img class="img-fluid" src="images/doctor-3.jpg" alt="doctor-foto">	
+									<img class="img-fluid" src="images/eddy.png" alt="doctor-foto">	
 									<div class="item-overlay"></div>
 
 									<!-- Profile Link -->		
@@ -263,7 +213,7 @@
 								<div class="hover-overlay text-center"> 
 
 									<!-- Photo -->
-									<img class="img-fluid" src="images/doctor-4.jpg" alt="doctor-foto">	
+									<img class="img-fluid" src="images/roy.png" alt="doctor-foto">	
 									<div class="item-overlay"></div>
 
 									<!-- Profile Link -->		
