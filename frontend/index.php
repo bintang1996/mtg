@@ -422,12 +422,12 @@
 						</div> 
 						<div class="col">		
 							
-						<i class="fas fa-mobile" style="font-size:100px;"></i><BR><br><BR><B>ADDRESS</B><BR><BR><P>JL. MUNGGANG NO. 86 - 87 BALEKAMBANG,<BR>
-						KRAMAT JATI, JAKARTA TIMUR 13530<P>							
+						<i class="fas fa-mobile" style="font-size:100px;"></i><BR><br><BR><B>PHONE</B><BR><BR><P>HOTLINE: (+62) 21 2204 7248<BR>
+						SERVICE CENTER: (+62) 81 28000 1102<P>							
 						</div> 
 						<div class="col">		
-						<i class="fas fa-envelope" style="font-size:100px;"></i><BR><br><BR><B>ADDRESS</B><BR><BR><P>JL. MUNGGANG NO. 86 - 87 BALEKAMBANG,<BR>
-						KRAMAT JATI, JAKARTA TIMUR 13530<P>
+						<i class="fas fa-envelope" style="font-size:100px;"></i><BR><br><BR><B>EMAIL</B><BR><BR><P>INFO@MEDITRANS.ID<BR>
+						CS@MEDITRANS.ID<P>
 														
 						</div> 
 					</div>
