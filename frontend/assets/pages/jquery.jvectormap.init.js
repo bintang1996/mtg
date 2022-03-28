@@ -124,7 +124,7 @@
 
 		$('#india').vectorMap({
 			map : 'id_ID',
-			backgroundColor : 'transparent',
+			backgroundColor : '#87CEFA',
 			regionStyle : {
 				initial : {
 					fill : '#8aa678'
