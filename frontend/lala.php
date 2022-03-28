@@ -223,41 +223,12 @@ pointSeries.bullets.push(function () {
 });
 
 var cities = [
+
   {
-    title: "Brussels",
-    latitude: 50.8371,
-    longitude: 4.3676
-  },
-  {
-    title: "Copenhagen",
-    latitude: 55.6763,
-    longitude: 12.5681
-  },
-  {
-    title: "Paris",
-    latitude: 48.8567,
-    longitude: 2.351
-  },
-  {
-    title: "Reykjavik",
-    latitude: 64.1353,
-    longitude: -21.8952
-  },
-  {
-    title: "Moscow",
-    latitude: 55.7558,
-    longitude: 37.6176
-  },
-  {
-    title: "Madrid",
-    latitude: 40.4167,
-    longitude: -3.7033
-  },
-  {
-    title: "London",
-    latitude: 51.5002,
-    longitude: -0.1262,
-    url: "http://www.google.co.uk"
+    title: "JAKARTA HEAD OFFICE",
+    latitude: -6.2,
+    longitude: 106.816,
+    url: "https://www.google.com/maps/place/PT.+Meditrans+Global/@-2.9601349,119.3594472,15z/data=!4m6!3m5!1s0x0:0x2715ae49e66b9300!4b1!8m2!3d-6.2750118!4d106.8540065"
   },
   {
     title: "Peking",
@@ -284,37 +255,8 @@ var cities = [
     title: "Buenos Aires",
     latitude: -34.6118,
     longitude: -58.4173
-  },
-  {
-    title: "Brasilia",
-    latitude: -15.7801,
-    longitude: -47.9292
-  },
-  {
-    title: "Ottawa",
-    latitude: 45.4235,
-    longitude: -75.6979
-  },
-  {
-    title: "Washington",
-    latitude: 38.8921,
-    longitude: -77.0241
-  },
-  {
-    title: "Kinshasa",
-    latitude: -4.3369,
-    longitude: 15.3271
-  },
-  {
-    title: "Cairo",
-    latitude: 30.0571,
-    longitude: 31.2272
-  },
-  {
-    title: "Pretoria",
-    latitude: -25.7463,
-    longitude: 28.1876
   }
+  
 ];
 
 for (var i = 0; i < cities.length; i++) {
