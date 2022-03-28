@@ -172,7 +172,7 @@
 																Prior to co-founding SMU, He was in GE Healthcare (11 Years) and Phillips 
 																Healthcare (8 Years) with deep domination expertise in diagnostic Imaging 
 																and cardiology and very strong government and private Hospitals Network.
-																Earned a bachelor’s Engineering Physics Degree – ITS Surabaya
+																Earned a bachelor’s Engineering Physics Degree – ITS Surabaya.
 									</p>
 
 								</div>	
@@ -205,8 +205,11 @@
 									<h5 class="h5-sm steelblue-color">Tari Pristiyani</h5>
 									<span class="blue-color">Director of Operation and Marketing</span>
 
-									<p class="p-sm grey-color">Donec vel sapien augue integer turpis cursus porta, mauris sed
-									   augue luctus magna dolor luctus ipsum neque
+									<p class="p-sm grey-color">Director Operation and Marketing of Meditrans up to now.
+																2016 - Head of Operation at SMU Healthcare.
+																2015-now as Director Operation at STIcare
+																Prior that Tari having owned business, Tari having   passionate in cathlab Operation.
+																Earned a bachelor’s Engineering Physics Degree – ITS Surabaya.
 									</p>
 
 								</div>	
@@ -239,8 +242,11 @@
 									<h5 class="h5-sm steelblue-color">Eddy Santoso</h5>
 									<span class="blue-color">Director of Sales</span>
 
-									<p class="p-sm grey-color">Donec vel sapien augue integer turpis cursus porta, mauris sed
-									   augue luctus magna dolor luctus ipsum neque
+									<p class="p-sm grey-color">Director Sales of Meditrans up to now.
+																Senior Engineer at FALCON OILFIELD SERVICES for 7 years at Oman.
+																Former Senior Engineer at COMCO Petroleum Comp , Libya 4 Years.
+																Eddy is high dedication in sales and building commercial team for past 3 years.
+																Earned a bachelor’s Engineering Physics Degree – ITS Surabaya.
 									</p>
 
 								</div>	
@@ -273,8 +279,11 @@
 									<h5 class="h5-sm steelblue-color">Horraizi Hosen</h5>
 									<span class="blue-color">Director of Engineering</span>
 
-									<p class="p-sm grey-color">Donec vel sapien augue integer turpis cursus porta, mauris sed
-									   augue luctus magna dolor luctus ipsum neque
+									<p class="p-sm grey-color">Director service and project  of Meditrans up to now.
+																Head of Modality Engineer at SMU Healthcare.  
+																Service Manager at TimeMedical for 5 years.
+																Prior that handling service at GT Pro company in Jakarta for 4 years.
+																Earned a bachelor’s Engineering Chemical Degree – UPN Surabaya.
 									</p>
 
 								</div>	
