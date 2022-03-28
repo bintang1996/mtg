@@ -98,7 +98,7 @@
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link active" id="tab16-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
+                                            <a class="nav-link" id="tab16-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
                                                 Mesin (MRI/ CT)
                                             </a>
                                         </li>
@@ -134,7 +134,7 @@
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                         <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link active" id="tab19-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
+                                            <a class="nav-link" id="tab19-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
                                                 Sistem RS
                                             </a>
                                         </li>
@@ -161,7 +161,7 @@
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link active" id="tab21-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
+                                            <a class="nav-link" id="tab21-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
                                                 Laboratorium DUMMY
                                             </a>
                                         </li>
@@ -188,7 +188,7 @@
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link active" id="tab23-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
+                                            <a class="nav-link" id="tab23-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
                                                 Konstruksi
                                             </a>
                                         </li>                                      
