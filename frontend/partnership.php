@@ -293,7 +293,7 @@
 >
 				<div class="container" style="background-color:#FFFFFF;">	
                     <!-- Title 	-->	
-					<h3 style="margin: bottom 70px;;" class="h3-md col-lg-10 offset-lg-1 section-title steelblue-color">Layanan Kerjasama</h3>	
+					<h3 style="padding-bottom:50px;" class="h3-md col-lg-10 offset-lg-1 section-title steelblue-color">Layanan Kerjasama</h3>	
 				 	<div class="row">
 				 		<div class="col-md-12">
 				 			
