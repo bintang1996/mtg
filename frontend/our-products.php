@@ -2,7 +2,7 @@
 
 			<!-- BREADCRUMB
 			============================================= -->
-			<div id="breadcrumb" class="division" style="background-color: white;">
+			<div id="breadcrumb" class="division" >
 				<div class="container">
 					<div class="row">						
 						<div class="col">
@@ -30,7 +30,7 @@
 
 			<!-- TABS-2
 			============================================= -->
-			<section id="tabs-2" class="wide-100 tabs-section division">
+			<section id="tabs-2" class="wide-100 tabs-section division" style="background-color: white;">
 				<div class="container">	
 				 	<div class="row">
 
