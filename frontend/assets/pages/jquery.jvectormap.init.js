@@ -54,9 +54,9 @@
 
 		$('#india').vectorMap({
 			map : 'id_ID',
-			backgroundColor : '#87CEFA',
 			normalizeFunction : 'polynomial',
 			hoverOpacity : 0.7,
+			hoverColor : false,
 			regionStyle : {
 				initial : {
 					fill : '#8aa678'
@@ -78,7 +78,7 @@
                     'stroke-width': 1.5
                 }
             },
-			
+			backgroundColor : '#87CEFA',
 			markers : 
 			[{
 				latLng : [1.3, 103.8],
