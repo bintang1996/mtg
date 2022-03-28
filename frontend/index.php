@@ -380,14 +380,14 @@
 											
 											</tr>
 											<tr>
-												<td><i class="fab fa-discourse"></i> Jakarta</td>
+												<td><i style="color:red;" class="fab fa-discourse"></i> Jakarta</td>
 												<td> </td>
 												<td><i class="fab fa-discourse"></i> Bandung</td>
 												<td> </td>
 												<td><i class="fab fa-discourse"></i> Makassar</td>
 											</tr>
 											<tr>
-												<td><i class="fab fa-discourse"></i> Surabaya</td>
+												<td><i style="color:red;" class="fab fa-discourse"></i> Surabaya</td>
 												<td></td>
 												<td><i class="fab fa-discourse"></i> Palembang</td>
 												<td></td>
