@@ -156,7 +156,7 @@
                                     <b>LABORATORIUM</b>
                                 </a>
                                 </div>
-                                <div id="collapseTwo" class="collapse" data-parent="#accordion">
+                                <div id="collapseThree" class="collapse" data-parent="#accordion">
                                     <div class="card-body">
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                        <!-- TAB-1 LINK -->
@@ -183,7 +183,7 @@
                                     <b>KONSTRUKSI</b>
                                 </a>
                                 </div>
-                                <div id="collapseTwo" class="collapse" data-parent="#accordion">
+                                <div id="collapseFive" class="collapse" data-parent="#accordion">
                                     <div class="card-body">
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                        <!-- TAB-1 LINK -->
