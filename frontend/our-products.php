@@ -42,7 +42,7 @@
                                 <div class="card">
                                 <div class="card-header">
                                     <a class="card-link" data-toggle="collapse" href="#collapseOne">
-                                    Collapsible Group Item #1
+                                    <b>CARDIOVASCULAR</b>
                                     </a>
                                 </div>
                                 <div id="collapseOne" class="collapse show" data-parent="#accordion">
