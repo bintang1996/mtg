@@ -134,28 +134,161 @@
 												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
 												<p class="p-sm">An enim nullam tempor</p>				
 											</div>
-
 										</div>
-
 									</div>	<!-- End Options List -->
-
 								</div>
 							</div>	<!-- END INFO TEXT -->	
-
 
 							<!-- INFO IMAGE -->
 							<div class="col-lg-6">
 								<div class="info-4-img text-center wow fadeInUp" data-wow-delay="0.6s">
 									<img class="img-fluid" src="images/emergency_help_700x800.jpg" alt="info-image">
 								</div>
-							</div>
-
-						
+							</div>						
 						</div>    <!-- End row -->
 					</div>	<!-- END BOTTOM ROW -->
-
-
 				</div>	   <!-- End container -->
 			</section>	<!-- END INFO-4 -->
+
+<!-- ABOUT-5
+			============================================= -->
+			<section id="about-5" class="pt-100 about-section division" style="background-color:#281E78; padding-top:50px;">
+				<div class="container" style="background-color:#281E78;">
+
+				
+					<!-- Title 	-->	
+					<h3 style="margin-bottom:0;" class="h3-md col-lg-10 offset-lg-1 section-title white-color">Why KSO</h3>						
+				
+					
+					<div class="row d-flex align-items-center text-center">
+
+
+					<div class="col">
+					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
+					<!-- Icon -->
+					<div class="sbox-3-icon">
+						<span class="flaticon-060-cardiogram-4"></span>
+					</div>
+					<!-- Title -->
+					<h5 class="h5-xs white-color" style="margin-top:0;">Lorem Ipsum</h5>																																		
+					</div>
+					</div>
+
+					<div class="col">
+					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
+					<!-- Icon -->
+					<div class="sbox-3-icon">
+						<span class="flaticon-031-scanner"></span>
+					</div>
+					<!-- Title -->
+					<h5 class="h5-xs white-color" style="margin-top:0;">Lorem Ipsum</h5>																																		
+					</div>
+					</div>
+
+					<div class="col">
+					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
+					<!-- Icon -->
+					<div class="sbox-3-icon">
+						<span class="flaticon-136-monitor"></span>
+					</div>						
+					<!-- Title -->
+					<h5 class="h5-xs white-color" style="margin-top:0;">Lorem Ipsum</h5>																																		
+					</div>
+					</div>
+
+					<div class="col">
+					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
+					<!-- Icon -->
+					<div class="sbox-3-icon">
+						<span class="flaticon-076-microscope"></span>
+					</div>						
+					<!-- Title -->
+					<h5 class="h5-xs white-color" style="margin-top:0;">Lorem Ipsum</h5>																																		
+					</div>
+					</div>
+
+
+
+
+					<div class="col">
+					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
+					<!-- Icon -->
+					<div class="sbox-3-icon">
+						<span class="flaticon-129-hospital-1"></span>
+					</div>						
+					<!-- Title -->
+					<h5 class="h5-xs white-color" style="margin-top:0;">Lorem Ipsum</h5>																																		
+					</div>
+					</div>
+						
+					</div>
+                    <div class="row d-flex align-items-center text-center">
+
+
+					<div class="col">
+					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
+					<!-- Icon -->
+					<div class="sbox-3-icon">
+						<span class="flaticon-060-cardiogram-4"></span>
+					</div>
+					<!-- Title -->
+					<h5 class="h5-xs white-color" style="margin-top:0;">Lorem Ipsum</h5>																																		
+					</div>
+					</div>
+
+					<div class="col">
+					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
+					<!-- Icon -->
+					<div class="sbox-3-icon">
+						<span class="flaticon-031-scanner"></span>
+					</div>
+					<!-- Title -->
+					<h5 class="h5-xs white-color" style="margin-top:0;">Lorem Ipsum</h5>																																		
+					</div>
+					</div>
+
+					<div class="col">
+					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
+					<!-- Icon -->
+					<div class="sbox-3-icon">
+						<span class="flaticon-136-monitor"></span>
+					</div>						
+					<!-- Title -->
+					<h5 class="h5-xs white-color" style="margin-top:0;">Lorem Ipsum</h5>																																		
+					</div>
+					</div>
+
+					<div class="col">
+					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
+					<!-- Icon -->
+					<div class="sbox-3-icon">
+						<span class="flaticon-076-microscope"></span>
+					</div>						
+					<!-- Title -->
+					<h5 class="h5-xs white-color" style="margin-top:0;">Lorem Ipsum</h5>																																		
+					</div>
+					</div>
+
+
+
+
+					<div class="col">
+					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none;">
+					<!-- Icon -->
+					<div class="sbox-3-icon">
+						<span class="flaticon-129-hospital-1"></span>
+					</div>						
+					<!-- Title -->
+					<h5 class="h5-xs white-color" style="margin-top:0;">Lorem Ipsum</h5>																																		
+					</div>
+					</div>
+				
+					
+									
+				
+						
+					</div>    <!-- End row -->
+				</div>	   <!-- End container -->
+			</section>	<!-- END ABOUT-5 -->
 
 <?php include "footer.php";?>
