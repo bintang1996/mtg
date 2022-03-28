@@ -52,7 +52,7 @@
 				latLng : [0.33, 6.73],
 				name : 'São Tomé and Príncipe'
 			}],
-			onRegionLoad: function(e,  code,  isSelected,  selectedRegions){
+			onRegionClick: function(e,  code,  isSelected,  selectedRegions){
 				$('#map').vectorMap('get','mapObject').setFocus({region: ID});
 			  }
 		});
