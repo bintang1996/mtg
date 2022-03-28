@@ -143,11 +143,11 @@
 					<div class="row">
 
 
-						<!-- DOCTOR #1 -->
+						<!-- LEADER #1 -->
 						<div class="col-md-6 col-lg-3">
 							<div class="doctor-1">								
 														
-								<!-- Doctor Photo -->
+								<!-- LEADER Photo -->
 								<div class="hover-overlay text-center"> 
 
 									<!-- Photo -->
@@ -161,31 +161,31 @@
 
 								</div>	
 
-								<!-- Doctor Meta -->		
+								<!-- LEADER Meta -->		
 								<div class="doctor-meta">
 
 									<h5 class="h5-sm steelblue-color">Ibnu Affan</h5>
 									<span class="blue-color">Chief Executive Officer</span>
 
-									<p class="p-sm grey-color">CEO of Heartology is start up of a premium cardiovascular services 
-																Former CEO of SMU Healthcare which co-founder the business
+									<p class="p-sm grey-color">CEO of Heartology is start up of a premium cardiovascular services. 
+																Former CEO of SMU Healthcare which co-founder the business.
 																Prior to co-founding SMU, He was in GE Healthcare (11 Years) and Phillips 
 																Healthcare (8 Years) with deep domination expertise in diagnostic Imaging 
-																and cardiology and very strong government and private Hospitals Network
+																and cardiology and very strong government and private Hospitals Network.
 																Earned a bachelor’s Engineering Physics Degree – ITS Surabaya
 									</p>
 
 								</div>	
 
 							</div>								
-						</div>	<!-- END DOCTOR #1 -->
+						</div>	<!-- END LEADER #1 -->
 						
 						
-						<!-- DOCTOR #2 -->
+						<!-- LEADER #2 -->
 						<div class="col-md-6 col-lg-3">
 							<div class="doctor-1">	
 																						
-								<!-- Doctor Photo -->
+								<!-- LEADER Photo -->
 								<div class="hover-overlay text-center"> 
 
 									<!-- Photo -->
@@ -199,7 +199,7 @@
 
 								</div>	
 
-								<!-- Doctor Meta -->		
+								<!-- LEADER Meta -->		
 								<div class="doctor-meta">
 
 									<h5 class="h5-sm steelblue-color">Tari Pristiyani</h5>
@@ -212,14 +212,14 @@
 								</div>	
 
 							</div>					
-						</div>	<!-- END DOCTOR #2 -->
+						</div>	<!-- END LEADER #2 -->
 						
 						
-						<!-- DOCTOR #3 -->
+						<!-- LEADER #3 -->
 						<div class="col-md-6 col-lg-3">
 							<div class="doctor-1">	
 																						
-								<!-- Doctor Photo -->
+								<!-- LEADER Photo -->
 								<div class="hover-overlay text-center"> 
 
 									<!-- Photo -->
@@ -233,7 +233,7 @@
 
 								</div>		
 								
-								<!-- Doctor Meta -->		
+								<!-- LEADER Meta -->		
 								<div class="doctor-meta">
 
 									<h5 class="h5-sm steelblue-color">Eddy Santoso</h5>
@@ -246,14 +246,14 @@
 								</div>	
 
 							</div>			
-						</div>	<!-- END DOCTOR #3 -->
+						</div>	<!-- END LEADER #3 -->
 											
 						
-						<!-- DOCTOR #4 -->
+						<!-- LEADER #4 -->
 						<div class="col-md-6 col-lg-3">
 							<div class="doctor-1">	
 																					
-								<!-- Doctor Photo -->
+								<!-- LEADER Photo -->
 								<div class="hover-overlay text-center"> 
 
 									<!-- Photo -->
@@ -267,7 +267,7 @@
 
 								</div>		
 								
-								<!-- Doctor Meta -->		
+								<!-- LEADER Meta -->		
 								<div class="doctor-meta">
 
 									<h5 class="h5-sm steelblue-color">Horraizi Hosen</h5>
@@ -280,17 +280,17 @@
 								</div>	
 
 							</div>			
-						</div>	<!-- END DOCTOR #4 -->
+						</div>	<!-- END LEADER #4 -->
 
 
 					</div>	    <!-- End row -->
 
 
-					<!-- ALL DOCTORS BUTTON -->		
+					<!-- ALL TEAM BUTTON -->		
 					<div class="row">
 						<div class="col-md-12 text-center">
 							<div class="all-doctors mb-40">
-								<a href="all-doctors.html" class="btn btn-blue blue-hover">Meet All Doctors</a>
+								<a href="all-doctors.html" class="btn btn-blue blue-hover">Meet All Teams</a>
 							</div>
 						</div>
 					</div>
