@@ -406,230 +406,39 @@
 			</section>	 <!-- END TESTIMONIALS-2 -->
 
 
-
-
-
-			<!-- BLOG-1
+	<!-- SERVICES-3
 			============================================= -->
-			<section id="blog-1" class="wide-60 blog-section division">				
+			<section id="services-3" class="bg-lightgrey wide-100 services-section division" style="background-color:white;">
 				<div class="container">
 
 
 					<!-- SECTION TITLE -->	
 					<div class="row">	
-						<div class="col-lg-10 offset-lg-1 section-title">	
+						<div class="col">		
+							
+						<i class="fas fa-house"></i><br><B>ADDRESS</B><BR><P>JL. MUNGGANG NO. 86 - 87 BALEKAMBANG,<BR>
+						KRAMAT JATI, JAKARTA TIMUR 13530<P>
 
-							<!-- Title 	-->	
-							<h3 class="h3-md steelblue-color">Our Stories, Tips & Latest News</h3>	
-
-							<!-- Text -->
-							<p>Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis libero at tempus, 
-							   blandit posuere ligula varius congue cursus porta feugiat
-							</p>
-								
-						</div>
+						</div> 
+						<div class="col">		
+							
+						<i class="fas fa-house"></i><br><B>ADDRESS</B><BR><P>JL. MUNGGANG NO. 86 - 87 BALEKAMBANG,<BR>
+						KRAMAT JATI, JAKARTA TIMUR 13530<P>							
+						</div> 
+						<div class="col">		
+						<i class="fas fa-house"></i><br><B>ADDRESS</B><BR><P>JL. MUNGGANG NO. 86 - 87 BALEKAMBANG,<BR>
+						KRAMAT JATI, JAKARTA TIMUR 13530<P>
+														
+						</div> 
 					</div>
+				
+					
+				
+					
+					
+				</div>	   <!-- End container -->
+			</section>	 <!-- END SERVICES-3 -->	
 
-
-			 		<!-- BLOG POSTS HOLDER -->
-				 	<div class="row">
-
-
-				 		<!-- BLOG POST #1 -->
-				 		<div class="col-lg-4">
-				 			<div class="blog-post wow fadeInUp" data-wow-delay="0.4s">
-
-				 				<!-- BLOG POST IMAGE -->
-					 			<div class="blog-post-img">
-									<img class="img-fluid" src="images/blog/post-1-img.jpg" alt="blog-post-image" />	
-								</div>
-
-				 				<!-- BLOG POST TITLE -->
-								<div class="blog-post-txt">
-
-									<!-- Post Title -->
-									<h5 class="h5-sm steelblue-color"><a href="single-post.html">5 Benefits Of Integrative Medicine</a></h5>
-
-									<!-- Post Data -->
-									<span>May 03, 2019 by <span>Dr.Jeremy Smith</span></span>
-
-									<!-- Post Text -->
-									<p>Quaerat neque purus ipsum neque dolor primis libero tempus impedit tempor blandit sapien at
-									   gravida donec ipsum, at porta justo...
-									</p>
-
-								</div>
-
-							</div>
-				 		</div>	<!-- END  BLOG POST #1 -->
-
-
-				 		<!-- BLOG POST #2 -->
-				 		<div class="col-lg-4">
-				 			<div class="blog-post wow fadeInUp" data-wow-delay="0.6s">
-
-				 				<!-- BLOG POST IMAGE -->
-					 			<div class="blog-post-img">
-									<img class="img-fluid" src="images/blog/post-2-img.jpg" alt="blog-post-image" />	
-								</div>
-
-				 				<!-- BLOG POST TEXT -->
-								<div class="blog-post-txt">
-
-									<!-- Post Title -->
-									<h5 class="h5-sm steelblue-color"><a href="single-post.html">Your Health Is In Your Hands</a></h5>
-
-									<!-- Post Data -->
-									<span>Apr 28, 2019 by <span>Dr.Jonathan Barnes</span></span>
-
-									<!-- Post Text -->
-									<p>Quaerat neque purus ipsum neque dolor primis libero tempus impedit tempor blandit sapien at
-									   gravida donec ipsum, at porta justo...
-									</p>
-
-								</div>
-
-							</div>
-				 		</div>	<!-- END  BLOG POST #2 -->
-
-
-				 		<!-- BLOG POST #3 -->
-				 		<div class="col-lg-4">
-				 			<div class="blog-post wow fadeInUp" data-wow-delay="0.8s">
-
-				 				<!-- BLOG POST IMAGE -->
-					 			<div class="blog-post-img">
-									<img class="img-fluid" src="images/blog/post-3-img.jpg" alt="blog-post-image" />	
-								</div>
-
-				 				<!-- BLOG POST TEXT -->
-								<div class="blog-post-txt">
-
-									<!-- Post Title -->
-									<h5 class="h5-sm steelblue-color"><a href="single-post.html">How Weather Impacts Your Health</a></h5>
-
-									<!-- Post Data -->
-									<span>Apr 17, 2019 by <span>Dr.Megan Coleman</span></span>
-
-									<!-- Post Text -->
-									<p>Quaerat neque purus ipsum neque dolor primis libero tempus impedit tempor blandit sapien at
-									   gravida donec ipsum, at porta justo...
-									</p>
-
-								</div>
-
-							</div>
-				 		</div>	<!-- END  BLOG POST #3 -->
-
-
-					</div>	<!-- END BLOG POSTS HOLDER -->
-
-
-				</div>	   <!-- End container -->		
-			</section>	<!-- END BLOG-1 -->
-
-
-		
-			<!-- INFO-6
-			============================================= -->
-			<section id="info-6" class="bg-blue info-section division">
-
-
-				<!-- TEXT BLOCK -->		
-				<div class="container">
-					<div class="row d-flex align-items-center">	
-						<div class="col-lg-6 offset-lg-6">
-							<div class="txt-block pc-30 white-color wow fadeInUp" data-wow-delay="0.4s">
-
-								<!-- Section ID -->	
-					 			<span class="section-id id-color">Qualified Doctors</span>
-
-								<!-- Title -->
-								<h3 class="h3-md">Group of Certified and Experienced Doctors</h3>							
-
-								<!-- CONTENT BOX #1 -->
-								<div class="box-list">	
-									<div class="box-list-icon"><i class="fas fa-genderless"></i></div>
-									<p>Maecenas gravida porttitor nunc, quis vehicula magna luctus tempor. Quisque vel laoreet
-									   turpis urna augue, viverra a augue eget, dictum tempor diam pulvinar massa purus nulla
-									</p>				
-								</div>
-
-								<!-- CONTENT BOX #2 -->
-								<div class="box-list">							
-									<div class="box-list-icon"><i class="fas fa-genderless"></i></div>
-									<p>Nemo ipsam egestas volute turpis dolores ut aliquam quaerat sodales sapien undo pretium
-									   purus feugiat dolor impedit
-									</p>							
-								</div>
-
-								<!-- CONTENT BOX #3 -->
-								<div class="box-list">	
-									<div class="box-list-icon"><i class="fas fa-genderless"></i></div>
-									<p>Nemo ipsam egestas volute turpis dolores ut aliquam quaerat sodales sapien undo pretium
-									   purus feugiat dolor impedit magna purus pretium gravida donec ligula massa in faucibus
-									</p>				
-								</div>
-
-								<!-- Button -->
-								<a href="all-doctors.html" class="btn btn-tra-white blue-hover mt-25">Meet The Doctors</a>
-								
-							</div>	
-						</div>	
-					</div>	  <!-- End row -->
-				</div>	   <!-- END TEXT BLOCK -->	
-
-
-				<!-- INFO-6 IMAGE -->
-				<div class="info-6-img text-center"></div>
-
-
-			</section>	<!-- END INFO-6 -->	
-
-
-			<!-- BANNER-2
-			============================================= -->
-			<section id="banner-2" class="pt-80 banner-section division">
-				<div class="bg-scroll bg-inner bg-image division">
-					<div class="container white-color">
-						<div class="row d-flex align-items-center">
-
-
-							<!-- CALL TO ACTION IMAGE -->
-							<div class="col-lg-5">
-								<div class="banner-2-img">
-									<img class="img-fluid" src="images/image-05.png" alt="banner-image" />	
-								</div>
-							</div>
-
-
-							<!-- BANNER TEXT -->
-							<div class="col-lg-6 offset-lg-1">
-								<div class="banner-txt pc-30 wow fadeInUp" data-wow-delay="0.4s">
-
-									<!-- Section ID -->	
-					 				<span class="section-id id-color">Modern Medicine</span>
-
-									<!-- Title  -->
-									<h3 class="h3-lg">Better Technologies for Better Healthcare</h3>
-
-									<!-- Text -->
-									<p>Egestas magna egestas magna ipsum vitae purus ipsum primis in cubilia laoreet augue
-									   egestas suscipit lectus mauris lectus laoreet gestas neque undo luctus feugiat.
-									   Aliquam a augue suscipit
-								    </p>
-
-								    <!-- Button -->
-									<a href="all-doctors.html" class="btn btn-tra-white blue-hover">View Our Doctors</a>
-
-								</div>
-							</div>	<!-- END BANNER TEXT -->
-
-
-						</div>	  <!-- End row -->
-					</div>	   <!-- End container -->
-				</div>		<!-- End Inner Background -->		
-			</section>	<!-- END BANNER-2 -->
 
 <?php 
     include "footer.php";
