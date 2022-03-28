@@ -225,21 +225,24 @@ pointSeries.bullets.push(function () {
 var cities = [
 
   {
-      color: "red",
     title: "JAKARTA HEAD OFFICE",
     latitude: -6.2,
     longitude: 106.816,
     url: "https://www.google.com/maps/place/PT.+Meditrans+Global/@-2.9601349,119.3594472,15z/data=!4m6!3m5!1s0x0:0x2715ae49e66b9300!4b1!8m2!3d-6.2750118!4d106.8540065"
   },
   {
-    title: "Peking",
-    latitude: 39.9056,
-    longitude: 116.3958
+    title: "SURABAYA HEAD OFFICE",
+    latitude: -7.337,
+    longitude: 112.776,
+    url: "https://www.google.com/maps/place/Rungkut+menanggal+harapan+o%2F28/@-7.3361769,112.7759994,17z/data=!4m9!1m2!2m1!1sjalan+rungkut+menanggal+harapan+blok+o%2F28!3m5!1s0x2dd7fb0a65f75061:0x659fa318c1619c86!8m2!3d-7.3364773!4d112.7782214!15sCilqYWxhbiBydW5na3V0IG1lbmFuZ2dhbCBoYXJhcGFuIGJsb2sgby8yOJIBEGNvcnBvcmF0ZV9vZmZpY2U"
+
   },
   {
-    title: "New Delhi",
-    latitude: 28.6353,
-    longitude: 77.225
+    title: "JAKARTA HEAD OFFICE",
+    latitude: -6.2,
+    longitude: 106.816,
+    url: "https://www.google.com/maps/place/PT.+Meditrans+Global/@-2.9601349,119.3594472,15z/data=!4m6!3m5!1s0x0:0x2715ae49e66b9300!4b1!8m2!3d-6.2750118!4d106.8540065"
+
   },
   {
     title: "Tokyo",
