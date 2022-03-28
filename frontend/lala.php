@@ -35,7 +35,7 @@ var chart = root.container.children.push(am5map.MapChart.new(root, {
   panY: "translateY",
   projection: am5map.geoMercator(),
   homeGeoPoint: { longitude: 119, latitude: -3 },
-  homeZoomLevel: 6
+  homeZoomLevel: 10
 }));
 
 
