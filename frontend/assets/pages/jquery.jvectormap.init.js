@@ -131,7 +131,7 @@
 		});
 
 		$('#india').vectorMap({
-			map : 'in_mill',
+			map : 'id_mill',
 			backgroundColor : 'transparent',
 			regionStyle : {
 				initial : {
