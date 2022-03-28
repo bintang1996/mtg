@@ -355,63 +355,7 @@
 				</div>	   <!-- End container -->
 			</section>	 <!-- END SERVICES-3 -->	
 
-
-		
-			<!-- INFO-6
-			============================================= -->
-			<section id="info-6" class="bg-blue info-section division">
-
-
-				<!-- TEXT BLOCK -->		
-				<div class="container">
-					<div class="row d-flex align-items-center">	
-						<div class="col-lg-6 offset-lg-6">
-							<div class="txt-block pc-30 white-color wow fadeInUp" data-wow-delay="0.4s">
-
-								<!-- Section ID -->	
-					 			<span class="section-id id-color">Qualified Doctors</span>
-
-								<!-- Title -->
-								<h3 class="h3-md">Group of Certified and Experienced Doctors</h3>							
-
-								<!-- CONTENT BOX #1 -->
-								<div class="box-list">	
-									<div class="box-list-icon"><i class="fas fa-genderless"></i></div>
-									<p>Maecenas gravida porttitor nunc, quis vehicula magna luctus tempor. Quisque vel laoreet
-									   turpis urna augue, viverra a augue eget, dictum tempor diam pulvinar massa purus nulla
-									</p>				
-								</div>
-
-								<!-- CONTENT BOX #2 -->
-								<div class="box-list">							
-									<div class="box-list-icon"><i class="fas fa-genderless"></i></div>
-									<p>Nemo ipsam egestas volute turpis dolores ut aliquam quaerat sodales sapien undo pretium
-									   purus feugiat dolor impedit
-									</p>							
-								</div>
-
-								<!-- CONTENT BOX #3 -->
-								<div class="box-list">	
-									<div class="box-list-icon"><i class="fas fa-genderless"></i></div>
-									<p>Nemo ipsam egestas volute turpis dolores ut aliquam quaerat sodales sapien undo pretium
-									   purus feugiat dolor impedit magna purus pretium gravida donec ligula massa in faucibus
-									</p>				
-								</div>
-
-								<!-- Button -->
-								<a href="all-doctors.html" class="btn btn-tra-white blue-hover mt-25">Meet The Doctors</a>
-								
-							</div>	
-						</div>	
-					</div>	  <!-- End row -->
-				</div>	   <!-- END TEXT BLOCK -->	
-
-
-				<!-- INFO-6 IMAGE -->
-				<div class="info-6-img text-center"></div>
-
-
-			</section>	<!-- END INFO-6 -->		
+	
 
 
 
@@ -561,6 +505,62 @@
 			</section>	<!-- END BLOG-1 -->
 
 
+		
+			<!-- INFO-6
+			============================================= -->
+			<section id="info-6" class="bg-blue info-section division">
+
+
+				<!-- TEXT BLOCK -->		
+				<div class="container">
+					<div class="row d-flex align-items-center">	
+						<div class="col-lg-6 offset-lg-6">
+							<div class="txt-block pc-30 white-color wow fadeInUp" data-wow-delay="0.4s">
+
+								<!-- Section ID -->	
+					 			<span class="section-id id-color">Qualified Doctors</span>
+
+								<!-- Title -->
+								<h3 class="h3-md">Group of Certified and Experienced Doctors</h3>							
+
+								<!-- CONTENT BOX #1 -->
+								<div class="box-list">	
+									<div class="box-list-icon"><i class="fas fa-genderless"></i></div>
+									<p>Maecenas gravida porttitor nunc, quis vehicula magna luctus tempor. Quisque vel laoreet
+									   turpis urna augue, viverra a augue eget, dictum tempor diam pulvinar massa purus nulla
+									</p>				
+								</div>
+
+								<!-- CONTENT BOX #2 -->
+								<div class="box-list">							
+									<div class="box-list-icon"><i class="fas fa-genderless"></i></div>
+									<p>Nemo ipsam egestas volute turpis dolores ut aliquam quaerat sodales sapien undo pretium
+									   purus feugiat dolor impedit
+									</p>							
+								</div>
+
+								<!-- CONTENT BOX #3 -->
+								<div class="box-list">	
+									<div class="box-list-icon"><i class="fas fa-genderless"></i></div>
+									<p>Nemo ipsam egestas volute turpis dolores ut aliquam quaerat sodales sapien undo pretium
+									   purus feugiat dolor impedit magna purus pretium gravida donec ligula massa in faucibus
+									</p>				
+								</div>
+
+								<!-- Button -->
+								<a href="all-doctors.html" class="btn btn-tra-white blue-hover mt-25">Meet The Doctors</a>
+								
+							</div>	
+						</div>	
+					</div>	  <!-- End row -->
+				</div>	   <!-- END TEXT BLOCK -->	
+
+
+				<!-- INFO-6 IMAGE -->
+				<div class="info-6-img text-center"></div>
+
+
+			</section>	<!-- END INFO-6 -->	
 
 
 			<!-- BANNER-2
