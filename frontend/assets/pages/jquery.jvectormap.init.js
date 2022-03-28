@@ -13,7 +13,7 @@
 	VectorMap.prototype.init = function() {
 		//various examples
 		$('#world-map-markers').vectorMap({
-			map : 'idn_mill',
+			map : 'world_mill_en',
 			normalizeFunction : 'polynomial',
 			hoverOpacity : 0.7,
 			hoverColor : false,
@@ -131,7 +131,7 @@
 		});
 
 		$('#india').vectorMap({
-			map : 'id_ID',
+			map : 'in_mill',
 			backgroundColor : 'transparent',
 			regionStyle : {
 				initial : {
@@ -141,7 +141,7 @@
 		});
 
 		$('#uk').vectorMap({
-			map : 'idn_mill',
+			map : 'uk_mill_en',
 			backgroundColor : 'transparent',
 			regionStyle : {
 				initial : {
