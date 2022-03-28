@@ -759,6 +759,192 @@
 
 					</div>	    <!-- End row -->
 
+<div class="row">
+
+
+						<!-- DOCTOR #1 -->
+						<div class="col-md-6 col-lg-3">
+							<div class="doctor-1">								
+														
+								<!-- Doctor Photo -->
+								<div class="hover-overlay text-center"> 
+
+									<!-- Photo -->
+									<img class="img-fluid" src="images/doctor-1.jpg" alt="doctor-foto">	
+									<div class="item-overlay"></div>
+
+									<!-- Profile Link -->		
+									<div class="profile-link">
+										<a class="btn btn-sm btn-tra-white black-hover" href="doctor-1.html" title="">View More Info</a>
+									</div> 
+
+								</div>	
+
+							</div>								
+						</div>	<!-- END DOCTOR #1 -->
+						
+						
+						<!-- DOCTOR #2 -->
+						<div class="col-md-6 col-lg-3">
+							<div class="doctor-1">	
+																						
+								<!-- Doctor Photo -->
+								<div class="hover-overlay text-center"> 
+
+									<!-- Photo -->
+									<img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">	
+									<div class="item-overlay"></div>
+
+									<!-- Profile Link -->		
+									<div class="profile-link">
+										<a class="btn btn-sm btn-tra-white black-hover" href="doctor-2.html" title="">View More Info</a>
+									</div>
+
+								</div>	
+
+							</div>					
+						</div>	<!-- END DOCTOR #2 -->
+						
+						
+						<!-- DOCTOR #3 -->
+						<div class="col-md-6 col-lg-3">
+							<div class="doctor-1">	
+																						
+								<!-- Doctor Photo -->
+								<div class="hover-overlay text-center"> 
+
+									<!-- Photo -->
+									<img class="img-fluid" src="images/doctor-3.jpg" alt="doctor-foto">	
+									<div class="item-overlay"></div>
+
+									<!-- Profile Link -->		
+									<div class="profile-link">
+										<a class="btn btn-sm btn-tra-white black-hover" href="doctor-1.html" title="">View More Info</a>
+									</div>
+
+								</div>		
+							
+							</div>			
+						</div>	<!-- END DOCTOR #3 -->
+											
+						
+						<!-- DOCTOR #4 -->
+						<div class="col-md-6 col-lg-3">
+							<div class="doctor-1">	
+																					
+								<!-- Doctor Photo -->
+								<div class="hover-overlay text-center"> 
+
+									<!-- Photo -->
+									<img class="img-fluid" src="images/doctor-4.jpg" alt="doctor-foto">	
+									<div class="item-overlay"></div>
+
+									<!-- Profile Link -->		
+									<div class="profile-link">
+										<a class="btn btn-sm btn-tra-white black-hover" href="doctor-2.html" title="">View More Info</a>
+									</div>
+
+								</div>		
+
+							</div>			
+						</div>	<!-- END DOCTOR #4 -->
+
+
+					</div>	    <!-- End row -->
+
+					<div class="row">
+
+
+						<!-- DOCTOR #5 -->
+						<div class="col-md-6 col-lg-3">
+							<div class="doctor-1">								
+														
+								<!-- Doctor Photo -->
+								<div class="hover-overlay text-center"> 
+
+									<!-- Photo -->
+									<img class="img-fluid" src="images/doctor-1.jpg" alt="doctor-foto">	
+									<div class="item-overlay"></div>
+
+									<!-- Profile Link -->		
+									<div class="profile-link">
+										<a class="btn btn-sm btn-tra-white black-hover" href="doctor-1.html" title="">View More Info</a>
+									</div> 
+
+								</div>	
+
+							</div>								
+						</div>	<!-- END DOCTOR #5 -->
+						
+						
+						<!-- DOCTOR #6 -->
+						<div class="col-md-6 col-lg-3">
+							<div class="doctor-1">	
+																						
+								<!-- Doctor Photo -->
+								<div class="hover-overlay text-center"> 
+
+									<!-- Photo -->
+									<img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">	
+									<div class="item-overlay"></div>
+
+									<!-- Profile Link -->		
+									<div class="profile-link">
+										<a class="btn btn-sm btn-tra-white black-hover" href="doctor-2.html" title="">View More Info</a>
+									</div>
+
+								</div>	
+
+							</div>					
+						</div>	<!-- END DOCTOR #6 -->
+						
+						
+						<!-- DOCTOR #7 -->
+						<div class="col-md-6 col-lg-3">
+							<div class="doctor-1">	
+																						
+								<!-- Doctor Photo -->
+								<div class="hover-overlay text-center"> 
+
+									<!-- Photo -->
+									<img class="img-fluid" src="images/doctor-3.jpg" alt="doctor-foto">	
+									<div class="item-overlay"></div>
+
+									<!-- Profile Link -->		
+									<div class="profile-link">
+										<a class="btn btn-sm btn-tra-white black-hover" href="doctor-1.html" title="">View More Info</a>
+									</div>
+
+								</div>		
+							
+							</div>			
+						</div>	<!-- END DOCTOR #7 -->
+											
+						
+						<!-- DOCTOR #8 -->
+						<div class="col-md-6 col-lg-3">
+							<div class="doctor-1">	
+																					
+								<!-- Doctor Photo -->
+								<div class="hover-overlay text-center"> 
+
+									<!-- Photo -->
+									<img class="img-fluid" src="images/doctor-4.jpg" alt="doctor-foto">	
+									<div class="item-overlay"></div>
+
+									<!-- Profile Link -->		
+									<div class="profile-link">
+										<a class="btn btn-sm btn-tra-white black-hover" href="doctor-2.html" title="">View More Info</a>
+									</div>
+
+								</div>		
+
+							</div>			
+						</div>	<!-- END DOCTOR #8 -->
+
+
+					</div>	    <!-- End row2 -->
+
 				</div>	   <!-- End container -->
 			</section>	<!-- END  OUR-NETWORK-->
 
