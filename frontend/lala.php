@@ -225,7 +225,7 @@ pointSeries.bullets.push(function () {
 var cities = [
 
   {
-      color: red,
+      color: "red",
     title: "JAKARTA HEAD OFFICE",
     latitude: -6.2,
     longitude: 106.816,
