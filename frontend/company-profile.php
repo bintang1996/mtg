@@ -363,8 +363,53 @@
 				</div>	   <!-- END TEXT BLOCK -->	
 
 
-				<!-- INFO-9 IMAGE -->
-				<div class="info-9-img bg-fixed text-center"></div>
+				<!-- TEXT BLOCK -->		
+				<div class="container">
+					<div class="row d-flex align-items-center">	
+						<div class="col-lg-6">
+							<div class="info-9-table white-color wow fadeInUp" data-wow-delay="0.4s">
+
+								<!-- Title -->
+								<h4 class="h4-xs">MISI</h4>
+
+								<!-- Text -->
+								<p>Porta semper lacus cursus and feugiat primis ultrice ligula risus auctor tempus feugiat
+								   and dolor lacinia cursus turpis dolores ut aliquam a quaerat sodales sapien pretium
+								</p>
+
+								<!-- Table -->
+								<table class="table">
+									<tbody>
+									     <tr>
+									      	<td>Mon – Fri</td>
+									      	<td> - </td>
+									      	<td class="text-right">8:00 AM - 8:00 PM</td>
+									    </tr>
+									    <tr>
+									      	<td>Saturday</td>
+									      	<td>-</td>
+									      	<td class="text-right">10:00 AM - 6:00 PM</td>
+									    </tr>
+									    <tr class="last-tr">
+									      	<td>Sunday</td>
+									      	<td>-</td>
+									      	<td class="text-right">10:00 AM - 4:00 PM</td>
+									   	 </tr>
+									  </tbody>
+								</table>
+
+								<!-- Title -->
+								<h5 class="h5-sm">Need a personal health plan?</h5>
+
+								<!-- Text -->
+								<p>Porta semper lacus cursus, and feugiat primis ultrice ligula at risus auctor vehicula magna
+								   luctus tempor quisque undo laoreet turpis urna augue, viverra a augue eget
+								</p>
+
+							</div>	
+						</div>	
+					</div>	  <!-- End row -->
+				</div>	   <!-- END TEXT BLOCK -->	
 
 
 			</section>	<!-- END VISI-MISI -->
