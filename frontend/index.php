@@ -335,7 +335,7 @@
 				</div>	   <!-- End container -->
 			</section>	 <!-- END SERVICES-3 -->	
 
-			============================================= -->
+	
 			<section id="services-3" class="bg-lightgrey wide-100 services-section division" style="background-color:#ececec;">
 				<div class="container">
 
@@ -344,7 +344,7 @@
 					<div class="row">	
 						<div class="col-lg-10 offset-lg-1 section-title">		
 							<!-- Title 	-->	
-							<h3 class="h3-md steelblue-color" style="color: #281E78;"><b>OUR STORIES, NEWS, EDUCATION, & RECENT POST</b></h3>								
+							<h4 class="h3-md steelblue-color" style="color: #281E78;"><b>OUR STORIES, NEWS, EDUCATION, & RECENT POST</b></h4>								
 						</div> 
 					</div>
 				
@@ -372,31 +372,36 @@
 							<h3 class="h3-md steelblue-color" style="color: #281E78;"><b>OFFICE & SITE LOCATION</b></h3>								
 						</div> 
 					</div>
+					<div class="row">
+											
+											<table>
+											<tr>
+												<th colspan="5"><h4 style="color: #281E78;"><b>TEMUKAN KAMI DI KOTA ANDA!</b></h4></th>
+											
+											</tr>
+											<tr>
+												<td><i class="fab fa-discourse"></i> Jakarta</td>
+												<td> </td>
+												<td><i class="fab fa-discourse"></i> Bandung</td>
+												<td> </td>
+												<td><i class="fab fa-discourse"></i> Makassar</td>
+											</tr>
+											<tr>
+												<td><i class="fab fa-discourse"></i> Surabaya</td>
+												<td></td>
+												<td><i class="fab fa-discourse"></i> Palembang</td>
+												<td></td>
+												<td><i class="fab fa-discourse"></i> Padang</td>
+											</tr>
+											</table>
+											</div><br><br>
 				
 					<!-- SECTION TITLE -->	
 					<div class="row">	
 						<img src="images/map1.png" width="100%" alt="testimonial-avatar">
 					</div>	
 
-					<div class="row">
-											
-					<table>
-					<tr>
-						<th colspan="3">First Name</th>
-					
-					</tr>
-					<tr>
-						<td>Hillary</td>
-						<td>Nyakundi</td>
-						<td>tables@mail.com</td>
-					</tr>
-					<tr>
-						<td>Lary</td>
-						<td>Mak</td>
-						<td>developer@mail.com</td>
-					</tr>
-					</table>
-					</div>
+
 				</div>	   <!-- End container -->
 			</section>	 <!-- END TESTIMONIALS-2 -->
 
