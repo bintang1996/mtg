@@ -421,44 +421,7 @@
 							<div class="services-7-table blue-table mb-30 wow fadeInUp" data-wow-delay="0.6s">
 
 								<!-- Title -->
-								<h4 class="h4-xs">Opening Hours:</h4>
-
-								<!-- Text -->
-								<p class="p-sm">Porta semper lacus cursus and feugiat primis ultrice ligula risus auctor
-								   tempus feugiat and dolor lacinia cursus
-								</p>
-
-								<!-- Table -->
-								<table class="table">
-									<tbody>
-									    <tr>
-									      	<td>Mon – Wed</td>
-									      	<td> - </td>
-									      	<td class="text-right">9:00 AM - 7:00 PM</td>
-									    </tr>
-									    <tr>
-									      	<td>Thursday</td>
-									      	<td> - </td>
-									      	<td class="text-right">9:00 AM - 6:30 PM</td>
-									    </tr>
-									     <tr>
-									      	<td>Friday</td>
-									      	<td> - </td>
-									      	<td class="text-right">9:00 AM - 6:00 PM</td>
-									    </tr>
-									    <tr class="last-tr">
-									      	<td>Sun - Sun</td>
-									      	<td>-</td>
-									      	<td class="text-right">CLOSED</td>
-									   	 </tr>
-									  </tbody>
-								</table>
-
-								<!-- Title -->
-								<h5 class="h5-sm">Need a personal health plan?</h5>
-
-								<!-- Text -->
-								<p class="p-sm">Porta semper lacus cursus, and feugiat primis ultrice ligula at risus auctor</p>
+								<h4 class="h4-xs">COMPANY VALUES</h4>
 
 							</div>	
 						</div>	<!-- END INFO TABLE -->
