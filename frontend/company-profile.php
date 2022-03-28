@@ -28,7 +28,7 @@
 
 			<!-- ABOUT-US-MEDITRANS
 			============================================= -->
-			<section id="info-1" class="wide-60 info-section division">
+			<section id="info-1" class="wide-60 info-section division" style="background-color:white;">
 				<div class="container">
 					<div class="row d-flex align-items-center">
 
