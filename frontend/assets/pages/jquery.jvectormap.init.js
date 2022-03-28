@@ -4,7 +4,7 @@ $(document).ready(function () {
 	  $.each(jvm.Map.maps[map].paths, function(index, value) {
 		options += '<option value="ID" selected>INDO</option>';
 	  });
-	  $("#regions").html(options).change(function() {
+	  $("#regions").html(options).load(function() {
 		var mapObj = $("#map").vectorMap("get", "mapObject");
 		mapObj.clearSelectedRegions();
 		mapObj.setSelectedRegions(this.value);
