@@ -19,7 +19,7 @@
 								</nav>
 
 								<!-- Title -->
-								<h4 class="h4-sm steelblue-color">Service Single #1</h4>
+								<h4 class="h4-sm steelblue-color">Our Products</h4>
 
 							</div>
 						</div>
