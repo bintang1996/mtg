@@ -72,7 +72,7 @@
 							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 							while($d2=mysqli_fetch_array($sql2)){
 							?> 
-									<img class="img-fluid" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+									<img class="img-fluid" width="210" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
 <?php } ?>
 
 
