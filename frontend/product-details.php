@@ -104,7 +104,7 @@ img {
 
 
 	<!-- TOP ROW -->
-    <div class="top-row mb-80">
+    <div class="top-row mb-80" style="background-color:white;">
 						<div class="row d-flex align-items-center">
 
 
