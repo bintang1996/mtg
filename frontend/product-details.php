@@ -3,10 +3,6 @@
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-body {
-  font-family: Arial;
-  margin: 0;
-}
 
 * {
   box-sizing: border-box;
@@ -101,67 +97,152 @@ img {
 </style>
 <body>
 
-<h2 style="text-align:center">Slideshow Gallery</h2>
 
-<div class="container">
-  <div class="mySlides">
-    <div class="numbertext">1 / 6</div>
-    <img src="img_woods_wide.jpg" style="width:100%">
-  </div>
 
-  <div class="mySlides">
-    <div class="numbertext">2 / 6</div>
-    <img src="img_5terre_wide.jpg" style="width:100%">
-  </div>
 
-  <div class="mySlides">
-    <div class="numbertext">3 / 6</div>
-    <img src="img_mountains_wide.jpg" style="width:100%">
-  </div>
-    
-  <div class="mySlides">
-    <div class="numbertext">4 / 6</div>
-    <img src="img_lights_wide.jpg" style="width:100%">
-  </div>
 
-  <div class="mySlides">
-    <div class="numbertext">5 / 6</div>
-    <img src="img_nature_wide.jpg" style="width:100%">
-  </div>
-    
-  <div class="mySlides">
-    <div class="numbertext">6 / 6</div>
-    <img src="img_snow_wide.jpg" style="width:100%">
-  </div>
-    
-  <a class="prev" onclick="plusSlides(-1)">❮</a>
-  <a class="next" onclick="plusSlides(1)">❯</a>
 
-  <div class="caption-container">
-    <p id="caption"></p>
-  </div>
 
-  <div class="row">
-    <div class="column">
-      <img class="demo cursor" src="img_woods.jpg" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="img_5terre.jpg" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="img_mountains.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="img_lights.jpg" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="img_nature.jpg" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
-    </div>    
-    <div class="column">
-      <img class="demo cursor" src="img_snow.jpg" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
-    </div>
-  </div>
-</div>
+	<!-- TOP ROW -->
+    <div class="top-row mb-80">
+						<div class="row d-flex align-items-center">
+
+
+						<!-- INFO IMAGE -->
+						<div class="col-lg-6">
+							<div class="info-4-img text-center wow fadeInUp" data-wow-delay="0.6s">
+								
+
+                                     <h2 style="text-align:center">Slideshow Gallery</h2>
+
+                                    <div class="container">
+                                    <div class="mySlides">
+                                        <div class="numbertext">1 / 6</div>
+                                        <img src="img_woods_wide.jpg" style="width:100%">
+                                    </div>
+
+                                    <div class="mySlides">
+                                        <div class="numbertext">2 / 6</div>
+                                        <img src="img_5terre_wide.jpg" style="width:100%">
+                                    </div>
+
+                                    <div class="mySlides">
+                                        <div class="numbertext">3 / 6</div>
+                                        <img src="img_mountains_wide.jpg" style="width:100%">
+                                    </div>
+                                        
+                                    <div class="mySlides">
+                                        <div class="numbertext">4 / 6</div>
+                                        <img src="img_lights_wide.jpg" style="width:100%">
+                                    </div>
+
+                                    <div class="mySlides">
+                                        <div class="numbertext">5 / 6</div>
+                                        <img src="img_nature_wide.jpg" style="width:100%">
+                                    </div>
+                                        
+                                    <div class="mySlides">
+                                        <div class="numbertext">6 / 6</div>
+                                        <img src="img_snow_wide.jpg" style="width:100%">
+                                    </div>
+                                        
+                                    <a class="prev" onclick="plusSlides(-1)">❮</a>
+                                    <a class="next" onclick="plusSlides(1)">❯</a>
+
+                                    <div class="caption-container">
+                                        <p id="caption"></p>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="column">
+                                        <img class="demo cursor" src="img_woods.jpg" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
+                                        </div>
+                                        <div class="column">
+                                        <img class="demo cursor" src="img_5terre.jpg" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
+                                        </div>
+                                        <div class="column">
+                                        <img class="demo cursor" src="img_mountains.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+                                        </div>
+                                        <div class="column">
+                                        <img class="demo cursor" src="img_lights.jpg" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
+                                        </div>
+                                        <div class="column">
+                                        <img class="demo cursor" src="img_nature.jpg" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
+                                        </div>    
+                                        <div class="column">
+                                        <img class="demo cursor" src="img_snow.jpg" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
+                                        </div>
+                                    </div>
+                                    </div>
+
+
+
+							</div>
+						</div>
+
+
+						<!-- INFO TEXT -->	
+						<div class="col-lg-6">
+							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
+
+								<!-- Section ID -->	
+					 			<span class="section-id blue-color">Welcome to MedService</span>
+
+								<!-- Title -->
+								<h3 class="h3-md steelblue-color">Clinic with Innovative Approach to Treatment</h3>
+
+								<!-- Text -->
+								<p>An enim nullam tempor sapien gravida donec pretium ipsum  porta justo integer at  odio
+								   velna vitae auctor integer congue magna purus pretium ligula rutrum luctus ultrice aliquam
+								   a augue suscipit
+								</p>
+
+								<!-- Text -->
+								<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor tempus feugiat
+								   dolor lacinia cubilia curae integer congue leo metus, eu mollislorem primis in orci integer
+								   metus mollis faucibus. An enim nullam tempor sapien gravida donec pretium and ipsum porta
+								   justo integer at velna vitae auctor integer congue
+								</p>
+
+								<!-- Singnature -->
+								<div class="singnature mt-35">
+
+									<!-- Text -->
+									<p class="p-small mb-15">Randon Pexon, Head of Clinic</p>
+
+									<!-- Singnature Image -->
+									<!-- Recommended sizes for Retina Ready displays is 400x68px; -->
+									<img class="img-fluid" src="images/signature.png" width="200" height="34" alt="signature-image" />	
+
+								</div>
+
+							</div>
+						</div>	<!-- END TEXT BLOCK -->	
+
+						
+						</div>    <!-- End row -->
+					</div>	<!-- END TOP ROW -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <script>
 let slideIndex = 1;
@@ -194,8 +275,6 @@ function showSlides(n) {
 }
 </script>
     
-</body>
-</html>
 
 
 
