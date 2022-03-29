@@ -81,7 +81,7 @@
 
 									<!-- Profile Link -->		
 									<div class="profile-link">
-										<a class="btn btn-sm btn-tra-white black-hover" href="doctor-1.html" title="">View More Info</a>
+										<a class="btn btn-sm btn-tra-white black-hover" href="product-details.php?id=<?php echo $x;?>" title="">View More Info</a>
 									</div> 
 
 								</div>	
