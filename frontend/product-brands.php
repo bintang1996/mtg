@@ -106,14 +106,6 @@
 					</div>	    <!-- End row -->
 
 
-					<!-- ALL DOCTORS BUTTON -->		
-					<div class="row">
-						<div class="col-md-12 text-center">
-							<div class="all-doctors mb-40">
-								<a href="all-doctors.html" class="btn btn-blue blue-hover">Meet All Doctors</a>
-							</div>
-						</div>
-					</div>
 
 
 				</div>	   <!-- End container -->
