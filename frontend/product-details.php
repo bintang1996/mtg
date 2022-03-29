@@ -1,176 +1,202 @@
 <?php include "header.php";?>
-
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-body{
-	padding-top: 100px;
+body {
+  font-family: Arial;
+  margin: 0;
 }
 
-#content-wrapper{
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
-	align-items: center;
+* {
+  box-sizing: border-box;
 }
 
-.column{
-	width: 600px;
-	padding: 10px;
-
+img {
+  vertical-align: middle;
 }
 
-#featured{
-	max-width: 500px;
-	max-height: 600px;
-	object-fit: cover;
-	cursor: pointer;
-	border: 2px solid black;
-
+/* Position the image container (needed to position the left and right arrows) */
+.container {
+  position: relative;
 }
 
-.thumbnail{
-	object-fit: cover;
-	max-width: 180px;
-	max-height: 100px;
-	cursor: pointer;
-	opacity: 0.5;
-	margin: 5px;
-	border: 2px solid black;
-
+/* Hide the images by default */
+.mySlides {
+  display: none;
 }
 
-.thumbnail:hover{
-	opacity:1;
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+  cursor: pointer;
 }
 
-.active{
-	opacity: 1;
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
 }
 
-#slide-wrapper{
-	max-width: 500px;
-	display: flex;
-	min-height: 100px;
-	align-items: center;
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
 }
 
-#slider{
-	width: 440px;
-	display: flex;
-	flex-wrap: nowrap;
-	overflow-x: auto;
-
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
 }
 
-#slider::-webkit-scrollbar {
-		width: 8px;
-
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
 }
 
-#slider::-webkit-scrollbar-track {
-    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
-
-}
- 
-#slider::-webkit-scrollbar-thumb {
-  background-color: #dede2e;
-  outline: 1px solid slategrey;
-   border-radius: 100px;
-
+/* Container for image text */
+.caption-container {
+  text-align: center;
+  background-color: #222;
+  padding: 2px 16px;
+  color: white;
 }
 
-#slider::-webkit-scrollbar-thumb:hover{
-    background-color: #18b5ce;
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
-.arrow{
-	width: 30px;
-	height: 30px;
-	cursor: pointer;
-	transition: .3s;
+/* Six columns side by side */
+.column {
+  float: left;
+  width: 16.66%;
 }
 
-.arrow:hover{
-	opacity: .5;
-	width: 35px;
-	height: 35px;
+/* Add a transparency effect for thumnbail images */
+.demo {
+  opacity: 0.6;
 }
-    </style>
 
+.active,
+.demo:hover {
+  opacity: 1;
+}
+</style>
+<body>
 
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+<h2 style="text-align:center">Slideshow Gallery</h2>
 
+<div class="container">
+  <div class="mySlides">
+    <div class="numbertext">1 / 6</div>
+    <img src="img_woods_wide.jpg" style="width:100%">
+  </div>
 
-	<div id="content-wrapper">
-		
+  <div class="mySlides">
+    <div class="numbertext">2 / 6</div>
+    <img src="img_5terre_wide.jpg" style="width:100%">
+  </div>
 
-		<div class="column">
-			<img id=featured src="images/shoe1.jpg">
+  <div class="mySlides">
+    <div class="numbertext">3 / 6</div>
+    <img src="img_mountains_wide.jpg" style="width:100%">
+  </div>
+    
+  <div class="mySlides">
+    <div class="numbertext">4 / 6</div>
+    <img src="img_lights_wide.jpg" style="width:100%">
+  </div>
 
-			<div id="slide-wrapper" >
-				<img id="slideLeft" class="arrow" src="images/arrow-left.png">
+  <div class="mySlides">
+    <div class="numbertext">5 / 6</div>
+    <img src="img_nature_wide.jpg" style="width:100%">
+  </div>
+    
+  <div class="mySlides">
+    <div class="numbertext">6 / 6</div>
+    <img src="img_snow_wide.jpg" style="width:100%">
+  </div>
+    
+  <a class="prev" onclick="plusSlides(-1)">❮</a>
+  <a class="next" onclick="plusSlides(1)">❯</a>
 
-				<div id="slider">
-					<img class="thumbnail active" src="images/shoe1.jpg">
-					<img class="thumbnail" src="images/shoe2.jpg">
-					<img class="thumbnail" src="images/shoe3.jpg">
+  <div class="caption-container">
+    <p id="caption"></p>
+  </div>
 
-					<img class="thumbnail" src="images/preset1.png">
-					<img class="thumbnail" src="images/preset2.jpg">
-					<img class="thumbnail" src="images/preset3.jpg">
-					<img class="thumbnail" src="images/preset4.jpg">
-				</div>
+  <div class="row">
+    <div class="column">
+      <img class="demo cursor" src="img_woods.jpg" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="img_5terre.jpg" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="img_mountains.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="img_lights.jpg" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="img_nature.jpg" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
+    </div>    
+    <div class="column">
+      <img class="demo cursor" src="img_snow.jpg" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
+    </div>
+  </div>
+</div>
 
-				<img id="slideRight" class="arrow" src="images/arrow-right.png">
-			</div>
-		</div>
+<script>
+let slideIndex = 1;
+showSlides(slideIndex);
 
-		<div class="column">
-			<h1>Awesome Shoes</h1>
-			<hr>
-			<h3>$89.99</h3>
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
 
-			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
 
-			<input value=1 type="number">
-			<a class="btn btn-dark" href="#">Add to Cart</a>
-		</div>
+function showSlides(n) {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("demo");
+  let captionText = document.getElementById("caption");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+  captionText.innerHTML = dots[slideIndex-1].alt;
+}
+</script>
+    
+</body>
+</html>
 
-	</div>
-
-	<script type="text/javascript">
-		let thumbnails = document.getElementsByClassName('thumbnail')
-
-		let activeImages = document.getElementsByClassName('active')
-
-		for (var i=0; i < thumbnails.length; i++){
-
-			thumbnails[i].addEventListener('mouseover', function(){
-				console.log(activeImages)
-				
-				if (activeImages.length > 0){
-					activeImages[0].classList.remove('active')
-				}
-				
-
-				this.classList.add('active')
-				document.getElementById('featured').src = this.src
-			})
-		}
-
-
-		let buttonRight = document.getElementById('slideRight');
-		let buttonLeft = document.getElementById('slideLeft');
-
-		buttonLeft.addEventListener('click', function(){
-			document.getElementById('slider').scrollLeft -= 180
-		})
-
-		buttonRight.addEventListener('click', function(){
-			document.getElementById('slider').scrollLeft += 180
-		})
-
-
-	</script>
 
 
 <?php include "footer.php";?>
