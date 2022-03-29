@@ -92,8 +92,7 @@
 									<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
 									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
-									<p class="p-sm grey-color">Donec vel sapien augue integer turpis cursus porta, mauris sed
-									   augue luctus magna dolor luctus ipsum neque
+									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>
 									</p>
 
 								</div>	
