@@ -1,4 +1,4 @@
-<?php include "header.php";?>
+
 <style>
     %transition_all_03s {
   transition:all .3s ease;
@@ -305,4 +305,3 @@ let navSlider = new Swiper(navSliderSelector, navSliderOptions);
 mainSlider.controller.control = navSlider;
 navSlider.controller.control = mainSlider;
 </script>
-<?php include "footer.php";?>
