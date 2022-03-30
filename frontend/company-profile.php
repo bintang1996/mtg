@@ -524,10 +524,10 @@
 					</div>	 <!-- END SECTION TITLE -->	
 
 
-					<div class="row col-md-12" style="margin-left: auto; margin-right: auto;">
+					<div class="row col-md-12">
 					
 						<!-- DOCTOR #1 -->
-						<div class="col-md-2">
+						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
 							<div class="doctor-1">								
 														
 								<!-- Doctor Photo -->
@@ -549,7 +549,7 @@
 						
 						
 						<!-- DOCTOR #2 -->
-						<div class="col-md-2">
+						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
 							<div class="doctor-1">	
 																						
 								<!-- Doctor Photo -->
@@ -571,7 +571,7 @@
 						
 						
 						<!-- DOCTOR #3 -->
-						<div class="col-md-2">
+						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
 							<div class="doctor-1">	
 																						
 								<!-- Doctor Photo -->
@@ -593,7 +593,7 @@
 											
 						
 						<!-- DOCTOR #4 -->
-						<div class="col-md-2">
+						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
 							<div class="doctor-1">	
 																					
 								<!-- Doctor Photo -->
@@ -614,7 +614,7 @@
 						</div>	<!-- END DOCTOR #4 -->
 
 						<!-- DOCTOR #5 -->
-						<div class="col-md-2">
+						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
 							<div class="doctor-1">								
 														
 								<!-- Doctor Photo -->
