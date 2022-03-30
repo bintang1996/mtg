@@ -524,7 +524,7 @@
 					</div>	 <!-- END SECTION TITLE -->	
 
 
-					<div class="row">
+					<div class="row" style="margin: auto;">
 
 
 						<!-- DOCTOR #1 -->
