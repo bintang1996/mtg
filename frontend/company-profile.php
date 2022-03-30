@@ -528,7 +528,7 @@
 
 
 						<!-- DOCTOR #1 -->
-						<div class="col-md-6 col-lg-3">
+						<div class="col-md-2">
 							<div class="doctor-1">								
 														
 								<!-- Doctor Photo -->
@@ -550,7 +550,7 @@
 						
 						
 						<!-- DOCTOR #2 -->
-						<div class="col-md-6 col-lg-3">
+						<div class="col-md-2">
 							<div class="doctor-1">	
 																						
 								<!-- Doctor Photo -->
@@ -572,7 +572,7 @@
 						
 						
 						<!-- DOCTOR #3 -->
-						<div class="col-md-6 col-lg-3">
+						<div class="col-md-2">
 							<div class="doctor-1">	
 																						
 								<!-- Doctor Photo -->
@@ -594,7 +594,7 @@
 											
 						
 						<!-- DOCTOR #4 -->
-						<div class="col-md-6 col-lg-3">
+						<div class="col-md-2">
 							<div class="doctor-1">	
 																					
 								<!-- Doctor Photo -->
@@ -614,15 +614,8 @@
 							</div>			
 						</div>	<!-- END DOCTOR #4 -->
 
-
-					</div>	    <!-- End row -->
-
-
-					<div class="row">
-
-
 						<!-- DOCTOR #5 -->
-						<div class="col-md-6 col-lg-3">
+						<div class="col-md-2">
 							<div class="doctor-1">								
 														
 								<!-- Doctor Photo -->
@@ -641,6 +634,15 @@
 
 							</div>								
 						</div>	<!-- END DOCTOR #5 -->
+
+
+					</div>	    <!-- End row -->
+
+
+					<div class="row">
+
+
+						
 						
 						
 						<!-- DOCTOR #6 -->
