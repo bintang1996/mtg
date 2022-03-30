@@ -638,14 +638,32 @@
 					</div>	    <!-- End row -->
 
 
-					<div class="row">
-
-
-						
-						
-						
+					<div class="row col-md-12">
+					
 						<!-- DOCTOR #6 -->
-						<div class="col-md-6 col-lg-3">
+						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
+							<div class="doctor-1">								
+														
+								<!-- Doctor Photo -->
+								<div class="hover-overlay text-center"> 
+
+									<!-- Photo -->
+									<img class="img-fluid" src="images/rs-premier.jpg" alt="doctor-foto">	
+									<div class="item-overlay"></div>
+
+									<!-- Profile Link -->		
+									<div class="profile-link">
+										<a class="btn btn-sm btn-tra-white black-hover" href="doctor-1.html" title="">View More Info</a>
+									</div> 
+
+								</div>	
+
+							</div>								
+						</div>	<!-- END DOCTOR #6 -->
+						
+						
+						<!-- DOCTOR #7 -->
+						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
 							<div class="doctor-1">	
 																						
 								<!-- Doctor Photo -->
@@ -663,11 +681,11 @@
 								</div>	
 
 							</div>					
-						</div>	<!-- END DOCTOR #6 -->
+						</div>	<!-- END DOCTOR #7 -->
 						
 						
-						<!-- DOCTOR #7 -->
-						<div class="col-md-6 col-lg-3">
+						<!-- DOCTOR #8 -->
+						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
 							<div class="doctor-1">	
 																						
 								<!-- Doctor Photo -->
@@ -685,11 +703,11 @@
 								</div>		
 							
 							</div>			
-						</div>	<!-- END DOCTOR #7 -->
+						</div>	<!-- END DOCTOR #8 -->
 											
 						
-						<!-- DOCTOR #8 -->
-						<div class="col-md-6 col-lg-3">
+						<!-- DOCTOR #9 -->
+						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
 							<div class="doctor-1">	
 																					
 								<!-- Doctor Photo -->
@@ -707,7 +725,28 @@
 								</div>		
 
 							</div>			
-						</div>	<!-- END DOCTOR #8 -->
+						</div>	<!-- END DOCTOR #9 -->
+
+						<!-- DOCTOR #10 -->
+						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
+							<div class="doctor-1">								
+														
+								<!-- Doctor Photo -->
+								<div class="hover-overlay text-center"> 
+
+									<!-- Photo -->
+									<img class="img-fluid" src="images/rs-premier.jpg" alt="doctor-foto">	
+									<div class="item-overlay"></div>
+
+									<!-- Profile Link -->		
+									<div class="profile-link">
+										<a class="btn btn-sm btn-tra-white black-hover" href="doctor-1.html" title="">View More Info</a>
+									</div> 
+
+								</div>	
+
+							</div>								
+						</div>	<!-- END DOCTOR #10 -->
 
 
 					</div>	    <!-- End row2 -->
