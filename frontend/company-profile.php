@@ -524,9 +524,8 @@
 					</div>	 <!-- END SECTION TITLE -->	
 
 
-					<div class="row col-md-12" style="padding: auto;">
-
-
+					<div class="row col-md-12" style="margin-left: auto; margin-right: auto;">
+					
 						<!-- DOCTOR #1 -->
 						<div class="col-md-2">
 							<div class="doctor-1">								
