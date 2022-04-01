@@ -33,8 +33,8 @@
 
 					<!-- TEXT -->
 					<div class="row">
-				 		<div class="col-xl-10 offset-xl-1">
-				 			<div class="col-lg-12 content-block text-left">
+				 		<div class="col-lg-12">
+				 			<div class="col-lg-12 text-left">
 
 				 				<!-- Title -->
 								<h3 class="h3-xl blue-color">Magnetic Resonance Imaging</h3>
