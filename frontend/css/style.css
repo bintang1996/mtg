@@ -656,35 +656,35 @@ ul.content-list li:last-child {
 
 .icon-xs [class*="flaticon-"]:before,
 .icon-xs [class*="flaticon-"]:after {   
-  font-family: 'Lato';
+  font-family: Flaticon;
   font-size: 3.25rem;
   line-height: 1!important;
 }
 
 .icon-sm [class*="flaticon-"]:before,
 .icon-sm [class*="flaticon-"]:after {   
-  font-family: 'Lato';
+  font-family: Flaticon;
   font-size: 3.75rem;
   line-height: 1!important;
 }
 
 .icon-md [class*="flaticon-"]:before,
 .icon-md [class*="flaticon-"]:after {   
-  font-family: 'Lato';
+  font-family: Flaticon;
   font-size: 4.25rem;
   line-height: 1!important;
 }
 
 .icon-lg [class*="flaticon-"]:before,
 .icon-lg [class*="flaticon-"]:after {   
-  font-family: 'Lato';
+  font-family: Flaticon;
   font-size: 4.5rem;
   line-height: 1!important;
 }
 
 .icon-xl [class*="flaticon-"]:before,
 .icon-xl [class*="flaticon-"]:after {   
-  font-family: 'Lato';
+  font-family: Flaticon;
   font-size: 5rem;
   line-height: 1!important;
 }
