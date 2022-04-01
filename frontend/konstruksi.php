@@ -27,8 +27,8 @@
 
             <!-- SERVICE DETAILS
 			============================================= -->
-			<div id="service-page" class="wide-60 service-page-section division">
-				<div class="container">
+			<div id="service-page" class="wide-60 service-page-section division" style="background-color:#FFFFFF;">
+				<div class="container" style="background-color:#FFFFFF;">
 
 
 					<!-- TEXT -->
