@@ -11,12 +11,12 @@
 								<nav aria-label="breadcrumb">
 								  	<ol class="breadcrumb">
 								    	<li class="breadcrumb-item"><a href="index.php">Home</a></li>
-								    	<li class="breadcrumb-item active" aria-current="page">Partnership</li>
+								    	<li class="breadcrumb-item active" aria-current="page">Konstruksi</li>
 								  	</ol>
 								</nav>
 
 								<!-- Title -->
-								<h4 class="h4-sm steelblue-color">Partnership</h4>
+								<h4 class="h4-sm steelblue-color">Konstruksi</h4>
 
 							</div>
 						</div>
@@ -27,7 +27,7 @@
 
             <!-- SERVICE DETAILS
 			============================================= -->
-			<div id="service-page" class="wide-60 service-page-section division" style="background-color:#FFFFFF;">
+			<div id="service-page" class="wide-100 service-page-section division" style="background-color:#FFFFFF;">
 				<div class="container" style="background-color:#FFFFFF;">
 
 
