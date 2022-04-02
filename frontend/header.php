@@ -60,6 +60,7 @@
 				{
 				font-family: Lato;
 				font-family: 'Lato';
+				font-weight: 400;
 				}
 
 		</style>
