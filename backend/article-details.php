@@ -530,6 +530,7 @@ $(document).ready(function() {
                                         <!-- price.// -->
                                         
                                         <a href="delete-pimage.php?id=<?php echo $d3['img_id'];?>&id2=<?php echo $d3['p_id'];?>&nama=<?php echo $d3['img_name'];?>" class="btn btn-sm font-sm btn-light rounded"> <i class="material-icons md-delete_forever"></i> Delete </a>
+                                
                                         <input type="text" value="https://bisabos.com/blog/cara-membuat-animasi-mengetik-teks-dengan-css-dan-javascript" id="copyText" readonly>
         <!-- The button used to copy the text -->
         <button id="copyBtn">Copy text</button>
