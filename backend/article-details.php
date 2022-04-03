@@ -509,20 +509,29 @@ $(document).ready(function() {
                                     
                                         <a href="delete-pimage.php?id=<?php echo $d3['img_id'];?>&id2=<?php echo $d3['p_id'];?>&nama=<?php echo $d3['img_name'];?>" class="btn btn-sm font-sm btn-light rounded"> <i class="material-icons md-delete_forever"></i> Delete </a>
                                        
-                                        <input type="hidden" value="../frontend/assets/imgs/shop/<?php echo $d3['img_name'];?>" id="myInput45">
-                                        <button onclick="myFunction45()">Get URL</button>
+                                        <input type="text" value="Hello World" id="myInput">
+
+                                        <div class="tooltip">
+                                        <button onclick="myFunction()" onmouseout="outFunc()">
+                                          <span class="tooltiptext" id="myTooltip">Copy to clipboard</span>
+                                          Copy text
+                                          </button>
+                                        </div>
 
                                         <script>
-                                        function myFunction45() {
-                                          /* Get the text field */
-                                          var copyText = document.getElementById("myInput45");
-
-                                          /* Select the text field */
+                                        function myFunction() {
+                                          var copyText = document.getElementById("myInput");
                                           copyText.select();
-                                          copyText.setSelectionRange(0, 99999); /* For mobile devices */
-
-                                          /* Copy the text inside the text field */
+                                          copyText.setSelectionRange(0, 99999);
                                           navigator.clipboard.writeText(copyText.value);
+                                          
+                                          var tooltip = document.getElementById("myTooltip");
+                                          tooltip.innerHTML = "Copied: " + copyText.value;
+                                        }
+
+                                        function outFunc() {
+                                          var tooltip = document.getElementById("myTooltip");
+                                          tooltip.innerHTML = "Copy to clipboard";
                                         }
                                         </script>
                                       </div>
