@@ -26,22 +26,22 @@
   margin-left: -1px;
 }
 
-.container {
+.container2 {
   padding: 15px 30px;
   position: relative;
   background: inherit;
   width: 50%;
 }
 
-.container.left {
+.container2.left {
   left: 0;
 }
 
-.container.right {
+.container2.right {
   left: 50%;
 }
 
-.container::after {
+.container2::after {
   content: '';
   position: absolute;
   width: 16px;
@@ -54,11 +54,11 @@
   z-index: 1;
 }
 
-.container.right::after {
+.container2.right::after {
   left: -8px;
 }
 
-.container::before {
+.container2::before {
   content: '';
   position: absolute;
   width: 50px;
@@ -69,11 +69,11 @@
   z-index: 1;
 }
 
-.container.right::before {
+.container2.right::before {
   left: 8px;
 }
 
-.container .date {
+.container2 .date {
   position: absolute;
   display: inline-block;
   top: calc(50% - 8px);
@@ -86,15 +86,15 @@
   z-index: 1;
 }
 
-.container.left .date {
+.container2.left .date {
   right: -75px;
 }
 
-.container.right .date {
+.container2.right .date {
   left: -75px;
 }
 
-.container .icon {
+.container2 .icon {
   position: absolute;
   display: inline-block;
   width: 40px;
@@ -110,34 +110,34 @@
   z-index: 1;
 }
 
-.container.left .icon {
+.container2.left .icon {
   right: 56px;
 }
 
-.container.right .icon {
+.container2.right .icon {
   left: 56px;
 }
 
-.container .content {
+.container2 .content {
   padding: 30px 90px 30px 30px;
   background: #F6D155;
   position: relative;
   border-radius: 0 500px 500px 0;
 }
 
-.container.right .content {
+.container2.right .content {
   padding: 30px 30px 30px 90px;
   border-radius: 500px 0 0 500px;
 }
 
-.container .content h2 {
+.container2 .content h2 {
   margin: 0 0 10px 0;
   font-size: 18px;
   font-weight: normal;
   color: #006E51;
 }
 
-.container .content p {
+.container2 .content p {
   margin: 0;
   font-size: 16px;
   line-height: 22px;
@@ -149,41 +149,41 @@
     left: 90px;
   }
 
-  .container {
+  .container2 {
     width: 100%;
     padding-left: 120px;
     padding-right: 30px;
   }
 
-  .container.right {
+  .container2.right {
     left: 0%;
   }
 
-  .container.left::after, 
-  .container.right::after {
+  .container2.left::after, 
+  .container2.right::after {
     left: 82px;
   }
 
-  .container.left::before,
-  .container.right::before {
+  .container2.left::before,
+  .container2.right::before {
     left: 100px;
     border-color: transparent #006E51 transparent transparent;
   }
 
-  .container.left .date,
-  .container.right .date {
+  .container2.left .date,
+  .container2.right .date {
     right: auto;
     left: 15px;
   }
 
-  .container.left .icon,
-  .container.right .icon {
+  .container2.left .icon,
+  .container2.right .icon {
     right: auto;
     left: 146px;
   }
 
-  .container.left .content,
-  .container.right .content {
+  .container2.left .content,
+  .container2.right .content {
     padding: 30px 30px 30px 90px;
     border-radius: 500px 0 0 500px;
   }
@@ -192,7 +192,7 @@
 </style>
 
 <div class="timeline">
-  <div class="container left">
+  <div class="container2 left">
     <div class="date">15 Dec</div>
     <i class="icon fa fa-home"></i>
     <div class="content">
@@ -202,7 +202,7 @@
       </p>
     </div>
   </div>
-  <div class="container right">
+  <div class="container2 right">
     <div class="date">22 Oct</div>
     <i class="icon fa fa-gift"></i>
     <div class="content">
@@ -212,7 +212,7 @@
       </p>
     </div>
   </div>
-  <div class="container left">
+  <div class="container2 left">
     <div class="date">10 Jul</div>
     <i class="icon fa fa-user"></i>
     <div class="content">
@@ -222,7 +222,7 @@
       </p>
     </div>
   </div>
-  <div class="container right">
+  <div class="container2 right">
     <div class="date">18 May</div>
     <i class="icon fa fa-running"></i>
     <div class="content">
@@ -232,7 +232,7 @@
       </p>
     </div>
   </div>
-  <div class="container left">
+  <div class="container2 left">
     <div class="date">10 Feb</div>
     <i class="icon fa fa-cog"></i>
     <div class="content">
@@ -242,7 +242,7 @@
       </p>
     </div>
   </div>
-  <div class="container right">
+  <div class="container2 right">
     <div class="date">01 Jan</div>
     <i class="icon fa fa-certificate"></i>
     <div class="content">
