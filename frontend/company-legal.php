@@ -103,7 +103,16 @@
 
 				</div>	   <!-- End container -->
 			</section>	<!-- END INFO-4 -->
+<!-- INFO-5
+			============================================= -->
+			<section id="info-4" class="wide-100 info-section division" style="background-color: white;">
+				<div class="container">
 
+                <?php include "history-company.php";?>
+
+
+                </div>	   <!-- End container -->
+			</section>	<!-- END INFO-4 -->
 
 
 <?php include "footer.php";?>
