@@ -530,7 +530,29 @@ $(document).ready(function() {
                                         <!-- price.// -->
                                         
                                         <a href="delete-pimage.php?id=<?php echo $d3['img_id'];?>&id2=<?php echo $d3['p_id'];?>&nama=<?php echo $d3['img_name'];?>" class="btn btn-sm font-sm btn-light rounded"> <i class="material-icons md-delete_forever"></i> Delete </a>
-                                        </div>
+                                        <input type="text" value="https://bisabos.com/blog/cara-membuat-animasi-mengetik-teks-dengan-css-dan-javascript" id="copyText" readonly>
+        <!-- The button used to copy the text -->
+        <button id="copyBtn">Copy text</button>
+        <!--using sweetalert via CDN -->
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+        <script>
+            const copyBtn = document.getElementById('copyBtn')
+            const copyText = document.getElementById('copyText')
+            
+            copyBtn.onclick = () => {
+                copyText.select();    // Selects the text inside the input
+                document.execCommand('copy');    // Simply copies the selected text to clipboard 
+                 Swal.fire({         //displays a pop up with sweetalert
+                    icon: 'success',
+                    title: 'Text copied to clipboard',
+                    showConfirmButton: false,
+                    timer: 1000
+                });
+            }
+        </script>
+                                      
+                                      
+                                      </div>
                                 </div>
                                 <!-- card-product  end// -->
                             </div>   
