@@ -511,7 +511,6 @@ $(document).ready(function() {
                                        
                                         <input type="hidden" value="Hello World" id="myInput">
 
-                                        <div class="tooltip">
                                         <button onclick="myFunction()" onmouseout="outFunc()">
                                           <span class="tooltiptext" id="myTooltip">Copy to clipboard</span>
                                           Copy text
@@ -534,7 +533,7 @@ $(document).ready(function() {
                                           tooltip.innerHTML = "Copy to clipboard";
                                         }
                                         </script>
-                                      </div>
+                                      
                                 </div>
                                 <!-- card-product  end// -->
                             </div>             
