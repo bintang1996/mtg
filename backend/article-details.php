@@ -508,23 +508,7 @@ $(document).ready(function() {
                                         <!-- price.// -->
                                     
                                         <a href="delete-pimage.php?id=<?php echo $d3['img_id'];?>&id2=<?php echo $d3['p_id'];?>&nama=<?php echo $d3['img_name'];?>" class="btn btn-sm font-sm btn-light rounded"> <i class="material-icons md-delete_forever"></i> Delete </a>
-                                       
-                                        <input type="hidden" value="../frontend/assets/imgs/shop/<?php echo $d3['img_name'];?>" id="myInput45">
-                                        <button onclick="myFunction45()">Get URL</button>
-
-                                        <script>
-                                        function myFunction45() {
-                                          /* Get the text field */
-                                          var copyText = document.getElementById("myInput45");
-
-                                          /* Select the text field */
-                                          copyText.select();
-                                          copyText.setSelectionRange(0, 99999); /* For mobile devices */
-
-                                          /* Copy the text inside the text field */
-                                          navigator.clipboard.writeText(copyText.value);
-                                        }
-                                        </script>
+                                        <input type="button" value="Copy Url" onclick="Copy();" />
                                       </div>
                                 </div>
                                 <!-- card-product  end// -->
@@ -556,7 +540,15 @@ $(document).ready(function() {
                             </div>
 
                          
-
+<script>
+  function Copy() {
+  var Url = document.getElementById("url");
+  Url.innerHTML = window.location.href;
+  console.log(Url.innerHTML)
+  Url.select();
+  document.execCommand("copy");
+}
+</script>
 
 
                           <br><br>
