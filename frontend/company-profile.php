@@ -117,15 +117,6 @@
 
 									<h5 class="h5-sm steelblue-color">Ibnu Affan</h5>
 									<span class="blue-color">Chief Executive Officer</span>
-
-									<p class="p-sm grey-color">CEO of Heartology is start up of a premium cardiovascular services. 
-																Former CEO of SMU Healthcare which co-founder the business.
-																Prior to co-founding SMU, He was in GE Healthcare (11 Years) and Phillips 
-																Healthcare (8 Years) with deep domination expertise in diagnostic Imaging 
-																and cardiology and very strong government and private Hospitals Network.
-																Earned a bachelor’s Engineering Physics Degree – ITS Surabaya.
-									</p>
-
 								</div>	
 
 							</div>								
@@ -155,14 +146,6 @@
 
 									<h5 class="h5-sm steelblue-color">Tari Pristiyani</h5>
 									<span class="blue-color">Director of Operation and Marketing</span>
-
-									<p class="p-sm grey-color">Director Operation and Marketing of Meditrans up to now.
-																2016 - Head of Operation at SMU Healthcare.
-																2015-now as Director Operation at STIcare
-																Prior that Tari having owned business, Tari having   passionate in cathlab Operation.
-																Earned a bachelor’s Engineering Physics Degree – ITS Surabaya.
-									</p>
-
 								</div>	
 
 							</div>					
@@ -192,14 +175,6 @@
 
 									<h5 class="h5-sm steelblue-color">Eddy Santoso</h5>
 									<span class="blue-color">Director of Sales</span>
-
-									<p class="p-sm grey-color">Director Sales of Meditrans up to now.
-																Senior Engineer at FALCON OILFIELD SERVICES for 7 years at Oman.
-																Former Senior Engineer at COMCO Petroleum Comp , Libya 4 Years.
-																Eddy is high dedication in sales and building commercial team for past 3 years.
-																Earned a bachelor’s Engineering Physics Degree – ITS Surabaya.
-									</p>
-
 								</div>	
 
 							</div>			
@@ -229,16 +204,7 @@
 
 									<h5 class="h5-sm steelblue-color">Horraizi Hosen</h5>
 									<span class="blue-color">Director of Engineering</span>
-
-									<p class="p-sm grey-color">Director service and project  of Meditrans up to now.
-																Head of Modality Engineer at SMU Healthcare.  
-																Service Manager at TimeMedical for 5 years.
-																Prior that handling service at GT Pro company in Jakarta for 4 years.
-																Earned a bachelor’s Engineering Chemical Degree – UPN Surabaya.
-									</p>
-
 								</div>	
-
 							</div>			
 						</div>	<!-- END LEADER #4 -->
 
@@ -558,11 +524,10 @@
 					</div>	 <!-- END SECTION TITLE -->	
 
 
-					<div class="row">
-
-
+					<div class="row col-md-12">
+					
 						<!-- DOCTOR #1 -->
-						<div class="col-md-6 col-lg-3">
+						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
 							<div class="doctor-1">								
 														
 								<!-- Doctor Photo -->
@@ -584,7 +549,7 @@
 						
 						
 						<!-- DOCTOR #2 -->
-						<div class="col-md-6 col-lg-3">
+						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
 							<div class="doctor-1">	
 																						
 								<!-- Doctor Photo -->
@@ -606,7 +571,7 @@
 						
 						
 						<!-- DOCTOR #3 -->
-						<div class="col-md-6 col-lg-3">
+						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
 							<div class="doctor-1">	
 																						
 								<!-- Doctor Photo -->
@@ -628,7 +593,7 @@
 											
 						
 						<!-- DOCTOR #4 -->
-						<div class="col-md-6 col-lg-3">
+						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
 							<div class="doctor-1">	
 																					
 								<!-- Doctor Photo -->
@@ -648,15 +613,8 @@
 							</div>			
 						</div>	<!-- END DOCTOR #4 -->
 
-
-					</div>	    <!-- End row -->
-
-
-					<div class="row">
-
-
 						<!-- DOCTOR #5 -->
-						<div class="col-md-6 col-lg-3">
+						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
 							<div class="doctor-1">								
 														
 								<!-- Doctor Photo -->
@@ -675,10 +633,37 @@
 
 							</div>								
 						</div>	<!-- END DOCTOR #5 -->
-						
-						
+
+
+					</div>	    <!-- End row -->
+
+
+					<div class="row col-md-12">
+					
 						<!-- DOCTOR #6 -->
-						<div class="col-md-6 col-lg-3">
+						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
+							<div class="doctor-1">								
+														
+								<!-- Doctor Photo -->
+								<div class="hover-overlay text-center"> 
+
+									<!-- Photo -->
+									<img class="img-fluid" src="images/rs-premier.jpg" alt="doctor-foto">	
+									<div class="item-overlay"></div>
+
+									<!-- Profile Link -->		
+									<div class="profile-link">
+										<a class="btn btn-sm btn-tra-white black-hover" href="doctor-1.html" title="">View More Info</a>
+									</div> 
+
+								</div>	
+
+							</div>								
+						</div>	<!-- END DOCTOR #6 -->
+						
+						
+						<!-- DOCTOR #7 -->
+						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
 							<div class="doctor-1">	
 																						
 								<!-- Doctor Photo -->
@@ -696,11 +681,11 @@
 								</div>	
 
 							</div>					
-						</div>	<!-- END DOCTOR #6 -->
+						</div>	<!-- END DOCTOR #7 -->
 						
 						
-						<!-- DOCTOR #7 -->
-						<div class="col-md-6 col-lg-3">
+						<!-- DOCTOR #8 -->
+						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
 							<div class="doctor-1">	
 																						
 								<!-- Doctor Photo -->
@@ -718,11 +703,11 @@
 								</div>		
 							
 							</div>			
-						</div>	<!-- END DOCTOR #7 -->
+						</div>	<!-- END DOCTOR #8 -->
 											
 						
-						<!-- DOCTOR #8 -->
-						<div class="col-md-6 col-lg-3">
+						<!-- DOCTOR #9 -->
+						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
 							<div class="doctor-1">	
 																					
 								<!-- Doctor Photo -->
@@ -740,7 +725,28 @@
 								</div>		
 
 							</div>			
-						</div>	<!-- END DOCTOR #8 -->
+						</div>	<!-- END DOCTOR #9 -->
+
+						<!-- DOCTOR #10 -->
+						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
+							<div class="doctor-1">								
+														
+								<!-- Doctor Photo -->
+								<div class="hover-overlay text-center"> 
+
+									<!-- Photo -->
+									<img class="img-fluid" src="images/rs-premier.jpg" alt="doctor-foto">	
+									<div class="item-overlay"></div>
+
+									<!-- Profile Link -->		
+									<div class="profile-link">
+										<a class="btn btn-sm btn-tra-white black-hover" href="doctor-1.html" title="">View More Info</a>
+									</div> 
+
+								</div>	
+
+							</div>								
+						</div>	<!-- END DOCTOR #10 -->
 
 
 					</div>	    <!-- End row2 -->

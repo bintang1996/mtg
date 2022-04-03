@@ -54,6 +54,16 @@
 		
 		<!-- RESPONSIVE CSS -->
 		<link href="css/responsive.css" rel="stylesheet"> 
+
+		<style>
+			html *
+				{
+				font-family: Lato;
+				font-family: 'Lato';
+				font-weight: 400;
+				}
+
+		</style>
 	
 	</head>
 	<body style="background-color:#281E78;">
