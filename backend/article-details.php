@@ -509,13 +509,13 @@ $(document).ready(function() {
                                     
                                         <a href="delete-pimage.php?id=<?php echo $d3['img_id'];?>&id2=<?php echo $d3['p_id'];?>&nama=<?php echo $d3['img_name'];?>" class="btn btn-sm font-sm btn-light rounded"> <i class="material-icons md-delete_forever"></i> Delete </a>
                                        
-                                        <input type="hidden" value="../frontend/assets/imgs/shop/<?php echo $d3['img_name'];?>" id="myInput">
-                                        <button onclick="myFunction()">Get URL</button>
+                                        <input type="hidden" value="../frontend/assets/imgs/shop/<?php echo $d3['img_name'];?>" id="myInput45">
+                                        <button onclick="myFunction45()">Get URL</button>
 
                                         <script>
-                                        function myFunction() {
+                                        function myFunction45() {
                                           /* Get the text field */
-                                          var copyText = document.getElementById("myInput");
+                                          var copyText = document.getElementById("myInput45");
 
                                           /* Select the text field */
                                           copyText.select();
