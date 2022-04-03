@@ -3018,8 +3018,8 @@ td.text-right {
 /*------------------------------------------*/ 
 
 .item-overlay {
-  opacity: 70;
-  -moz-opacity: 70; 
+  opacity: 50;
+  -moz-opacity: 0; 
   position: absolute;
   top: 0;
   left: 0;
