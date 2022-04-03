@@ -3,7 +3,7 @@
 
 			<!-- BREADCRUMB
 			============================================= -->
-			<div id="breadcrumb" class="division" style="background-color: white;">
+			<div id="breadcrumb" class="division" >
 				<div class="container">
 					<div class="row">						
 						<div class="col">
@@ -29,7 +29,7 @@
             
 			<!-- INFO-4
 			============================================= -->
-			<section id="info-4" class="wide-100 info-section division">
+			<section id="info-4" class="wide-100 info-section division" style="background-color: white;">
 				<div class="container">
 
 
