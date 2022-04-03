@@ -5,11 +5,7 @@
   box-sizing: border-box;
 }
 
-body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-  background: #ffffff;
-}
+
 
 .timeline {
   position: relative;
@@ -30,12 +26,6 @@ body {
   margin-left: -1px;
 }
 
-.container {
-  padding: 15px 30px;
-  position: relative;
-  background: inherit;
-  width: 50%;
-}
 
 .container.left {
   left: 0;
@@ -153,11 +143,6 @@ body {
     left: 90px;
   }
 
-  .container {
-    width: 100%;
-    padding-left: 120px;
-    padding-right: 30px;
-  }
 
   .container.right {
     left: 0%;
