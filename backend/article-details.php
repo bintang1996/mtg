@@ -511,14 +511,14 @@ $(document).ready(function() {
                                        
                                         <input type="hidden" value="Hello World" id="myInput">
 
-                                        <button onclick="myFunction()" onmouseout="outFunc()">
+                                        <button onclick="myFunction09()" onmouseout="outFunc()">
                                           <span class="tooltiptext" id="myTooltip">Copy to clipboard</span>
                                           Copy text
                                           </button>
                                         </div>
 
                                         <script>
-                                        function myFunction() {
+                                        function myFunction09() {
                                           var copyText = document.getElementById("myInput");
                                           copyText.select();
                                           copyText.setSelectionRange(0, 99999);
