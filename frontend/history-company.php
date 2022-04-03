@@ -193,62 +193,66 @@
 
 <div class="timeline">
   <div class="container2 left">
-    <div class="date">15 Dec</div>
+    <div class="date"></div>
     <i class="icon fa fa-home"></i>
     <div class="content">
-      <h2>Lorem ipsum dolor sit amet</h2>
+      <h2>AKTE</h2>
       <p>
-        Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
+        No. 35, 23 November 2012
       </p>
     </div>
   </div>
   <div class="container2 right">
-    <div class="date">22 Oct</div>
+    <div class="date"></div>
     <i class="icon fa fa-gift"></i>
     <div class="content">
-      <h2>Lorem ipsum dolor sit amet</h2>
+      <h2>NPWP</h2>
       <p>
-        Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
+        31.646.659.8-606.000  
       </p>
     </div>
   </div>
   <div class="container2 left">
-    <div class="date">10 Jul</div>
+    <div class="date"></div>
     <i class="icon fa fa-user"></i>
     <div class="content">
-      <h2>Lorem ipsum dolor sit amet</h2>
+      <h2>TDP</h2>
       <p>
-        Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
+        13.01.1.51.26643  
       </p>
     </div>
   </div>
   <div class="container2 right">
-    <div class="date">18 May</div>
+    <div class="date"></div>
     <i class="icon fa fa-running"></i>
     <div class="content">
-      <h2>Lorem ipsum dolor sit amet</h2>
+      <h2>SIUP</h2>
       <p>
-        Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
+        503/482.A/436.6.11/2013  
       </p>
     </div>
   </div>
   <div class="container2 left">
-    <div class="date">10 Feb</div>
+    <div class="date"></div>
     <i class="icon fa fa-cog"></i>
     <div class="content">
-      <h2>Lorem ipsum dolor sit amet</h2>
+      <h2>SIJUK</h2>
       <p>
-        Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
+        188.4/12/436.7.5/2019  
       </p>
+      <p>- Bangunan Kesehatan / Rumah Sakit</p>
+      <p>Pengolahan Limbah</p>
     </div>
   </div>
   <div class="container2 right">
-    <div class="date">01 Jan</div>
+    <div class="date"></div>
     <i class="icon fa fa-certificate"></i>
     <div class="content">
-      <h2>Lorem ipsum dolor sit amet</h2>
+      <h2>IPAK</h2>
       <p>
-        Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
+        Elektromedik Radiasi, Elektromedik Non Radiasi,
+        Non Elektronik, Non Steril, Non Elektromedik Steril &
+        Diagnostik In Vitro
       </p>
     </div>
   </div>
