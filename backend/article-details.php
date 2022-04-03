@@ -509,7 +509,7 @@ $(document).ready(function() {
                                     
                                         <a href="delete-pimage.php?id=<?php echo $d3['img_id'];?>&id2=<?php echo $d3['p_id'];?>&nama=<?php echo $d3['img_name'];?>" class="btn btn-sm font-sm btn-light rounded"> <i class="material-icons md-delete_forever"></i> Delete </a>
                                        
-                                        <input type="hidden" value="Hello World" id="myInput">
+                                        <input type="hidden" value="Hello World" id="myInpute">
 
                                         <button onclick="myFunction09()" onmouseout="outFunc()">
                                           <span class="tooltiptext" id="myTooltip">Copy to clipboard</span>
@@ -517,22 +517,7 @@ $(document).ready(function() {
                                           </button>
                                         </div>
 
-                                        <script>
-                                        function myFunction09() {
-                                          var copyText = document.getElementById("myInput");
-                                          copyText.select();
-                                          copyText.setSelectionRange(0, 99999);
-                                          navigator.clipboard.writeText(copyText.value);
-                                          
-                                          var tooltip = document.getElementById("myTooltip");
-                                          tooltip.innerHTML = "Copied: " + copyText.value;
-                                        }
-
-                                        function outFunc() {
-                                          var tooltip = document.getElementById("myTooltip");
-                                          tooltip.innerHTML = "Copy to clipboard";
-                                        }
-                                        </script>
+                                     
                                       
                                 </div>
                                 <!-- card-product  end// -->
@@ -563,7 +548,22 @@ $(document).ready(function() {
                             
                             </div>
 
-                         
+                            <script>
+                                        function myFunction09() {
+                                          var copyText = document.getElementById("myInpute");
+                                          copyText.select();
+                                          copyText.setSelectionRange(0, 99999);
+                                          navigator.clipboard.writeText(copyText.value);
+                                          
+                                          var tooltip = document.getElementById("myTooltip");
+                                          tooltip.innerHTML = "Copied: " + copyText.value;
+                                        }
+
+                                        function outFunc() {
+                                          var tooltip = document.getElementById("myTooltip");
+                                          tooltip.innerHTML = "Copy to clipboard";
+                                        }
+                                        </script>
 
 
 
