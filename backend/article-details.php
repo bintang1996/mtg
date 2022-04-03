@@ -509,7 +509,7 @@ $(document).ready(function() {
                                     
                                         <a href="delete-pimage.php?id=<?php echo $d3['img_id'];?>&id2=<?php echo $d3['p_id'];?>&nama=<?php echo $d3['img_name'];?>" class="btn btn-sm font-sm btn-light rounded"> <i class="material-icons md-delete_forever"></i> Delete </a>
                                        
-                                        <input type="text" value="Hello World" id="myInput">
+                                        <input type="hidden" value="Hello World" id="myInput">
 
                                         <div class="tooltip">
                                         <button onclick="myFunction()" onmouseout="outFunc()">
