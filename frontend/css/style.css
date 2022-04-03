@@ -3025,7 +3025,7 @@ td.text-right {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #281E78;
+  background: rgba(40, 30, 120, 0.5);
   -webkit-transition: all 400ms ease-in-out;
   -moz-transition: all 400ms ease-in-out;
   -o-transition: all 400ms ease-in-out;
