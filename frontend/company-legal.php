@@ -39,8 +39,9 @@
 
 
 						<!-- INFO IMAGE -->
-						<!-- IMAGE #2 -->
-                        <div class="gallery-item pediatric">
+						<div class="col-lg-6">
+							<!-- IMAGE #2 -->
+                            <div class="gallery-item pediatric">
 									<div class="hover-overlay"> 
 
 										<!-- Gallery Image -->
@@ -54,6 +55,7 @@
 
 									</div>	
 								</div>	<!-- END IMAGE #2 -->	
+						</div>
 
 
 						<!-- INFO TEXT -->	
