@@ -125,78 +125,24 @@ $id=$_POST['id'];
                 $category = $_POST['category']; 
 
                $a = addslashes($_POST['p_name']);
-               $b = $_POST['price_in_ppn'];
-               $c = $_POST['inven'];
-               $d = $_POST['p_code'];
-               $e = $_POST['distributor_id'];
-               $f = $_POST['contract_vp'];
+            
                $g = addslashes($_POST['p_desc']);
-               $h = addslashes($_POST['spec']);
-               $i = $_POST['trf_price'];
-               $j = $_POST['vendor_discount'];
-               $k = $_POST['price_ex_ppn'];
-               $l = $_POST['b2b_publish_price'];
-               $m = $_POST['b2b_max_disc'];
-               $n = $_POST['ecatalouge_price'];
-               $o = $_POST['ecatalouge_disc'];
+            
                $p = $_POST['warranty'];
-               $q = $_POST['last_update_by'];
-               $r = $_POST['qty'];
-               $s = $_POST['warehouse_location_id'];
-               $t = $_POST['length'];
-               $u = $_POST['width'];
-               $v = $_POST['height'];
-               $w = $_POST['weight'];
-               $x = $_POST['shipping_fees'];
-               $y = $_POST['status'];
-               $z = $_POST['discount'];
-               $a1 = $_POST['discount_price'];
-               $a2 = $_POST['salesfee'];
-               $a3 = $_POST['PROVINSI'];
-               $a4 = $_POST['KABUPATEN'];
-               $a5 = $_POST['KECAMATAN'];
-               $a6 = $_POST['KELURAHAN'];
+          
 
 
                 $jumlah_dipilih = count($category);
-                mysqli_query($GLOBALS["___mysqli_ston"], "DELETE from collections where p_id='$id'");
+                mysqli_query($GLOBALS["___mysqli_ston"], "DELETE from collections_a where p_id='$id'");
                 for($x=0;$x<$jumlah_dipilih;$x++){
-                mysqli_query($GLOBALS["___mysqli_ston"], "INSERT INTO collections (p_id, cat_name) values('$id', '$category[$x]')");} 
+                mysqli_query($GLOBALS["___mysqli_ston"], "INSERT INTO collections_a (p_id, cat_name) values('$id', '$category[$x]')");} 
                      
                 $query = "update artikel set
                 p_name = '$a',
-                price_in_ppn = '$b', 
-                inven = '$c',
-                p_code = '$d',
-                distributor_id = '$e',
-                contract_vp = '$f',
+               
                 p_desc = '$g',
-                spec = '$h',
-                trf_price = '$i',
-                vendor_discount = '$j',
-                price_ex_ppn = '$k',
-                b2b_publish_price = '$l',
-                b2b_max_disc = '$m',
-                ecatalouge_price = '$n',
-                ecatalouge_disc = '$o',
-                warranty = '$p',
-                last_update_by = '$q',
-                qty = '$r',
-                warehouse_location_id = '$s',
-                length = '$t',
-                width = '$u',
-                height = '$v',
-                weight = '$w',
-                shipping_fees = '$x',
-                status = '$y',
-                discount = '$z',
-                discount_price = '$a1',
-                salesfee= '$a2',
-                PROVINSI= '$a3',
-                KABUPATEN= '$a4',
-                KECAMATAN= '$a5',
-                KELURAHAN= '$a6'
-             
+                warranty = '$p'
+              
                 where id='$id'"; 
         
                 $result = mysqli_query($GLOBALS["___mysqli_ston"], $query);
