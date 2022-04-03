@@ -696,7 +696,7 @@ $(document).ready(function() {
                                         <input class="form-check-input" type="checkbox" name="status" value="checked" <?php echo $d1['status'] ?> />
                                         <span class="form-check-label"> Show Online </span>
                                     </label>
-                                    <button type="submit" name="submit6" class="btn btn-md rounded font-sm hover-up">Save</button>
+                                    <button type="submit" name="submit4" class="btn btn-md rounded font-sm hover-up">Save</button>
       </form>
                                 
                             </div>
