@@ -1,5 +1,14 @@
 <?php include "header.php";?>
-
+<style>
+.gambar{
+			width: 90%;
+			height: 300px;
+		
+			background-repeat: no-repeat;
+			background-size: 100%;
+			
+			}
+			</style>
 		<!-- BREADCRUMB
 			============================================= -->
 			<div id="breadcrumb" class="division">
