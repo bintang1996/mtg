@@ -2,8 +2,8 @@
 <style>
     	.gambar{
 			width: 80%;
-			height: 200px;
-			margin-left: 10%;
+			height: 100px;
+	
 			background-repeat: no-repeat;
 			background-size: cover;
   background-position: center;
