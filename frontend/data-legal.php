@@ -11,7 +11,7 @@
 			.gambar{
 			width: 100%;
 			height: 300px;
-			
+			margin-left: 10%;
 			background-size: 100%;
 			border: 1px solid red;
 			}
