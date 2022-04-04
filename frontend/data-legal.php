@@ -7,8 +7,14 @@
 				text-decoration:bold;
 			}
 			.w3-transparent, .w3-hover-none:hover {
-    background-color: red;
-}
+    background-color: red;}
+			.gambar{
+			width: 100%;
+			height: 300px;
+			
+			background-size: 100%;
+			border: 1px solid red;
+			}
 			</style>
 <div class="w3-content w3-display-container" style="max-width:100%; background-color:#ececec;">
 
@@ -23,8 +29,10 @@
 
             <table class="table" width="90%" style="border:none; margin-bottom:0; margin-right:5%;">
 			<tr><td width="50%"  class="text-center align-center">
-			<img class="img-fluid" width="70%" src="assets/imgs/banner/<?php echo $d['slider_img']; ?>" alt="tab-image">
-			</td>
+			<div class="gambar" style="background-image: url('assets/imgs/banner/<?php echo $d['slider_img']; ?>');">
+		
+			</div>
+		</td>
 			<td><br><br>
 			<h3 class="h3-md" style="color: #281E78;font-family:'Lato';"><?php echo $d['link_slider']; ?></h3>	
 			</td>
