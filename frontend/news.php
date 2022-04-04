@@ -73,7 +73,7 @@
                             <h4 class="h4-xs"><?php echo $d1['p_name']; ?></h4>
 
                             <!-- Text -->
-                            <p><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>
+                            <p><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 200); ?>
                                 
                              
                             </p>
