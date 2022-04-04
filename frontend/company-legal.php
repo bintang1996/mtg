@@ -105,7 +105,7 @@
 			</section>	<!-- END INFO-4 -->
 <!-- INFO-6
 			============================================= -->
-			<h4 class="h4-sm steelblue-color">Company Legal Document</h4>
+			
 			<?php include "data-legal.php";?>
 			<!-- INFO-6
 			============================================= -->
