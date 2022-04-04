@@ -60,7 +60,8 @@
 			<div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 			<?php       
 				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM banner3col") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-				$i=mysql_num_rows($sql);
+				
+				$i=mysqli_num_rows($sql);
                     for ($x = 0; $x <= $i; $x+=1) {
                    
 			?> 
