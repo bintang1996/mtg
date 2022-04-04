@@ -34,16 +34,9 @@
             <div class="container">
                 <div class="row d-flex align-items-center">	
                     <div class="col-lg-6">
-                        <div class="info-9-table white-color wow fadeInUp" data-wow-delay="0.4s">
-
-                            <!-- Title -->
-                            <h4 class="h4-xs">VISI</h4>
-
-                            <!-- Text -->
-                            <p>Menjadi Penyedia Barang dan Jasa yang terpercaya dan dapat diandalkan serta berkomitmen 
-                                tinggi dalam mengedepankan aspek Kualitas, Harga dan Keselamatan dan Kerja.
-                            </p>
-                        </div>	
+                        <div class="tab-img">
+							<img class="img-fluid" src="images/pediatrics_700x700.jpg" alt="tab-image" />
+						</div>
                     </div>	
 
                     <div class="col-md-6">
