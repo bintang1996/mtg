@@ -48,7 +48,8 @@
 			<br>
 		</td>
 			<td><br><br><br><br>
-			<h4 style="color: black;font-family:'Lato';"><?php echo $d['link_slider']; ?></h4>	
+			<h4 class="h4-sm steelblue-color"><?php echo $d['link_slider']; ?></h4>
+			
 			</td>
 			<td width="5%"></td>
 			</table>			
