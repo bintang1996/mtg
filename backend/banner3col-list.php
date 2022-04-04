@@ -164,7 +164,7 @@ items.forEach(function(item) {
     <div class="row">
         <div class="col-12">
             <div class="content-header">
-                <h2 class="content-title">Banner 3 Column</h2>                           
+                <h2 class="content-title">Legal Banner</h2>                           
             </div>
 
                 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModalgaul" data-bs-whatever="@mdo">+ Add Banner</button>
@@ -176,7 +176,7 @@ items.forEach(function(item) {
                 <div class="modal-dialog">
                     <div class="modal-content">
                         <div class="modal-header">
-                            <h5 class="modal-title" id="exampleModalLabel">Add Banner</h5>
+                            <h5 class="modal-title" id="exampleModalLabel">Add Legal Banner</h5>
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                         </div>
 
@@ -193,7 +193,7 @@ items.forEach(function(item) {
                                     <input type="file" name="P_ATTACHMENT[]" id="P_ATTACHMENT" class="form-control" multiple />
                                 </div>
                                 <br>
-                                <button type="submit" name="submit1" class="btn btn-md rounded font-sm hover-up">Upload Banner</button>
+                                <button type="submit" name="submit1" class="btn btn-md rounded font-sm hover-up">Upload Legal Banner</button>
                        
                             </form>
 
@@ -219,7 +219,7 @@ items.forEach(function(item) {
                     <form id="formgaul" name="form1" method="post" action="banner3col-page.php">
                     <div class="card mb-4">
                              <div class="card-header">
-                                <h4>Banner </h4>(png, jpg, jpeg, mp4, webm, ogg)
+                                <h4>Legal Banner </h4>(png, jpg, jpeg, mp4, webm, ogg)
                             </div>
                         <div class="card-body">
                             <div class="card card-product-grid" id="image-container">
@@ -280,7 +280,7 @@ items.forEach(function(item) {
                                 </div>
                                  <br><br>                               
                             </div><!-- card-product-grid  end// -->
-                              <button type="submit" name="submit7" class="btn btn-sm font-sm rounded btn-brand">Save Banner Sorting</button>
+                              <button type="submit" name="submit7" class="btn btn-sm font-sm rounded btn-brand">Save Legal Banner Sorting</button>
                               </form>
                         </div>
                     </div>
