@@ -26,7 +26,7 @@
 
 			<!-- CONTACTS-1
 			============================================= -->
-			<section id="contacts-1" class="wide-60 contacts-section division" style="background-color:white">				
+			<section id="contacts-1" class="wide-60 contacts-section division" style="background-color:white; border-bottom:1px solid grey">				
 				<div class="container">
 
 
@@ -35,7 +35,7 @@
 						<div class="col-lg-10 offset-lg-1 section-title">	
 
 							<!-- Title 	-->	
-							<h3 class="h3-md steelblue-color">Have a Question? Get In Touch</h3>	
+							<h3 class="h3-md steelblue-color">Hubungi Kami</h3>	
 
 							<!-- Text -->
 							<p>Have a question? Want to book an appointment for yourself or your children? Give us a call
@@ -54,27 +54,29 @@
 
 		 					<!-- General Information -->
 		 					<div class="contact-box mb-40">
-								<h5 class="h5-sm steelblue-color">General Information</h5>
-								<p>121 King Street, Melbourne,</p> 
-								<p>Victoria 3000 Australia</p>
-								<p>Phone: +12 9 8765 4321</p>
-								<p>Email: <a href="mailto:yourdomain@mail.com" class="blue-color">hello@yourdomain.com</a></p>
+								<h5 class="h5-sm steelblue-color">Jakarta Head Office</h5>
+								<p>Jalan Munggang no 86-87</p> 
+								<p>Balaikambang, Keramat Jati, Jakarta Timur</p>
+                                <p>13530</p>
+								<p>Phone: +62 21 2204 7248</p>
+								<p>Email: <a href="mailto:info@meditrans.id" class="blue-color">info@meditrans.id</a></p>
 		 					</div>
 
 		 					<!-- Patient Experience -->
 		 					<div class="contact-box mb-40">
-								<h5 class="h5-sm steelblue-color">Patient Experience</h5>
-								<p>Hannah Harper - Patient Experience Coordinator</p>
-								<p>Phone: +12 9 8765 4321</p>
-								<p>Email: <a href="mailto:yourdomain@mail.com" class="blue-color">hello@yourdomain.com</a></p>
+								<h5 class="h5-sm steelblue-color">Surabaya Head Office</h5>
+								<p>Rungkut Menanggal Harapan O/28</p>
+                                <p>Rungkut, Surabaya</p>
+                                <p>60239</p>
+								<p>Phone: +62 21 2287 9398</p>
+								<p>Email: <a href="mailto:info@meditrans.id" class="blue-color">info@meditrans.id</a></p>
 		 					</div>
 
 		 					<!-- Working Hours -->
 		 					<div class="contact-box mb-40">
 								<h5 class="h5-sm steelblue-color">Working Hours</h5>
-								<p>Monday – Friday : 8:00 AM - 8:00 PM</p> 
-								<p>Saturday : 10:00 AM - 6:00 PM</p>
-								<p>Sunday : 10:00 AM - 4:00 PM</p>
+								<p>Monday – Friday : 8:00 - 17:00 WIB</p> 
+								
 		 					</div>
 
 						</div>	<!-- END CONTACTS INFO -->
@@ -87,38 +89,35 @@
 				                                            
 					                <!-- Contact Form Input -->
 					                <div id="input-name" class="col-md-12 col-lg-6">
-					                	<input type="text" name="name" class="form-control name" placeholder="Enter Your Name*" required> 
+					                	<input type="text" name="name" class="form-control name" placeholder="Masukkan Nama*" required> 
 					                </div>
 					                        
 					                <div id="input-email" class="col-md-12 col-lg-6">
-					                	<input type="text" name="email" class="form-control email" placeholder="Enter Your Email*" required> 
+					                	<input type="text" name="email" class="form-control email" placeholder="Masukkan Email*" required> 
 					                </div>
 
 					                <div id="input-phone" class="col-md-12 col-lg-6">
-					                	<input type="tel" name="phone" class="form-control phone" placeholder="Enter Your Phone Number*" required> 
-					                </div>	
-
-					                <!-- Form Select -->
-					                <div id="input-patient" class="col-md-12 col-lg-6 input-patient">
-					                    <select id="inlineFormCustomSelect3" name="patient" class="custom-select patient" required>
-					                        <option value="">Have You Visited Us Before?*</option>
-											<option>New Patient</option>
-											<option>Returning Patient</option>
-											<option>Other</option>
-					                    </select>
+					                	<input type="tel" name="phone" class="form-control phone" placeholder="Masukkan No. HP/Whatsapp*" required> 
+					                </div>
+                                    
+                                    <div id="input-instansi" class="col-md-12 col-lg-6">
+					                	<input type="tel" name="instansi" class="form-control instansi" placeholder="Masukkan Instansi*" required> 
 					                </div>
 
-					                <div id="input-subject" class="col-lg-12">
-					                	<input type="text" name="subject" class="form-control subject" placeholder="Subject*" required> 
+					                
+
+					                <div id="input-alamat" class="col-lg-12">
+					                	<input type="text" name="alamat" class="form-control alamat" placeholder="Masukkan Alamat*" required> 
 					                </div>					                          
 					                        
 					                <div id="input-message" class="col-lg-12 input-message">
-					                	<textarea class="form-control message" name="message" rows="6" placeholder="Your Message ..." required></textarea>
+					                	<textarea class="form-control message" name="message" rows="6" placeholder="Masukkan Pesan Anda" required></textarea>
 					                </div> 
 					                                            
 					                <!-- Contact Form Button -->
 					                <div class="col-lg-12 mt-15 form-btn">  
-					                	<button type="submit" class="btn btn-blue blue-hover submit">Send Your Message</button> 
+					                	<button type="submit" class="btn btn-blue blue-hover 
+                                        submit">Kirim</button> 
 					                </div>
 					                                                              
 					                <!-- Contact Form Message -->
