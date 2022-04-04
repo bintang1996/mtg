@@ -27,7 +27,7 @@
 						</div> 
 		</div>
 			
-		<div class="row">
+	
             <?php       
 				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM banner3col") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 				while($d=mysqli_fetch_array($sql)){
@@ -98,5 +98,4 @@
 				}
 				</script>
 
-			</div>
 
