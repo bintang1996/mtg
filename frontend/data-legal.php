@@ -39,7 +39,7 @@
 						<a class="image-link" href="assets/imgs/banner/<?php echo $d['slider_img']; ?>" title=""><i class="fas fa-search-plus"></i></a>
 					</div>	
 			</div></div>
-			<br><br><br>
+			<br>
 		</td>
 			<td><br><br><br><br>
 			<h3 class="h3-md" style="color: #281E78;font-family:'Lato';"><?php echo $d['link_slider']; ?></h3>	
