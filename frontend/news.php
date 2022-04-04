@@ -5,9 +5,10 @@
 			height: 300px;
 		
 			background-repeat: no-repeat;
-			background-size: 100%;
+			background-size: cover;
 			background-attachment: fixed;
   background-position: center;
+
 			}
 			</style>
 		<!-- BREADCRUMB
