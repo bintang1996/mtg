@@ -49,10 +49,15 @@
 							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 
 								<!-- Section ID -->	
-					 			<span class="section-id blue-color">Welcome to MedService</span>
-
+                <?php 
+                  $id = $_GET['id'];      
+                  $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                  while($d=mysqli_fetch_array($sql)){
+                            
+                ?> 
+                
 								<!-- Title -->
-								<h3 class="h3-md steelblue-color">Clinic with Innovative Approach to Treatment</h3>
+								<h3 class="h3-md steelblue-color"><?php echo $d['p_name']; ?></h3>
 
 								<!-- Text -->
 								<p>An enim nullam tempor sapien gravida donec pretium ipsum  porta justo integer at  odio
@@ -66,7 +71,8 @@
 								   metus mollis faucibus. An enim nullam tempor sapien gravida donec pretium and ipsum porta
 								   justo integer at velna vitae auctor integer congue
 								</p>
-
+              
+                <?php } ?>
 
 							</div>
 						</div>	<!-- END TEXT BLOCK -->	
