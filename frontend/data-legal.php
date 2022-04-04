@@ -15,7 +15,13 @@
 
 
 			<div class="mySlides">
+
+			<table class="table" width="90%" style="border:none; margin-bottom:0; margin-right:5%;">
+			<tr><td width="50%"  class="text-center align-center">
 			<img class="img-fluid" width="70%" src="images/pediatrics_700x700.jpg" alt="tab-image">
+			</td>
+			
+			</table>			
 			</div>
 		
 			<button class="w3-button w3-display-left w3-red" onclick="plusDivs(-1)">&#10094;</button>
