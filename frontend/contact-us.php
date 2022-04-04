@@ -89,7 +89,7 @@
 				                                            
 					                <!-- Contact Form Input -->
 					                <div id="input-name" class="col-md-12 col-lg-6">
-					                	<input type="text" name="name" class="form-control name" placeholder="Enter Your Name*" required> 
+					                	<input type="text" name="name" class="form-control name" placeholder="Masukkan Nama*" required> 
 					                </div>
 					                        
 					                <div id="input-email" class="col-md-12 col-lg-6">
@@ -110,8 +110,8 @@
 					                    </select>
 					                </div>
 
-					                <div id="input-subject" class="col-lg-12">
-					                	<input type="text" name="subject" class="form-control subject" placeholder="Subject*" required> 
+					                <div id="input-alamat" class="col-lg-12">
+					                	<input type="text" name="alamat" class="form-control alamat" placeholder="Masukkan Alamat*" required> 
 					                </div>					                          
 					                        
 					                <div id="input-message" class="col-lg-12 input-message">
