@@ -211,7 +211,16 @@
 			.w3-transparent, .w3-hover-none:hover {
     background-color: red;
 }
+.gambar{
+			width: 80%;
+			height: 300px;
+			margin-left: 10%;
+			background-repeat: no-repeat;
+			background-size: 100%;
+			
+			}
 			</style>
+		
 			
 			<div class="w3-content w3-display-container" style="max-width:100%; background-color:#ececec;">
 
@@ -388,7 +397,8 @@
 							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 							while($d2=mysqli_fetch_array($sql2)){
 							?> 
-									<img class="img-fluid" width="210" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+								<div class="gambar" style="background-image: url('assets/imgs/shop/<?php echo $d2['img_name']; ?>');"></div>
+	
 							<?php } ?>
 
 										</div>
