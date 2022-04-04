@@ -64,6 +64,10 @@
                                 produsen cairan empedu, kolesterol serta hormon. Fungsi-fungsi hati yang sudah disebutkan itulah 
                                 yang membuat keberadaannya sangat penting bagi tubuh.  
                             </p>
+
+                            <!-- Button -->
+								<a href="all-services.html" class="btn btn-tra-white white-hover mt-20">Find Out More</a>
+                                
                         </div>	
                     </div>
                 </div>	  <!-- End row -->
