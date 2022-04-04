@@ -211,14 +211,21 @@
 								<!-- TAB-1 CONTENT -->
 								<div class="tab-pane fade show active" id="tab-11" role="tabpanel" aria-labelledby="tab11-list">									
 									<!-- Title -->
+
 									<h3 class="h3-md steelblue-color">Routine Medical Care</h3>
 
 									<!-- Text -->
 									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-									   integer congue magna at pretium  purus pretium ligula rutrum itae laoreet augue in 
-									   cubilia laoreet an augue egestas ipsum vitae emo ligula vitae arcu mollis blandit ultrice
-									   ligula egestas magna suscipit
+									   integer congue magna at pretium 
 									</p>
+									<?php
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										while($d=mysqli_fetch_array($sql)){
+										?> 
+										
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+									
+									<?php }?>
 
 									<!-- Image -->
 									<div class="tab-img">
