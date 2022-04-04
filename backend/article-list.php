@@ -113,13 +113,11 @@
                                         </div>
                                     </a>
                                 </div>
-                                <div class="col-lg-2 col-sm-2 col-4 col-price">Rp <span><?php echo $d['price_in_ppn'];?>,-</span></div>
+      
                                 <div class="col-lg-2 col-sm-2 col-4 col-status">
-                                    <span class="badge rounded-pill <?php echo $d['inven'];?>"><?php $gg=$d['inven']; if($gg=='alert-success'){echo 'Instock';} else if($gg=='alert-danger'){echo 'Out of Stock';} else{echo 'Draft';}?></span>
+                                    <span class="badge rounded-pill <?php $gg1=$d['status']; if($gg1==''){echo 'alert-danger';} else if($gg1=='checked'){echo 'alert-success';}?>"><?php $gg=$d['status']; if($gg==''){echo 'Draft';} else if($gg=='checked'){echo 'Online';} else{echo 'Draft';}?></span>
                                 </div>
-                                <div class="col-lg-1 col-sm-2 col-4 col-date">
-                                    <span>-<?php echo $d['qty'];?>Pcs</span>
-                                </div>
+                         
                                 <div class="col-lg-2 col-sm-2 col-4 col-action text-end">
                                     <a href="edit-article-page.php?id=<?php echo $d['id'];?>" class="btn btn-sm font-sm rounded btn-brand"> <i class="material-icons md-edit"></i> Edit </a>
                                     <a href="delete-article.php?id=<?php echo $d['id'];?>" class="btn btn-sm font-sm btn-light rounded"> <i class="material-icons md-delete_forever"></i> Delete </a>

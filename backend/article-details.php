@@ -129,6 +129,7 @@ $id=$_POST['id'];
                $g = addslashes($_POST['p_desc']);
             
                $p = $_POST['warranty'];
+               $b = $_POST['status'];
           
 
 
@@ -141,7 +142,8 @@ $id=$_POST['id'];
                 p_name = '$a',
                
                 p_desc = '$g',
-                warranty = '$p'
+                warranty = '$p',
+                status = '$b'
               
                 where id='$id'"; 
         
@@ -530,28 +532,7 @@ $(document).ready(function() {
                                         <!-- price.// -->
                                         
                                         <a href="delete-pimage.php?id=<?php echo $d3['img_id'];?>&id2=<?php echo $d3['p_id'];?>&nama=<?php echo $d3['img_name'];?>" class="btn btn-sm font-sm btn-light rounded"> <i class="material-icons md-delete_forever"></i> Delete </a>
-                                
-                                        <input type="text" value="https://bisabos.com/blog/cara-membuat-animasi-mengetik-teks-dengan-css-dan-javascript" id="copyText" readonly>
-        <!-- The button used to copy the text -->
-        <button id="copyBtn">Copy text</button>
-        <!--using sweetalert via CDN -->
-        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
-        <script>
-            const copyBtn = document.getElementById('copyBtn')
-            const copyText = document.getElementById('copyText')
-            
-            copyBtn.onclick = () => {
-                copyText.select();    // Selects the text inside the input
-                document.execCommand('copy');    // Simply copies the selected text to clipboard 
-                 Swal.fire({         //displays a pop up with sweetalert
-                    icon: 'success',
-                    title: 'Text copied to clipboard',
-                    showConfirmButton: false,
-                    timer: 1000
-                });
-            }
-        </script>
-                                      
+                                       
                                       
                                       </div>
                                 </div>
@@ -613,7 +594,7 @@ $(document).ready(function() {
                                             <?php } ?>
                                            <?php 
                                            
-                                           $data = mysqli_query($GLOBALS["___mysqli_ston"], "select * from category");
+                                           $data = mysqli_query($GLOBALS["___mysqli_ston"], "select * from category_a");
                                             while($d4 = mysqli_fetch_array($data)){
                                             ?>
                                             <option value="<?php echo $d4['cat_name'];?>"><?php echo $d4['cat_name'];?></option>
@@ -690,270 +671,8 @@ $(document).ready(function() {
 
 
 
-                <div class="col-12">
 
-               
-<br>
-
-
-
-
-                    <div class="card mb-8">
-                                <div class="card-header">
-                                <h4>Variants</h4>
-                            </div>
-                            <div class="card-body">
-                            <div class="table-responsive">
-                            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@mdo">+ Add Variant</button>
-
-                            <table class="table table-hover">
-                                <thead>
-                                    <tr>
-                                        <th>
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox" value="" />
-                                            </div>
-                                        </th>
-                                  
-                                        <th>Title</th>
-                                        <th>Variant</th>
-                                 
-                                        <th>Surcharge</th>
-                                        <th>Additional Weight</th>
-                                  
-                                        <th class="text-end">Action</th>
-                                    </tr>
-                                </thead>
-
-                                <tbody>
-
-                                <?php
-                                $halaman = 10;
-                                $page = isset($_GET["halaman"]) ? (int)$_GET["halaman"] : 1;
-                                $mulai = ($page>1) ? ($page * $halaman) - $halaman : 0;
-                                $a=$mulai+1;
-                                $b=1+$a;			
-                                $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM variant where p_id='$id");
-                                $total = mysqli_num_rows($result);
-                                $pages = ceil($total/$halaman); 
-                                $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM variant where p_id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-                                while($d=mysqli_fetch_array($sql)){ $id_title=$d['variant_title']; ?>
-
-   
-                                    <tr>
-                                        <td>
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox" value="" />
-                                            </div>
-                                        </td>
-                                      <td><?php echo $d['variant_title']  ?></td>
-                                        <td><b><?php echo $d['variant_name']  ?></b></td>
-                                      
-
-                                        <td>Rp <?php echo $d['surcharge']  ?></td>
-                                        <td><?php echo $d['additional_weight']  ?> Kg</td>
-                          
-
-                                      
-                                        <td class="text-end">
-                                          
-                                            <div class="dropdown">
-                                                <a href="#" data-bs-toggle="dropdown" class="btn btn-light rounded btn-sm font-sm"> <i class="material-icons md-more_horiz"></i> </a>
-                                                <div class="dropdown-menu" style="z-index:1;">
-                                                <a class="dropdown-item" data-bs-toggle="modal" data-bs-target="#exampleModalImage<?php echo $d['variant_id']?>" href="#">Add Variant Image</a>
-                                                    
-                                                    <a class="dropdown-item" data-bs-toggle="modal" data-bs-target="#exampleModal<?php echo $d['variant_id']?>" href="#">Edit info</a>
-                                                    
-                                                   
-                                                    <a class="dropdown-item text-danger" href="delete-variant.php?id=<?php echo $d['variant_id'];?>&id2=<?php echo $d['p_id'];?>&name=<?php echo $d['P_ATTACHMENT'];?>">Delete</a>
-
-
-                                                </div>
-                                            </div>
-                                            <!-- dropdown //end -->
-                                        </td>
-                                    </tr>
-                                 <?php } ?>
-                               <br><br>
-                                    
-                                </tbody>
-                            </table>
-                            
-                         </div>
-                        </div>
-                        </div>
-
-
-                 
-
-                
-
-  
-
-<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Add Variant</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-      <form name="form" method="post" action="edit-article-page.php">
-          <div class="mb-3">    
-          <input type="hidden" value="<?php echo $d1['id'] ?>" name="p_id" class="form-control" id="product_name" />
-                          
-                          <label for="product_name" class="form-label">Variant Title</label>
-                          <select name="variant_title" class="form-select">
-                          <option value="">Pilih Judul Variant</option>
-                             <option value="ukuran">Size/Ukuran</option>
-                              <option value="warna">Warna</option>
-                              <option value="tipe">Tipe</option>
-                              <option value="berat">Berat</option>
-                          </select>
-          </div>
-          <div class="mb-3">
-  
-                                       
-            <label for="product_name" class="form-label">Nama Variant</label>
-             <input type="text" name="variant_name" placeholder="Contoh: Large, Medium, Small / Merah, Kuning, Hijau" class="form-control" id="product_name" />
-                                </div>
-             <div class="mb-3">
-
-             <label for="product_name" class="form-label">Surcharge (Additional Price)</label>
-              <input type="number" name="surcharge" placeholder="Contoh: 30000" class="form-control" id="product_name" />
-                                </div>
-              <div class="mb-3">
-              <label for="product_name" class="form-label">Additional Weight (Kg)</label>
-            <input type="number" name="additional_weight" placeholder="Contoh: 5" class="form-control" id="product_name" />
-                                     
-          </div>
-      </div>
-      <div class="modal-footer">
-      <button type="submit" name="submit5" class="btn btn-md rounded font-sm hover-up">Add</button>
-      </form>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
-<?php
-                       
-                                $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM variant where p_id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-                                while($d=mysqli_fetch_array($sql)){ $id_title=$d['variant_title']; ?>  
-
-
-<div class="modal fade" id="exampleModalImage<?php echo $d['variant_id']?>" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Add Variant Image</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-      
-      <h4>Upload Variant Image</h4><br>
-                                <form id="form1" name="form1" method="post" action="edit-product-page.php" enctype="multipart/form-data">
-                             
-                                    <div class="tes">
-                                    <input type="hidden" class="form-control" value="<?php echo $d['p_id'];?>" name="p_id" id="id" /> 
-                                    <input type="hidden" class="form-control" value="<?php echo $d['variant_id'];?>" name="id" id="id" /> 
-                                     <input type="file" name="P_ATTACHMENT[]" id="P_ATTACHMENT" class="form-control" required>
-                                    </div>
-
-
-                                <br>
-                                <button type="submit" name="submit8" class="btn btn-md rounded font-sm hover-up">Upload Variant Image</button>
-                       
-                            </form>
-
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
-
-
-
-<div class="modal fade" id="exampleModal<?php echo $d['variant_id']?>" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Edit Variant</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-      <form name="form" method="post" action="edit-product-page.php">
-          <div class="mb-3">    
-          <input type="hidden" value="<?php echo $d['p_id'] ?>" name="p_id" class="form-control" id="product_name" />
-           
-          <input type="hidden" value="<?php echo $d['variant_id'] ?>" name="v_id" class="form-control" id="product_name" />
-                          
-                          <label for="product_name" class="form-label">Variant Title</label>
-                          <select name="variant_title" class="form-select">
-                          <option value="<?php echo $d['variant_title']?>" selected><?php echo $d['variant_title']?></option>
-                             <option value="ukuran">Size/Ukuran</option>
-                              <option value="warna">Warna</option>
-                              <option value="tipe">Tipe</option>
-                              <option value="berat">Berat</option>
-                          </select>
-          </div>
-          <div class="mb-3">
-  
-                                       
-            <label for="product_name" class="form-label">Nama Variant</label>
-             <input type="text" name="variant_name" placeholder="Contoh: Large, Medium, Small / Merah, Kuning, Hijau" value="<?php echo $d['variant_name']?>" class="form-control" id="product_name" />
-                                </div>
-             <div class="mb-3">
-
-             <label for="product_name" class="form-label">Surcharge (Additional Price)</label>
-              <input type="number" name="surcharge" placeholder="Contoh: 30000" value="<?php echo $d['surcharge']?>" class="form-control" id="product_name" />
-                                </div>
-              <div class="mb-3">
-              <label for="product_name" class="form-label">Additional Weight (Kg)</label>
-            <input type="number" name="additional_weight" placeholder="Contoh: 5" value="<?php echo $d['additional_weight']?>" class="form-control" id="product_name" />
-                                     
-          </div>
-      </div>
-      <div class="modal-footer">
-      <button type="submit" name="submit6" class="btn btn-md rounded font-sm hover-up">Save</button>
-      </form>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-<?php } ?>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
 
 
 
