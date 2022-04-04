@@ -138,7 +138,7 @@
             </div>
         </div>
 
-        <div class="wide-100" style="background-color:#FFFFFF;">
+        <div class="wide-100" style="background-color:#FFFFFF; border-bottom:1px solid grey">
             <div class="container" style="background-color:#FFFFFF; ">
 			<!-- SECTION TITLE -->	
 			<div class="row">	
@@ -157,7 +157,7 @@
 
                 <div class="row">
                     <!-- CONTACT FORM -->	
-				 		<div class="col-md-8 col-lg-8" style="margin-left: auto; margin-right: auto; border-bottom:1px solid grey" >
+				 		<div class="col-md-8 col-lg-8" style="margin-left: auto; margin-right: auto;" >
 				 			<div class="form-holder mb-40">
 
 				 				<form name="contactForm" class="row contact-form">
