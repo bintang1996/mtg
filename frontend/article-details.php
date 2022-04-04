@@ -50,30 +50,37 @@
 
 								<!-- BLOG POST TEXT -->
 								<div class="sblog-post-txt">
-
+                                <?php 
+                  $id = $_GET['id'];      
+                  $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                  while($d=mysqli_fetch_array($sql)){
+                            
+                ?> 
 									<!-- Post Title -->
-									<h4 class="h4-lg steelblue-color">5 Benefits Of Integrative Medicine</h4>
+									<h4 class="h4-lg steelblue-color"><?php echo $d['p_name']; ?></h4>
 
 									<!-- Post Data -->
 									<span>Posted May 03, 2019 by <span>Dr.Jeremy Smith</span></span>
 
 									<!-- Post Text -->
-									<p class="mt-30">Aliqum  mullam blandit tempor sapien gravida donec ipsum, at porta justo. 
-									   Velna vitae auctor congue magna nihil impedit ligula risus. Mauris donec ociis et magnis
-									   sapien etiam sapien sem sagittis congue tempor gravida donec enim ipsum porta justo integer 
-									   at odio velna
+									<p class="mt-30"><?php echo $d['p_desc']; ?>
 									</p>
 
-									
+									<? } ?>
 
 									<!-- BLOG POST SHARE LINKS -->
 									<div class="post-share-links">
 
 										<!-- POST TAGS -->
 										<div class="post-tags-list">
-											<span><a href="#">Effective Treatment</a></span>	
-											<span><a href="#">Research</a></span>
-											<span><a href="#">Diagnostic</a></span>										
+                                        <?php 
+                  $id = $_GET['id'];      
+                  $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a where id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                  while($d=mysqli_fetch_array($sql)){
+                            
+                ?> 
+											<span><a href="#"><?php echo $d['cat_name']; ?></a></span>	
+										<?php } ?>									
 										</div>
 
 										<!-- POST SHARE ICONS -->
