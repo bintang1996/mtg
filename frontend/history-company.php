@@ -19,7 +19,7 @@
   content: '';
   position: absolute;
   width: 2px;
-  background: #006E51;
+  background: #281E78;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -65,7 +65,7 @@
   height: 2px;
   top: calc(50% - 1px);
   right: 8px;
-  background: #006E51;
+  background: #281E78;
   z-index: 1;
 }
 
@@ -101,7 +101,7 @@
   height: 40px;
   padding: 9px 0;
   top: calc(50% - 20px);
-  background: #F6D155;
+  background: #fff;
   border: 2px solid #006E51;
   border-radius: 40px;
   text-align: center;
@@ -120,7 +120,7 @@
 
 .container2 .content {
   padding: 30px 90px 30px 30px;
-  background: #F6D155;
+  background: #281E78;
   position: relative;
   border-radius: 0 500px 500px 0;
 }
@@ -134,14 +134,14 @@
   margin: 0 0 10px 0;
   font-size: 18px;
   font-weight: normal;
-  color: #006E51;
+  color: #fff;
 }
 
 .container2 .content p {
   margin: 0;
   font-size: 16px;
   line-height: 22px;
-  color: #000000;
+  color: #fff;
 }
 
 @media (max-width: 767.98px) {
