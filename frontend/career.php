@@ -58,19 +58,20 @@
 												<!-- Option #1 -->
 												<div class="box-list m-top-15">							
 													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<p>Lowongan 1</p>			
+													<a href="#">Judul Lowongan</a>
+			
 												</div>
 
 												<!-- Option #2 -->
 												<div class="box-list" style="margin-top: 20px;">	
 													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<p>Lowongan 2</p>				
+													<a href="#">Judul Lowongan</a>				
 												</div>
 
 												<!-- Option #3 -->
 												<div class="box-list" style="margin-top: 20px;">	
 													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<p>Lowongan 3</p>			
+													<a href="#">Judul Lowongan</a>			
 												</div>
 
 											</div>
@@ -80,19 +81,19 @@
 												<!-- Option #4 -->
 												<div class="box-list">	
 													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<p>Lowongan 4</p>				
+													<a href="#">Judul Lowongan</a>			
 												</div>
 
 												<!-- Option #5 -->
 												<div class="box-list m-top-15" style="margin-top: 20px;">							
 													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<p>Lowongan 5</p>		
+													<a href="#">Judul Lowongan</a>		
 												</div>
 
 												<!-- Option #6 -->
 												<div class="box-list" style="margin-top: 20px;">	
 													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<p>Lowongan 6</p>				
+													<a href="#">Judul Lowongan</a>				
 												</div>
 
 											</div>
@@ -101,19 +102,19 @@
 												<!-- Option #7 -->
 												<div class="box-list">	
 													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<p>Lowongan 7</p>				
+													<a href="#">Judul Lowongan</a>				
 												</div>
 
 												<!-- Option #8 -->
 												<div class="box-list m-top-15" style="margin-top: 20px;">							
 													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<p>Lowongan 8</p>		
+													<a href="#">Judul Lowongan</a>		
 												</div>
 
 												<!-- Option #9 -->
 												<div class="box-list" style="margin-top: 20px;">	
 													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<p>Lowongan 9</p>				
+													<a href="#">Judul Lowongan</a>				
 												</div>
 
 											</div>
@@ -186,7 +187,7 @@
 					                                            
 					                <!-- Contact Form Button -->
 					                <div class="col-lg-12 mt-15 form-btn">  
-					                	<button type="submit" class="btn btn-blue blue-hover submit">Submit</button> 
+					                	<button type="submit" class="btn btn-blue blue-hover submit">Kirim Lamaran</button> 
 					                </div>
 					                                                              
 					                <!-- Contact Form Message -->
