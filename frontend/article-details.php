@@ -1,4 +1,15 @@
 <?php include "header.php";?>
+<style>
+    	.gambar{
+			width: 80%;
+			height: 400px;
+			margin-left: 10%;
+			background-repeat: no-repeat;
+			background-size: cover;
+  background-position: center;
+			
+			}
+    </style>
 
 	<!-- BREADCRUMB
 			============================================= -->
@@ -12,13 +23,13 @@
 								<nav aria-label="breadcrumb">
 								  	<ol class="breadcrumb">
 								    	<li class="breadcrumb-item"><a href="index.html">Home</a></li>
-								    	<li class="breadcrumb-item"><a href="blog-listing.html">Our Blog</a></li>
-								    	<li class="breadcrumb-item active" aria-current="page">Blog Post</li>
+								    	<li class="breadcrumb-item"><a href="blog-listing.html">Our Post</a></li>
+								    	<li class="breadcrumb-item active" aria-current="page">Post</li>
 								  	</ol>
 								</nav>
 
 								<!-- Title -->
-								<h4 class="h4-sm steelblue-color">5 Benefits of ...</h4>
+								<h4 class="h4-sm steelblue-color">Post</h4>
 
 							</div>
 						</div>
@@ -115,7 +126,14 @@
 
 								 				<!-- BLOG POST IMAGE -->
 									 			<div class="blog-post-img">
-													<img class="img-fluid" src="images/blog/post-2-img.jpg" alt="blog-post-image" />	
+                                                 <?php       
+            include "koneksi.php";
+            $id=$_GET['id'];
+				$sql3 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$id' limit 1 ") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d3=mysqli_fetch_array($sql3)){
+			?> 
+                                                 <div class="gambar" style="background-image: url('assets/imgs/shop/<?php echo $d3['img_name']; ?>');">
+					<?php } ?>
 												</div>
 
 								 				<!-- BLOG POST TEXT -->
