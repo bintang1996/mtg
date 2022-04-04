@@ -23,7 +23,7 @@
 					</div>  <!-- End row -->	
 				</div>	<!-- End container -->		
 			</div>	<!-- END BREADCRUMB -->	
-            <div class="container">
+            <div class="container" style="background-color:#FFFFFF;">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="col-lg-12 text-left">
