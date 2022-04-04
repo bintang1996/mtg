@@ -96,7 +96,7 @@
 			<section id="info-4" class="wide-100 info-section division" style="background-color: white; padding-top:0;">
 				<div class="container">
                 
-                <h3 class="h3-md" style="color: #281E78;font-family:'Lato'; text-align : center;">Company Legal History</h3>
+                <h3 class="h3-md" style="color: #281E78;font-family:'Lato'; text-align : center; margin-top:0px;">Company Legal History</h3>
                 <br>
                 <?php include "history-company.php";?>
 
