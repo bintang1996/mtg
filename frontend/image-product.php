@@ -14,10 +14,10 @@
 			margin-left: 10%;
 			
 			background-size: 100%;
-			border: 1px solid red;
+			border: 1px solid black;
 			}
 			</style>
-		<div class="w3-content w3-display-container" style="max-width:100%; background-color:#ececec;">
+		<div class="w3-content w3-display-container" style="max-width:100%; background-color:#ececec; padding-top:5px; padding-bottom:5px;">
 
 
 			
