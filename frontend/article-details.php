@@ -50,12 +50,7 @@
 
 								<!-- BLOG POST TEXT -->
 								<div class="sblog-post-txt">
-                                <?php 
-                  $id = $_GET['id'];      
-                  $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-                  while($d=mysqli_fetch_array($sql)){
-                            
-                ?> 
+              
 									<!-- Post Title -->
 									<h4 class="h4-lg steelblue-color"><?php echo $d['p_name']; ?></h4>
 
@@ -66,22 +61,11 @@
 									<p class="mt-30"><?php echo $d['p_desc']; ?>
 									</p>
 
-									<? } ?>
+							
 
 									<!-- BLOG POST SHARE LINKS -->
 									<div class="post-share-links">
 
-										<!-- POST TAGS -->
-										<div class="post-tags-list">
-                                        <?php 
-                  $id = $_GET['id'];      
-                  $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a where p_id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-                  while($d=mysqli_fetch_array($sql)){
-                            
-                ?> 
-											<span><a href="#"><?php echo $d['cat_name']; ?></a></span>	
-										<?php } ?>									
-										</div>
 
 										<!-- POST SHARE ICONS -->
 										<div class="post-share-list">
@@ -364,15 +348,16 @@
 									
 								<!-- Title -->
 								<h5 class="h5-sm steelblue-color">Tags Cloud</h5>
-
-								<span class="badge"><a href="#">Effective Treatment</a></span>
-								<span class="badge"><a href="#">Molecular Biology</a></span> 	
-								<span class="badge"><a href="#">Diagnostic</a></span> 									
-								<span class="badge"><a href="#">Pediatrics</a></span> 
-								<span class="badge"><a href="#">Lifestyle</a></span>
-								<span class="badge"><a href="#">Pharma</a></span>									  								 
-								<span class="badge"><a href="#">Medicine</a></span> 
-								<span class="badge"><a href="#">Research</a></span> 								
+                                <?php 
+                  $id = $_GET['id'];      
+                  $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                  while($d=mysqli_fetch_array($sql)){
+                            
+                ?> 
+								<span class="badge"><a href="#"><?php echo $d['cat_name']; ?></a></span>
+								
+                                
+                                <?php } ?>
 							</div>
 
 
