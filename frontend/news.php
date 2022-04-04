@@ -124,8 +124,7 @@
 
 										<!-- Testimonial Author -->
 										<div class="review-author">
-											<h5 class="h5-sm">Scott Boxer</h5>	
-											<span>Programmer</span>	
+											<h5 class="h5-sm">Judul</h5>
 										</div>							
 																
 									</div>						
@@ -146,13 +145,12 @@
 																
 										<!-- Testimonial Text -->
 										<p>Mauris donec ociis magnisa a sapien etiam sapien congue augue egestas et ultrice
-										   vitae purus diam integer congue magna ligula egestas
+										   vitae purus diam integer
 										</p>										
 
 										<!-- Testimonial Author -->
 										<div class="review-author">
-											<h5 class="h5-sm">Penelopa Peterson</h5>	
-											<span>Project Manager</span>	
+											<h5 class="h5-sm">Judul</h5>	
 										</div>
 
 									</div>						
@@ -178,8 +176,7 @@
 
 										<!-- Testimonial Author -->
 										<div class="review-author">
-											<h5 class="h5-sm">M.Scanlon</h5>	
-											<span>Photographer</span>	
+											<h5 class="h5-sm">Judul</h5>	
 										</div>
 
 									</div>						
@@ -205,8 +202,7 @@
 
 										<!-- Testimonial Author -->
 										<div class="review-author">
-											<h5 class="h5-sm">Jeremy Kruse</h5>	
-											<span>Graphic Designer</span>	
+											<h5 class="h5-sm">Judul</h5>	
 										</div>
 					
 									</div>						
@@ -232,8 +228,7 @@
 
 										<!-- Testimonial Author -->
 										<div class="review-author">
-											<h5 class="h5-sm">Evelyn Martinez</h5>	
-											<span>Senior UX/UI Designer</span>	
+											<h5 class="h5-sm">Judul</h5>	
 										</div>						
 																
 									</div>						
@@ -259,8 +254,7 @@
 
 										<!-- Testimonial Author -->
 										<div class="review-author">
-											<h5 class="h5-sm">Dan Hodges</h5>	
-											<span>Internet Surfer</span>	
+											<h5 class="h5-sm">Judul</h5>	
 										</div>
 
 									</div>						
@@ -286,8 +280,7 @@
 
 										<!-- Testimonial Author -->
 										<div class="review-author">
-											<h5 class="h5-sm">Isabel M.</h5>	
-											<span>SEO Manager</span>	
+											<h5 class="h5-sm">Judul</h5>
 										</div>
 
 									</div>						
@@ -313,8 +306,7 @@
 
 										<!-- Testimonial Author -->
 										<div class="review-author">
-											<h5 class="h5-sm">Alex Ross</h5>	
-											<span>Patient</span>	
+											<h5 class="h5-sm">Judul</h5>	
 										</div>							
 																
 									</div>						
@@ -340,8 +332,7 @@
 
 										<!-- Testimonial Author -->
 										<div class="review-author">
-											<h5 class="h5-sm">Alisa Milano</h5>	
-											<span>Housewife</span>	
+											<h5 class="h5-sm">Judul</h5>	
 										</div>
 						
 									</div>						
