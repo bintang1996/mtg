@@ -65,7 +65,7 @@
   height: 2px;
   top: calc(50% - 1px);
   right: 8px;
-  background: #281E78;
+  background:  ;
   z-index: 1;
 }
 
