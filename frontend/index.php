@@ -212,9 +212,9 @@
     background-color: red;
 }
 .gambar{
-			width: 80%;
-			height: 400px;
-			margin-left: 10%;
+			width: 90%;
+		
+		
 			background-repeat: no-repeat;
 			background-size: 100%;
 			
