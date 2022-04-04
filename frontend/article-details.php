@@ -128,7 +128,7 @@
 													<span><?php echo $d1['warranty']; ?> <span class="blue-color">Meditrans Admin</span></span>
 
 													<!-- Post Text -->
-													<p><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>...<a style="font-size: 1em; color:blue;" href="article-details.php?id=<?php echo $d1['id']; ?>">Read more.</a></p>
+													<p><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?><br><a style="font-size: 1em; color:blue;" href="article-details.php?id=<?php echo $d1['id']; ?>">Read more.</a></p>
 
 												</div>
 
