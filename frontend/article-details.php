@@ -47,7 +47,12 @@
 									<img class="img-fluid" src="images/blog/post-4-img.jpg" alt="blog-post-image" />		
 								</div>	
 
-
+                                <?php 
+                  $id = $_GET['id'];      
+                  $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                  while($d=mysqli_fetch_array($sql)){
+                            
+                ?> 
 								<!-- BLOG POST TEXT -->
 								<div class="sblog-post-txt">
               
@@ -55,13 +60,13 @@
 									<h4 class="h4-lg steelblue-color"><?php echo $d['p_name']; ?></h4>
 
 									<!-- Post Data -->
-									<span>Posted May 03, 2019 by <span>Dr.Jeremy Smith</span></span>
+									<span>Posted <?php echo $d['warranty']; ?> by <span>Meditrans Admin</span></span>
 
 									<!-- Post Text -->
 									<p class="mt-30"><?php echo $d['p_desc']; ?>
 									</p>
 
-							
+							<?php } ?>
 
 									<!-- BLOG POST SHARE LINKS -->
 									<div class="post-share-links">
