@@ -156,11 +156,10 @@
 					                </div> 
 
 					                <div id="input-file" class="col-lg-12">
-                                        <form action="/action_page.php">
-                                            <p>Upload CV</p>
-                                            <input type="file" id="myFile" name="filename">
-                                        </form>
-					                </div>					                          
+                                    <form action="/action_page.php">
+					                	<input type="file" name="CV" class="form-control" placeholder="CV*" required> 
+					                </form>
+                                    </div>					                          
 					                        
 					                
 					                                            
