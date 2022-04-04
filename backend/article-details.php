@@ -31,12 +31,12 @@ $id=$_POST['id'];
                 if($temp1=='image/jpeg' || $temp1 == 'image/png'){
             
 
-				$query1="INSERT INTO p_image (p_id, img_name, urutan, tipe_file)values('$id', '$newfilename', '$ii', '$temp1')";
+				$query1="INSERT INTO p_image (a_id, img_name, urutan, tipe_file)values('$id', '$newfilename', '$ii', '$temp1')";
 				$result1 = mysqli_query($GLOBALS["___mysqli_ston"], $query1);	}
                 
                 else {
 
-                    $query1="INSERT INTO p_image (p_id, img_name, urutan, tipe_file)values('$id', '$newfilename', '$ii', '$temp1')";
+                    $query1="INSERT INTO p_image (a_id, img_name, urutan, tipe_file)values('$id', '$newfilename', '$ii', '$temp1')";
                     $result1 = mysqli_query($GLOBALS["___mysqli_ston"], $query1);
 
 
@@ -97,7 +97,7 @@ $id=$_POST['id'];
 	 
             $id=$_POST['id']; 
             $id1=$_POST['id1'];
-            mysqli_query($GLOBALS["___mysqli_ston"], "UPDATE p_image set default1='' where p_id='$id1'");
+            mysqli_query($GLOBALS["___mysqli_ston"], "UPDATE p_image set default1='' where a_id='$id1'");
             $query1="UPDATE p_image set default1='Default' where img_id='$id'";
             $result1 = mysqli_query($GLOBALS["___mysqli_ston"], $query1);
              
@@ -483,7 +483,7 @@ $(document).ready(function() {
                           <div class="card card-product-grid" id="image-container">
                           <div class="row gx-3 row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-xl-4 row-cols-xxl-6" id="image-list">
                          
-                                    <?php $no=0;  $sql3 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$id' and img_name LIKE '%.webm%' or p_id='$id' and img_name LIKE '%.mp4%' or p_id='$id' and img_name LIKE '%.ogg%' or p_id='$id' and img_name LIKE '%.png%' or p_id='$id' and img_name LIKE '%.jpg%' or p_id='$id' and img_name LIKE '%.jpeg%' ORDER BY urutan"); 
+                                    <?php $no=0;  $sql3 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$id' and img_name LIKE '%.webm%' or a_id='$id' and img_name LIKE '%.mp4%' or a_id='$id' and img_name LIKE '%.ogg%' or a_id='$id' and img_name LIKE '%.png%' or a_id='$id' and img_name LIKE '%.jpg%' or a_id='$id' and img_name LIKE '%.jpeg%' ORDER BY urutan"); 
                                     
                                     while($d3=mysqli_fetch_array($sql3)){ $no++;
                                     $format_gg=$d3['tipe_file'];
@@ -496,7 +496,7 @@ $(document).ready(function() {
                            <div class="col" >
                           
                           
-                          <input type="hidden"  value="<?php echo $d3['p_id'];?>" name="p_id" /> 
+                          <input type="hidden"  value="<?php echo $d3['a_id'];?>" name="p_id" /> 
                           <input type="hidden"  value="<?php echo $no;?>" name="gaulbanget[]"/>
 
                           <div class="card card-product-grid" draggable="true" style="cursor:move;" id="ggbanget">
@@ -509,8 +509,8 @@ $(document).ready(function() {
                                         <div class="price mb-2"><?php $urutan1=$d3['urutan']; if($urutan1==1){echo "Foto Sampul";}?></div>
                                         <!-- price.// -->
                                     
-                                        <a href="delete-pimage.php?id=<?php echo $d3['img_id'];?>&id2=<?php echo $d3['p_id'];?>&nama=<?php echo $d3['img_name'];?>" class="btn btn-sm font-sm btn-light rounded"> <i class="material-icons md-delete_forever"></i> Delete </a>
-                                        <input type="button" value="Copy Url" onclick="Copy();" />
+                                        <a href="delete-pimage.php?id=<?php echo $d3['img_id'];?>&id2=<?php echo $d3['a_id'];?>&nama=<?php echo $d3['img_name'];?>" class="btn btn-sm font-sm btn-light rounded"> <i class="material-icons md-delete_forever"></i> Delete </a>
+                                     
                                       </div>
                                 </div>
                                 <!-- card-product  end// -->
@@ -520,7 +520,7 @@ $(document).ready(function() {
                                 <?php } else{?>
                             
                                  <div class="col">
-                                 <input type="hidden"  value="<?php echo $d3['p_id'];?>" name="p_id" /> 
+                                 <input type="hidden"  value="<?php echo $d3['a_id'];?>" name="p_id" /> 
                           <input type="hidden"  value="<?php echo $no;?>" name="gaulbanget[]"/>
 
                                 <div class="card card-product-grid" draggable="true" style="cursor:move;" >
@@ -531,7 +531,7 @@ $(document).ready(function() {
                                         <div class="price mb-2"><?php echo $d3['default'];?></div>
                                         <!-- price.// -->
                                         
-                                        <a href="delete-pimage.php?id=<?php echo $d3['img_id'];?>&id2=<?php echo $d3['p_id'];?>&nama=<?php echo $d3['img_name'];?>" class="btn btn-sm font-sm btn-light rounded"> <i class="material-icons md-delete_forever"></i> Delete </a>
+                                        <a href="delete-pimage.php?id=<?php echo $d3['img_id'];?>&id2=<?php echo $d3['a_id'];?>&nama=<?php echo $d3['img_name'];?>" class="btn btn-sm font-sm btn-light rounded"> <i class="material-icons md-delete_forever"></i> Delete </a>
                                        
                                       
                                       </div>
@@ -543,16 +543,6 @@ $(document).ready(function() {
                             
                             </div>
 
-                         
-<script>
-  function Copy() {
-  var Url = document.getElementById("url");
-  Url.innerHTML = window.location.href;
-  console.log(Url.innerHTML)
-  Url.select();
-  document.execCommand("copy");
-}
-</script>
 
 
                           <br><br>
@@ -587,7 +577,7 @@ $(document).ready(function() {
                                         <label for="product_name" class="form-label">Category (Collection)</label><br>
                                         <select class="form-control" name="category[]" id="REFERRAL_DOCTOR_NAME" multiple>
                                         <?php 
-                                            $data = mysqli_query($GLOBALS["___mysqli_ston"], "select * from collections where p_id='$id'");
+                                            $data = mysqli_query($GLOBALS["___mysqli_ston"], "select * from collections_a where p_id='$id'");
                                             while($d4 = mysqli_fetch_array($data)){
                                             ?>
                                             <option value="<?php echo $d4['cat_name'];?>" selected><?php echo $d4['cat_name'];?></option>

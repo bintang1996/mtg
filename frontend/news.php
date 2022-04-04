@@ -104,239 +104,50 @@
 						<div class="col-md-12">					
 							<div class="owl-carousel owl-theme reviews-holder">
 
+							<?php
+                    $r=$_GET['id'];
+							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a limit 9") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
+                                $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                                while($d1=mysqli_fetch_array($sql1)){ 
+							?> 
 						
 								<!-- TESTIMONIAL #1 -->
 								<div class="review-2">
-									<div class="review-txt text-center">
+									<div class="review-txt text-left">
 
 										<!-- Quote -->
 										<div class="quote"></div>	
 
 										<!-- Author Avatar -->
 										<div class="hover-overlay text-center">
-                                            <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
+
+                                                                <?php
+							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+							while($d2=mysqli_fetch_array($sql2)){
+							?> 
+									<img class="img-fluid" width="210" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+							<?php } ?>
+
 										</div>
 										
                                         <!-- Judul News -->
 										<div class="review-author">
-											<h4 class="h4-md">Judul</h4>
+											<br>
+											<p style="margin-bottom:1px; font-size:1em;"><?php echo $d['cat_name']; ?></p>
+											<h4 class="h4-md"><?php echo $d1['p_name']; ?></h4>
 										</div>	
 
 										<!-- Testimonial Text -->
-										<p>Etiam sapien sem at sagittis congue an augue massa varius egestas a suscipit
-										   magna undo tempus aliquet porta vitae
+										<p style="font-size: 1rem;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>
 										</p>				
 																
 									</div>						
 								</div>	<!--END  TESTIMONIAL #1 -->
 						
-						
-								<!-- TESTIMONIAL #2 -->
-								<div class="review-2">
-									<div class="review-txt text-center">
-
-										<!-- Quote -->
-										<div class="quote"></div>	
-
-										<!-- Author Avatar -->
-										<div class="hover-overlay text-center">
-                                            <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
-										</div>
-										
-                                        <!-- Judul News -->
-										<div class="review-author">
-											<h4 class="h4-md">Judul</h4>
-										</div>
-
-										<!-- Testimonial Text -->
-										<p>Mauris donec ociis magnisa a sapien etiam sapien congue augue egestas et ultrice
-										   vitae purus diam integer
-										</p>
-
-									</div>						
-								</div>	<!-- END TESTIMONIAL #2 -->
-						
-						
-								<!-- TESTIMONIAL #3 -->
-								<div class="review-2">
-									<div class="review-txt text-center">
-
-										<!-- Quote -->
-										<div class="quote"></div>	
-
-										<!-- Author Avatar -->
-										<div class="hover-overlay text-center">
-                                            <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
-										</div>
-										
-                                        <!-- Judul News -->
-										<div class="review-author">
-											<h4 class="h4-md">Judul</h4>
-										</div>
-
-										<!-- Testimonial Text -->
-										<p>At sagittis congue augue an egestas magna ipsum vitae purus ipsum primis undo cubilia
-										   laoreet augue	   
-										</p>
-
-									</div>						
-								</div>	<!-- END TESTIMONIAL #3 -->
+						<?php }} ?>
 
 
-								<!-- TESTIMONIAL #4 -->
-								<div class="review-2">
-									<div class="review-txt text-center">
-
-										<!-- Quote -->
-										<div class="quote"></div>	
-
-										<!-- Author Avatar -->
-										<div class="hover-overlay text-center">
-                                            <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
-										</div>
-										
-                                        <!-- Judul News -->
-										<div class="review-author">
-											<h4 class="h4-md">Judul</h4>
-										</div>
-
-										<!-- Testimonial Text -->
-										<p>Mauris donec ociis magnis sapien etiam sapien congue augue pretium ligula 
-										   a lectus aenean magna mauris
-										</p>
-
-									</div>						
-								</div>	<!-- END TESTIMONIAL #4 -->
-								
-								
-								<!-- TESTIMONIAL #5 -->
-								<div class="review-2">
-									<div class="review-txt text-center">
-
-										<!-- Quote -->
-										<div class="quote"></div>	
-
-										<!-- Author Avatar -->
-										<div class="hover-overlay text-center">
-                                            <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
-										</div>
-										
-                                        <!-- Judul News -->
-										<div class="review-author">
-											<h4 class="h4-md">Judul</h4>
-										</div>
-
-										<!-- Testimonial Text -->
-										<p>An augue in cubilia laoreet magna suscipit egestas magna ipsum at purus ipsum
-										   primis in augue ulta ligula egestas
-										</p>					
-																
-									</div>						
-								</div>	<!-- END TESTIMONIAL #5 -->
-								
-								
-								<!-- TESTIMONIAL #6 -->
-								<div class="review-2">
-									<div class="review-txt text-center">
-
-										<!-- Quote -->
-										<div class="quote"></div>	
-
-										<!-- Author Avatar -->
-										<div class="hover-overlay text-center">
-                                            <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
-										</div>
-										
-                                        <!-- Judul News -->
-										<div class="review-author">
-											<h4 class="h4-md">Judul</h4>
-										</div>
-
-										<!-- Testimonial Text -->
-										<p>An augue cubilia laoreet undo magna at risus suscipit egestas magna an ipsum ligula
-										   vitae and purus ipsum primis
-										</p>
-
-									</div>						
-								</div>	<!-- END TESTIMONIAL #6 -->
-								
-								
-								<!-- TESTIMONIAL #7 -->
-								<div class="review-2">
-									<div class="review-txt text-center">
-
-										<!-- Quote -->
-										<div class="quote"></div>	
-
-										<!-- Author Avatar -->
-										<div class="hover-overlay text-center">
-                                            <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
-										</div>
-										
-                                        <!-- Judul News -->
-										<div class="review-author">
-											<h4 class="h4-md">Judul</h>
-										</div>
-
-										<!-- Testimonial Text -->
-										<p>Augue egestas volutpat egestas augue in cubilia laoreet magna suscipit luctus
-										   and dolor blandit vitae
-										</p>
-
-									</div>						
-								</div>	<!-- END TESTIMONIAL #7 -->
-
-
-								<!-- TESTIMONIAL #8 -->
-								<div class="review-2">
-									<div class="review-txt text-center">
-
-										<!-- Quote -->
-										<div class="quote"></div>	
-
-										<!-- Author Avatar -->
-										<div class="hover-overlay text-center">
-                                            <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
-										</div>
-										
-                                        <!-- Judul News -->
-										<div class="review-author">
-											<h4 class="h4-md">Judul</h4>
-										</div>
-
-										<!-- Testimonial Text -->
-										<p>Augue egestas volutpat egestas augue in cubilia laoreet magna suscipit luctus
-										   and dolor blandit vitae
-										</p>							
-																
-									</div>						
-								</div>	<!-- END TESTIMONIAL #8 -->
-
-
-								<!-- TESTIMONIAL #9-->
-								<div class="review-2">
-									<div class="review-txt text-center">
-
-										<!-- Quote -->
-										<div class="quote"></div>	
-
-										<!-- Author Avatar -->
-										<div class="hover-overlay text-center">
-                                            <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
-										</div>
-										
-                                        <!-- Judul News -->
-										<div class="review-author">
-											<h4 class="h4-md">Judul</h4>
-										</div>
-
-										<!-- Testimonial Text -->
-										<p>Augue egestas volutpat egestas augue in cubilia laoreet magna suscipit luctus
-										   magna dolor neque vitae 								   
-										</p>
-						
-									</div>						
-								</div>	<!-- END TESTIMONIAL #9 -->
 
 							
 							</div>

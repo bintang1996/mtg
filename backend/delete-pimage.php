@@ -11,14 +11,14 @@ unlink($target);
 if($data)
 {
 
-   echo "<meta http-equiv='refresh' content='1 url=edit-product-page.php?id=";
+   echo "<meta http-equiv='refresh' content='1 url=edit-artikel-page.php?id=";
    echo $id;
    echo "'>";
 }
 else
 {
     echo "<script>alert('Failed')</script>";
-   echo "<meta http-equiv='refresh' content='1 url=edit-product-page.php?id=";
+   echo "<meta http-equiv='refresh' content='1 url=edit-artikel-page.php?id=";
    echo $id;
    echo "'>";
 }

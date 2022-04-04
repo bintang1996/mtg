@@ -102,7 +102,7 @@
                                  
 
                                         <div class="left">
-                                        <?php $sql3 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$id' and img_name LIKE '%.png%' or p_id='$id' and img_name LIKE '%.jpg%' or p_id='$id' and img_name LIKE '%.jpeg%' limit 1"); while($d3=mysqli_fetch_array($sql3)){?>
+                                        <?php $sql3 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$id' and img_name LIKE '%.png%' or a_id='$id' and img_name LIKE '%.jpg%' or a_id='$id' and img_name LIKE '%.jpeg%' limit 1"); while($d3=mysqli_fetch_array($sql3)){?>
                                          <img style="max-width:150px;" src="../frontend/assets/imgs/shop/<?php echo $d3['img_name']; ?>" alt="" /> <?php } ?>
                                         </div>
 
