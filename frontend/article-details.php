@@ -64,93 +64,7 @@
 									   at odio velna
 									</p>
 
-									<!-- Text -->
-									<p>Sagittis congue augue egestas volutpat egestas magna suscipit egestas magna ipsum vitae
-									   purus efficitur ipsum primis in cubilia laoreet augue egestas luctus donec diam.						   
-									</p>
-											
-									<!-- Text -->
-									<p>Maecenas gravida porttitor nunc, quis vehicula magna luctus tempor. Quisque vel laoreet 
-									   turpis urna augue, viverra a augue eget, dictum tempor diam. Sed pulvinar consectetur nibh, 
-									   vel imperdiet dui varius viverra. Pellentesque ac massa lorem. Fusce eu cursus non nulla 
-									   vitae massa placerat purus
-									</p>
-
-									<!-- Small Title -->
-									<h5 class="h5-md steelblue-color">Vitae massa placerat vulputate</h5>
-
-									<!-- Text -->   
-									<p>Nullam non scelerisque lectus. In at mauris vel nisl convallis porta at vitae dui. Nam 
-									   lacus ligula, vulputate molestie bibendum quis, aliquet elementum massa. Vestibulum ut 
-									   sagittis odio
-									</p>
-
-									<!-- Post Text -->  
-									<p>In at mauris vel nisl convallis porta at vitae dui. Nam lacus ligula, vulputate molestie 
-									   bibendum quis, aliquet elementum massa. Vestibulum ut sagittis odio. Ac massa lorem. Fusce eu
-									   cursus est. Fusce non nulla vitae massa placerat vulputate vel a purus. Aliqum  mullam blandit
-									   tempor sapien
-									</p>	
-
-						
-
-									<!-- Small Title -->
-									<h5 class="h5-md steelblue-color">Semper lacus cursus porta, feugiat primis</h5>		
-												
-									<!-- Text -->
-									<p>Curabitur ac dapibus libero. Quisque eu tristique neque. Phasellus blandit tristique justo
-									   ut aliquam. Aliquam vitae molestie nunc. Quisque sapien justo, aliquet non molestie sed,
-									   venenatis nec purus. Aliquam eget lacinia elit. Vestibulum tincidunt tincidunt massa, et
-									   porttitor justo. 
-									</p>   
-										  
-									<!-- Option #1 -->
-									<div class="box-list">							
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p class="p-sm">Nemo ipsam egestas volute and turpis dolores quaerat</p>							
-									</div>
-
-									<!-- Option #2 -->
-									<div class="box-list">	
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p class="p-sm">Magna luctus tempor augue vitae laoreet augue in cubilia risus auctor tempus
-										   dolor felis lacinia risus auctor id viverra dolor
-										 </p>				
-									</div>
-
-									<!-- Option #3 -->
-									<div class="box-list">	
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p class="p-sm">Ligula risus auctor tempus dolor feugiat, felis lacinia risus interdum auctor 
-										   id viverra dolor iaculis luctus 
-										</p>				
-									</div>	
-
-									<!-- Option #3 -->
-									<div class="box-list">	
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p class="p-sm">An enim nullam tempor at pretium purus blandit</p>				
-									</div>	
-
-									<!-- Small Title -->
-									<h5 class="h5-md steelblue-color">Cubilia laoreet augue egestas luctus</h5>		
-												
-									<!-- Post Text -->
-									<p>Curabitur ac dapibus libero. Quisque eu tristique neque. Phasellus blandit tristique justo
-									   ut aliquam. Aliquam vitae molestie nunc. Quisque sapien justo, aliquet non molestie sed,
-									   venenatis nec purus. Aliquam eget lacinia tincidunt tincidunt massa, et porttitor justo. 
-									   Quisque vel laoreet turpis. Urna augue, viverra a augue eget, dictum tempor diam. Sed pulvinar
-									   consectetur nibh, vel imperdiet dui varius viverra. Pellentesque ac massa lorem. Fusce eu
-									   cursus est. Fusce non nulla vitae massa placerat bulum tincidunt tincidunt massa, et porttitor justo
-									</p>   
-									  
-									<!-- Post Text -->
-									<p>Sagittis congue augue egestas volutpat egestas magna suscipit egestas magna ipsum vitae
-									   purus efficitur ipsum primis in cubilia laoreet augue egestas luctus donec diam.	Curabitur
-									   ac dapibus libero. Quisque eu tristique neque. Phasellus blandit tristique justo ut aliquam.
-									   Aliquam vitae <a href="#">molestie nunc sapien justo</a>, aliquet non molestie sed, venenatis nec purus.
-									   Aliquam eget lacinia elit. Vestibulum tincidunt tincidunt massa, et porttitor justo.
-									</p>
+									
 
 									<!-- BLOG POST SHARE LINKS -->
 									<div class="post-share-links">
@@ -178,27 +92,6 @@
 
 								</div>	<!-- END BLOG POST TEXT -->
 
-
-								<!-- ABOUT POST AUTHOR -->
-								<div class="author-senoff">
-									
-									<!-- Avatar -->	
-									<img src="images/review-author-4.jpg" alt="author-avatar">
-
-									<!-- Text -->
-									<div class="author-senoff-txt">
-
-										<!-- Title -->
-										<h5 class="h5-sm steelblue-color">Published by Dr.Jeremy Smith</h5>
-										<p>Lorem ipsum dolor sit amet, consectetur elit eiusmod tempor sapien incidide ut
-										   labore dolore. incididunt ut labore et dolore. Neque turpis vitae eros praesent
-										   varius. Egestas a congue augue egestas volutpat egestas magna suscipit egestas magna
-										   ipsum vitae urna
-										</p>
-
-									</div>
-
-								</div>	<!-- END ABOUT POST AUTHOR -->
 
 
 								<!-- RELATED POSTS -->
