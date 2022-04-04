@@ -103,8 +103,8 @@
         </div>
 
         <div class="wide-100" style="background-color:#FFFFFF;">
-            <div class="container" style="background-color:#FFFFFF;">
-                <div class="row" style="margin-left: auto; margin-right: auto;">
+            <div class="container" style="background-color:#FFFFFF; margin-left: auto; margin-right: auto;">
+                <div class="row">
                     <!-- CONTACT FORM -->	
 				 		<div class="col-md-8 col-lg-8" >
 				 			<div class="form-holder mb-40">
