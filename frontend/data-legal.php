@@ -20,7 +20,7 @@
 		<div class="w3-content w3-display-container" style="max-width:100%; background-color:#ececec;">
 
 
-		<h3 class="h3-md" style="color: #281E78;font-family:'Lato'; text-align : center;">Company Legal Document</h3>
+		<h3 class="h3-md" style="color: #281E78;font-family:'Lato'; text-align : center;margin-top:0px;">Company Legal Document</h3>
 	
             <?php       
 				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM banner3col") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
