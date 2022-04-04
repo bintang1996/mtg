@@ -20,10 +20,10 @@
                     <div class="card-body">
                         <div class="row">
                             <div class="col-md-12">
-                                <form name="form1" method="post" action="edit-category-act.php" enctype="multipart/form-data">
+                                <form name="form1" method="post" action="edit-category_a-act.php" enctype="multipart/form-data">
                                     <?php
                                     $a=$_GET['cat_id'];
-                                    $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_id='$a'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                                    $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category_a where cat_id='$a'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
                                     while($d=mysqli_fetch_array($sql)){ ?>
                                     <div class="mb-4">
 
