@@ -592,7 +592,7 @@ $(document).ready(function() {
                                             <?php } ?>
                                            <?php 
                                            
-                                           $data = mysqli_query($GLOBALS["___mysqli_ston"], "select * from category");
+                                           $data = mysqli_query($GLOBALS["___mysqli_ston"], "select * from category_a");
                                             while($d4 = mysqli_fetch_array($data)){
                                             ?>
                                             <option value="<?php echo $d4['cat_name'];?>"><?php echo $d4['cat_name'];?></option>
