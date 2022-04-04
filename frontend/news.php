@@ -44,43 +44,47 @@
 			============================================= -->
 			<section id="info-9" class="bg-blue info-section division">
 
-
+			<?php
+                    $r=$_GET['id'];
+							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a ") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
+                                $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                                while($d1=mysqli_fetch_array($sql1)){ 
+							?> 
             <!-- TEXT BLOCK -->		
             <div class="container">
                 <div class="row d-flex align-items-center">	
                     <div class="col-lg-6">
                         <div class="tab-img">
-							<img class="img-fluid" src="images/pediatrics_700x700.jpg" alt="tab-image" />
+						<?php
+							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+							while($d2=mysqli_fetch_array($sql2)){
+							?> 
+										<div class="gambar" style="background-image: url('assets/imgs/shop/<?php echo $d2['img_name']; ?>');"></div>
+		<?php } ?>
 						</div>
                     </div>	
 
                     <div class="col-md-6">
                         <div class="info-9-table white-color wow fadeInUp" data-wow-delay="0.4s">
-
+						<p style="margin-bottom:1px; font-size:1em;"><?php echo $d['cat_name']; ?></p>
                             <!-- Title -->
-                            <h4 class="h4-xs">JUDUL</h4>
+                            <h4 class="h4-xs"><?php echo $d1['p_name']; ?></h4>
 
                             <!-- Text -->
-                            <p>Liver atau hati adalah salah satu organ yang perannya sangat vital dalam tubuh manusia. 
-                                Organ yang sering disebut liver ini merupakan organ terbesar di dalam tubuh. Organ yang 
-                                berwarna cokelat ini memiliki berat sekitar 1,5 kilogram.  
-
-                                Liver terletak di rongga perut kanan bagian atas, tepat di bawah rusuk bagian kanan. 
-                                Organ ini memiliki dua bagian, yaitu bagian kanan dan kiri. Lobus kanan hati merupakan 
-                                bagian terbesar yang ukurannya lima sampai enam kali lebih besar daripada lobus kiri. 
-                                <br>
+                            <p><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>
                                 
                              
                             </p>
 
                             <!-- Button -->
-								<a href="all-services.html" class="btn btn-tra-white white-hover mt-20">Find Out More</a>
+								<a href="article-details.php?id=<?php echo $d1['id']; ?>" class="btn btn-tra-white white-hover mt-20">Find Out More</a>
 
                         </div>	
                     </div>
                 </div>	  <!-- End row -->
             </div>	   <!-- END TEXT BLOCK -->	
-
+<?php }} ?>
 
             </section>	<!-- END TOP-NEWS -->
 
