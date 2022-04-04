@@ -126,10 +126,26 @@
 
         <div class="wide-100" style="background-color:#FFFFFF;">
             <div class="container" style="background-color:#FFFFFF; ">
+			<!-- SECTION TITLE -->	
+			<div class="row">	
+						<div class="col-lg-10 offset-lg-1 section-title">	
+
+							<!-- Title 	-->	
+							<h3 class="h3-md steelblue-color">Bergabung dengan Kami</h3>	
+
+							<!-- Text -->
+							<p>Come join us? Want to book an appointment for yourself or your children? Give us a call
+							   or send an email to contact the MedService.
+							</p>
+								
+						</div>
+					</div>
+
                 <div class="row">
                     <!-- CONTACT FORM -->	
 				 		<div class="col-md-8 col-lg-8" style="margin-left: auto; margin-right: auto;" >
 				 			<div class="form-holder mb-40">
+
 				 				<form name="contactForm" class="row contact-form">
 				                                            
 					                <!-- Contact Form Input -->
