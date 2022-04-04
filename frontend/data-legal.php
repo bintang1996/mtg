@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <style>
-			.mySlides {display:none}
-			.w3-left, .w3-right, .w3-badge {cursor:pointer; color:red;}
+			.mySlides {display:none} 
+			.w3-left, .w3-right, .w3-badge {cursor:pointer; color:red; margin: 5px;}
 			.w3-badge {height:13px;width:13px;padding:0; color: orange;}
 			a b{
 				text-decoration:bold;
