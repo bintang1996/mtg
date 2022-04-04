@@ -29,7 +29,7 @@
                     <div class="col-lg-12">
                         <div class="col-lg-12 text-left">
                             <!-- Title -->
-							<h3 class="h3-md steelblue-color">Routine Medical Care</h3>
+							<h3 class="h3-md steelblue-color">Lorem ipsum dolor</h3>
 
                             <!-- Text -->
                             <p class="p-lg">Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
@@ -53,46 +53,67 @@
                 <div class="options-list">
 										<div class="row">
 
-											<div class="col-xl-6">
+											<div class="col-xl-3">
 
 												<!-- Option #1 -->
 												<div class="box-list m-top-15">							
 													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<p>Nemo ipsam egestas volute and turpis dolores quaerat vitae auctor integer congue</p>			
+													<p>Lowongan 1</p>			
 												</div>
 
 												<!-- Option #2 -->
 												<div class="box-list">	
 													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<p class="p-sm">Magna luctus tempor and curae integer</p>				
+													<p class="p-sm">Lowongan 2</p>				
 												</div>
 
 												<!-- Option #3 -->
 												<div class="box-list">	
 													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<p>An enim nullam tempor undo pretium blandit purus pretium ligula rutrum and laoreet</p>			
+													<p>Lowongan 3</p>			
 												</div>
 
 											</div>
 
-											<div class="col-xl-6">
+											<div class="col-xl-3">
 
 												<!-- Option #4 -->
 												<div class="box-list">	
 													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<p>Magna luctus tempor blandit a nullam tempor sapien feugiat at vitae suscipit mollis</p>				
+													<p>Lowongan 4</p>				
 												</div>
 
 												<!-- Option #5 -->
 												<div class="box-list m-top-15">							
 													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<p>Nemo ipsam egestas tempus feugiat at dolor impedit magna purus at pretium donec</p>		
+													<p>Lowongan 5</p>		
 												</div>
 
 												<!-- Option #6 -->
 												<div class="box-list">	
 													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<p>An enim nullam at tempor primis</p>				
+													<p>Lowongan 6</p>				
+												</div>
+
+											</div>
+                                            <div class="col-xl-3">
+
+												<!-- Option #7 -->
+												<div class="box-list">	
+													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
+													<p>Lowongan 7</p>				
+												</div>
+
+												<!-- Option #8 -->
+												<div class="box-list m-top-15">							
+													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
+													<p>Lowongan 8</p>		
+												</div>
+
+												<!-- Option #9 -->
+												<div class="box-list">	
+													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
+													<p>Lowongan 9</p>				
 												</div>
 
 											</div>
@@ -165,7 +186,7 @@
 					                                            
 					                <!-- Contact Form Button -->
 					                <div class="col-lg-12 mt-15 form-btn">  
-					                	<button type="submit" class="btn btn-blue blue-hover submit">Send Your Message</button> 
+					                	<button type="submit" class="btn btn-blue blue-hover submit">Submit</button> 
 					                </div>
 					                                                              
 					                <!-- Contact Form Message -->
