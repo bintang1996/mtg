@@ -98,7 +98,17 @@
 
 
 									<div class="row">
-										
+									
+                                    
+                                    <?php 
+                  $id = $_GET['id'];      
+                  $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a where p_id='$id' limit 2") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                  while($d=mysqli_fetch_array($sql)){
+                        
+                    $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                    while($d1=mysqli_fetch_array($sql1)){
+                            
+                ?> 
 										<!-- BLOG POST #1 -->
 								 		<div class="col-md-6">
 								 			<div class="blog-post">
@@ -112,21 +122,20 @@
 												<div class="blog-post-txt">
 
 													<!-- Post Title -->
-													<h5 class="h5-sm steelblue-color"><a href="single-post.html">Your Health Is In Your Hands</a></h5>
+													<h5 class="h5-sm steelblue-color"><a href="single-post.html"><?php echo $d1['p_name']; ?></a></h5>
 
 													<!-- Post Data -->
-													<span>Apr 28, 2019 by <span class="blue-color">Dr.Jonathan Barnes</span></span>
+													<span>A<?php echo $d1['warranty']; ?> <span class="blue-color">Meditrans Admin</span></span>
 
 													<!-- Post Text -->
-													<p>Quaerat neque purus ipsum neque dolor primis libero tempus impedit tempor blandit sapien at
-													   gravida donec ipsum, at porta justo...
+													<p><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>...<a style="font-size: 1em; color:blue;" href="article-details.php?id=<?php echo $d1['id']; ?>">Read more.</a>
 													</p>
 
 												</div>
 
 											</div>
 								 		</div>	<!-- END  BLOG POST #1 -->
-
+<?php }} ?>
 
 						
 
