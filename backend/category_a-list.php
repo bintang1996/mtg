@@ -2,8 +2,8 @@
 <section class="content-main">
                 <div class="content-header">
                     <div>
-                        <h2 class="content-title card-title">Categories / Brands</h2>
-                        <p>Add, edit or delete a category/brand</p>
+                        <h2 class="content-title card-title">Categories</h2>
+                        <p>Add, edit or delete a category</p>
                     </div>
                     <form action="category_a-page.php" method="get">
                             <div class="input-group">
