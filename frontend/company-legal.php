@@ -103,6 +103,11 @@
 
                 </div>	   <!-- End container -->
 			</section>	<!-- END INFO-4 -->
+<!-- INFO-6
+			============================================= -->
 
+			<?php include "data-legal.php";?>
+			<!-- INFO-6
+			============================================= -->
 
 <?php include "footer.php";?>
