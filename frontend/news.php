@@ -113,7 +113,7 @@
 										<div class="quote"></div>	
 
 										<!-- Author Avatar -->
-										<div class="testimonial-avatar">
+										<div class="hover-overlay text-center">
                                             <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
 										</div>
 																
