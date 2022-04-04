@@ -53,7 +53,9 @@
                                 Liver terletak di rongga perut kanan bagian atas, tepat di bawah rusuk bagian kanan. 
                                 Organ ini memiliki dua bagian, yaitu bagian kanan dan kiri. Lobus kanan hati merupakan 
                                 bagian terbesar yang ukurannya lima sampai enam kali lebih besar daripada lobus kiri. 
-
+                                <br>
+                                
+                                </br>
                                 Fungsi liver sebagai organ tubuh sangatlah penting bagi darah. Liver atau hati berfungsi 
                                 dalam membersihkan darah serta menghancurkan sel darah merah. Selain itu, hati juga berfungsi 
                                 dalam memproduksi protein, metabolisme protein, serta sebagai tempat penyimpan nutrisi. 
