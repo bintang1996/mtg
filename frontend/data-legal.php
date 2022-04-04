@@ -13,17 +13,24 @@
 <div class="w3-content w3-display-container" style="max-width:100%; background-color:#ececec;">
 
 
-
+            
+	
+            <?php       
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM banner3col") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d=mysqli_fetch_array($sql)){
+			?> 
 			<div class="mySlides">
+
 
 			<table class="table" width="90%" style="border:none; margin-bottom:0; margin-right:5%;">
 			<tr><td width="50%"  class="text-center align-center">
-			<img class="img-fluid" width="70%" src="images/pediatrics_700x700.jpg" alt="tab-image">
+			<img class="img-fluid" width="50%" src="assets/imgs/banner/<?php echo $d['slider_img']; ?>" alt="tab-image">
 			</td>
 			
 			</table>			
 			</div>
-		
+            
+            <?php } ?>
 			<button class="w3-button w3-display-left w3-red" onclick="plusDivs(-1)">&#10094;</button>
 			<button class="w3-button w3-display-right w3-red" onclick="plusDivs(1)">&#10095;</button>
 			<div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
