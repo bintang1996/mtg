@@ -14,7 +14,7 @@
 			margin-left: 10%;
 			
 			background-size: 100%;
-			border: 1px solid black;
+			
 			}
 			</style>
 		<div class="w3-content w3-display-container" style="max-width:100%; background-color:#fff; padding-top:25px; padding-bottom:5px;">
@@ -39,13 +39,13 @@
 						<a class="image-link" href="assets/imgs/shop/<?php echo $d['img_name']; ?>" title=""><i class="fas fa-search-plus"></i></a>
 					</div>	
 			</div></div>
-					
+         		
 			</div>
             
             <?php } ?>
-			<button class="w3-button w3-display-left w3-red" style="margin-left:2%;" onclick="plusDivs(-1)">&#10094;</button>
-			<button class="w3-button w3-display-right w3-red" style="margin-right:2%;" onclick="plusDivs(1)">&#10095;</button>
-			<div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
+
+            <br><br>
+<div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 			<?php       
 				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 				
@@ -80,10 +80,10 @@
 					x[i].style.display = "none";  
 				}
 				for (i = 0; i < dots.length; i++) {
-					dots[i].className = dots[i].className.replace(" w3-white", "");
+					dots[i].className = dots[i].className.replace(" w3-grey", "");
 				}
 				x[slideIndex-1].style.display = "block";  
-				dots[slideIndex-1].className += " w3-white";
+				dots[slideIndex-1].className += " w3-grey";
 				}
 				</script>
 
