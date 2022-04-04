@@ -10,6 +10,10 @@
   background-position: center;
 
 			}
+
+			.owl-dots{
+				display: none;
+			}
 			</style>
 		<!-- BREADCRUMB
 			============================================= -->
