@@ -119,7 +119,7 @@
 										
                                         <!-- Judul News -->
 										<div class="review-author">
-											<h5 class="h5-sm">Judul</h5>
+											<h4 class="h4-md">Judul</h4>
 										</div>	
 
 										<!-- Testimonial Text -->
@@ -145,7 +145,7 @@
 										
                                         <!-- Judul News -->
 										<div class="review-author">
-											<h5 class="h5-sm">Judul</h5>
+											<h4 class="h4-md">Judul</h4>
 										</div>
 
 										<!-- Testimonial Text -->
@@ -171,7 +171,7 @@
 										
                                         <!-- Judul News -->
 										<div class="review-author">
-											<h5 class="h5-sm">Judul</h5>
+											<h4 class="h4-md">Judul</h4>
 										</div>
 
 										<!-- Testimonial Text -->
@@ -197,7 +197,7 @@
 										
                                         <!-- Judul News -->
 										<div class="review-author">
-											<h5 class="h5-sm">Judul</h5>
+											<h4 class="h4-md">Judul</h4>
 										</div>
 
 										<!-- Testimonial Text -->
@@ -223,7 +223,7 @@
 										
                                         <!-- Judul News -->
 										<div class="review-author">
-											<h5 class="h5-sm">Judul</h5>
+											<h4 class="h4-md">Judul</h4>
 										</div>
 
 										<!-- Testimonial Text -->
@@ -249,7 +249,7 @@
 										
                                         <!-- Judul News -->
 										<div class="review-author">
-											<h5 class="h5-sm">Judul</h5>
+											<h4 class="h4-md">Judul</h4>
 										</div>
 
 										<!-- Testimonial Text -->
@@ -275,7 +275,7 @@
 										
                                         <!-- Judul News -->
 										<div class="review-author">
-											<h5 class="h5-sm">Judul</h5>
+											<h4 class="h4-md">Judul</h>
 										</div>
 
 										<!-- Testimonial Text -->
@@ -301,7 +301,7 @@
 										
                                         <!-- Judul News -->
 										<div class="review-author">
-											<h5 class="h5-sm">Judul</h5>
+											<h4 class="h4-md">Judul</h4>
 										</div>
 
 										<!-- Testimonial Text -->
