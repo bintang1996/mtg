@@ -116,16 +116,16 @@
 										<div class="hover-overlay text-center">
                                             <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
 										</div>
-																
+										
+                                        <!-- Judul News -->
+										<div class="review-author">
+											<h5 class="h5-sm">Judul</h5>
+										</div>	
+
 										<!-- Testimonial Text -->
 										<p>Etiam sapien sem at sagittis congue an augue massa varius egestas a suscipit
 										   magna undo tempus aliquet porta vitae
-										</p>	
-
-										<!-- Testimonial Author -->
-										<div class="review-author">
-											<h5 class="h5-sm">Judul</h5>
-										</div>							
+										</p>				
 																
 									</div>						
 								</div>	<!--END  TESTIMONIAL #1 -->
@@ -142,16 +142,16 @@
 										<div class="hover-overlay text-center">
                                             <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
 										</div>
-																
+										
+                                        <!-- Judul News -->
+										<div class="review-author">
+											<h5 class="h5-sm">Judul</h5>
+										</div>
+
 										<!-- Testimonial Text -->
 										<p>Mauris donec ociis magnisa a sapien etiam sapien congue augue egestas et ultrice
 										   vitae purus diam integer
-										</p>										
-
-										<!-- Testimonial Author -->
-										<div class="review-author">
-											<h5 class="h5-sm">Judul</h5>	
-										</div>
+										</p>
 
 									</div>						
 								</div>	<!-- END TESTIMONIAL #2 -->
@@ -168,16 +168,16 @@
 										<div class="hover-overlay text-center">
                                             <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
 										</div>
-																
+										
+                                        <!-- Judul News -->
+										<div class="review-author">
+											<h5 class="h5-sm">Judul</h5>
+										</div>
+
 										<!-- Testimonial Text -->
 										<p>At sagittis congue augue an egestas magna ipsum vitae purus ipsum primis undo cubilia
 										   laoreet augue	   
 										</p>
-
-										<!-- Testimonial Author -->
-										<div class="review-author">
-											<h5 class="h5-sm">Judul</h5>	
-										</div>
 
 									</div>						
 								</div>	<!-- END TESTIMONIAL #3 -->
@@ -194,17 +194,17 @@
 										<div class="hover-overlay text-center">
                                             <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
 										</div>
-																
+										
+                                        <!-- Judul News -->
+										<div class="review-author">
+											<h5 class="h5-sm">Judul</h5>
+										</div>
+
 										<!-- Testimonial Text -->
 										<p>Mauris donec ociis magnis sapien etiam sapien congue augue pretium ligula 
 										   a lectus aenean magna mauris
 										</p>
 
-										<!-- Testimonial Author -->
-										<div class="review-author">
-											<h5 class="h5-sm">Judul</h5>	
-										</div>
-					
 									</div>						
 								</div>	<!-- END TESTIMONIAL #4 -->
 								
@@ -220,16 +220,16 @@
 										<div class="hover-overlay text-center">
                                             <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
 										</div>
-																
+										
+                                        <!-- Judul News -->
+										<div class="review-author">
+											<h5 class="h5-sm">Judul</h5>
+										</div>
+
 										<!-- Testimonial Text -->
 										<p>An augue in cubilia laoreet magna suscipit egestas magna ipsum at purus ipsum
 										   primis in augue ulta ligula egestas
-										</p>
-
-										<!-- Testimonial Author -->
-										<div class="review-author">
-											<h5 class="h5-sm">Judul</h5>	
-										</div>						
+										</p>					
 																
 									</div>						
 								</div>	<!-- END TESTIMONIAL #5 -->
@@ -246,16 +246,16 @@
 										<div class="hover-overlay text-center">
                                             <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
 										</div>
-																
+										
+                                        <!-- Judul News -->
+										<div class="review-author">
+											<h5 class="h5-sm">Judul</h5>
+										</div>
+
 										<!-- Testimonial Text -->
 										<p>An augue cubilia laoreet undo magna at risus suscipit egestas magna an ipsum ligula
 										   vitae and purus ipsum primis
 										</p>
-
-										<!-- Testimonial Author -->
-										<div class="review-author">
-											<h5 class="h5-sm">Judul</h5>	
-										</div>
 
 									</div>						
 								</div>	<!-- END TESTIMONIAL #6 -->
@@ -272,16 +272,16 @@
 										<div class="hover-overlay text-center">
                                             <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
 										</div>
-																
+										
+                                        <!-- Judul News -->
+										<div class="review-author">
+											<h5 class="h5-sm">Judul</h5>
+										</div>
+
 										<!-- Testimonial Text -->
 										<p>Augue egestas volutpat egestas augue in cubilia laoreet magna suscipit luctus
 										   and dolor blandit vitae
 										</p>
-
-										<!-- Testimonial Author -->
-										<div class="review-author">
-											<h5 class="h5-sm">Judul</h5>
-										</div>
 
 									</div>						
 								</div>	<!-- END TESTIMONIAL #7 -->
@@ -298,16 +298,16 @@
 										<div class="hover-overlay text-center">
                                             <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
 										</div>
-																
+										
+                                        <!-- Judul News -->
+										<div class="review-author">
+											<h5 class="h5-sm">Judul</h5>
+										</div>
+
 										<!-- Testimonial Text -->
 										<p>Augue egestas volutpat egestas augue in cubilia laoreet magna suscipit luctus
 										   and dolor blandit vitae
-										</p>
-
-										<!-- Testimonial Author -->
-										<div class="review-author">
-											<h5 class="h5-sm">Judul</h5>	
-										</div>							
+										</p>							
 																
 									</div>						
 								</div>	<!-- END TESTIMONIAL #8 -->
@@ -324,16 +324,16 @@
 										<div class="hover-overlay text-center">
                                             <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
 										</div>
-																
+										
+                                        <!-- Judul News -->
+										<div class="review-author">
+											<h3 class="h3-md">Judul</h3>
+										</div>
+
 										<!-- Testimonial Text -->
 										<p>Augue egestas volutpat egestas augue in cubilia laoreet magna suscipit luctus
 										   magna dolor neque vitae 								   
 										</p>
-
-										<!-- Testimonial Author -->
-										<div class="review-author">
-											<h5 class="h5-sm">Judul</h5>	
-										</div>
 						
 									</div>						
 								</div>	<!-- END TESTIMONIAL #9 -->
