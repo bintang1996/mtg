@@ -106,7 +106,7 @@
             <div class="container" style="background-color:#FFFFFF; ">
                 <div class="row">
                     <!-- CONTACT FORM -->	
-				 		<div class="col-md-8 col-lg-8" style="margin-left: 300px; margin-right: auto;" >
+				 		<div class="col-md-8 col-lg-8" style="margin-left: auto; margin-right: auto;" >
 				 			<div class="form-holder mb-40">
 				 				<form name="contactForm" class="row contact-form">
 				                                            
