@@ -1,8 +1,8 @@
 <?php include "header.php";?>
 <style>
 .gambar{
-			width: 90%;
-			height: 300px;
+			width: 100%;
+			height: 500px;
 		
 			background-repeat: no-repeat;
 			background-size: cover;
