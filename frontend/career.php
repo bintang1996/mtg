@@ -62,7 +62,7 @@
 												</div>
 
 												<!-- Option #2 -->
-												<div class="box-list m-top-5">	
+												<div class="box-list m-top-15">	
 													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
 													<p class="p-sm">Lowongan 2</p>				
 												</div>
