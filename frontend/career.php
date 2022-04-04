@@ -29,10 +29,10 @@
                     <div class="col-lg-12">
                         <div class="col-lg-12 text-left">
                             <!-- Title -->
-							<h3 class="h3-md steelblue-color">Lorem ipsum dolor</h3>
+							<h3 class="h3-md steelblue-color">Bergabunglah bersama Meditrans</h3><br>
 
                             <!-- Text -->
-                            <p class="p-lg">Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
+                            <p class="p-lg">Meditrans merupakan deskirpsi Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
                             integer congue magna at pretium  purus pretium ligula rutrum itae laoreet augue in 
                             cubilia laoreet an augue egestas ipsum vitae emo ligula vitae arcu mollis blandit ultrice
                             ligula egestas magna suscipit
@@ -47,8 +47,22 @@
                 </div>
             </div>
         </div>
+
         <div class="wide-100" style="background-color:#f8f9fb;">
             <div class="container" style="background-color:#f8f9fb;">
+			<!-- SECTION TITLE -->	
+			<div class="row">	
+						<div class="col-lg-10 offset-lg-1 section-title">	
+
+							<!-- Title 	-->	
+							<h3 class="h3-md steelblue-color">Lowongan Pekerjaan Terbaru</h3>	
+
+							<!-- Text -->
+							<p>Berikut Lowongan Pekerjaan di Meditrans. 
+							</p>
+								
+						</div>
+			</div>
                 <!-- Options List -->
                 <div class="options-list">
 										<div class="row">
@@ -139,7 +153,7 @@
 							</p>
 								
 						</div>
-					</div>
+			</div>
 
                 <div class="row">
                     <!-- CONTACT FORM -->	
