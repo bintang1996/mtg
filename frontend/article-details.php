@@ -1,7 +1,7 @@
 <?php include "header.php";?>
 <style>
     	.gambar{
-			width: 100%;
+			width: 50%;
 			height: 100px;
 	
 			background-repeat: no-repeat;
