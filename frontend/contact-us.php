@@ -93,34 +93,30 @@
 					                </div>
 					                        
 					                <div id="input-email" class="col-md-12 col-lg-6">
-					                	<input type="text" name="email" class="form-control email" placeholder="Enter Your Email*" required> 
+					                	<input type="text" name="email" class="form-control email" placeholder="Masukkan Email*" required> 
 					                </div>
 
 					                <div id="input-phone" class="col-md-12 col-lg-6">
-					                	<input type="tel" name="phone" class="form-control phone" placeholder="Enter Your Phone Number*" required> 
-					                </div>	
-
-					                <!-- Form Select -->
-					                <div id="input-patient" class="col-md-12 col-lg-6 input-patient">
-					                    <select id="inlineFormCustomSelect3" name="patient" class="custom-select patient" required>
-					                        <option value="">Have You Visited Us Before?*</option>
-											<option>New Patient</option>
-											<option>Returning Patient</option>
-											<option>Other</option>
-					                    </select>
+					                	<input type="tel" name="phone" class="form-control phone" placeholder="Masukkan No. HP/Whatsapp*" required> 
 					                </div>
+                                    
+                                    <div id="input-instansi" class="col-md-12 col-lg-6">
+					                	<input type="tel" name="instansi" class="form-control instansi" placeholder="Masukkan Instansi*" required> 
+					                </div>
+
+					                
 
 					                <div id="input-alamat" class="col-lg-12">
 					                	<input type="text" name="alamat" class="form-control alamat" placeholder="Masukkan Alamat*" required> 
 					                </div>					                          
 					                        
 					                <div id="input-message" class="col-lg-12 input-message">
-					                	<textarea class="form-control message" name="message" rows="6" placeholder="Your Message ..." required></textarea>
+					                	<textarea class="form-control message" name="message" rows="6" placeholder="Masukkan Pesan Anda" required></textarea>
 					                </div> 
 					                                            
 					                <!-- Contact Form Button -->
 					                <div class="col-lg-12 mt-15 form-btn">  
-					                	<button type="submit" class="btn btn-blue blue-hover submit">Send Your Message</button> 
+					                	<button type="submit" class="btn btn-blue blue-hover submit">Kirim</button> 
 					                </div>
 					                                                              
 					                <!-- Contact Form Message -->
