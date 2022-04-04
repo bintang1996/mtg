@@ -80,7 +80,7 @@
 
 									</div>	<!-- END BLOG POST SHARE -->
 									
-
+                                    </div>
 								</div>	<!-- END BLOG POST TEXT -->
 
 
