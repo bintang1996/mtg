@@ -110,11 +110,11 @@
 									<div class="review-txt text-center">
 
 										<!-- Quote -->
-										<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>	
+										<div class="quote"></div>	
 
 										<!-- Author Avatar -->
 										<div class="testimonial-avatar">
-											<img src="images/review-author-1.jpg" alt="testimonial-avatar">
+                                            <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
 										</div>
 																
 										<!-- Testimonial Text -->
