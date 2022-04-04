@@ -29,7 +29,7 @@
             
 			<!-- INFO-4
 			============================================= -->
-			<section id="info-4" class="wide-100 info-section division" style="background-color: white; margin-bottom:40px;">
+			<section id="info-4" class="wide-100 info-section division" style="background-color: white; padding-bottom:40px;">
 				<div class="container">
 
 
