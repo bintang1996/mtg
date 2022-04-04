@@ -70,6 +70,7 @@
 								</p>
               
                 <?php } ?>
+                <br><a href="#" class="btn btn-md btn-blue blue-hover">Contact Us</a>
 
 							</div>
 						</div>	<!-- END TEXT BLOCK -->	
