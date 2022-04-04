@@ -150,13 +150,16 @@
                                             <option>Posisi 5</option>
 					                    </select>
 					                </div>
-                                    
+
                                     <div id="input-message" class="col-lg-12 input-message">
 					                	<textarea class="form-control message" name="message" rows="6" placeholder="Alasan Memilih Posisi Tersebut" required></textarea>
 					                </div> 
 
-					                <div id="input-subject" class="col-lg-12">
-					                	<input type="text" name="subject" class="form-control subject" placeholder="Subject*" required> 
+					                <div id="input-file" class="col-lg-12">
+                                        <form action="/action_page.php">
+                                            <p>Upload CV</p>
+                                            <input type="file" id="myFile" name="filename">
+                                        </form>
 					                </div>					                          
 					                        
 					                
