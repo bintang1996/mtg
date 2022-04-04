@@ -137,11 +137,11 @@
 									<div class="review-txt text-center">
 
 										<!-- Quote -->
-										<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>	
+										<div class="quote"></div>	
 
 										<!-- Author Avatar -->
-										<div class="testimonial-avatar">
-											<img src="images/review-author-2.jpg" alt="testimonial-avatar">
+										<div class="hover-overlay text-center">
+                                            <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
 										</div>
 																
 										<!-- Testimonial Text -->
@@ -164,11 +164,11 @@
 									<div class="review-txt text-center">
 
 										<!-- Quote -->
-										<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>	
+										<div class="quote"></div>	
 
 										<!-- Author Avatar -->
-										<div class="testimonial-avatar">
-											<img src="images/review-author-3.jpg" alt="testimonial-avatar">
+										<div class="hover-overlay text-center">
+                                            <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
 										</div>
 																
 										<!-- Testimonial Text -->
@@ -191,12 +191,12 @@
 									<div class="review-txt text-center">
 
 										<!-- Quote -->
-										<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>
+										<div class="quote"></div>	
 
 										<!-- Author Avatar -->
-										<div class="testimonial-avatar">
-											<img src="images/review-author-4.jpg" alt="testimonial-avatar">
-										</div>	
+										<div class="hover-overlay text-center">
+                                            <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
+										</div>
 																
 										<!-- Testimonial Text -->
 										<p>Mauris donec ociis magnis sapien etiam sapien congue augue pretium ligula 
@@ -218,11 +218,11 @@
 									<div class="review-txt text-center">
 
 										<!-- Quote -->
-										<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>	
+										<div class="quote"></div>	
 
 										<!-- Author Avatar -->
-										<div class="testimonial-avatar">
-											<img src="images/review-author-5.jpg" alt="testimonial-avatar">
+										<div class="hover-overlay text-center">
+                                            <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
 										</div>
 																
 										<!-- Testimonial Text -->
@@ -245,12 +245,12 @@
 									<div class="review-txt text-center">
 
 										<!-- Quote -->
-										<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>
+										<div class="quote"></div>	
 
 										<!-- Author Avatar -->
-										<div class="testimonial-avatar">
-											<img src="images/review-author-6.jpg" alt="testimonial-avatar">
-										</div>	
+										<div class="hover-overlay text-center">
+                                            <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
+										</div>
 																
 										<!-- Testimonial Text -->
 										<p>An augue cubilia laoreet undo magna at risus suscipit egestas magna an ipsum ligula
@@ -272,11 +272,11 @@
 									<div class="review-txt text-center">
 
 										<!-- Quote -->
-										<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>	
+										<div class="quote"></div>	
 
 										<!-- Author Avatar -->
-										<div class="testimonial-avatar">
-											<img src="images/review-author-7.jpg" alt="testimonial-avatar">
+										<div class="hover-overlay text-center">
+                                            <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
 										</div>
 																
 										<!-- Testimonial Text -->
@@ -299,11 +299,11 @@
 									<div class="review-txt text-center">
 
 										<!-- Quote -->
-										<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>	
+										<div class="quote"></div>	
 
 										<!-- Author Avatar -->
-										<div class="testimonial-avatar">
-											<img src="images/review-author-8.jpg" alt="testimonial-avatar">
+										<div class="hover-overlay text-center">
+                                            <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
 										</div>
 																
 										<!-- Testimonial Text -->
@@ -326,12 +326,12 @@
 									<div class="review-txt text-center">
 
 										<!-- Quote -->
-										<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>
+										<div class="quote"></div>	
 
 										<!-- Author Avatar -->
-										<div class="testimonial-avatar">
-											<img src="images/review-author-9.jpg" alt="testimonial-avatar">
-										</div>	
+										<div class="hover-overlay text-center">
+                                            <img class="img-fluid" src="images/doctor-2.jpg" alt="doctor-foto">
+										</div>
 																
 										<!-- Testimonial Text -->
 										<p>Augue egestas volutpat egestas augue in cubilia laoreet magna suscipit luctus
