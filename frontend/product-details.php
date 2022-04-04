@@ -64,7 +64,7 @@
 								<p><?php echo $d['p_desc']; ?>
 								</p>
 
-                <h3 class="h3-md steelblue-color">Spesifikasi</h3>
+                <h5 class=" steelblue-color">Spesifikasi</h5>
 								<!-- Text -->
 								<p><?php echo $d['spec']; ?>
 								</p>
