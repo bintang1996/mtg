@@ -213,7 +213,7 @@
 }
 .gambar{
 			width: 80%;
-			height: 300px;
+			height: 400px;
 			margin-left: 10%;
 			background-repeat: no-repeat;
 			background-size: 100%;
