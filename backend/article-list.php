@@ -115,7 +115,7 @@
                                 </div>
                                 <div class="col-lg-2 col-sm-2 col-4 col-price">Rp <span><?php echo $d['price_in_ppn'];?>,-</span></div>
                                 <div class="col-lg-2 col-sm-2 col-4 col-status">
-                                    <span class="badge rounded-pill <?php $gg1=$d['status']; if($gg==''){echo 'alert-danger';} else if($gg=='checked'){echo 'alert-success';}?>"><?php $gg=$d['status']; if($gg==''){echo 'Draft';} else if($gg=='checked'){echo 'Online';} else{echo 'Draft';}?></span>
+                                    <span class="badge rounded-pill <?php $gg1=$d['status']; if($gg1==''){echo 'alert-danger';} else if($gg1=='checked'){echo 'alert-success';}?>"><?php $gg=$d['status']; if($gg==''){echo 'Draft';} else if($gg=='checked'){echo 'Online';} else{echo 'Draft';}?></span>
                                 </div>
                                 <div class="col-lg-1 col-sm-2 col-4 col-date">
                                     <span>-<?php echo $d['qty'];?>Pcs</span>
