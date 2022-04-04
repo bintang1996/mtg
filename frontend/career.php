@@ -47,10 +47,10 @@
                 </div>
             </div>
         </div>
-        <div class="wide-100" style="background-color:#FFFFFF;">
-            <div class="container" style="background-color:#FFFFFF;">
-<!-- Options List -->
-<div class="options-list">
+        <div class="wide-100" style="background-color:#f8f9fb;">
+            <div class="container" style="background-color:#f8f9fb;">
+                <!-- Options List -->
+                <div class="options-list">
 										<div class="row">
 
 											<div class="col-xl-6">
