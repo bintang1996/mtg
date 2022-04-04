@@ -132,7 +132,7 @@
                                                         $sql3 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$id' limit 1 ") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
                                                         while($d3=mysqli_fetch_array($sql3)){
                                                     ?> 
-                                                 <div class="gambar" style="background-image: url('assets/imgs/shop/<?php echo $d3['img_name']; ?>');">
+                                                 <div class="gambar" style="background-image: url('assets/imgs/shop/<?php echo $d3['img_name']; ?>');"></div>
 					                                <?php } ?>
 												</div>
 
