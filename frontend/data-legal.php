@@ -18,16 +18,31 @@
             <?php       
 				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM banner3col") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 				while($d=mysqli_fetch_array($sql)){
+                    $i = 0; 
+                    $i++;
 			?> 
 			<div class="mySlides">
 
 
 			<table class="table" width="90%" style="border:none; margin-bottom:0; margin-right:5%;">
-			<tr><td width="50%"  class="text-center align-center">
+			<?php       
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM banner3col") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d=mysqli_fetch_array($sql)){
+
+			?> 
+            <tr><td width="50%"  class="text-center align-center">
 			<img class="img-fluid" width="50%" src="assets/imgs/banner/<?php echo $d['slider_img']; ?>" alt="tab-image">
+
 			</td>
-			
-			</table>			
+            <td width="50%"  class="text-center align-center">
+			<img class="img-fluid" width="50%" src="assets/imgs/banner/<?php echo $d['slider_img']; ?>" alt="tab-image">
+            
+			</td>
+            </tr>
+            <?php } ?>
+
+
+			</table>			    
 			</div>
             
             <?php } ?>
