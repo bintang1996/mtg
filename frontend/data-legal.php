@@ -26,7 +26,7 @@
 
 			<tr>
             <td width="50%"  class="text-center align-center"><br><br>
-			<h3 class="h3-md" style="color: #281E78;"><?php echo $d['link_slider']; ?></h3>
+			<h5 class="h5-md" style="color: #281E78;"><?php echo $d['link_slider']; ?></h5>
 			</td>
             <td width="50%"  class="text-center align-center">
 			<img style="width:250px;  max-width:250px; max-height: 300px; display: inline-block;"class="img-fluid"  src="assets/imgs/banner/<?php echo $d['slider_img']; ?>" alt="tab-image">
