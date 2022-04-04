@@ -31,10 +31,11 @@
             <table class="table" width="90%" style="border:none; margin-bottom:0; margin-right:5%;">
 			<tr><td width="50%"  class="text-center align-center">
 			<div class="gambar" style="background-image: url('assets/imgs/banner/<?php echo $d['slider_img']; ?>');">
-					<br><br><br>
+					
 			</div>
+			<br><br><br>
 		</td>
-			<td><br><br><br>
+			<td><br><br><br><br>
 			<h3 class="h3-md" style="color: #281E78;font-family:'Lato';"><?php echo $d['link_slider']; ?></h3>	
 			</td>
 			<td width="5%"></td>
