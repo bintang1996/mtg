@@ -23,6 +23,7 @@
 					</div>  <!-- End row -->	
 				</div>	<!-- End container -->		
 			</div>	<!-- END BREADCRUMB -->	
+        <div class="wide-100" style="background-color:#FFFFFF;">
             <div class="container" style="background-color:#FFFFFF;">
                 <div class="row">
                     <div class="col-lg-12">
@@ -45,4 +46,5 @@
                     </div>
                 </div>
             </div>
+        </div>
 <?php include "footer.php";?>
