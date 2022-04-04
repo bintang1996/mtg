@@ -20,7 +20,9 @@
 		<div class="w3-content w3-display-container" style="max-width:100%; background-color:#ececec;">
 
 
+		<br><br><br><br>
 		<h3 class="h3-md" style="color: #281E78;font-family:'Lato'; text-align : center;margin-top:0px;">Company Legal Document</h3>
+		<br><br>
 	
             <?php       
 				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM banner3col") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
@@ -42,15 +44,15 @@
 			<br>
 		</td>
 			<td><br><br><br><br>
-			<h3 class="h3-md" style="color: #281E78;font-family:'Lato';"><?php echo $d['link_slider']; ?></h3>	
+			<h5 class="h3-md" style="color: black;font-family:'Lato';"><?php echo $d['link_slider']; ?></h5>	
 			</td>
 			<td width="5%"></td>
 			</table>			
 			</div>
             
             <?php } ?>
-			<button class="w3-button w3-display-left w3-red" style="margin-left:3%;" onclick="plusDivs(-1)">&#10094;</button>
-			<button class="w3-button w3-display-right w3-red" style="margin-right:20%;" onclick="plusDivs(1)">&#10095;</button>
+			<button class="w3-button w3-display-left w3-red" style="margin-left:2%;" onclick="plusDivs(-1)">&#10094;</button>
+			<button class="w3-button w3-display-right w3-red" style="margin-right:2%;" onclick="plusDivs(1)">&#10095;</button>
 			<div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 			<?php       
 				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM banner3col") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
