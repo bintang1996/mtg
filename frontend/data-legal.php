@@ -25,21 +25,20 @@
 
 
 			<table class="table" width="90%" style="border:none; margin-bottom:0; margin-right:5%;">
-			<?php       
-				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM banner3col") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+			
+            <tr>
+            <?php       
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM banner3col limit 2") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 				while($d=mysqli_fetch_array($sql)){
 
-			?> 
-            <tr><td width="50%"  class="text-center align-center">
+			?>    
+            <td width="50%"  class="text-center align-center">
 			<img class="img-fluid" width="50%" src="assets/imgs/banner/<?php echo $d['slider_img']; ?>" alt="tab-image">
 
 			</td>
-            <td width="50%"  class="text-center align-center">
-			<img class="img-fluid" width="50%" src="assets/imgs/banner/<?php echo $d['slider_img']; ?>" alt="tab-image">
-            
-			</td>
-            </tr>
             <?php } ?>
+            </tr>
+            
 
 
 			</table>			    
