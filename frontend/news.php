@@ -132,7 +132,7 @@
 										</div>	
 
 										<!-- Testimonial Text -->
-										<p style="font-size: 0.7rem" ><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?></p> ... <a style="font-size: 1rem; color:blue;" href="article-details.php?id=<?php echo $d1['id']; ?>">Read more.</a>
+										<p style="font-size: 0.5rem"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?></p> ... <a style="font-size: 1rem; color:blue;" href="article-details.php?id=<?php echo $d1['id']; ?>">Read more.</a>
 														
 																
 									</div>						
