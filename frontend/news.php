@@ -119,7 +119,7 @@
 										
                                         <!-- Judul News -->
 										<div class="review-author">
-											<p>Kategori</p>
+											<p style="margin-bottom:1px; font-size:1em;">Kategori</p>
 											<h4 class="h4-md">Judul</h4>
 										</div>	
 
