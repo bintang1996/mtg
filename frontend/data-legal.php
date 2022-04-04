@@ -60,11 +60,11 @@
 			<div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 			<?php       
 				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM banner3col") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-				while($d=mysqli_fetch_array($sql)){
-                    $i = 0; 
+				$i=mysql_num_rows($sql);
+                    for ($x = 0; $x <= $i; $x+=1) {
                    
 			?> 
-				<span class="w3-badge demo w3-border w3-red w3-hover-red" onclick="currentDiv(<?php echo $i++; ?>)"></span>
+				<span class="w3-badge demo w3-border w3-red w3-hover-red" onclick="currentDiv(<?php echo $x; ?>)"></span>
 			<?php } ?>
             </div>
 			</div>
