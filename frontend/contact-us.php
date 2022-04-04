@@ -3,7 +3,7 @@
 
 			<!-- CONTACTS-1
 			============================================= -->
-			<section id="contacts-1" class="wide-60 contacts-section division">				
+			<section id="contacts-1" class="wide-60 contacts-section division" style="background-color:white">				
 				<div class="container">
 
 
