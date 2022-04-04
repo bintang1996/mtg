@@ -27,7 +27,7 @@
 
 						
 								<!-- TESTIMONIAL #1 -->
-								<div class="review-1" width="50%">
+								<div class="review-1" style="width:50%;">
 									<div class="review-txt text-center">
 
 										<!-- Quote -->
