@@ -25,65 +25,48 @@
 				</div>	<!-- End container -->		
 			</div>	<!-- END BREADCRUMB -->	
 
-
-<!-- INFO-9
+            <!-- VISI-MISI
 			============================================= -->
 			<section id="info-9" class="bg-blue info-section division">
 
 
-				<!-- TEXT BLOCK -->		
-				<div class="container">
-					<div class="row d-flex align-items-center">	
-						<div class="col-lg-6">
-							<div class="info-9-table white-color wow fadeInUp" data-wow-delay="0.4s">
+            <!-- TEXT BLOCK -->		
+            <div class="container">
+                <div class="row d-flex align-items-center">	
+                    <div class="col-lg-6">
+                        <div class="info-9-table white-color wow fadeInUp" data-wow-delay="0.4s">
 
-								<!-- Title -->
-								<h4 class="h4-xs">Opening Hours:</h4>
+                            <!-- Title -->
+                            <h4 class="h4-xs">VISI</h4>
 
-								<!-- Text -->
-								<p>Porta semper lacus cursus and feugiat primis ultrice ligula risus auctor tempus feugiat
-								   and dolor lacinia cursus turpis dolores ut aliquam a quaerat sodales sapien pretium
-								</p>
+                            <!-- Text -->
+                            <p>Menjadi Penyedia Barang dan Jasa yang terpercaya dan dapat diandalkan serta berkomitmen 
+                                tinggi dalam mengedepankan aspek Kualitas, Harga dan Keselamatan dan Kerja.
+                            </p>
+                        </div>	
+                    </div>	
 
-								<!-- Table -->
-								<table class="table">
-									<tbody>
-									     <tr>
-									      	<td>Mon – Fri</td>
-									      	<td> - </td>
-									      	<td class="text-right">8:00 AM - 8:00 PM</td>
-									    </tr>
-									    <tr>
-									      	<td>Saturday</td>
-									      	<td>-</td>
-									      	<td class="text-right">10:00 AM - 6:00 PM</td>
-									    </tr>
-									    <tr class="last-tr">
-									      	<td>Sunday</td>
-									      	<td>-</td>
-									      	<td class="text-right">10:00 AM - 4:00 PM</td>
-									   	 </tr>
-									  </tbody>
-								</table>
+                    <div class="col-md-6">
+                        <div class="info-9-table white-color wow fadeInUp" data-wow-delay="0.4s">
 
-								<!-- Title -->
-								<h5 class="h5-sm">Need a personal health plan?</h5>
+                            <!-- Title -->
+                            <h4 class="h4-xs">JUDUL</h4>
 
-								<!-- Text -->
-								<p>Porta semper lacus cursus, and feugiat primis ultrice ligula at risus auctor vehicula magna
-								   luctus tempor quisque undo laoreet turpis urna augue, viverra a augue eget
-								</p>
+                            <!-- Text -->
+                            <p>Liver atau hati adalah salah satu organ yang perannya sangat vital dalam tubuh manusia. 
+                                Organ yang sering disebut liver ini merupakan organ terbesar di dalam tubuh. Organ yang 
+                                berwarna cokelat ini memiliki berat sekitar 1,5 kilogram.  
 
-							</div>	
-						</div>	
-					</div>	  <!-- End row -->
-				</div>	   <!-- END TEXT BLOCK -->	
+                                Liver terletak di rongga perut kanan bagian atas, tepat di bawah rusuk bagian kanan. 
+                                Organ ini memiliki dua bagian, yaitu bagian kanan dan kiri. Lobus kanan hati merupakan 
+                                bagian terbesar yang ukurannya lima sampai enam kali lebih besar daripada lobus kiri. 
+                            </p>
+                        </div>	
+                    </div>
+                </div>	  <!-- End row -->
+            </div>	   <!-- END TEXT BLOCK -->	
 
 
-				<!-- INFO-9 IMAGE -->
-				<div class="info-9-img bg-fixed text-center"></div>
-
-
-			</section>	<!-- END INFO-9 -->
+            </section>	<!-- END VISI-MISI -->
 
 <?php include "footer.php";?>
