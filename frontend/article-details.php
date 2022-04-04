@@ -92,12 +92,7 @@
 									   tempor sapien
 									</p>	
 
-									<!-- INNER IMAGE -->
-									<div class="post-inner-img">
-										<div class="embed-responsive embed-responsive-16by9">
-							 				<iframe width="950" height="450" src="https://www.youtube.com/embed/7e90gBu4pas" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-							 			</div>
-									</div>	
+						
 
 									<!-- Small Title -->
 									<h5 class="h5-md steelblue-color">Semper lacus cursus porta, feugiat primis</h5>		
@@ -478,31 +473,6 @@
 								<span class="badge"><a href="#">Pharma</a></span>									  								 
 								<span class="badge"><a href="#">Medicine</a></span> 
 								<span class="badge"><a href="#">Research</a></span> 								
-							</div>
-
-
-							<!-- SIDEBAR TIMETABLE -->
-							<div class="sidebar-timetable sidebar-div mb-50">
-
-								<!-- Title -->
-								<h5 class="h5-md mb-20 steelblue-color">Doctors Timetable</h5>
-
-								<!-- Text -->
-								<p class="p-sm">Porta semper lacus cursus, feugiat primis ultrice ligula risus auctor at
-								   tempus feugiat dolor lacinia cursus nulla vitae massa
-								</p>
-
-								<!-- Button -->
-								<a href="about.html" class="btn btn-blue blue-hover mt-10">View Timetable</a>
-
-							</div>	<!-- END SIDEBAR TIMETABLE -->
-
-
-							<!-- IMAGE WIDGET -->						
-							<div class="image-widget sidebar-div">
-								<a href="#">
-									<img class="img-fluid" src="images/blog/image-widget.jpg" alt="image-widget" />
-								</a>																		
 							</div>
 
 
