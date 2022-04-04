@@ -21,12 +21,13 @@
 
 
 		<div class="row">	
-						<div class="col-lg-10 offset-lg-1 section-title">		
+						<div class="col-lg-10 offset-lg-1 section-title" style="margin-top:30px; margin-bottom:10px;">		
 							<!-- Title 	-->	
 							<h3 class="h3-md steelblue-color" style="color: #281E78;"><b>COMPANY LEGAL DOCUMENT</b></h3>								
 						</div> 
 		</div>
-	
+			
+		<div class="row">
             <?php       
 				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM banner3col") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 				while($d=mysqli_fetch_array($sql)){
@@ -96,4 +97,6 @@
 				dots[slideIndex-1].className += " w3-white";
 				}
 				</script>
+
+			</div>
 
