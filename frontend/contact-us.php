@@ -26,7 +26,7 @@
 
 			<!-- CONTACTS-1
 			============================================= -->
-			<section id="contacts-1" class="wide-60 contacts-section division" style="background-color:white">				
+			<section id="contacts-1" class="wide-60 contacts-section division" style="background-color:white; border-bottom:1px solid grey">				
 				<div class="container">
 
 
@@ -116,7 +116,8 @@
 					                                            
 					                <!-- Contact Form Button -->
 					                <div class="col-lg-12 mt-15 form-btn">  
-					                	<button type="submit" class="btn btn-blue blue-hover submit">Kirim</button> 
+					                	<button type="submit" class="btn btn-blue blue-hover 
+                                        submit">Kirim</button> 
 					                </div>
 					                                                              
 					                <!-- Contact Form Message -->
