@@ -389,7 +389,7 @@
 
                     <div class="col-md-6">
                         <div class="info-9-table white-color wow fadeInUp" data-wow-delay="0.4s">
-						<p style="margin-bottom:1px; font-size:1em;"><?php echo $d['cat_name']; ?></p>
+						<p style="margin-bottom:1px; font-size:1em;">LATEST POST</p>
                             <!-- Title -->
                             <h4 class="h4-xs"><?php echo $d1['p_name']; ?></h4>
 
