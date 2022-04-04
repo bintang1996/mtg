@@ -135,11 +135,11 @@
 										<div class="review-author">
 											<br>
 											<p style="margin-bottom:1px; font-size:1em;"><?php echo $d['cat_name']; ?></p>
-											<h4 class="h4-md"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?></h4>
+											<h4 class="h4-md"><?php echo $d1['p_name']; ?></h4>
 										</div>	
 
 										<!-- Testimonial Text -->
-										<p style="font-size: 1rem;"><?php echo $d['slider_img']; ?>
+										<p style="font-size: 1rem;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>
 										</p>				
 																
 									</div>						
