@@ -327,7 +327,7 @@
 										
                                         <!-- Judul News -->
 										<div class="review-author">
-											<h5 class="h5-sm">Judul</h5>
+											<h3 class="h3-lg">Judul</h3>
 										</div>
 
 										<!-- Testimonial Text -->
