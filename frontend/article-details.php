@@ -32,7 +32,7 @@
 
 			<!-- BLOG PAGE CONTENT
 			============================================= -->
-			<div id="single-blog-page" class="wide-100 blog-page-section division" style="background-color:white;">
+			<div id="single-blog-page" class="wide-100 blog-page-section division" style="background-color:white; padding-bottom:30px; border-bottom:1px solid grey;">
 				<div class="container">
 				 	<div class="row">
 
