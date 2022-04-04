@@ -70,7 +70,8 @@
 								</p>
               
                 <?php } ?>
-                <br><a href="#" class="btn btn-md btn-blue blue-hover">Contact Us</a>
+                <br><p>Informasi Produk Lebih Lanjut</p>
+                <a href="contact-us.php" class="btn btn-md btn-blue blue-hover">Hubungi Kami</a>
 
 							</div>
 						</div>	<!-- END TEXT BLOCK -->	
