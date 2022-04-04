@@ -350,7 +350,7 @@
 								<h5 class="h5-sm steelblue-color">Tags Cloud</h5>
                                 <?php 
                   $id = $_GET['id'];      
-                  $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                  $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a where p_id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
                   while($d=mysqli_fetch_array($sql)){
                             
                 ?> 
