@@ -17,7 +17,7 @@
 								</nav>
 
 								<!-- Title -->
-								<h4 class="h4-sm steelblue-color">News</h4>
+								<h4 class="h4-sm steelblue-color">Judul Judul Judul Judul Judul Judul</h4>
 
 							</div>
 						</div>
@@ -26,5 +26,5 @@
 			</div>	<!-- END BREADCRUMB -->	
 
 
-            
+
 <?php include "footer.php";?>
