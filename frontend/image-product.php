@@ -10,7 +10,7 @@
     background-color: red;}
 			.gambar{
 			width: 80%;
-			height: 300px;
+			height: auto;
 			margin-left: 10%;
 			
 			background-size: 100%;
