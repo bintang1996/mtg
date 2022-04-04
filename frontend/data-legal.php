@@ -1,99 +1,278 @@
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<style>
-			.mySlides {display:none}
-			.w3-left, .w3-right, .w3-badge {cursor:pointer; color:red;}
-			.w3-badge {height:13px;width:13px;padding:0; color: orange;}
-			a b{
-				text-decoration:bold;
-			}
-			.w3-transparent, .w3-hover-none:hover {
-    background-color: red;
-}
-			</style>
-<div class="w3-content w3-display-container" style="max-width:100%; background-color:#ececec;">
+<!-- TESTIMONIALS-2
+			============================================= -->
+			<section id="reviews-2" class="bg-lightgrey wide-100 reviews-section division">
+				<div class="container">
 
 
-            
-	
-            <?php       
-				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM banner3col") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-				if( $sql ){
-                    $arr = mysqli_fetch_all( $sql, MYSQLI_BOTH );
-                
-                    for( $i=0; $i < count( $arr ); $i+=2 ){
-                        try{
-                
-                            $r1=array_key_exists( $i+0, $arr ) ? $arr[ $i+0 ] : false;
-                            $r2=array_key_exists( $i+1, $arr ) ? $arr[ $i+1 ] : false;
-                
-                            /*
-                                generate the HTML structure and add two images
-                            */
+					<!-- SECTION TITLE -->	
+					<div class="row">	
+						<div class="col-lg-10 offset-lg-1 section-title">		
 
-                            echo '<div class="mySlides">
+							<!-- Title 	-->	
+							<h3 class="h3-md steelblue-color">What Our Patients Say</h3>	
+
+							<!-- Text -->
+							<p>Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis libero at tempus, 
+							   blandit posuere ligula varius congue cursus porta feugiat
+							</p>
+										
+						</div> 
+					</div>	 <!-- END SECTION TITLE -->
+				
+					
+					<!-- TESTIMONIALS CONTENT -->
+					<div class="row">
+						<div class="col-md-12">					
+							<div class="owl-carousel owl-theme reviews-holder">
+
+						
+								<!-- TESTIMONIAL #1 -->
+								<div class="review-2">
+									<div class="review-txt text-center">
+
+										<!-- Quote -->
+										<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>	
+
+										<!-- Author Avatar -->
+										<div class="testimonial-avatar">
+											<img src="images/review-author-1.jpg" alt="testimonial-avatar">
+										</div>
+																
+										<!-- Testimonial Text -->
+										<p>Etiam sapien sem at sagittis congue an augue massa varius egestas a suscipit
+										   magna undo tempus aliquet porta vitae
+										</p>	
+
+										<!-- Testimonial Author -->
+										<div class="review-author">
+											<h5 class="h5-sm">Scott Boxer</h5>	
+											<span>Programmer</span>	
+										</div>							
+																
+									</div>						
+								</div>	<!--END  TESTIMONIAL #1 -->
+						
+						
+								<!-- TESTIMONIAL #2 -->
+								<div class="review-3">
+									<div class="review-txt text-center">
+
+										<!-- Quote -->
+										<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>	
+
+										<!-- Author Avatar -->
+										<div class="testimonial-avatar">
+											<img src="images/review-author-2.jpg" alt="testimonial-avatar">
+										</div>
+																
+										<!-- Testimonial Text -->
+										<p>Mauris donec ociis magnisa a sapien etiam sapien congue augue egestas et ultrice
+										   vitae purus diam integer congue magna ligula egestas
+										</p>										
+
+										<!-- Testimonial Author -->
+										<div class="review-author">
+											<h5 class="h5-sm">Penelopa Peterson</h5>	
+											<span>Project Manager</span>	
+										</div>
+
+									</div>						
+								</div>	<!-- END TESTIMONIAL #2 -->
+						
+						
+								<!-- TESTIMONIAL #3 -->
+								<div class="review-2">
+									<div class="review-txt text-center">
+
+										<!-- Quote -->
+										<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>	
+
+										<!-- Author Avatar -->
+										<div class="testimonial-avatar">
+											<img src="images/review-author-3.jpg" alt="testimonial-avatar">
+										</div>
+																
+										<!-- Testimonial Text -->
+										<p>At sagittis congue augue an egestas magna ipsum vitae purus ipsum primis undo cubilia
+										   laoreet augue	   
+										</p>
+
+										<!-- Testimonial Author -->
+										<div class="review-author">
+											<h5 class="h5-sm">M.Scanlon</h5>	
+											<span>Photographer</span>	
+										</div>
+
+									</div>						
+								</div>	<!-- END TESTIMONIAL #3 -->
 
 
-			<table class="table" width="90%" style="border:none; margin-bottom:0; margin-right:5%;">
-			
-            <tr>
-              
-            <td width="50%"  class="text-center align-center">
-			<img class="img-fluid" width="50%" src="assets/imgs/banner/'; # simplified version
-                            if( $r1 )echo 'row 1: '.$r1['slider_img'];
-                            if( $r2 )echo 'row 2: '.$r2['slider_img'];
-                            echo '" alt="tab-image">
+								<!-- TESTIMONIAL #4 -->
+								<div class="review-2">
+									<div class="review-txt text-center">
 
-                            </td>
-                            </tr>
-                            
-                
-                
-                            </table>			    
-                            </div>';
-                
-                        }catch( Exception $e ){
-                            continue;
-                        }
-                    }
-                }
-			?> 
-			
-            
-			<button class="w3-button w3-display-left w3-red" onclick="plusDivs(-1)">&#10094;</button>
-			<button class="w3-button w3-display-right w3-red" onclick="plusDivs(1)">&#10095;</button>
-			<div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
-			
-				<span class="w3-badge demo w3-border w3-red w3-hover-red" onclick="currentDiv(1)"></span>
-			
-            </div>
-			</div>
+										<!-- Quote -->
+										<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>
 
-				<script>
-				var slideIndex = 1;
-				showDivs(slideIndex);
+										<!-- Author Avatar -->
+										<div class="testimonial-avatar">
+											<img src="images/review-author-4.jpg" alt="testimonial-avatar">
+										</div>	
+																
+										<!-- Testimonial Text -->
+										<p>Mauris donec ociis magnis sapien etiam sapien congue augue pretium ligula 
+										   a lectus aenean magna mauris
+										</p>
 
-				function plusDivs(n) {
-				showDivs(slideIndex += n);
-				}
+										<!-- Testimonial Author -->
+										<div class="review-author">
+											<h5 class="h5-sm">Jeremy Kruse</h5>	
+											<span>Graphic Designer</span>	
+										</div>
+					
+									</div>						
+								</div>	<!-- END TESTIMONIAL #4 -->
+								
+								
+								<!-- TESTIMONIAL #5 -->
+								<div class="review-2">
+									<div class="review-txt text-center">
 
-				function currentDiv(n) {
-				showDivs(slideIndex = n);
-				}
+										<!-- Quote -->
+										<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>	
 
-				function showDivs(n) {
-				var i;
-				var x = document.getElementsByClassName("mySlides");
-				var dots = document.getElementsByClassName("demo");
-				if (n > x.length) {slideIndex = 1}
-				if (n < 1) {slideIndex = x.length}
-				for (i = 0; i < x.length; i++) {
-					x[i].style.display = "none";  
-				}
-				for (i = 0; i < dots.length; i++) {
-					dots[i].className = dots[i].className.replace(" w3-white", "");
-				}
-				x[slideIndex-1].style.display = "block";  
-				dots[slideIndex-1].className += " w3-white";
-				}
-				</script>
+										<!-- Author Avatar -->
+										<div class="testimonial-avatar">
+											<img src="images/review-author-5.jpg" alt="testimonial-avatar">
+										</div>
+																
+										<!-- Testimonial Text -->
+										<p>An augue in cubilia laoreet magna suscipit egestas magna ipsum at purus ipsum
+										   primis in augue ulta ligula egestas
+										</p>
 
+										<!-- Testimonial Author -->
+										<div class="review-author">
+											<h5 class="h5-sm">Evelyn Martinez</h5>	
+											<span>Senior UX/UI Designer</span>	
+										</div>						
+																
+									</div>						
+								</div>	<!-- END TESTIMONIAL #5 -->
+								
+								
+								<!-- TESTIMONIAL #6 -->
+								<div class="review-2">
+									<div class="review-txt text-center">
+
+										<!-- Quote -->
+										<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>
+
+										<!-- Author Avatar -->
+										<div class="testimonial-avatar">
+											<img src="images/review-author-6.jpg" alt="testimonial-avatar">
+										</div>	
+																
+										<!-- Testimonial Text -->
+										<p>An augue cubilia laoreet undo magna at risus suscipit egestas magna an ipsum ligula
+										   vitae and purus ipsum primis
+										</p>
+
+										<!-- Testimonial Author -->
+										<div class="review-author">
+											<h5 class="h5-sm">Dan Hodges</h5>	
+											<span>Internet Surfer</span>	
+										</div>
+
+									</div>						
+								</div>	<!-- END TESTIMONIAL #6 -->
+								
+								
+								<!-- TESTIMONIAL #7 -->
+								<div class="review-2">
+									<div class="review-txt text-center">
+
+										<!-- Quote -->
+										<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>	
+
+										<!-- Author Avatar -->
+										<div class="testimonial-avatar">
+											<img src="images/review-author-7.jpg" alt="testimonial-avatar">
+										</div>
+																
+										<!-- Testimonial Text -->
+										<p>Augue egestas volutpat egestas augue in cubilia laoreet magna suscipit luctus
+										   and dolor blandit vitae
+										</p>
+
+										<!-- Testimonial Author -->
+										<div class="review-author">
+											<h5 class="h5-sm">Isabel M.</h5>	
+											<span>SEO Manager</span>	
+										</div>
+
+									</div>						
+								</div>	<!-- END TESTIMONIAL #7 -->
+
+
+								<!-- TESTIMONIAL #8 -->
+								<div class="review-2">
+									<div class="review-txt text-center">
+
+										<!-- Quote -->
+										<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>	
+
+										<!-- Author Avatar -->
+										<div class="testimonial-avatar">
+											<img src="images/review-author-8.jpg" alt="testimonial-avatar">
+										</div>
+																
+										<!-- Testimonial Text -->
+										<p>Augue egestas volutpat egestas augue in cubilia laoreet magna suscipit luctus
+										   and dolor blandit vitae
+										</p>
+
+										<!-- Testimonial Author -->
+										<div class="review-author">
+											<h5 class="h5-sm">Alex Ross</h5>	
+											<span>Patient</span>	
+										</div>							
+																
+									</div>						
+								</div>	<!-- END TESTIMONIAL #8 -->
+
+
+								<!-- TESTIMONIAL #9-->
+								<div class="review-2">
+									<div class="review-txt text-center">
+
+										<!-- Quote -->
+										<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>
+
+										<!-- Author Avatar -->
+										<div class="testimonial-avatar">
+											<img src="images/review-author-9.jpg" alt="testimonial-avatar">
+										</div>	
+																
+										<!-- Testimonial Text -->
+										<p>Augue egestas volutpat egestas augue in cubilia laoreet magna suscipit luctus
+										   magna dolor neque vitae 								   
+										</p>
+
+										<!-- Testimonial Author -->
+										<div class="review-author">
+											<h5 class="h5-sm">Alisa Milano</h5>	
+											<span>Housewife</span>	
+										</div>
+						
+									</div>						
+								</div>	<!-- END TESTIMONIAL #9 -->
+
+							
+							</div>
+						</div>									
+					</div>	<!-- END TESTIMONIALS CONTENT --> 
+							
+						
+				</div>	   <!-- End container -->
+			</section>	 <!-- END TESTIMONIALS-2 -->
