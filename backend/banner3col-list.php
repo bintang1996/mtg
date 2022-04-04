@@ -189,7 +189,7 @@ items.forEach(function(item) {
 
 
                                     <input type="hidden" class="form-control" value="<?php echo $d1['id'];?>" name="id" id="id" /> 
-                                    <input type="text" name="link_slider" placeholder="Banner Url" class="form-control"/><br>
+                                    <input type="text" name="link_slider" placeholder="Banner Title" class="form-control"/><br>
                                     <input type="file" name="P_ATTACHMENT[]" id="P_ATTACHMENT" class="form-control" multiple />
                                 </div>
                                 <br>
