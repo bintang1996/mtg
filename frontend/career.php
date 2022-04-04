@@ -106,16 +106,16 @@
             <div class="container" style="background-color:#FFFFFF;">
                 <div class="row">
                     <!-- CONTACT FORM -->	
-				 		<div class="col-md-8 col-lg-8" style="margin-left: auto; margin-right: auto;">
+				 		<div class="col-md-12 col-lg-12">
 				 			<div class="form-holder mb-40">
 				 				<form name="contactForm" class="row contact-form">
 				                                            
 					                <!-- Contact Form Input -->
-					                <div id="input-name" class="col-md-12 col-lg-6">
+					                <div id="input-name" class="col-md-12 col-lg-6" style="margin-left: auto; margin-right: 10px;">
 					                	<input type="text" name="name" class="form-control name" placeholder="Nama*" required> 
 					                </div>
 					                        
-					                <div id="input-email" class="col-md-12 col-lg-6">
+					                <div id="input-email" class="col-md-12 col-lg-6" style="margin-left: 10px; margin-right: auto;">
 					                	<input type="text" name="email" class="form-control email" placeholder="Email*" required> 
 					                </div>
 
