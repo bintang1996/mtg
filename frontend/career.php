@@ -101,4 +101,83 @@
 									</div>	<!-- End Options List -->
             </div>
         </div>
+
+        <div class="wide-100" style="background-color:#FFFFFF;">
+            <div class="container" style="background-color:#FFFFFF;">
+                <div class="row">
+                    <!-- CONTACT FORM -->	
+				 		<div class="col-md-8 col-lg-8" style="margin-left: auto; margin-right: auto;">
+				 			<div class="form-holder mb-40">
+				 				<form name="contactForm" class="row contact-form">
+				                                            
+					                <!-- Contact Form Input -->
+					                <div id="input-name" class="col-md-12 col-lg-6">
+					                	<input type="text" name="name" class="form-control name" placeholder="Nama*" required> 
+					                </div>
+					                        
+					                <div id="input-email" class="col-md-12 col-lg-6">
+					                	<input type="text" name="email" class="form-control email" placeholder="Email*" required> 
+					                </div>
+
+					                <div id="input-phone" class="col-md-12 col-lg-6">
+					                	<input type="tel" name="phone" class="form-control phone" placeholder="Nomor Handphone*" required> 
+					                </div>	
+
+                                    <div id="input-address" class="col-md-12 col-lg-6">
+					                	<input type="tel" name="phone" class="form-control phone" placeholder="Domisili*" required> 
+					                </div>
+
+                                    <div id="input-linkedin" class="col-md-12 col-lg-6">
+					                	<input type="tel" name="phone" class="form-control phone" placeholder="Linkedin Profil*" required> 
+					                </div>
+
+                                    <div id="input-perusahaan-sebelumnya" class="col-md-12 col-lg-6">
+					                	<input type="tel" name="phone" class="form-control phone" placeholder="Perusahaan Sebelumnya*" required> 
+					                </div>
+
+                                    <div id="input-posisi-sebelumnya" class="col-md-12 col-lg-6">
+					                	<input type="tel" name="phone" class="form-control phone" placeholder="Posisi Sebelumnya*" required> 
+					                </div>
+
+                                    <!-- Form Select -->
+					                <div id="input-Posisi" class="col-md-12 col-lg-6 input-patient">
+					                    <select id="inlineFormCustomSelect3" name="patient" class="custom-select patient" required>
+					                        <option value="">Posisi Yang Ingin Dilamar*</option>
+											<option>Posisi 1</option>
+											<option>Posisi 2</option>
+											<option>Posisi 3</option>
+                                            <option>Posisi 4</option>
+                                            <option>Posisi 5</option>
+					                    </select>
+					                </div>
+
+                                    <div id="input-message" class="col-lg-12 input-message">
+					                	<textarea class="form-control message" name="message" rows="6" placeholder="Alasan Memilih Posisi Tersebut" required></textarea>
+					                </div> 
+
+					                <div id="input-file" class="col-lg-12">
+                                    <form action="/action_page.php">
+					                	<input type="file" name="CV" class="form-control" placeholder="CV*" required> 
+					                </form>
+                                    </div>					                          
+					                        
+					                
+					                                            
+					                <!-- Contact Form Button -->
+					                <div class="col-lg-12 mt-15 form-btn">  
+					                	<button type="submit" class="btn btn-blue blue-hover submit">Send Your Message</button> 
+					                </div>
+					                                                              
+					                <!-- Contact Form Message -->
+					                <div class="col-lg-12 contact-form-msg text-center">
+					                	<div class="sending-msg"><span class="loading"></span></div>
+					                </div>  
+				                                              
+				                </form> 
+
+				 			</div>	
+				 		</div> 	<!-- END CONTACT FORM -->
+                </div>
+            </div>
+        </div>
 <?php include "footer.php";?>
