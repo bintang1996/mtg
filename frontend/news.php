@@ -106,7 +106,7 @@
 							?> 
 						
 								<!-- TESTIMONIAL #1 -->
-								<div class="review-2">
+								<div class="">
 									<div class="review-txt text-left">
 
 										<!-- Quote -->
