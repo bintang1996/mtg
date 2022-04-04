@@ -25,7 +25,7 @@
 			<table class="table" width="90%" style="border:none; margin-bottom:0; margin-right:5%;">
 
 			<tr>
-            <td><br><br>
+            <td width="50%"  class="text-center align-center"><br><br>
 			<h3 class="h3-md" style="color: #281E78;"><?php echo $d['link_slider']; ?></h3>
 			</td>
             <td width="50%"  class="text-center align-center">
