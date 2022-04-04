@@ -71,7 +71,7 @@
               
                 <?php } ?>
                 <br><p>Informasi Produk Lebih Lanjut</p>
-                <br><a href="#" class="btn btn-md btn-blue blue-hover">Contact Us</a>
+                <br><a href="#" class="btn btn-md btn-blue blue-hover">Hubungi Kami</a>
 
 							</div>
 						</div>	<!-- END TEXT BLOCK -->	
