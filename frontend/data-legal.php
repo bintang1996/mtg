@@ -17,45 +17,54 @@
 	
             <?php       
 				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM banner3col") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-				while($d=mysqli_fetch_array($sql)){
-                    $i = 0; 
-                    $i++;
-			?> 
-			<div class="mySlides">
+				if( $sql ){
+                    $arr = mysqli_fetch_all( $sql, MYSQLI_BOTH );
+                
+                    for( $i=0; $i < count( $arr ); $i+=2 ){
+                        try{
+                
+                            $r1=array_key_exists( $i+0, $arr ) ? $arr[ $i+0 ] : false;
+                            $r2=array_key_exists( $i+1, $arr ) ? $arr[ $i+1 ] : false;
+                
+                            /*
+                                generate the HTML structure and add two images
+                            */
+
+                            echo '<div class="mySlides">
 
 
 			<table class="table" width="90%" style="border:none; margin-bottom:0; margin-right:5%;">
 			
             <tr>
-            <?php       
-				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM banner3col limit 2") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-				while($d=mysqli_fetch_array($sql)){
-
-			?>    
+              
             <td width="50%"  class="text-center align-center">
-			<img class="img-fluid" width="50%" src="assets/imgs/banner/<?php echo $d['slider_img']; ?>" alt="tab-image">
+			<img class="img-fluid" width="50%" src="assets/imgs/banner/'; # simplified version
+                            if( $r1 )echo 'row 1: '.$r1['slider_img'];
+                            if( $r2 )echo 'row 2: '.$r2['slider_img'];
+                            echo '" alt="tab-image">
 
-			</td>
-            <?php } ?>
-            </tr>
+                            </td>
+                            </tr>
+                            
+                
+                
+                            </table>			    
+                            </div>';
+                
+                        }catch( Exception $e ){
+                            continue;
+                        }
+                    }
+                }
+			?> 
+			
             
-
-
-			</table>			    
-			</div>
-            
-            <?php } ?>
 			<button class="w3-button w3-display-left w3-red" onclick="plusDivs(-1)">&#10094;</button>
 			<button class="w3-button w3-display-right w3-red" onclick="plusDivs(1)">&#10095;</button>
 			<div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
-			<?php       
-				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM banner3col") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-				while($d=mysqli_fetch_array($sql)){
-                    $i = 0; 
-                    $i++;
-			?> 
-				<span class="w3-badge demo w3-border w3-red w3-hover-red" onclick="currentDiv(<?php echo $i; ?>)"></span>
-			<?php } ?>
+			
+				<span class="w3-badge demo w3-border w3-red w3-hover-red" onclick="currentDiv(1)"></span>
+			
             </div>
 			</div>
 
