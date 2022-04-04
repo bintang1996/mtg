@@ -55,21 +55,18 @@
                   while($d=mysqli_fetch_array($sql)){
                             
                 ?> 
+					 			<span class="section-id blue-color">Product</span>
                 
 								<!-- Title -->
 								<h3 class="h3-md steelblue-color"><?php echo $d['p_name']; ?></h3>
 
 								<!-- Text -->
-								<p>An enim nullam tempor sapien gravida donec pretium ipsum  porta justo integer at  odio
-								   velna vitae auctor integer congue magna purus pretium ligula rutrum luctus ultrice aliquam
-								   a augue suscipit
+								<p><?php echo $d['p_desc']; ?>
 								</p>
 
+                <h3 class="h3-md steelblue-color">Spesifikasi</h3>
 								<!-- Text -->
-								<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor tempus feugiat
-								   dolor lacinia cubilia curae integer congue leo metus, eu mollislorem primis in orci integer
-								   metus mollis faucibus. An enim nullam tempor sapien gravida donec pretium and ipsum porta
-								   justo integer at velna vitae auctor integer congue
+								<p><?php echo $d['spec']; ?>
 								</p>
               
                 <?php } ?>
