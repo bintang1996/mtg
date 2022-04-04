@@ -93,7 +93,7 @@
 			</section>	<!-- END INFO-4 -->
 <!-- INFO-5
 			============================================= -->
-			<section id="info-4" class="wide-100 info-section division" style="background-color: white;">
+			<section id="info-4" class="wide-100 info-section division" style="background-color: white; padding-top:0;">
 				<div class="container">
                 
                 <h3 class="h3-md" style="color: #281E78;font-family:'Lato'; text-align : center;">Company Legal History</h3>
