@@ -39,8 +39,8 @@
 						<a class="image-link" href="assets/imgs/shop/<?php echo $d['img_name']; ?>" title=""><i class="fas fa-search-plus"></i></a>
 					</div>	
 			</div></div>
-            <button class="w3-button w3-display-left w3-red" style="margin-left:2%;" onclick="plusDivs(-1)">&#10094;</button>
-			<button class="w3-button w3-display-right w3-red" style="margin-right:2%;" onclick="plusDivs(1)">&#10095;</button>
+            <button class="w3-button w3-display-left w3-grey" style="margin-left:2%;" onclick="plusDivs(-1)">&#10094;</button>
+			<button class="w3-button w3-display-right w3-grey" style="margin-right:2%;" onclick="plusDivs(1)">&#10095;</button>
 					
 			</div>
             
