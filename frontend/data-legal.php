@@ -62,7 +62,7 @@
 				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM banner3col") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 				
 				$i=mysqli_num_rows($sql);
-                    for ($x = 0; $x <= $i; $x+=1) {
+                    for ($x = 1; $x <= $i; $x+=1) {
                    
 			?> 
 				<span class="w3-badge demo w3-border w3-red w3-hover-red" onclick="currentDiv(<?php echo $x; ?>)"></span>
