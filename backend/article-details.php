@@ -31,12 +31,12 @@ $id=$_POST['id'];
                 if($temp1=='image/jpeg' || $temp1 == 'image/png'){
             
 
-				$query1="INSERT INTO p_image (p_id, img_name, urutan, tipe_file)values('$id', '$newfilename', '$ii', '$temp1')";
+				$query1="INSERT INTO p_image (a_id, img_name, urutan, tipe_file)values('$id', '$newfilename', '$ii', '$temp1')";
 				$result1 = mysqli_query($GLOBALS["___mysqli_ston"], $query1);	}
                 
                 else {
 
-                    $query1="INSERT INTO p_image (p_id, img_name, urutan, tipe_file)values('$id', '$newfilename', '$ii', '$temp1')";
+                    $query1="INSERT INTO p_image (a_id, img_name, urutan, tipe_file)values('$id', '$newfilename', '$ii', '$temp1')";
                     $result1 = mysqli_query($GLOBALS["___mysqli_ston"], $query1);
 
 
