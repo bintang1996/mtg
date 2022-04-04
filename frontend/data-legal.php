@@ -12,9 +12,10 @@
 			width: 80%;
 			height: 300px;
 			margin-left: 10%;
+			background-size: cover;
+			background-attachment: fixed;
+  background-position: center;
 			
-			background-size: 100%;
-			border: 1px solid red;
 			}
 			</style>
 		<div class="w3-content w3-display-container" style="max-width:100%; background-color:#ececec;">
