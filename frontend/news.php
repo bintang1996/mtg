@@ -55,14 +55,7 @@
                                 bagian terbesar yang ukurannya lima sampai enam kali lebih besar daripada lobus kiri. 
                                 <br>
                                 
-                                </br>
-                                Fungsi liver sebagai organ tubuh sangatlah penting bagi darah. Liver atau hati berfungsi 
-                                dalam membersihkan darah serta menghancurkan sel darah merah. Selain itu, hati juga berfungsi 
-                                dalam memproduksi protein, metabolisme protein, serta sebagai tempat penyimpan nutrisi. 
-
-                                Selain sebagai tempat penyimpan nutrisi, hati juga merupakan produsen energi dalam tubuh serta 
-                                produsen cairan empedu, kolesterol serta hormon. Fungsi-fungsi hati yang sudah disebutkan itulah 
-                                yang membuat keberadaannya sangat penting bagi tubuh.  
+                             
                             </p>
 
                             <!-- Button -->
@@ -139,7 +132,7 @@
 										</div>	
 
 										<!-- Testimonial Text -->
-										<p style="font-size: 1rem;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>
+										<p style="font-size: 1rem;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?> ... <a href="article-details.php?id=<?php echo $d1['id']; ?>">Read more.</a>
 										</p>				
 																
 									</div>						
