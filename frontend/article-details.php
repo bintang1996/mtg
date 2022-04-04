@@ -122,7 +122,7 @@
 												<div class="blog-post-txt">
 
 													<!-- Post Title -->
-													<h5 class="h5-sm steelblue-color"><a href="single-post.html"><?php echo $d1['p_name']; ?></a></h5>
+													<h5 class="h5-sm steelblue-color"><a href="article-details.php?id=<?php echo $d1['id']; ?>"><?php echo $d1['p_name']; ?></a></h5>
 
 													<!-- Post Data -->
 													<span><?php echo $d1['warranty']; ?> <span class="blue-color">Meditrans Admin</span></span>
