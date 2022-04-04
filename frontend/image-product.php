@@ -25,7 +25,7 @@
             <?php       
             include "koneksi.php";
             $id=$_GET['id'];
-				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 				while($d=mysqli_fetch_array($sql)){
 			?> 
 			<div class="mySlides">
