@@ -2,7 +2,7 @@
 <style>
     	.gambar{
 			width: 80%;
-			height: 400px;
+			height: 200px;
 			margin-left: 10%;
 			background-repeat: no-repeat;
 			background-size: cover;
