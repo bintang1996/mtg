@@ -79,7 +79,7 @@
 
                                     <!-- TAB-4 LINK -->
 									<li class="nav-item icon-xs">
-									    <a class="nav-link" id="tab15-list" data-toggle="pill" href="#tab-14" role="tab" aria-controls="tab-14" aria-selected="false">
+									    <a class="nav-link" id="tab15-list" data-toggle="pill" href="#tab-15" role="tab" aria-controls="tab-14" aria-selected="false">
 									       Lain-lain
 									    </a>
 									</li>
@@ -98,21 +98,21 @@
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab16-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
+                                            <a class="nav-link" id="tab16-list" data-toggle="pill" href="#tab-16" role="tab" aria-controls="tab-11" aria-selected="true">
                                                 Mesin (MRI/ CT)
                                             </a>
                                         </li>
 
                                         <!-- TAB-2 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab17-list" data-toggle="pill" href="#tab-12" role="tab" aria-controls="tab-12" aria-selected="false">
+                                            <a class="nav-link" id="tab17-list" data-toggle="pill" href="#tab-17" role="tab" aria-controls="tab-12" aria-selected="false">
                                             BHP (...)
                                             </a>
                                         </li>
 
                                         <!-- TAB-3 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-13" role="tab" aria-controls="tab-13" aria-selected="false">
+                                            <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-18" role="tab" aria-controls="tab-13" aria-selected="false">
                                             DAR
                                             </a>
                                         </li>
@@ -134,14 +134,14 @@
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                         <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab19-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
+                                            <a class="nav-link" id="tab19-list" data-toggle="pill" href="#tab-19" role="tab" aria-controls="tab-11" aria-selected="true">
                                                 Sistem RS
                                             </a>
                                         </li>
 
                                         <!-- TAB-2 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab20-list" data-toggle="pill" href="#tab-12" role="tab" aria-controls="tab-12" aria-selected="false">
+                                            <a class="nav-link" id="tab20-list" data-toggle="pill" href="#tab-20" role="tab" aria-controls="tab-12" aria-selected="false">
                                             SIM KLINIK
                                             </a>
                                         </li>
@@ -161,14 +161,14 @@
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab21-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
+                                            <a class="nav-link" id="tab21-list" data-toggle="pill" href="#tab-21" role="tab" aria-controls="tab-11" aria-selected="true">
                                                 Laboratorium DUMMY
                                             </a>
                                         </li>
 
                                         <!-- TAB-2 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab22-list" data-toggle="pill" href="#tab-12" role="tab" aria-controls="tab-12" aria-selected="false">
+                                            <a class="nav-link" id="tab22-list" data-toggle="pill" href="#tab-22" role="tab" aria-controls="tab-12" aria-selected="false">
                                             Laboratorium Penelitian
                                             </a>
                                         </li>                                       
@@ -188,7 +188,7 @@
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab23-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
+                                            <a class="nav-link" id="tab23-list" data-toggle="pill" href="#tab-23" role="tab" aria-controls="tab-11" aria-selected="true">
                                                 Konstruksi
                                             </a>
                                         </li>                                      
@@ -212,7 +212,7 @@
 								<div class="tab-pane fade show active" id="tab-11" role="tabpanel" aria-labelledby="tab11-list">									
 									<!-- Title -->
 
-									<h3 class="h3-md steelblue-color">Routine Medical Care</h3>
+									<h3 class="h3-md steelblue-color">Bahan Habis Pakai / Aksesoris</h3>
 
 									<!-- Text -->
 									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
@@ -227,71 +227,6 @@
 									
 									<?php }?>
 
-									<!-- Image -->
-									<div class="tab-img">
-										<img class="img-fluid" src="images/pediatrics_1000x500.jpg" alt="tab-image" />
-									</div>
-
-									<!-- Text -->
-									<p>An enim nullam tempor sapien gravida donec enim ipsum blandit
-									   porta justo integer odio velna vitae auctor integer congue magna at pretium 
-									   purus pretium ligula rutrum itae laoreet augue in cubilia laoreet an augue 
-									   egestas ipsum vitae emo ligula vitae arcu mollis blandit ultrice ligula egestas 
-									   magna suscipit
-									</p>
-
-									<!-- Options List -->
-									<div class="row">
-
-										<div class="col-xl-6">
-
-											<!-- Option #1 -->
-											<div class="box-list">							
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>Nemo ipsam egestas volute and turpis dolores quaerat massa suscipit, luctus neque</p>							
-											</div>
-
-											<!-- Option #2 -->
-											<div class="box-list">	
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>			
-											</div>
-
-											<!-- Option #3 -->
-											<div class="box-list">	
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>An enim nullam tempor at pretium blandit</p>				
-											</div>
-
-										</div>
-
-										<div class="col-xl-6">
-
-											<!-- Option #4 -->
-											<div class="box-list">	
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>			
-											</div>
-
-											<!-- Option #5 -->
-											<div class="box-list">							
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>An enim nullam tempor at pretium blandit</p>							
-											</div>
-
-											<!-- Option #6 -->
-											<div class="box-list">	
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>			
-											</div>
-
-										</div>
-
-									</div>	<!-- End Options List -->
-
-									<!-- Button -->
-									<a href="service-1.html" class="btn btn-blue blue-hover mt-30">View More Details</a>
-
 								</div>	<!-- END TAB-1 CONTENT -->
 
 
@@ -299,80 +234,20 @@
 								<div class="tab-pane fade" id="tab-12" role="tabpanel" aria-labelledby="tab12-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">Full Blood Picture</h3>
+									<h3 class="h3-md steelblue-color">BHP Khusus / Stent & Ballon</h3>
 
 									<!-- Text -->
 									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-									   integer congue magna at pretium  purus pretium ligula rutrum itae laoreet augue in 
-									   cubilia laoreet an augue egestas ipsum vitae emo ligula vitae arcu mollis blandit ultrice
-									   ligula egestas magna suscipit
-									</p>
-
-									<!-- Image -->
-									<div class="tab-img">
-										<img class="img-fluid" src="images/hematology_1000x500.jpg" alt="tab-image" />
-									</div>
-
-									<!-- Text -->
-									<p>An enim nullam tempor sapien gravida donec enim ipsum blandit
-									   porta justo integer odio velna vitae auctor integer congue magna at pretium 
-									   purus pretium ligula rutrum itae laoreet augue in cubilia laoreet an augue 
-									   egestas ipsum vitae emo ligula vitae arcu mollis blandit ultrice ligula egestas 
-									   magna suscipit
-									</p>
-
-									<!-- Options List -->
-									<div class="row">
-
-										<div class="col-xl-6">
-
-											<!-- Option #1 -->
-											<div class="box-list">							
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>Nemo ipsam egestas volute and turpis dolores quaerat massa suscipit, luctus neque</p>							
-											</div>
-
-											<!-- Option #2 -->
-											<div class="box-list">	
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>			
-											</div>
-
-											<!-- Option #3 -->
-											<div class="box-list">	
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>An enim nullam tempor at pretium blandit</p>				
-											</div>
-
-										</div>
-
-										<div class="col-xl-6">
-
-											<!-- Option #4 -->
-											<div class="box-list">	
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>			
-											</div>
-
-											<!-- Option #5 -->
-											<div class="box-list">							
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>An enim nullam tempor at pretium blandit</p>							
-											</div>
-
-											<!-- Option #6 -->
-											<div class="box-list">	
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>			
-											</div>
-
-										</div>
-
-									</div>	<!-- End Options List -->
-
-									<!-- Button -->
-									<a href="service-1.html" class="btn btn-blue blue-hover mt-30">View More Details</a>
+									   integer congue magna at pretium 
+									</p><br>
+									<?php
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										while($d=mysqli_fetch_array($sql)){
+										?> 
 										
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+									
+									<?php }?>
 								</div>	<!-- END TAB-2 CONTENT -->
 
 
@@ -380,80 +255,21 @@
 								<div class="tab-pane fade" id="tab-13" role="tabpanel" aria-labelledby="tab13-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">MRI Diagnostic</h3>
+									<h3 class="h3-md steelblue-color">Mesin (Mesin Cathlab)</h3>
 
 									<!-- Text -->
 									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-									   integer congue magna at pretium  purus pretium ligula rutrum itae laoreet augue in 
-									   cubilia laoreet an augue egestas ipsum vitae emo ligula vitae arcu mollis blandit ultrice
-									   ligula egestas magna suscipit
-									</p>
-
-									<!-- Image -->
-									<div class="tab-img">
-										<img class="img-fluid" src="images/mri_1000x500.jpg" alt="tab-image" />
-									</div>
-
-									<!-- Text -->
-									<p>An enim nullam tempor sapien gravida donec enim ipsum blandit
-									   porta justo integer odio velna vitae auctor integer congue magna at pretium 
-									   purus pretium ligula rutrum itae laoreet augue in cubilia laoreet an augue 
-									   egestas ipsum vitae emo ligula vitae arcu mollis blandit ultrice ligula egestas 
-									   magna suscipit
-									</p>
-
-									<!-- Options List -->
-									<div class="row">
-
-										<div class="col-xl-6">
-
-											<!-- Option #1 -->
-											<div class="box-list">							
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>Nemo ipsam egestas volute and turpis dolores quaerat massa suscipit, luctus neque</p>							
-											</div>
-
-											<!-- Option #2 -->
-											<div class="box-list">	
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>			
-											</div>
-
-											<!-- Option #3 -->
-											<div class="box-list">	
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>An enim nullam tempor at pretium blandit</p>				
-											</div>
-
-										</div>
-
-										<div class="col-xl-6">
-
-											<!-- Option #4 -->
-											<div class="box-list">	
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>			
-											</div>
-
-											<!-- Option #5 -->
-											<div class="box-list">							
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>An enim nullam tempor at pretium blandit</p>							
-											</div>
-
-											<!-- Option #6 -->
-											<div class="box-list">	
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>			
-											</div>
-
-										</div>
-
-									</div>	<!-- End Options List -->
-
-									<!-- Button -->
-									<a href="service-1.html" class="btn btn-blue blue-hover mt-30">View More Details</a>
+									   integer congue magna at pretium  purus 
+									</p><br>
+									
+									<?php
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										while($d=mysqli_fetch_array($sql)){
+										?> 
 										
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+									
+									<?php }?>
 								</div>	<!-- END TAB-3 CONTENT -->
 
 
@@ -461,79 +277,20 @@
 								<div class="tab-pane fade" id="tab-14" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">X-Ray Diagnostic</h3>
+									<h3 class="h3-md steelblue-color">QFR</h3>
 
 									<!-- Text -->
 									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-									   integer congue magna at pretium  purus pretium ligula rutrum itae laoreet augue in 
-									   cubilia laoreet an augue egestas ipsum vitae emo ligula vitae arcu mollis blandit ultrice
-									   ligula egestas magna suscipit
-									</p>
-
-									<!-- Image -->
-									<div class="tab-img">
-										<img class="img-fluid" src="images/x-ray_1000x500.jpg" alt="tab-image" />
-									</div>
-
-									<!-- Text -->
-									<p>An enim nullam tempor sapien gravida donec enim ipsum blandit
-									   porta justo integer odio velna vitae auctor integer congue magna at pretium 
-									   purus pretium ligula rutrum itae laoreet augue in cubilia laoreet an augue 
-									   egestas ipsum vitae emo ligula vitae arcu mollis blandit ultrice ligula egestas 
-									   magna suscipit
-									</p>
-
-									<!-- Options List -->
-									<div class="row">
-
-										<div class="col-xl-6">
-
-											<!-- Option #1 -->
-											<div class="box-list">							
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>Nemo ipsam egestas volute and turpis dolores quaerat massa suscipit, luctus neque</p>							
-											</div>
-
-											<!-- Option #2 -->
-											<div class="box-list">	
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>			
-											</div>
-
-											<!-- Option #3 -->
-											<div class="box-list">	
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>An enim nullam tempor at pretium blandit</p>				
-											</div>
-
-										</div>
-
-										<div class="col-xl-6">
-
-											<!-- Option #4 -->
-											<div class="box-list">	
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>			
-											</div>
-
-											<!-- Option #5 -->
-											<div class="box-list">							
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>An enim nullam tempor at pretium blandit</p>							
-											</div>
-
-											<!-- Option #6 -->
-											<div class="box-list">	
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>			
-											</div>
-
-										</div>
-
-									</div>	<!-- End Options List -->
-
-									<!-- Button -->
-									<a href="service-1.html" class="btn btn-blue blue-hover mt-30">View More Details</a>
+									   integer congue magna at pretium  purus pretium 
+									</p><br>
+									<?php
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										while($d=mysqli_fetch_array($sql)){
+										?> 
+										
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+									
+									<?php }?>
 									
 								</div>	<!-- END TAB-4 CONTENT -->
 
