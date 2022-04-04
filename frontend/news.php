@@ -107,7 +107,7 @@
 						
 								<!-- TESTIMONIAL #1 -->
 								<div class="review-2">
-									<div class="review-txt text-center">
+									<div class="review-txt text-left">
 
 										<!-- Quote -->
 										<div class="quote"></div>	
@@ -119,6 +119,7 @@
 										
                                         <!-- Judul News -->
 										<div class="review-author">
+											<p>Kategori</p>
 											<h4 class="h4-md">Judul</h4>
 										</div>	
 
