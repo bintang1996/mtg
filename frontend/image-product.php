@@ -14,7 +14,7 @@
 			margin-left: 10%;
 			
 			background-size: 100%;
-			border: 1px solid black;
+			
 			}
 			</style>
 		<div class="w3-content w3-display-container" style="max-width:100%; background-color:#fff; padding-top:25px; padding-bottom:5px;">
