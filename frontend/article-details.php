@@ -178,7 +178,7 @@
 							<div class="tags-cloud sidebar-div mb-50">
 									
 								<!-- Title -->
-								<h5 class="h5-sm steelblue-color">Tags Cloud</h5>
+								<h5 class="h5-sm steelblue-color">Tags / Category </h5>
                                 <?php 
                   $id = $_GET['id'];      
                   $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a where p_id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
