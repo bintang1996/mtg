@@ -294,6 +294,68 @@
 									
 								</div>	<!-- END TAB-4 CONTENT -->
 
+								<!-- TAB-4 CONTENT -->
+								<div class="tab-pane fade" id="tab-15" role="tabpanel" aria-labelledby="tab14-list">
+
+									<!-- Title -->
+									<h3 class="h3-md steelblue-color">Lain-Lain</h3>
+
+									<!-- Text -->
+									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
+									   integer congue magna at pretium  purus pretium 
+									</p><br>
+									<?php
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										while($d=mysqli_fetch_array($sql)){
+										?> 
+										
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+									
+									<?php }?>
+									
+								</div>	<!-- END TAB-4 CONTENT -->
+
+								<!-- TAB-4 CONTENT -->
+								<div class="tab-pane fade" id="tab-16" role="tabpanel" aria-labelledby="tab14-list">
+
+									<!-- Title -->
+									<h3 class="h3-md steelblue-color">Mesin (MRI/CT)</h3>
+
+									<!-- Text -->
+									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
+									   integer congue magna at pretium  purus pretium 
+									</p><br>
+									<?php
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										while($d=mysqli_fetch_array($sql)){
+										?> 
+										
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+									
+									<?php }?>
+									
+								</div>	<!-- END TAB-4 CONTENT -->
+								
+								<!-- TAB-4 CONTENT -->
+								<div class="tab-pane fade" id="tab-17" role="tabpanel" aria-labelledby="tab14-list">
+
+									<!-- Title -->
+									<h3 class="h3-md steelblue-color">BHP(...)</h3>
+
+									<!-- Text -->
+									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
+									   integer congue magna at pretium  purus pretium 
+									</p><br>
+									<?php
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										while($d=mysqli_fetch_array($sql)){
+										?> 
+										
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+									
+									<?php }?>
+									
+								</div>	<!-- END TAB-4 CONTENT -->
 
 							</div>	<!-- END TABS CONTENT -->
 
