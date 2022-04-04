@@ -13,7 +13,7 @@
 			height: 300px;
 			margin-left: 10%;
 			background-size: cover;
-			background-attachment: fixed;
+		
   background-position: center;
 			
 			}
