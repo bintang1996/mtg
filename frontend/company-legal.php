@@ -81,18 +81,6 @@
 								   justo integer at velna vitae auctor integer congue
 								</p>
 
-								<!-- Singnature -->
-								<div class="singnature mt-35">
-
-									<!-- Text -->
-									<p class="p-small mb-15">Randon Pexon, Head of Clinic</p>
-
-									<!-- Singnature Image -->
-									<!-- Recommended sizes for Retina Ready displays is 400x68px; -->
-									<img class="img-fluid" src="images/signature.png" width="200" height="34" alt="signature-image" />	
-
-								</div>
-
 							</div>
 						</div>	<!-- END TEXT BLOCK -->	
 
@@ -103,7 +91,18 @@
 
 				</div>	   <!-- End container -->
 			</section>	<!-- END INFO-4 -->
+<!-- INFO-5
+			============================================= -->
+			<section id="info-4" class="wide-100 info-section division" style="background-color: white;">
+				<div class="container">
+                
+                <h3 class="h3-md" style="color: #281E78;font-family:'Lato'; text-align : center;">Company Legal History</h3>
+                <br>
+                <?php include "history-company.php";?>
 
+
+                </div>	   <!-- End container -->
+			</section>	<!-- END INFO-4 -->
 
 
 <?php include "footer.php";?>
