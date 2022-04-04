@@ -44,9 +44,9 @@
 				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM banner3col") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 				while($d=mysqli_fetch_array($sql)){
                     $i = 0; 
-                    $i++;
+                   
 			?> 
-				<span class="w3-badge demo w3-border w3-red w3-hover-red" onclick="currentDiv(<?php echo $i; ?>)"></span>
+				<span class="w3-badge demo w3-border w3-red w3-hover-red" onclick="currentDiv(<?php echo $i++; ?>)"></span>
 			<?php } ?>
             </div>
 			</div>
