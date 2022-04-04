@@ -13,7 +13,9 @@
 			height: 400px;
 			margin-left: 10%;
 			background-repeat: no-repeat;
-			background-size: 100%;
+			background-size: cover;
+			background-attachment: fixed;
+  background-position: center;
 			
 			}
 			</style>
