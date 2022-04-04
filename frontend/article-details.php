@@ -1,7 +1,7 @@
 <?php include "header.php";?>
 <style>
     	.gambar{
-			width: 80%;
+			width: 100%;
 			height: 100px;
 	
 			background-repeat: no-repeat;
@@ -112,14 +112,14 @@
 									
                                     
                                     <?php 
-                  $id = $_GET['id'];      
-                  $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a where p_id='$id' limit 2") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-                  while($d=mysqli_fetch_array($sql)){
-                        
-                    $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-                    while($d1=mysqli_fetch_array($sql1)){
-                            
-                ?> 
+                                    $id = $_GET['id'];      
+                                    $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a where p_id='$id' limit 2") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                                    while($d=mysqli_fetch_array($sql)){
+                                            
+                                        $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                                        while($d1=mysqli_fetch_array($sql1)){
+                                                
+                                    ?> 
 										<!-- BLOG POST #1 -->
 								 		<div class="col-md-6">
 								 			<div class="blog-post">
@@ -127,13 +127,13 @@
 								 				<!-- BLOG POST IMAGE -->
 									 			<div class="blog-post-img">
                                                  <?php       
-            include "koneksi.php";
-            $id=$_GET['id'];
-				$sql3 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$id' limit 1 ") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-				while($d3=mysqli_fetch_array($sql3)){
-			?> 
+                                                    include "koneksi.php";
+                                                    $id=$_GET['id'];
+                                                        $sql3 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$id' limit 1 ") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                                                        while($d3=mysqli_fetch_array($sql3)){
+                                                    ?> 
                                                  <div class="gambar" style="background-image: url('assets/imgs/shop/<?php echo $d3['img_name']; ?>');">
-					<?php } ?>
+					                                <?php } ?>
 												</div>
 
 								 				<!-- BLOG POST TEXT -->
