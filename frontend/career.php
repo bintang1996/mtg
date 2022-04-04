@@ -157,7 +157,7 @@
 
                 <div class="row">
                     <!-- CONTACT FORM -->	
-				 		<div class="col-md-8 col-lg-8" style="margin-left: auto; margin-right: auto;" >
+				 		<div class="col-md-8 col-lg-8" style="margin-left: auto; margin-right: auto; border-bottom:1px solid grey" >
 				 			<div class="form-holder mb-40">
 
 				 				<form name="contactForm" class="row contact-form">
@@ -208,6 +208,7 @@
 					                </div> 
 
 					                <div id="input-file" class="col-lg-12">
+									<label>Upload CV Terbaru</label>
                                     <form action="/action_page.php">
 					                	<input type="file" name="CV" class="form-control" placeholder="CV*" required> 
 					                </form>
