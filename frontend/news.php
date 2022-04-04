@@ -125,7 +125,7 @@
 										</div>	
 
 										<!-- Testimonial Text -->
-										<p>Etiam sapien sem at sagittis congue an augue massa varius egestas a suscipit
+										<p style="font-size: 1rem;">Etiam sapien sem at sagittis congue an augue massa varius egestas a suscipit
 										   magna undo tempus aliquet porta vitae
 										</p>				
 																
