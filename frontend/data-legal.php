@@ -9,9 +9,10 @@
 			.w3-transparent, .w3-hover-none:hover {
     background-color: red;}
 			.gambar{
-			width: 100%;
+			width: 80%;
 			height: 300px;
 			margin-left: 10%;
+			
 			background-size: 100%;
 			border: 1px solid red;
 			}
