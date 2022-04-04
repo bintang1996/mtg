@@ -38,11 +38,13 @@
 
 				 				<!-- Title -->
 								<h3 class="h3-xl blue-color">Magnetic Resonance Imaging</h3>
-								<h4 class="h4-md blue-color">Maecenas gravida porttitor nunc, magna luctus tempor viverra</h4>
-
+								
 								<!-- Text -->
-								<p class="p-lg">Neque rhoncus ipsum tempor varius iaculis at luctus, neque rhoncus tempor varius cubilia</p>
-
+								<p class="p-lg">Ligula risus auctor tempus dolor feugiat, felis lacinia risus interdum auctor
+								   id viverra dolor iaculis luctus bibendum luctus neque rhoncus ipsum tempor varius iaculis at
+								   luctus neque rhoncus ipsum tempor varius cubilia laoreet augue vitae laoreet augue undo cubilia 
+								   feugiat suscipit emper lacus
+								</p>
 				 				<!-- Text -->
 								<p class="p-lg">Ligula risus auctor tempus dolor feugiat, felis lacinia risus interdum auctor
 								   id viverra dolor iaculis luctus bibendum luctus neque rhoncus ipsum tempor varius iaculis at
