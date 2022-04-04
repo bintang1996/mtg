@@ -6,7 +6,8 @@
 		
 			background-repeat: no-repeat;
 			background-size: 100%;
-			
+			background-attachment: fixed;
+  background-position: center;
 			}
 			</style>
 		<!-- BREADCRUMB
