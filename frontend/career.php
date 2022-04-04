@@ -47,4 +47,58 @@
                 </div>
             </div>
         </div>
+        <div class="wide-100" style="background-color:#FFFFFF;">
+            <div class="container" style="background-color:#FFFFFF;">
+<!-- Options List -->
+<div class="options-list">
+										<div class="row">
+
+											<div class="col-xl-6">
+
+												<!-- Option #1 -->
+												<div class="box-list m-top-15">							
+													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
+													<p>Nemo ipsam egestas volute and turpis dolores quaerat vitae auctor integer congue</p>			
+												</div>
+
+												<!-- Option #2 -->
+												<div class="box-list">	
+													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
+													<p class="p-sm">Magna luctus tempor and curae integer</p>				
+												</div>
+
+												<!-- Option #3 -->
+												<div class="box-list">	
+													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
+													<p>An enim nullam tempor undo pretium blandit purus pretium ligula rutrum and laoreet</p>			
+												</div>
+
+											</div>
+
+											<div class="col-xl-6">
+
+												<!-- Option #4 -->
+												<div class="box-list">	
+													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
+													<p>Magna luctus tempor blandit a nullam tempor sapien feugiat at vitae suscipit mollis</p>				
+												</div>
+
+												<!-- Option #5 -->
+												<div class="box-list m-top-15">							
+													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
+													<p>Nemo ipsam egestas tempus feugiat at dolor impedit magna purus at pretium donec</p>		
+												</div>
+
+												<!-- Option #6 -->
+												<div class="box-list">	
+													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
+													<p>An enim nullam at tempor primis</p>				
+												</div>
+
+											</div>
+
+										</div>	<!-- End row -->
+									</div>	<!-- End Options List -->
+            </div>
+        </div>
 <?php include "footer.php";?>
