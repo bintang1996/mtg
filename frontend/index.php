@@ -363,7 +363,59 @@
 					</div>
 				
 					<div class="row">
-			</div>
+						<div class="col-md-12">					
+							<div class="owl-carousel owl-theme reviews-holder">
+
+							<?php
+                    $r=$_GET['id'];
+							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a limit 9") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
+                                $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                                while($d1=mysqli_fetch_array($sql1)){ 
+							?> 
+						
+								<!-- TESTIMONIAL #1 -->
+								<div class="review-1">
+									<div class="review-txt text-left">
+
+										<!-- Quote -->
+										<div class="quote"></div>	
+
+										<!-- Author Avatar -->
+										<div class="hover-overlay text-center">
+
+                                                                <?php
+							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+							while($d2=mysqli_fetch_array($sql2)){
+							?> 
+									<img class="img-fluid" width="210" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+							<?php } ?>
+
+										</div>
+										
+                                        <!-- Judul News -->
+										<div class="review-author">
+											<br>
+											<p style="margin-bottom:1px; font-size:1em;"><?php echo $d['cat_name']; ?></p>
+											<h4 class="h4-md"><?php echo $d1['p_name']; ?></h4>
+										</div>	
+
+										<!-- Testimonial Text -->
+										<p style="font-size: 0.5em;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>... <a style="font-size: 1em; color:blue;" href="article-details.php?id=<?php echo $d1['id']; ?>">Read more.</a></p>
+														
+																
+									</div>						
+								</div>	<!--END  TESTIMONIAL #1 -->
+						
+						<?php }} ?>
+
+
+
+							
+							</div>
+						</div>									
+					</div>	<!-- END TESTIMONIALS CONTENT --> 
+
 				
 					
 					
