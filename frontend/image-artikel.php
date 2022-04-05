@@ -54,7 +54,7 @@
                     for ($x = 1; $x <= $i; $x+=1) {
                    
 			?> 
-				<span class="w3-badge demo w3-border w3-red w3-hover-red" onclick="currentDiv(<?php echo $x; ?>)"></span>
+				<span class="w3-badge demo w3-border w3-grey w3-hover-red" onclick="currentDiv(<?php echo $x; ?>)"></span>
 			<?php } ?>
             </div>
 			</div>
