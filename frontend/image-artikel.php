@@ -54,7 +54,7 @@
                     for ($x = 1; $x <= $i; $x+=1) {
                    
 			?> 
-				<span class="w3-badge demo w3-border w3-grey w3-hover-red" onclick="currentDiv(<?php echo $x; ?>)"></span>
+				<span class="w3-badge demo w3-border w3-grey w3-hover-grey" onclick="currentDiv(<?php echo $x; ?>)"></span>
 			<?php } ?>
             </div>
 			</div>
@@ -84,7 +84,7 @@
 					dots[i].className = dots[i].className.replace(" w3-red", "");
 				}
 				x[slideIndex-1].style.display = "block";  
-				dots[slideIndex-1].className += " w3-grey";
+				dots[slideIndex-1].className += " w3-red";
 				}
 				</script>
 
