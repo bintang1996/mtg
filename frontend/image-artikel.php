@@ -84,7 +84,7 @@
 					dots[i].className = dots[i].className.replace(" w3-grey", "");
 				}
 				x[slideIndex-1].style.display = "block";  
-				dots[slideIndex-1].className += " w3-red";
+				dots[slideIndex-1].className += " w3-grey";
 				}
 				</script>
 
