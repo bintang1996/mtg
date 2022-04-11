@@ -67,7 +67,7 @@
                 <div class="options-list">
 										<div class="row">
 
-											<div class="col-xl-4">
+										
 
 												<!-- Option #1 -->
 												<div class="box-list m-top-15">							
@@ -125,7 +125,7 @@
 													<a href="#">Judul Lowongan</a>			
 												</div>
 
-											</div>
+										
 
 											
 										</div>	<!-- End row -->
