@@ -95,31 +95,36 @@
                                         <input class="form-check-input" type="checkbox" value="" />
                                     </div>
                                 </div>
-                                <div class="col-lg-3 col-sm-4 col-8 flex-grow-1 col-name">
-                                    <a class="itemside" href="edit-article-page.php?id=<?php echo $d['id_lowongan']; $id=$d['id']; ?>">
-
+                       
+           <table>
+               <tr>
+                   <th>CV</th>
+                   <th>Nama</th>
+                   <th>email</th>
+                   <th>phone</th>
+                   <th>Linked_in Profile</th>
+               </tr>
+           
+           
+           
+           <tr><td>
                                  
 
-                                        <div class="left">
+                              
                                         <?php $sql3 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where cv_id='$id' limit 1"); while($d3=mysqli_fetch_array($sql3)){?>
                                             <a target="_blank" href="../frontend/assets/imgs/shop/<?php echo $d3['img_name']; ?>" title="Download Document"> <p><?php $r=0; $r++; echo "attacment"; echo $r; ?></p></a>
-                      <?php } ?>
-                                        </div>
-                                        </a>
-                                        </div> 
-
-                                        <div class="info">
-                                            <h6 class="mb-0"><?php echo $d['nama'];?></h6>
-                                        </div>
-                                        <div class="col-lg-2 col-sm-2 col-4 col-status">
-                                            <h6 class="mb-0"><?php echo $d['email'];?></h6>
-                                        </div>
-                                        <div class="col-lg-2 col-sm-2 col-4 col-action text-end">
-                                            <h6 class="mb-0"><?php echo $d['phone'];?></h6>
-                                        </div>
-                                        <div class="col-lg-2 col-sm-2 col-4 col-status">
-                                            <h6 class="mb-0"><?php echo $d['linkedin_profile'];?></h6>
-                                        </div>
+                                        <?php } ?>
+                                        </td><td>
+                                            <h6 class="mb-0"><?php echo $d['nama'];?></h6></td>
+                                            <td>
+                          
+                                            <h6 class="mb-0"><?php echo $d['email'];?></h6></td><td>
+                             
+                                            <h6 class="mb-0"><?php echo $d['phone'];?></h6></td><td>
+                                    
+                                       
+                                            <h6 class="mb-0"><?php echo $d['linkedin_profile'];?></h6></td><tr></table>
+                                     
                                     
                               
       
