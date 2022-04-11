@@ -116,7 +116,7 @@
 				 		<div class="col-md-8 col-lg-8" style="margin-left: auto; margin-right: auto;" >
 				 			<div class="form-holder mb-40">
 
-							 <form class="row contact-form" method="post" action="submit-career-act.php" enctype="multipart/form-data">
+							 <form method="post" action="submit-career-act.php" class="row contact-form" enctype="multipart/form-data">
 				                                            
 					                <!-- Contact Form Input -->
 					                <div id="input-name" class="col-md-12 col-lg-6">
