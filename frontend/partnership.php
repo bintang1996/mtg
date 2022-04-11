@@ -52,16 +52,9 @@
 								<h3 class="h3-md steelblue-color">Latar Belakang KSO</h3>
 
 								<!-- Text -->
-								<p>An enim nullam tempor sapien gravida donec pretium ipsum  porta justo integer at  odio
-								   velna vitae auctor integer congue magna purus pretium ligula rutrum luctus ultrice aliquam
-								   a augue suscipit
-								</p>
-
-								<!-- Text -->
-								<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor tempus feugiat
-								   dolor lacinia cubilia curae integer congue leo metus, eu mollislorem primis in orci integer
-								   metus mollis faucibus. An enim nullam tempor sapien gravida donec pretium and ipsum porta
-								   justo integer at velna vitae auctor integer congue
+								<p>KSO merupakan kerjasama antara Rumah Sakit Umum dan Perusahaan Swast.
+									KSO merupakan salah satu solusi yang dilakukan oleh pihak swasta untuk membantu dan bekerjasama dengan Rumah 
+									Sakit membuka layanan baru serta mendapatkan akses teknologi baru dan transfer ilmu.
 								</p>
 							</div>
 						</div>	<!-- END TEXT BLOCK -->	
@@ -360,11 +353,8 @@
 												<h3 class="h3-md steelblue-color">KSO Cathlab</h3>
 
 												<!-- Text -->
-												<p class="mb-30">An enim nullam tempor sapien gravida donec enim ipsum blandit
-												   porta justo integer odio velna vitae auctor integer congue magna at pretium 
-												   purus pretium ligula rutrum itae laoreet augue in cubilia laoreet an augue 
-												   egestas ipsum vitae emo ligula vitae arcu mollis blandit ultrice ligula egestas 
-												   magna suscipit
+												<p class="mb-30">Meditrans adalah partner KSO yang terpercaya dan pengalaman di bidang CATHLAB,
+																hingga 2022, telah ada 6 lokasi KSO cathlab terdiri dari RS pemerintah dan RS swasta.
 												</p>
 
 												<!-- Options List -->
@@ -448,11 +438,8 @@
 												<h3 class="h3-md steelblue-color">KSO CT-Scan</h3>
 
 												<!-- Text -->
-												<p class="mb-30">An enim nullam tempor sapien gravida donec enim ipsum blandit
-												   porta justo integer odio velna vitae auctor integer congue magna at pretium 
-												   purus pretium ligula rutrum itae laoreet augue in cubilia laoreet an augue 
-												   egestas ipsum vitae emo ligula vitae arcu mollis blandit ultrice ligula egestas 
-												   magna suscipit
+												<p class="mb-30">Meditrans adalah KSO provider terbesar di Indonesia dengan 14 CT scan dan terus tumbuh. 
+													Kami dipercaya di beberapa RS Pemerintah ataupun Swasta, diantaranya MRI dan CT Scan.
 												</p>
 
 												<!-- Options List -->
