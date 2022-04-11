@@ -65,28 +65,27 @@
 			</div>
                 <!-- Options List -->
                 <div class="options-list">
+				<?php 
+                   
+            	$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a where cat_name='Lowongan'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                while($d=mysqli_fetch_array($sql)){ $id=$d['p_id'];
+                                            
+                $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                while($d1=mysqli_fetch_array($sql1)){
+                                                
+                ?> 
+
 				<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="1s" style="visibility: visible; animation-delay: 1s; animation-name: fadeInUp;">
-			 							<a href="service-2.html">
+				<a href="article-details.php?id=<?php echo $d1['id']; ?>">						
+					<div class="sbox-7-txt">							
+					<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>									
+					<p class="p-sm"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?></p>
 
-				 							<!-- Icon -->
-											<span class="flaticon-058-blood-transfusion-2 blue-color"></span>
+					</div>
 
-											<!-- Text -->
-											<div class="sbox-7-txt">
-				
-												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Professional Services</h5>
-													
-												<!-- Text -->
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor
-												</p>
-
-											</div>
-
-				 						</a>
-			 						</div>					
-
+				 	</a>
+			 	</div>					
+<?php }} ?>
 										
 
 											
