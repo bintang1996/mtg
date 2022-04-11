@@ -6,7 +6,7 @@
                     </div>
                     <div>
 <?php
-                    $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM lowongan_masuk order by id DESC LIMIT 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                    $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM lowongan_masuk LIMIT 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
                     $jumlah_barang = mysqli_num_rows($sql);
                     if ($jumlah_barang>0){
                     while($d=mysqli_fetch_array($sql)){
