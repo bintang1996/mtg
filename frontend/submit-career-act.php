@@ -43,7 +43,7 @@ $i=$_POST['ket'];
     
         if($result1)
         {
-       
+            echo "<script>alert('Terkirim')</script>";
            echo "<meta http-equiv='refresh' content='1 url=career.php";
        
            echo "'>";
