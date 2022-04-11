@@ -83,13 +83,13 @@
                     </li>
                     <li class="menu-item has-submenu">
                         <a class="menu-link" href="page-sellers-cards.html">
-                            <i class="icon material-icons md-store"></i>
-                            <span class="text">Sellers</span>
+                        <i class="icon material-icons md-person"></i>
+                            <span class="text">Users</span>
                         </a>
                         <div class="submenu">
-                            <a href="page-sellers-cards.html">Sellers cards</a>
-                            <a href="page-sellers-list.html">Sellers list</a>
-                            <a href="page-seller-detail.html">Seller profile</a>
+                            <a href="career-page.php">Aplicant List</a>
+                            <a href="contact-us-page.php">Contact Us List</a>
+                         
                         </div>
                     </li>
                     <li class="menu-item has-submenu">
