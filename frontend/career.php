@@ -116,7 +116,7 @@
 				 		<div class="col-md-8 col-lg-8" style="margin-left: auto; margin-right: auto;" >
 				 			<div class="form-holder mb-40">
 
-							 <form name="form1" method="post" action="submit-career-act.php" enctype="multipart/form-data">
+							 <form name="form1" method="post" action="reg-career-act.php" enctype="multipart/form-data">
 				                                            
 					                <!-- Contact Form Input -->
 					                <div id="input-name" class="col-md-12 col-lg-6">
@@ -128,23 +128,23 @@
 					                </div>
 
 					                <div id="input-phone" class="col-md-12 col-lg-6">
-					                	<input type="number" name="phone" class="form-control phone" placeholder="Nomor Handphone*" required> 
+					                	<input type="tel" name="phone" class="form-control phone" placeholder="Nomor Handphone*" required> 
 					                </div>	
 
                                     <div id="input-address" class="col-md-12 col-lg-6">
-					                	<input type="text" name="phone" class="form-control phone" placeholder="Domisili*" required> 
+					                	<input type="tel" name="phone" class="form-control phone" placeholder="Domisili*" required> 
 					                </div>
 
                                     <div id="input-linkedin" class="col-md-12 col-lg-6">
-					                	<input type="text" name="phone" class="form-control phone" placeholder="Linkedin Profil*" required> 
+					                	<input type="tel" name="phone" class="form-control phone" placeholder="Linkedin Profil*" required> 
 					                </div>
 
                                     <div id="input-perusahaan-sebelumnya" class="col-md-12 col-lg-6">
-					                	<input type="text" name="phone" class="form-control phone" placeholder="Perusahaan Sebelumnya*" required> 
+					                	<input type="tel" name="phone" class="form-control phone" placeholder="Perusahaan Sebelumnya*" required> 
 					                </div>
 
                                     <div id="input-posisi-sebelumnya" class="col-md-12 col-lg-6">
-					                	<input type="text" name="phone" class="form-control phone" placeholder="Posisi Sebelumnya*" required> 
+					                	<input type="tel" name="phone" class="form-control phone" placeholder="Posisi Sebelumnya*" required> 
 					                </div>
 
                                     <!-- Form Select -->
