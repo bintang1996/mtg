@@ -88,7 +88,7 @@
                             <div class="row align-items-center">
                              
                        
-           <table>
+           <table class="table table-stripped">
                <tr>
                    <th>CV</th>
                    <th>Nama</th>
