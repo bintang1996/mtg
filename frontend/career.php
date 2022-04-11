@@ -65,9 +65,7 @@
 			</div>
                 <!-- Options List -->
                 <div class="options-list">
-										<div class="row">
-
-										
+							
 
 												<!-- Option #1 -->
 												<div class="box-list m-top-15">							
@@ -123,10 +121,7 @@
 													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
 													<a href="#">Judul Lowongan9</a>
 
-										
-
-											
-										</div>	<!-- End row -->
+							
 									</div>	<!-- End Options List -->
             </div>
         </div>
