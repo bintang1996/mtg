@@ -39,17 +39,8 @@
                             <button class="btn btn-light bg" type="submit" value="search"><i class="material-icons md-search"></i></button>
                             </div></form>
                             </div>
-                            <div class="col-md-2 col-6">
-                                <input type="date" value="02.05.2021" class="form-control" />
-                            </div>
-                            <div class="col-md-2 col-6">
-                                <select class="form-select">
-                                    <option selected>Status</option>
-                                    <option>Active</option>
-                                    <option>Disabled</option>
-                                    <option>Show all</option>
-                                </select>
-                            </div>
+                 
+                          
                         </div>
                     </header>
 
@@ -73,7 +64,7 @@
 
 
 
-               
+
                     <?php 
                     	if(isset($_GET['cari'])){
                             $cari = $_GET['cari'];	
