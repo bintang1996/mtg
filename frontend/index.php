@@ -129,7 +129,7 @@
 
 				
 					<!-- Title 	-->	
-					<h3 style="margin-bottom:0;" class="h4-md col-lg-10 offset-lg-1 section-title white-color">Produk Kami</h3>						
+					<h3 style="margin-bottom:0;" class="h4-md col-lg-10 offset-lg-1 section-title white-color"><B>PRODUK KAMI</B></h3>						
 				
 					
 					<div class="row d-flex align-items-center text-center">
