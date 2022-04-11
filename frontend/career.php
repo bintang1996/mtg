@@ -116,8 +116,8 @@
 				 		<div class="col-md-8 col-lg-8" style="margin-left: auto; margin-right: auto;" >
 				 			<div class="form-holder mb-40">
 
-							 <form method="post" action="submit-career-act.php" enctype="multipart/form-data">
-				                                            
+							 <form method="post" action="submit-career-act.php"  enctype="multipart/form-data">
+				                 <div class="row contact-form">                           
 					                <!-- Contact Form Input -->
 					                <div id="input-name" class="col-md-12 col-lg-6">
 					                	<input type="text" name="name" class="form-control name" placeholder="Nama*" required> 
@@ -175,7 +175,7 @@
 					                	<button type="submit" class="btn btn-blue blue-hover">Kirim Lamaran</button> 
 					                </div>
 					                                                              
-					             
+				</div>
 				                                              
 				                </form> 
 
