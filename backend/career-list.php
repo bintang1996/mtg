@@ -134,13 +134,18 @@
                              
                              <h6 class="mb-0"><?php echo $d['desired_position'];?></h6></td>
                              <td>
-                              <h6 class="mb-0"><?php echo $d['linkedin_profile'];?></h6></td><tr></table>
+                              <h6 class="mb-0"><?php echo $d['linkedin_profile'];?></h6></td><tr>
+
+
+
+                              <?PHP } ?>
+                              </table>
                                      
         
                       
                   
 
-                        <?PHP } ?>
+               
 
                     </div>
                     <!-- card-body end// -->
