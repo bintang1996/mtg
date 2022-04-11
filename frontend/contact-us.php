@@ -85,8 +85,8 @@
 						<!-- CONTACT FORM -->	
 				 		<div class="col-md-7 col-lg-8">
 				 			<div class="form-holder mb-40">
-				 				<form name="contactForm" class="row contact-form">
-				                                            
+				 				<form name="contactForm" method="post" action="submit-contact-act.php">
+				                        <div  class="row contact-form">                   
 					                <!-- Contact Form Input -->
 					                <div id="input-name" class="col-md-12 col-lg-6">
 					                	<input type="text" name="name" class="form-control name" placeholder="Masukkan Nama*" required> 
@@ -124,7 +124,7 @@
 					                <div class="col-lg-12 contact-form-msg text-center">
 					                	<div class="sending-msg"><span class="loading"></span></div>
 					                </div>  
-				                                              
+</div>                        
 				                </form> 
 
 				 			</div>	
