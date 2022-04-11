@@ -98,6 +98,7 @@
                    <th>Nama</th>
                    <th>email</th>
                    <th>phone</th>
+                   <th>desired Position</th>
                    <th>Linked_in Profile</th>
                </tr>
            
@@ -118,7 +119,9 @@
                              
                                             <h6 class="mb-0"><?php echo $d['phone'];?></h6></td><td>
                                     
-                                       
+                                            <td>
+                             
+                             <h6 class="mb-0"><?php echo $d['desired_position'];?></h6></td>
                                             <h6 class="mb-0"><?php echo $d['linkedin_profile'];?></h6></td><tr></table>
                                      
                                     
