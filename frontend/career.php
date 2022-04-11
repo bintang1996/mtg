@@ -65,7 +65,7 @@
 			</div>
                 <!-- Options List -->
                 <div class="options-list">
-										<div class="row">
+									
 
 										
 
@@ -128,7 +128,7 @@
 										
 
 											
-										</div>	<!-- End row -->
+									
 									</div>	<!-- End Options List -->
             </div>
         </div>
