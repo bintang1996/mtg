@@ -132,24 +132,24 @@
 					                </div>	
 
                                     <div id="input-address" class="col-md-12 col-lg-6">
-					                	<input type="text" name="address" class="form-control phone" placeholder="Domisili*" required> 
+					                	<input type="text" name="phone" class="form-control phone" placeholder="Domisili*" required> 
 					                </div>
 
                                     <div id="input-linkedin" class="col-md-12 col-lg-6">
-					                	<input type="text" name="linkedin" class="form-control phone" placeholder="Linkedin Profil*" required> 
+					                	<input type="text" name="phone" class="form-control phone" placeholder="Linkedin Profil*" required> 
 					                </div>
 
                                     <div id="input-perusahaan-sebelumnya" class="col-md-12 col-lg-6">
-					                	<input type="text" name="current_company" class="form-control phone" placeholder="Perusahaan Sebelumnya*" required> 
+					                	<input type="text" name="phone" class="form-control phone" placeholder="Perusahaan Sebelumnya*" required> 
 					                </div>
 
                                     <div id="input-posisi-sebelumnya" class="col-md-12 col-lg-6">
-					                	<input type="text" name="current_position" class="form-control phone" placeholder="Posisi Sebelumnya*" required> 
+					                	<input type="text" name="phone" class="form-control phone" placeholder="Posisi Sebelumnya*" required> 
 					                </div>
 
                                     <!-- Form Select -->
 					                <div id="input-Posisi" class="col-md-12 col-lg-6 input-patient">
-					                    <select id="inlineFormCustomSelect3" name="desired_position" class="custom-select patient" required>
+					                    <select id="inlineFormCustomSelect3" name="patient" class="custom-select patient" required>
 					                        <option value="">Posisi Yang Ingin Dilamar*</option>
 											<option>Posisi 1</option>
 											<option>Posisi 2</option>
@@ -160,12 +160,14 @@
 					                </div>
 
                                     <div id="input-message" class="col-lg-12 input-message">
-					                	<textarea class="form-control message" name="ket" rows="6" placeholder="Alasan Memilih Posisi Tersebut" required></textarea>
+					                	<textarea class="form-control message" name="message" rows="6" placeholder="Alasan Memilih Posisi Tersebut" required></textarea>
 					                </div> 
 
 					                <div id="input-file" class="col-lg-12">
-									<label>Upload CV Terbaru</label>                                  
-					                	<input type="file" name="P_ATTACHMENT" class="form-control" placeholder="CV*" required> 
+									<label>Upload CV Terbaru</label>
+                                    <form action="/action_page.php">
+					                	<input type="file" name="CV" class="form-control" placeholder="CV*" required> 
+					                </form>
                                     </div>					                          
 					                        
 					                
