@@ -108,7 +108,10 @@
                                       
 
                                         <div class="info">
-                                            <h6 class="mb-0"><?php echo $d['name'];?></h6>
+                                            <h6 class="mb-0"><?php echo $d['nama'];?></h6>
+                                        </div>
+                                        <div class="info">
+                                            <h6 class="mb-0"><?php echo $d['email'];?></h6>
                                         </div>
                                         <div class="info">
                                             <h6 class="mb-0"><?php echo $d['phone'];?></h6>
