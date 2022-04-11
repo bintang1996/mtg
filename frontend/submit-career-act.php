@@ -1,5 +1,5 @@
 <?php
-
+include "koneksi.php";
 $a=$_POST['name']; 
 $b=$_POST['email']; 
 $c=$_POST['phone']; 
