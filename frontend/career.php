@@ -65,71 +65,33 @@
 			</div>
                 <!-- Options List -->
                 <div class="options-list">
-									
+				<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="1s" style="visibility: visible; animation-delay: 1s; animation-name: fadeInUp;">
+			 							<a href="service-2.html">
 
-										
+				 							<!-- Icon -->
+											<span class="flaticon-058-blood-transfusion-2 blue-color"></span>
 
-												<!-- Option #1 -->
-												<div class="box-list m-top-15">							
-													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<a href="#">Judul Lowongan</a>
-			
-												</div>
+											<!-- Text -->
+											<div class="sbox-7-txt">
+				
+												<!-- Title -->
+												<h5 class="h5-sm steelblue-color">Professional Services</h5>
+													
+												<!-- Text -->
+												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
+												   auctor tempus feugiat dolor
+												</p>
 
-												<!-- Option #2 -->
-												<div class="box-list" style="margin-top: 20px;">	
-													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<a href="#">Judul Lowongan</a>				
-												</div>
+											</div>
 
-												<!-- Option #3 -->
-												<div class="box-list" style="margin-top: 20px;">	
-													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<a href="#">Judul Lowongan</a>			
-												</div>
-
-
-												<div class="box-list m-top-15">							
-													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<a href="#">Judul Lowongan</a>
-			
-												</div>
-
-												<!-- Option #2 -->
-												<div class="box-list" style="margin-top: 20px;">	
-													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<a href="#">Judul Lowongan</a>				
-												</div>
-
-												<!-- Option #3 -->
-												<div class="box-list" style="margin-top: 20px;">	
-													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<a href="#">Judul Lowongan</a>			
-												</div>
-
-												<div class="box-list m-top-15">							
-													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<a href="#">Judul Lowongan</a>
-			
-												</div>
-
-												<!-- Option #2 -->
-												<div class="box-list" style="margin-top: 20px;">	
-													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<a href="#">Judul Lowongan</a>				
-												</div>
-
-												<!-- Option #3 -->
-												<div class="box-list" style="margin-top: 20px;">	
-													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<a href="#">Judul Lowongan</a>			
-												</div>
+				 						</a>
+			 						</div>					
 
 										
 
 											
 									
-									</div>	<!-- End Options List -->
+				</div>	<!-- End Options List -->
             </div>
         </div>
 
