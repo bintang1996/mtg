@@ -1,8 +1,8 @@
 <section class="content-main">
                 <div class="content-header">
                     <div>
-                        <h2 class="content-title card-title">Article List</h2>
-                        <p>Create, edit, or delete article.</p>
+                        <h2 class="content-title card-title">List Aplicant</h2>
+                     
                     </div>
                     <div>
 <?php
@@ -134,13 +134,9 @@
                              
                              <h6 class="mb-0"><?php echo $d['desired_position'];?></h6></td>
                              <td>
-                                            <h6 class="mb-0"><?php echo $d['linkedin_profile'];?></h6></td><tr></table>
+                              <h6 class="mb-0"><?php echo $d['linkedin_profile'];?></h6></td><tr></table>
                                      
-                                    
-                              
-      
-                         
-                              
+        
                       
                   
 
