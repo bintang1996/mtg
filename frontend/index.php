@@ -53,7 +53,7 @@
 
 						<!-- ABOUT BOX #3 -->
 						<div id="abox-3" class="col-md-12 col-lg-3" style="margin-right:2%; border-radius:10%; min-width:32%; max-width:32%;">
-										<div class="abox-1 white-color" style="padding:20px;">
+										<div class="abox-1 white-color" style="padding:30px;">
 
 								<!-- Title -->
 								<p style="color: #E87722;">KSO</p>
@@ -75,7 +75,7 @@
 
 						<!-- ABOUT BOX #2 -->
 						<div id="abox-2" class="col-md-12 col-lg-3" style="margin-right:2%; border-radius:10%; min-width:32%; max-width:32%;">
-							<div class="abox-1 white-color" style="padding:20px;" >
+							<div class="abox-1 white-color" style="padding:30px;" >
 
 							<p style="font-size:14px; color: #E87722;">PRODUK TERLENGKAP</p>
 								<h4 style="color: #E87722;"><b>BERKUALITAS TERBAIK</b></h4>
@@ -98,7 +98,7 @@
 
 						<!-- ABOUT BOX #4 -->
 						<div id="abox-4" class="col-md-12 col-lg-3" style="border-radius:10%; min-width:32%; max-width:32%">
-							<div class="abox-1 white-color" style="padding:20px;">
+							<div class="abox-1 white-color" style="padding:30px;">
 
 								<!-- Title -->
 								<p style="color: #E87722;">TEMUI KAMI DI KOTA ANDA</p>
