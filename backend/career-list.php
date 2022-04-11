@@ -52,6 +52,17 @@
                             </div>
                         </div>
                     </header>
+
+                    <table class="table table-stripped">
+               <tr>
+                   <th>CV</th>
+                   <th>Nama</th>
+                   <th>email</th>
+                   <th>phone</th>
+                   <th>desired Position</th>
+                   <th>Linked_in Profile</th>
+               </tr>
+
                     <!-- card-header end// -->
                     <div class="card-body">
                     <?php 
@@ -88,15 +99,7 @@
                  
                              
                        
-           <table class="table table-stripped">
-               <tr>
-                   <th>CV</th>
-                   <th>Nama</th>
-                   <th>email</th>
-                   <th>phone</th>
-                   <th>desired Position</th>
-                   <th>Linked_in Profile</th>
-               </tr>
+       
            
            
            
