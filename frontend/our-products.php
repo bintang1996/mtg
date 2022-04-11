@@ -237,8 +237,9 @@
 									<h3 class="h3-md steelblue-color">BHP Khusus / Stent & Ballon</h3>
 
 									<!-- Text -->
-									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-									   integer congue magna at pretium 
+									<p>ELIXIR MEDICAL merupakan perusahaan USA yang yang memproduksi BHP Kardiologi khususnya Produk Stent dan Balloon. 
+										Meditrans ditunjuk sebagai distributor untuk produk-produk yang terdiri dari Premium Stent – DynamiX (Bioadaptor Stent), 
+										Stent DES - DESyneX2, dan Balloon - Xpanse
 									</p><br>
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
@@ -280,8 +281,9 @@
 									<h3 class="h3-md steelblue-color">QFR</h3>
 
 									<!-- Text -->
-									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-									   integer congue magna at pretium  purus pretium 
+									<p>Software Quantitative Flow Ratio (QFR) merupakan produk dari Medis Medical Imaging System bv Netherland.<br>
+										Software ini merupakan Software penunjang Cathlab dengan terobosan terbaru dalam melakukan Analisis Fisiologi. 
+										Software ini kami perkenalkan dengan Slogan : No Wire, No Adenosine
 									</p><br>
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
@@ -343,8 +345,9 @@
 									<h3 class="h3-md steelblue-color">BHP(...)</h3>
 
 									<!-- Text -->
-									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-									   integer congue magna at pretium  purus pretium 
+									<p>Meditrans memiliki anak perusahaan, Numedika.Numedika fokus pada korporasi/Hospital dan e-commerce publik di 
+										industri kesehatan yang sudah memiliki IPAK. Hingga saat ini, ada lebih dari 1000 produk kesehatan baik personal 
+										care maupun kebutuhan klinik dan RS yang tersedia di Numedika, termasuk didalamnya BHP yang diperlukan klinik dan RS.
 									</p><br>
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
@@ -384,8 +387,8 @@
 									<h3 class="h3-md steelblue-color">Sistem RS</h3>
 
 									<!-- Text -->
-									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-									   integer congue magna at pretium  purus pretium 
+									<p>HIS "KESIA" adalah platform solusi lengkap "Sistem Informasi Rumah Sakit", dari Back office, 
+										BI, PACS, LIS dan TELEMEDICINE AND TELEDIAGNOSTIC 
 									</p><br>
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
@@ -405,8 +408,8 @@
 									<h3 class="h3-md steelblue-color">SIM KLINIK</h3>
 
 									<!-- Text -->
-									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-									   integer congue magna at pretium  purus pretium 
+									<p>Sistem Informasi Klinik (SIM Klinik) merupakan sistem informasi yang diperuntukan untuk Klinik.
+SIM Klinik telah  						terjembatani sepenuhnya dengan BPJS serta mudah digunakan dengan flow yang sederhana. 
 									</p><br>
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
