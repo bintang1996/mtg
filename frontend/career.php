@@ -171,14 +171,11 @@
 					                
 					                                            
 					                <!-- Contact Form Button -->
-					                <div class="col-lg-12 mt-15 form-btn">  
-					                	<button type="submit" class="btn btn-blue blue-hover submit">Kirim Lamaran</button> 
+					                <div class="col-lg-12 mt-15">  
+					                	<button type="submit" class="btn btn-blue blue-hover">Kirim Lamaran</button> 
 					                </div>
 					                                                              
-					                <!-- Contact Form Message -->
-					                <div class="col-lg-12 contact-form-msg text-center">
-					                	<div class="sending-msg"><span class="loading"></span></div>
-					                </div>  
+					             
 				                                              
 				                </form> 
 
