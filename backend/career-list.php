@@ -110,13 +110,13 @@
                                         <div class="info">
                                             <h6 class="mb-0"><?php echo $d['nama'];?></h6>
                                         </div>
-                                        <div class="info">
+                                        <div class="col-lg-2 col-sm-2 col-4 col-status">
                                             <h6 class="mb-0"><?php echo $d['email'];?></h6>
                                         </div>
-                                        <div class="info">
+                                        <div class="col-lg-2 col-sm-2 col-4 col-status">
                                             <h6 class="mb-0"><?php echo $d['phone'];?></h6>
                                         </div>
-                                        <div class="info">
+                                        <div class="col-lg-2 col-sm-2 col-4 col-status">
                                             <h6 class="mb-0"><?php echo $d['linkedin_profile'];?></h6>
                                         </div>
                                     </a>
