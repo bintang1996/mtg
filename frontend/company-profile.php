@@ -45,18 +45,21 @@
 							<div class="txt-block pc-30 mb-40 wow fadeInUp" data-wow-delay="0.4s">
 
 								<!-- Section ID -->	
-					 			<span class="section-id blue-color">About Us</span>
+					 			<span class="section-id blue-color">Tentang Kami</span>
 
 								<!-- Title -->
 								<h3 class="h3-md steelblue-color">Meditrans Global</h3>
 
 								<!-- Text -->
-								<p class="mb-30">PT. Meditrans Global (PT. MTG) berdiri sejak tahun 2012 di Surabaya, berawal dari bisnis penyedia barang dan jasa dan seiring waktu kami terus mengembangkan perusahaan ini ke bidang bidang bisnis lainnya.
+								<p class="mb-30" style="text-align:justify;">PT. Meditrans Global berdiri sejak tahun 2012 di Surabaya, berawal dari bisnis penyedia barang dan jasa, seiring waktu Meditrans terus berkembang ke bidang bidang bisnis lainnya.<br>
 
-								Berlatar belakang pendiri perusahaan yang memiliki pengalaman dibidang peralatan penunjang kesehatan, Saat ini kami memfokuskan pengembangan perusahaan dalam hal pelayanan Barang dan Jasa penunjang kesehatan. Kami memiliki team yang solid untuk bekerjasama dengan Rumah Sakit ataupun perusahaan penyedia peralatan kesehatan baik principal ataupun pihak KSO untuk memberikan konsultasi dan pelaksanaan pekerjaan Pra Instalasi peralatan kesehatan seperti instalasi X-Ray, CT-Scan, MRI dan Cathlab.
+																			Berlatar belakang pendiri perusahaan yang memiliki pengalaman di bidang peralatan penunjang kesehatan, saat ini Meditrans fokus dalam pengembangan perusahaan dalam hal pelayanan Barang dan Jasa penunjang kesehatan.<br>
 
-								Selain itu kami juga berpengalaman dalam hal Konstruksi dan Renovasi untuk ruangan Operasi, ruang radiologi yang membutuhkan instalasi anti radiasi (Timbal Pb) maupun struktur penguat lantai dan rangka atas. Team kami sudah sangat berpengalaman dikarenakan kami sudah banyak bekerjasama dengan perusahaan besar seperti Aneka Gas, Siemens Healthcare, GE Healthcare dan banyak Rumah Sakit Pemerintah ataupun Swasta.
-								</p>
+																			Di dukung dengan tim yang solid dan berpengalaman, Meditrans bekerjasama dengan Rumah Sakit serta perusahaan penyedia peralatan kesehatan, baik principal ataupun pihak Kerjasama Operasional (KSO) dalam memberikan konsultasi dan pelaksanaan pekerjaan. Yakni meliputi Pra Instalasi peralatan kesehatan seperti instalasi X-Ray, CT-Scan, MRI dan Cathlab.<br>
+
+																			Meditrans juga berpengalaman dalam hal Konstruksi dan Renovasi untuk ruangan Operasi, ruang radiologi yang membutuhkan instalasi anti radiasi (Timbal Pb) maupun struktur penguat lantai dan rangka atas.<br>
+
+																			Meditrans telah banyak bekerjasama dan memiliki jaringan yang luas dengan banyak perusahaan besar seperti Aneka Gas, Siemens Healthcare, GE Healthcare dan banyak Rumah Sakit Pemerintah ataupun Swasta.</p>
 							</div>
 						</div>	<!-- END TEXT BLOCK -->	
 
@@ -82,9 +85,8 @@
 							<h3 class="h3-md steelblue-color">Our Leaders</h3>	
 
 							<!-- Text -->
-							<p>The Board of Directors of Meditrans Global is fully committed to credible and transparent governance 
-								in order to be able to provide the best service, improve company performance and the company's 
-								contribution to all our stakeholders in the long term.
+							<p>Direksi Meditrans mendorong peningkatan kinerja tim sehingga mampu memberikan pelayanan
+								terbaik, turut berkontribusi, dan berperan positif di dunia kesehatan serta masyarakat pada umumnya.
 							</p>
 										
 						</div> 
@@ -302,11 +304,11 @@
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Loyalty</h5>
+												<h5 class="h5-sm steelblue-color">BERPEGANG PADA ETIKA</h5>
 													
 												<!-- Text -->
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor
+												<p class="p-sm">Selalu berpegang teguh pada Etika Bisnis bisnis yang tinggi 
+													dalam setiap aktivitas perusahaan.
 												</p>
 
 											</div>
@@ -328,11 +330,12 @@
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Honesty</h5>
+												<h5 class="h5-sm steelblue-color">KOMPETISI</h5>
 													
 												<!-- Text -->
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor
+												<p class="p-sm">Kompetensi karyawan dikembangkan terus menerus untuk memaksimalkan 
+													kapabilitas Karyawan.
+
 												</p>
 
 											</div>
@@ -354,11 +357,11 @@
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Trust</h5>
+												<h5 class="h5-sm steelblue-color">PROAKTIF</h5>
 													
 												<!-- Text -->
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor
+												<p class="p-sm">Senantiasa mengupayakan peningkatan system dan 
+													operational kerja yang lebih baik dari sebelumnya.
 												</p>
 
 											</div>
@@ -380,11 +383,11 @@
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Ingenuity</h5>
+												<h5 class="h5-sm steelblue-color">SALING MENGHORMATI</h5>
 													
 												<!-- Text -->
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor
+												<p class="p-sm">Membangun hubungan berdasarkan prinsip saling 
+													menghormati diantara sesama rekan kerja, pelanggan dan masyarakat industri.
 												</p>
 
 											</div>
@@ -406,11 +409,10 @@
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Accountability</h5>
+												<h5 class="h5-sm steelblue-color">STANDARD TINGGI</h5>
 													
 												<!-- Text -->
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor
+												<p class="p-sm">Mempertahankan standard yang tinggi dalam setiap aktifitas kerja.
 												</p>
 
 											</div>
@@ -432,11 +434,11 @@
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Simplicity</h5>
+												<h5 class="h5-sm steelblue-color">TUMBUH DAN BERKEMBANG</h5>
 													
 												<!-- Text -->
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor
+												<p class="p-sm">Mengupayakan pertumbuhan finansial, intelektual, 
+													dan citra perusahaan yang konsisten serta melakukan investasi kembali ke dalam bisnis yang dijalankan.
 												</p>
 
 											</div>
@@ -444,59 +446,6 @@
 										</a>
 			 						</div>
 			 					</div>  <!-- END SERVICE BOX #6 -->
-
-
-			 					<!-- SERVICE BOX #7 -->
-			 					<div class="col-md-6">
-			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.4s">
-			 							<a href="service-1.html">
-
-				 							<!-- Icon -->
-											<span class="flaticon-015-blood-donation-1 blue-color"></span>
-
-											<!-- Text -->
-											<div class="sbox-7-txt">
-				
-												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Respect</h5>
-													
-												<!-- Text -->
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor
-												</p>
-
-											</div>
-
-				 						</a>
-			 						</div>
-			 					</div>  <!-- END SERVICE BOX #7 -->
-
-
-			 					<!-- SERVICE BOX #8 -->
-			 					<div class="col-md-6">
-			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.6s">
-			 							<a href="service-2.html">
-
-				 							<!-- Icon -->
-											<span class="flaticon-047-head blue-color"></span>
-
-											<!-- Text -->
-											<div class="sbox-7-txt">
-				
-												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Passion</h5>
-													
-												<!-- Text -->
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor
-												</p>
-
-											</div>
-
-										</a>
-			 						</div>
-			 					</div>  <!-- END SERVICE BOX #8 -->
-
 			 					
 	 						</div>
 						</div>	<!-- END SERVICE BOXES -->	
