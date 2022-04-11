@@ -60,8 +60,8 @@
 								<h4 style="color: #E87722;"><b>KEMITRAAN</b></h4>
 
 								<!-- Text -->
-								<p style="color: black;">Kami juga merupakan perusahaan Konstruksi untuk pembangunan ruangan Radiologi, 
-									CT-Scan maupun Ruangan Cathlab.
+								<p style="color: black;">Meditrans telah bermitra dengan berbagai rumah sakit dan perusaahan di Indonesia. 
+									Kami berkomitmen untuk selalu dapat bermitra dengan fasilitas layanan kesehatan maupun perusahaan non kesehatan.
 								</p>
 								<br><br>
 								<!-- Button -->
@@ -81,7 +81,10 @@
 								<h4 style="color: #E87722;"><b>BERKUALITAS TERBAIK</b></h4>
 
 								<!-- Text -->
-								<p style="color: black;">Kerjasama Operasional dalam penyediaan peralatan medis khususnya di Bidang Radiologi dan Kardiologi.
+								<p style="color: black;">Kami hanya memberikan produk dan jasa dengan kualitas terbaik untuk pelanggan setia kami. 
+										Baik itu Business-to-Business (B2B), maupun Business-to-Customer B2C. Meditrans juga memiliki sistem terbaik 
+										dalam hal pengembangan layanan kerjasama dengan Rumah Sakit.
+
 								</p>
 								<br><br>
 								<!-- Button -->
@@ -99,10 +102,11 @@
 
 								<!-- Title -->
 								<p style="color: #E87722;">TEMUI KAMI DI KOTA ANDA</p>
-								<h4 style="color: #E87722;"><b>JARINGAN YANG LUAS</b></h4>
+								<h4 style="color: #E87722;"><b>JARINGAN LUAS</b></h4>
 
 								<!-- Text -->
-								<p class="mt-20" style="color: black;">Hadir dengan inovasi terbaru kami yaitu produk telemedicine dan telediagnostik.
+								<p class="mt-20" style="color: black;">Meditrans memiliki jaringan dan distribusi yang luas meliputi 
+										berbagai institusi kesehatan termasuk rumah sakit pemerintah dan swasta.
 								</p>
 <br><br>
 								<!-- Button -->
@@ -253,7 +257,7 @@
 			<img class="img-fluid" width="70%" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
 			<td><br><br>
-			<h3 class="h3-md" style="color: #281E78;">SELAMAT DATANG DI MTG</h3>	
+			<h3 class="h3-md" style="color: #281E78;">Advancing in Healthcare Everyday</h3>	
 			<p style="text-align:justify;">MPT. Meditrans Global (PT. MTG) berdiri sejak tahun 2012 di Surabaya, berawal dari bisnis penyedia barang dan jasa dan seiring waktu kami terus mengembangkan perusahaan ini ke bidang bidang bisnis lainnya.</p>
 
 			<p style="text-align:justify;">Berlatar belakang pendiri perusahaan yang memiliki pengalaman dibidang peralatan penunjang kesehatan, Saat ini kami memfokuskan pengembangan perusahaan dalam hal pelayanan Barang dan Jasa penunjang kesehatan. 
