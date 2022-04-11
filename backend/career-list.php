@@ -90,11 +90,7 @@
                         <!-- itemlist  .// -->
                         <article class="itemlist">
                             <div class="row align-items-center">
-                                <div class="col col-check flex-grow-0">
-                                    <div class="form-check">
-                                        <input class="form-check-input" type="checkbox" value="" />
-                                    </div>
-                                </div>
+                             
                        
            <table>
                <tr>
