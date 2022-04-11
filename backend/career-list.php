@@ -85,7 +85,7 @@
                     ?>
                         <!-- itemlist  .// -->
                         <article class="itemlist">
-                            <div class="row align-items-center">
+                 
                              
                        
            <table class="table table-stripped">
@@ -125,8 +125,7 @@
       
                          
                               
-                            </div>
-                            <!-- row .// -->
+                      
                         </article>
                         <!-- itemlist  .// -->
 
