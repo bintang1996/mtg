@@ -105,6 +105,7 @@
                                             <a target="_blank" href="../frontend/assets/imgs/shop/<?php echo $d3['img_name']; ?>" title="Download Document"> <p><?php $r=0; $r++; echo "attacment"; echo $r; ?></p></a>
                       <?php } ?>
                                         </div>
+                                        </a>
                                         </div> 
 
                                         <div class="info">
@@ -113,13 +114,13 @@
                                         <div class="col-lg-2 col-sm-2 col-4 col-status">
                                             <h6 class="mb-0"><?php echo $d['email'];?></h6>
                                         </div>
-                                        <div class="col-lg-2 col-sm-2 col-4 col-status">
+                                        <div class="col-lg-2 col-sm-2 col-4 col-action text-end">
                                             <h6 class="mb-0"><?php echo $d['phone'];?></h6>
                                         </div>
                                         <div class="col-lg-2 col-sm-2 col-4 col-status">
                                             <h6 class="mb-0"><?php echo $d['linkedin_profile'];?></h6>
                                         </div>
-                                    </a>
+                                    
                               
       
                          
