@@ -63,7 +63,7 @@
 								<p style="color: black;">Meditrans telah bermitra dengan berbagai rumah sakit dan perusaahan di Indonesia. 
 									Kami berkomitmen untuk selalu dapat bermitra dengan fasilitas layanan kesehatan maupun perusahaan non kesehatan.
 								</p>
-								<br><br>
+								<br>
 								<!-- Button -->
 								<a><h6 style="color: #E87722;"><b>CONTACT NOW</b></h6></a>
 							</div>
@@ -86,7 +86,7 @@
 										dalam hal pengembangan layanan kerjasama dengan Rumah Sakit.
 
 								</p>
-								<br><br>
+							
 								<!-- Button -->
 								<a><h6 style="color: #E87722;"><b>SHOP NOW</b></h6></a>
 							</div>
