@@ -111,23 +111,29 @@
            
            
            <td>
-                                 
-
-                              
-                                        <?php $sql3 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where cv_id='$id' limit 1"); while($d3=mysqli_fetch_array($sql3)){?>
-                                            <a target="_blank" href="../frontend/assets/imgs/shop/<?php echo $d3['img_name']; ?>" title="Download Document"> <p><?php $r=0; $r++; echo "attacment"; echo $r; ?></p></a>
-                                        <?php } ?>
-                                        </td><td>
-                                            <h6 class="mb-0"><?php echo $d['nama'];?></h6></td>
+  <?php $sql3 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where cv_id='$id' limit 1"); while($d3=mysqli_fetch_array($sql3)){?>
+   <a target="_blank" href="../frontend/assets/imgs/shop/<?php echo $d3['img_name']; ?>" title="Download Document"> <p><?php $r=0; $r++; echo "attacment"; echo $r; ?></p></a>
+     <?php } ?>
+    </td>
+                                        
+                                        
+                                        <td>
+                                            <h6 class="mb-0"><?php echo $d['nama'];?></h6>
+                                        </td>
                                             <td>
-                          
-                                            <h6 class="mb-0"><?php echo $d['email'];?></h6></td><td>
+                                            <h6 class="mb-0"><?php echo $d['email'];?></h6>
+                                        </td>
+                                            
+                                            <td>
                              
-                                            <h6 class="mb-0"><?php echo $d['phone'];?></h6></td><td>
+                                            <h6 class="mb-0"><?php echo $d['phone'];?></h6></td>
+                                            
+                             
                                     
                                             <td>
                              
                              <h6 class="mb-0"><?php echo $d['desired_position'];?></h6></td>
+                             <td>
                                             <h6 class="mb-0"><?php echo $d['linkedin_profile'];?></h6></td><tr></table>
                                      
                                     
