@@ -65,7 +65,9 @@
 			</div>
                 <!-- Options List -->
                 <div class="options-list">
-							
+										<div class="row">
+
+											<div class="col-xl-4">
 
 												<!-- Option #1 -->
 												<div class="box-list m-top-15">							
@@ -83,10 +85,11 @@
 												<!-- Option #3 -->
 												<div class="box-list" style="margin-top: 20px;">	
 													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<a href="#">Judul Lowongan</a>	
-													
-													
-													<div class="box-list m-top-15">							
+													<a href="#">Judul Lowongan</a>			
+												</div>
+
+
+												<div class="box-list m-top-15">							
 													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
 													<a href="#">Judul Lowongan</a>
 			
@@ -101,7 +104,7 @@
 												<!-- Option #3 -->
 												<div class="box-list" style="margin-top: 20px;">	
 													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<a href="#">Judul Lowongan</a>
+													<a href="#">Judul Lowongan</a>			
 												</div>
 
 												<div class="box-list m-top-15">							
@@ -119,9 +122,13 @@
 												<!-- Option #3 -->
 												<div class="box-list" style="margin-top: 20px;">	
 													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-													<a href="#">Judul Lowongan9</a>
+													<a href="#">Judul Lowongan</a>			
+												</div>
 
-							
+											</div>
+
+											
+										</div>	<!-- End row -->
 									</div>	<!-- End Options List -->
             </div>
         </div>
