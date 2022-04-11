@@ -1,12 +1,12 @@
 <section class="content-main">
                 <div class="content-header">
                     <div>
-                        <h2 class="content-title card-title">List Aplicant</h2>
+                        <h2 class="content-title card-title">List Contact</h2>
                      
                     </div>
                     <div>
 <?php
-                    $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM lowongan_masuk order by id DESC LIMIT 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                    $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM contact_us order by id DESC LIMIT 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
                     $jumlah_barang = mysqli_num_rows($sql);
                     if ($jumlah_barang>0){
                     while($d=mysqli_fetch_array($sql)){
@@ -54,12 +54,13 @@
 
                     <table class="table table-stripped">
                <tr>
-                   <th>CV</th>
+             
                    <th>Nama</th>
                    <th>email</th>
                    <th>phone</th>
-                   <th>desired Position</th>
-                   <th>Linked_in Profile</th>
+                   <th>Instansi</th>
+             
+                   <th>Pesan</th>
                </tr>
 
 
@@ -73,10 +74,10 @@
                     $mulai = ($page>1) ? ($page * $halaman) - $halaman : 0;
                     $a=$mulai+1;
                     $b=1+$a;			
-                    $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM lowongan_masuk where desired_position like '%".$cari."%'");
+                    $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM contact_us where message like '%".$cari."%'");
                     $total = mysqli_num_rows($result);
                     $pages = ceil($total/$halaman); 
-                    $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM lowongan_masuk where desired_position like '%".$cari."%' LIMIT $mulai, $halaman") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                    $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM contact_us where message like '%".$cari."%' LIMIT $mulai, $halaman") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
                         }else{
 
                             $halaman = 10;
@@ -84,10 +85,10 @@
                             $mulai = ($page>1) ? ($page * $halaman) - $halaman : 0;
                             $a=$mulai+1;
                             $b=1+$a;			
-                            $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM lowongan_masuk");
+                            $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM contact_us");
                             $total = mysqli_num_rows($result);
                             $pages = ceil($total/$halaman); 
-                            $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM lowongan_masuk LIMIT $mulai, $halaman") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                            $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM contact_us LIMIT $mulai, $halaman") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
                              
 
                         }
@@ -118,7 +119,7 @@
                                         
                                         
                                         <td>
-                                            <h6 class="mb-0"><?php echo $d['nama'];?></h6>
+                                            <h6 class="mb-0"><?php echo $d['name'];?></h6>
                                         </td>
                                             <td>
                                             <h6 class="mb-0"><?php echo $d['email'];?></h6>
@@ -132,9 +133,9 @@
                                     
                                             <td>
                              
-                             <h6 class="mb-0"><?php echo $d['desired_position'];?></h6></td>
+                             <h6 class="mb-0"><?php echo $d['instansi'];?></h6></td>
                              <td>
-                              <h6 class="mb-0"><?php echo $d['linkedin_profile'];?></h6></td><tr></table>
+                              <h6 class="mb-0"><?php echo $d['message'];?></h6></td><tr></table>
                                      
         
                       
@@ -147,20 +148,6 @@
                 </div>
                 <!-- card end// -->
              <?php include "pagination.php";?>
-
-
-           
-  
-
-
-
-
-
-
-
-
-
-
 
 
 
