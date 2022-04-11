@@ -239,7 +239,7 @@
 			<img class="img-fluid" width="70%" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
 			<td><br><br>
-			<h3 class="h3-md" style="color: #281E78;font-family:'Lato';">SELAMAT DATANG DI MEDITRANS</h3>	
+			<h3 class="h4-md" style="color: #281E78;font-family:'Lato';"><B>SELAMAT DATANG DI MEDITRANS</B></h3><BR>	
 			<p style="text-align:justify;">MPT. Meditrans Global (PT. MTG) berdiri sejak tahun 2012 di Surabaya, berawal dari bisnis penyedia barang dan jasa dan seiring waktu kami terus mengembangkan perusahaan ini ke bidang bidang bisnis lainnya.</p>
 
 			<p style="text-align:justify;">Saat ini kami memfokuskan pengembangan perusahaan dalam hal pelayanan Barang dan Jasa penunjang kesehatan. 
@@ -285,7 +285,7 @@
 			</td>
 			<td><br><br>
 			<h3 class="h3-md" style="color: #281E78;">SELAMAT DATANG DI MTGLOBAL</h3>	
-			<p style="text-align:justify;">MPT. Meditrans Global (PT. MTG) berdiri sejak tahun 2012 di Surabaya, berawal dari bisnis penyedia barang dan jasa dan seiring waktu kami terus mengembangkan perusahaan ini ke bidang bidang bisnis lainnya.</p>
+			<p style="text-align:justify;">PT. Meditrans Global (PT. MTG) berdiri sejak tahun 2012 di Surabaya, berawal dari bisnis penyedia barang dan jasa dan seiring waktu kami terus mengembangkan perusahaan ini ke bidang bidang bisnis lainnya.</p>
 
 			<p style="text-align:justify;">Berlatar belakang pendiri perusahaan yang memiliki pengalaman dibidang peralatan penunjang kesehatan, Saat ini kami memfokuskan pengembangan perusahaan dalam hal pelayanan Barang dan Jasa penunjang kesehatan. 
 				Kami memiliki team yang solid untuk bekerjasama dengan Rumah Sakit ataupun perusahaan penyedia peralatan kesehatan baik principal ataupun pihak KSO untuk memberikan konsultasi dan pelaksanaan pekerjaan Pra Instalasi peralatan kesehatan seperti instalasi X-Ray, CT-Scan, MRI dan Cathlab.</p>
@@ -348,7 +348,7 @@
 					<div class="row">	
 						<div class="col-lg-10 offset-lg-1 section-title">		
 							<!-- Title 	-->	
-							<h3 class="h3-md steelblue-color" style="color: #281E78;"><b>Product Brand</b></h3>								
+							<h3 class="h4-md steelblue-color" style="color: #281E78;"><b>PRODUCT BRAND</b></h3>								
 						</div> 
 					</div>
 					<div class="row d-flex align-items-center text-center">
@@ -440,7 +440,7 @@
 					<div class="row">	
 						<div class="col-lg-10 offset-lg-1 section-title" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
-							<h3 class="h3-md steelblue-color" style="color: #281E78;"><b>News, Education & Our Stories</b></h3>								
+							<h3 class="h4-md steelblue-color" style="color: #281E78;"><b><B>NEWS, EDUCATION & OUR STORIES</b></h3>								
 						</div> 
 					</div>
 				
