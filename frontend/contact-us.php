@@ -120,10 +120,7 @@
                                         submit">Kirim</button> 
 					                </div>
 					                                                              
-					                <!-- Contact Form Message -->
-					                <div class="col-lg-12 contact-form-msg text-center">
-					                	<div class="sending-msg"><span class="loading"></span></div>
-					                </div>  
+
 </div>                        
 				                </form> 
 
