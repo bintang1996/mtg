@@ -30,11 +30,7 @@
                 <div class="card mb-4">
                     <header class="card-header">
                         <div class="row align-items-center">
-                            <div class="col col-check flex-grow-0">
-                                <div class="form-check ms-2">
-                                    <input class="form-check-input" type="checkbox" value="" />
-                                </div>
-                            </div>
+                          
                             <div class="col-md-3 col-12 me-auto mb-md-0 mb-3">
                             <form action="article-page.php" method="get">
                             <div class="input-group">
