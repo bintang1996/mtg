@@ -126,13 +126,19 @@
                              
                              <h6 class="mb-0"><?php echo $d['instansi'];?></h6></td>
                              <td>
-                              <h6 class="mb-0"><?php echo $d['message'];?></h6></td><tr></table>
+                              <h6 class="mb-0"><?php echo $d['message'];?></h6></td><tr>
+
+
+                              <?PHP } ?>
+
+
+                              </table>
                                      
         
                       
                   
 
-                        <?PHP } ?>
+                        
 
                     </div>
                     <!-- card-body end// -->
