@@ -65,7 +65,7 @@
 								</p>
 								<br><br>
 								<!-- Button -->
-								<a><h6 style="color: #E87722;"><b>CONTACT NOW</b></h6></a>
+								<a href="contact-us.php"><h6 style="color: #E87722;"><b>CONTACT NOW</b></h6></a>
 							</div>
 						</div>
 
