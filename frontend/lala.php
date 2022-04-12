@@ -10,7 +10,6 @@
 <script src="https://cdn.amcharts.com/lib/5/index.js"></script>
 <script src="https://cdn.amcharts.com/lib/5/map.js"></script>
 <script src="https://cdn.amcharts.com/lib/5/geodata/worldLow.js"></script>
-<script src="https://cdn.amcharts.com/lib/5/geodata/worldHigh.js"></script>
 <script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
 
 <!-- Chart code -->
@@ -43,7 +42,7 @@ var chart = root.container.children.push(am5map.MapChart.new(root, {
 // Create main polygon series for countries
 // https://www.amcharts.com/docs/v5/charts/map-chart/map-polygon-series/
 var polygonSeries = chart.series.push(am5map.MapPolygonSeries.new(root, {
-  geoJSON: am5geodata_worldHigh,
+  geoJSON: am5geodata_worldLow,
   exclude: ["AQ"]
 }));
 
@@ -60,8 +59,7 @@ chart.chartContainer.get("background").events.on("click", function() {
 polygonSeries.events.on("datavalidated", function() {
   chart.goHome();
 })
-chart.background.fill = am4core.color("#aadaff");
-chart.background.fillOpacity = 1;
+
 var pointSeries = chart.series.push(am5map.MapPointSeries.new(root, {}));
 pointSeries.bullets.push(function() {
   return am5.Bullet.new(root, {
