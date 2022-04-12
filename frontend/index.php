@@ -110,7 +110,7 @@
 								</p>
 <br><br><br>
 								<!-- Button -->
-								<a><h6 style="color: #E87722;"><b>LOCATION</b></h6></a>
+								<a href="location.php"><h6 style="color: #E87722;"><b>LOCATION</b></h6></a>
 							</div>
 						</div>
 
