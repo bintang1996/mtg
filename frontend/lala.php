@@ -27,7 +27,8 @@ root.setThemes([
   am5themes_Animated.new(root)
 ]);
 
-
+chart.backgroundSeries.mapPolygons.template.polygon.fill = am5core.color("#aadaff");
+chart.backgroundSeries.mapPolygons.template.polygon.fillOpacity = 1;
 // Create the map chart
 // https://www.amcharts.com/docs/v5/charts/map-chart/
 var chart = root.container.children.push(am5map.MapChart.new(root, {
@@ -180,8 +181,7 @@ function addCity(longitude, latitude, title) {
     title: title
   });
 }
-chart.backgroundSeries.mapPolygons.template.polygon.fill = am5core.color("#aadaff");
-chart.backgroundSeries.mapPolygons.template.polygon.fillOpacity = 1;
+
 // Make stuff animate on load
 chart.appear(1000, 100);
 
