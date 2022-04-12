@@ -70,8 +70,7 @@ pointSeries.bullets.push(function() {
   })
 })
 
-chart.background.fill = am5map.color("#aadaff");
-chart.background.fillOpacity = 1;
+
 // Create point series for markers
 // https://www.amcharts.com/docs/v5/charts/map-chart/map-point-series/
 var pointSeries = chart.series.push(am5map.MapPointSeries.new(root, {}));
