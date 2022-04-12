@@ -480,7 +480,7 @@
 										<div class="review-author">
 											<br>
 											<p style="margin-bottom:0px; font-size:1em;"><?php echo $d['cat_name']; ?></p>
-											<h4 class="h5-md" style="margin-top:0px;"><?php echo $d1['p_name']; ?></h4>
+											<h4 class="h5-md" style="margin-top:0px; padding-left:8px;"><?php echo $d1['p_name']; ?></h4>
 										</div>	
 
 										<!-- Testimonial Text -->
