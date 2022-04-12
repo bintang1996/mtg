@@ -522,7 +522,11 @@
 						</div> 
 					</div>
 					<div class="row">
-											
+								<table class="table">		<tr>
+									
+								<td width="50%"></td>
+								
+								<td>	
 											<table>
 											<tr>
 												<th colspan="5"><h4 style="color: #281E78;"><b>TEMUKAN KAMI DI KOTA ANDA!</b></h4></th>
@@ -543,6 +547,12 @@
 												<td><i class="fab fa-discourse"></i> Padang</td>
 											</tr>
 											</table>
+							</td>
+						
+						</tr>
+
+
+
 											</div><br><br>
 				
 					<!-- SECTION TITLE -->	
