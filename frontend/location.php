@@ -40,7 +40,7 @@
 				<div class="row">	
 						<div class="col-lg-10 offset-lg-1 section-title" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="color: #281E78;  font-weight: 900;">OFFICE & SITE LOCATION</h3>								
+							<h3 class="h4-md steelblue-color" style="color: #281E78;  font-weight: 700;">OFFICE & SITE LOCATION</h3>								
 						</div> 
 					</div>
 					<div class="row">
