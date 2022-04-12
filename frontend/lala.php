@@ -46,9 +46,7 @@ var polygonSeries = chart.series.push(am5map.MapPolygonSeries.new(root, {
   geoJSON: am5geodata_worldHigh,
   exclude: ["AQ"]
 }));
-var polygonTemplate = polygonSeries.mapPolygons.template;
-polygonTemplate.tooltipText = "{name}";
-polygonTemplate.fill = am4core.color("#74B266");
+
 // Add zoom control
 // https://www.amcharts.com/docs/v5/charts/map-chart/map-pan-zoom/#Zoom_control
 chart.set("zoomControl", am5map.ZoomControl.new(root, {}));
