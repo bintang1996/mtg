@@ -125,7 +125,7 @@
 
 
 			  	<!-- NAVIGATION MENU -->
-			  	<div class="wsmainfull menu clearfix">
+			  	<div class="wsmainfull menu clearfix" style="background-color: #fff;">
     				<div class="wsmainwp clearfix">
 
     					<!-- LOGO IMAGE -->
