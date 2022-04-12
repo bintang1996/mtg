@@ -52,8 +52,6 @@ chart.set("zoomControl", am5map.ZoomControl.new(root, {}));
 
 
 
-chart.backgroundSeries.mapPolygons.template.polygon.fill = am5core.color("#aadaff");
-chart.backgroundSeries.mapPolygons.template.polygon.fillOpacity = 1;
 // Set clicking on "water" to zoom out
 chart.chartContainer.get("background").events.on("click", function() {
   chart.goHome();
@@ -72,7 +70,8 @@ pointSeries.bullets.push(function() {
   })
 })
 
-
+chart.background.fill = am5map.color("#aadaff");
+chart.background.fillOpacity = 1;
 // Create point series for markers
 // https://www.amcharts.com/docs/v5/charts/map-chart/map-point-series/
 var pointSeries = chart.series.push(am5map.MapPointSeries.new(root, {}));
