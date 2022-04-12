@@ -484,7 +484,7 @@
 										</div>	
 
 										<!-- Testimonial Text -->
-										<p style="font-size: 0.5em;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>... <a style="font-size: 1em; color:blue;" href="article-details.php?id=<?php echo $d1['id']; ?>">Read more.</a></p>
+										<p style="font-size: 0.5em; margin:0px;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>... <a style="font-size: 1em; color:blue;" href="article-details.php?id=<?php echo $d1['id']; ?>">Read more.</a></p>
 														
 																
 									</div>						
