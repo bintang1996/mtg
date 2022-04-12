@@ -129,14 +129,14 @@
 
 				
 					<!-- Title 	-->	
-					<h3 style="margin-bottom:0;" class="h4-md col-lg-10 offset-lg-1 section-title white-color"><B><B>PRODUK KAMI</B></B></h3>						
+					<h3 style="margin-bottom:0;" class="h4-md col-lg-10 offset-lg-1 section-title white-color"><B><B>PRODUK KAMI</B></B></h3>	<br>					
 				
 					
 					<div class="row d-flex align-items-center text-center">
 
 
 					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none; padding:0px;">
+					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none; padding:0px; margin:0px;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
 						<span class="flaticon-060-cardiogram-4"></span>
@@ -147,9 +147,9 @@
 					</div>
 
 					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none; padding:0px;">
+					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none; padding:0px; margin:0px;">
 					<!-- Icon -->
-					<div class="sbox-3-icon">
+					<div class="sbox-3-icon"> 
 						<span class="flaticon-031-scanner"></span>
 					</div>
 					<!-- Title -->
@@ -158,7 +158,7 @@
 					</div>
 
 					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none; padding:0px;">
+					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none; padding:0px; margin:0px;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
 						<span class="flaticon-136-monitor"></span>
@@ -169,7 +169,7 @@
 					</div>
 
 					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none; padding:0px;">
+					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none; padding:0px; margin:0px;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
 						<span class="flaticon-076-microscope"></span>
@@ -183,7 +183,7 @@
 
 
 					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none; padding:0px;">
+					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none; padding:0px; margin:0px;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
 						<span class="flaticon-129-hospital-1"></span>
