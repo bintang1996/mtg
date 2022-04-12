@@ -2,7 +2,7 @@
 <style>
 #chartdiv {
   width: 100%;
-  height: 300px;
+  height: 250px;
 }
 </style>
 
