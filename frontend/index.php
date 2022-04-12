@@ -525,7 +525,7 @@
 								<table width="100%">		<tr>
 									
 								<td width="50%"></td>
-								
+								<td width="20%"></td>
 								<td style="align:right;">	
 											<table>
 											<tr>
