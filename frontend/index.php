@@ -525,7 +525,7 @@
 								<table width="100%">		<tr>
 									
 								<td width="70%"><?php include "lala.php";?></td>
-								<td width="10%"></td>
+								<td width="5%"></td>
 								<td style="align:right;">	
 											<table>
 											<tr>
