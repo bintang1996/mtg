@@ -60,7 +60,8 @@ chart.chartContainer.get("background").events.on("click", function() {
 polygonSeries.events.on("datavalidated", function() {
   chart.goHome();
 })
-
+chart.background.fill = am4core.color("#aadaff");
+chart.background.fillOpacity = 1;
 var pointSeries = chart.series.push(am5map.MapPointSeries.new(root, {}));
 pointSeries.bullets.push(function() {
   return am5.Bullet.new(root, {
