@@ -94,7 +94,7 @@
 
 				<!-- MOBILE HEADER -->
 			    <div class="wsmobileheader clearfix">
-			    	<a href ="index.php" id="wsnavtoggle" class="wsanimated-arrow"><span></span></a>
+			    	<a href ="#" id="wsnavtoggle" class="wsanimated-arrow"><span></span></a>
 			    	<span class="smllogo"><img src="images/logo-meditrans.png" width="180" alt="mobile-logo"/></span>
 			    	<a href="tel:123456789" class="callusbtn"><i class="fas fa-phone"></i></a>
 			 	</div>
