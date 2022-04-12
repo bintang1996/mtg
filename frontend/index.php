@@ -526,7 +526,7 @@
 									
 								<td width="50%"></td>
 								
-								<td style="text-align:right;">	
+								<td style="align:right;">	
 											<table>
 											<tr>
 												<th colspan="5"><h4 style="color: #281E78;"><b>TEMUKAN KAMI DI KOTA ANDA!</b></h4></th>
