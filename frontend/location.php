@@ -11,12 +11,12 @@
 								<nav aria-label="breadcrumb">
 								  	<ol class="breadcrumb">
 								    	<li class="breadcrumb-item"><a href="index.html">Home</a></li>
-								    	<li class="breadcrumb-item active" aria-current="page">Hubungi Kami</li>
+								    	<li class="breadcrumb-item active" aria-current="page">Lokasi KAmi</li>
 								  	</ol>
 								</nav>
 
 								<!-- Title -->
-								<h4 class="h4-sm steelblue-color">Hubungi Kami</h4>
+								<h4 class="h4-sm steelblue-color">Lokasi Kami</h4>
 
 							</div>
 						</div>

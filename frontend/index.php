@@ -65,7 +65,7 @@
 								</p>
 								<br><br>
 								<!-- Button -->
-								<a href="contact-us.php"><h6 style="color: #E87722;"><b>CONTACT NOW</b></h6></a>
+								<a href="contact-us.php"><h6 style="color: #E87722;"><b>HUBUNGI KAMI</b></h6></a>
 							</div>
 						</div>
 
@@ -88,7 +88,7 @@
 								</p>
 							
 								<!-- Button -->
-								<a><h6 style="color: #E87722;"><b>SHOP NOW</b></h6></a>
+								<a><h6 style="color: #E87722;"><b>PRODUK KAMI</b></h6></a>
 							</div>
 						</div>
 
@@ -110,7 +110,7 @@
 								</p>
 <br><br><br>
 								<!-- Button -->
-								<a href="location.php"><h6 style="color: #E87722;"><b>LOCATION</b></h6></a>
+								<a href="location.php"><h6 style="color: #E87722;"><b>LOKASI KAMI</b></h6></a>
 							</div>
 						</div>
 
@@ -142,7 +142,7 @@
 						<span class="flaticon-060-cardiogram-4"></span>
 					</div>
 					<!-- Title -->
-					<h5 class="h5-xs white-color" style="margin-top:0;">CARDIOVASCULAR</h5>																																		
+					<h5 class="h5-xs white-color" style="margin-top:0;">KARDIOVASKULAR</h5>																																		
 					</div>
 					</div>
 
@@ -153,7 +153,7 @@
 						<span class="flaticon-031-scanner"></span>
 					</div>
 					<!-- Title -->
-					<h5 class="h5-xs white-color" style="margin-top:0;">RADIOLOGY</h5>																																		
+					<h5 class="h5-xs white-color" style="margin-top:0;">RADIOLOGI</h5>																																		
 					</div>
 					</div>
 
@@ -175,7 +175,7 @@
 						<span class="flaticon-076-microscope"></span>
 					</div>						
 					<!-- Title -->
-					<h5 class="h5-xs white-color" style="margin-top:0;">LABORATORY</h5>																																		
+					<h5 class="h5-xs white-color" style="margin-top:0;">LABORATORIUM</h5>																																		
 					</div>
 					</div>
 
@@ -189,7 +189,7 @@
 						<span class="flaticon-129-hospital-1"></span>
 					</div>						
 					<!-- Title -->
-					<h5 class="h5-xs white-color" style="margin-top:0;">CONSTRUCTION</h5>																																		
+					<h5 class="h5-xs white-color" style="margin-top:0;">KONSTRUKSI</h5>																																		
 					</div>
 					</div>
 				
