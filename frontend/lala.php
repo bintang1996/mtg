@@ -46,9 +46,6 @@ var polygonSeries = chart.series.push(am5map.MapPolygonSeries.new(root, {
   exclude: ["AQ"]
 }));
 
-// Add zoom control
-// https://www.amcharts.com/docs/v5/charts/map-chart/map-pan-zoom/#Zoom_control
-chart.set("zoomControl", am5map.ZoomControl.new(root, {}));
 
 
 
