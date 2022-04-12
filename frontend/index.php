@@ -522,7 +522,7 @@
 						</div> 
 					</div>
 					<div class="row">
-								<table class="table">		<tr>
+								<table width="100%">		<tr>
 									
 								<td width="50%"></td>
 								
