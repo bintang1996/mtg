@@ -524,8 +524,8 @@
 					<div class="row">
 								<table width="100%">		<tr>
 									
-								<td width="50%"></td>
-								<td width="20%"></td>
+								<td width="50%"><?php include "lala.php";?></td>
+								<td width="10%"></td>
 								<td style="align:right;">	
 											<table>
 											<tr>
@@ -557,7 +557,7 @@
 				
 					<!-- SECTION TITLE -->	
 					<div class="row">	
-						<?php include "lala.php";?>
+						
 					</div>	
 
 
