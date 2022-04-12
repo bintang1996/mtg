@@ -27,8 +27,7 @@ root.setThemes([
   am5themes_Animated.new(root)
 ]);
 
-chart.backgroundSeries.mapPolygons.template.polygon.fill = am5core.color("#aadaff");
-chart.backgroundSeries.mapPolygons.template.polygon.fillOpacity = 1;
+
 // Create the map chart
 // https://www.amcharts.com/docs/v5/charts/map-chart/
 var chart = root.container.children.push(am5map.MapChart.new(root, {
@@ -53,7 +52,8 @@ chart.set("zoomControl", am5map.ZoomControl.new(root, {}));
 
 
 
-
+chart.backgroundSeries.mapPolygons.template.polygon.fill = am5core.color("#aadaff");
+chart.backgroundSeries.mapPolygons.template.polygon.fillOpacity = 1;
 // Set clicking on "water" to zoom out
 chart.chartContainer.get("background").events.on("click", function() {
   chart.goHome();
