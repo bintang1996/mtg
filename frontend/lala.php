@@ -50,8 +50,7 @@ var polygonSeries = chart.series.push(am5map.MapPolygonSeries.new(root, {
 // https://www.amcharts.com/docs/v5/charts/map-chart/map-pan-zoom/#Zoom_control
 chart.set("zoomControl", am5map.ZoomControl.new(root, {}));
 
-chart.backgroundSeries.mapPolygons.template.polygon.fill = am4core.color("#aadaff");
-chart.backgroundSeries.mapPolygons.template.polygon.fillOpacity = 1;
+
 
 
 // Set clicking on "water" to zoom out
@@ -181,7 +180,8 @@ function addCity(longitude, latitude, title) {
     title: title
   });
 }
-
+chart.backgroundSeries.mapPolygons.template.polygon.fill = am5core.color("#aadaff");
+chart.backgroundSeries.mapPolygons.template.polygon.fillOpacity = 1;
 // Make stuff animate on load
 chart.appear(1000, 100);
 
