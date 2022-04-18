@@ -219,7 +219,7 @@
 									   integer congue magna at pretium 
 									</p><br>
 									<?php
-										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Medis'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
@@ -242,7 +242,7 @@
 										Stent DES - DESyneX2, dan Balloon - Xpanse
 									</p><br>
 									<?php
-										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Elixir'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
@@ -264,7 +264,7 @@
 									</p><br>
 									
 									<?php
-										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Invamed'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
@@ -286,7 +286,7 @@
 										Software ini kami perkenalkan dengan Slogan : No Wire, No Adenosine
 									</p><br>
 									<?php
-										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Samsung Healthcare'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
@@ -307,7 +307,7 @@
 									   integer congue magna at pretium  purus pretium 
 									</p><br>
 									<?php
-										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Vyaire'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
@@ -328,7 +328,7 @@
 									   integer congue magna at pretium  purus pretium 
 									</p><br>
 									<?php
-										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='GE Healthcare'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
@@ -350,7 +350,7 @@
 										care maupun kebutuhan klinik dan RS yang tersedia di Numedika, termasuk didalamnya BHP yang diperlukan klinik dan RS.
 									</p><br>
 									<?php
-										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='FUJIFILM'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
@@ -370,7 +370,7 @@
 									   integer congue magna at pretium  purus pretium 
 									</p><br>
 									<?php
-										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='AGFA'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
@@ -391,7 +391,7 @@
 										BI, PACS, LIS dan TELEMEDICINE AND TELEDIAGNOSTIC 
 									</p><br>
 									<?php
-										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='SAV'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
