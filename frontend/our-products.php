@@ -59,14 +59,14 @@
 								  	<!-- TAB-2 LINK -->
 									<li class="nav-item icon-xs">
 									    <a class="nav-link" id="tab12-list" data-toggle="pill" href="#tab-12" role="tab" aria-controls="tab-12" aria-selected="false">
-									       Invamed
+									       Elixir
 									    </a>
 									</li>
 
 									<!-- TAB-3 LINK -->
 									<li class="nav-item icon-xs">
 									    <a class="nav-link" id="tab13-list" data-toggle="pill" href="#tab-13" role="tab" aria-controls="tab-13" aria-selected="false">
-									       Elixir
+										Invamed
 									    </a>
 									</li>
 
