@@ -70,6 +70,19 @@
 									    </a>
 									</li>
 
+									<!-- TAB-4 LINK -->
+									<li class="nav-item icon-xs">
+									    <a class="nav-link" id="tab14-list" data-toggle="pill" href="#tab-14" role="tab" aria-controls="tab-14" aria-selected="false">
+									       QFR
+									    </a>
+									</li>
+
+                                    <!-- TAB-4 LINK -->
+									<li class="nav-item icon-xs">
+									    <a class="nav-link" id="tab15-list" data-toggle="pill" href="#tab-15" role="tab" aria-controls="tab-14" aria-selected="false">
+									       Lain-lain
+									    </a>
+									</li>
 
 								</ul>
                                 </div>
@@ -86,39 +99,26 @@
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab16-list" data-toggle="pill" href="#tab-16" role="tab" aria-controls="tab-11" aria-selected="true">
-                                                Samsung Healthcare
+                                                Mesin (MRI/ CT)
                                             </a>
                                         </li>
 
                                         <!-- TAB-2 LINK -->
                                         <li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab17-list" data-toggle="pill" href="#tab-17" role="tab" aria-controls="tab-12" aria-selected="false">
-                                           Vyaire
+                                            BHP (...)
                                             </a>
                                         </li>
 
                                         <!-- TAB-3 LINK -->
                                         <li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-18" role="tab" aria-controls="tab-13" aria-selected="false">
-                                            GE Healthcare
+                                            DAR
                                             </a>
                                         </li>
 
-                                        <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-18" role="tab" aria-controls="tab-13" aria-selected="false">
-                                            Fujifilm
-                                            </a>
-                                        </li>
-										<li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-18" role="tab" aria-controls="tab-13" aria-selected="false">
-                                            Agfa
-                                            </a>
-                                        </li>
-										<li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-18" role="tab" aria-controls="tab-13" aria-selected="false">
-                                            PT. Satya Abadi Vesmed
-                                            </a>
-                                        </li>
+                                       
+
                                         </ul>
                                     </div>
                                 </div>
@@ -135,14 +135,14 @@
                                         <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab19-list" data-toggle="pill" href="#tab-19" role="tab" aria-controls="tab-11" aria-selected="true">
-                                                Kesia
+                                                Sistem RS
                                             </a>
                                         </li>
 
                                         <!-- TAB-2 LINK -->
                                         <li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab20-list" data-toggle="pill" href="#tab-20" role="tab" aria-controls="tab-12" aria-selected="false">
-                                            Wifus
+                                            SIM KLINIK
                                             </a>
                                         </li>
 
@@ -162,14 +162,14 @@
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab21-list" data-toggle="pill" href="#tab-21" role="tab" aria-controls="tab-11" aria-selected="true">
-                                               REI
+                                                Laboratorium DUMMY
                                             </a>
                                         </li>
 
                                         <!-- TAB-2 LINK -->
                                         <li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab22-list" data-toggle="pill" href="#tab-22" role="tab" aria-controls="tab-12" aria-selected="false">
-                                           Yokogawa
+                                            Laboratorium Penelitian
                                             </a>
                                         </li>                                       
 
