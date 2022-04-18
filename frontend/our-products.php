@@ -85,27 +85,27 @@
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab16-list" data-toggle="pill" href="#tab-16" role="tab" aria-controls="tab-11" aria-selected="true">
+                                            <a class="nav-link" id="tab16-list" data-toggle="pill" href="#tab-14" role="tab" aria-controls="tab-11" aria-selected="true">
                                                 Samsung Healthcare
                                             </a>
                                         </li>
 
                                         <!-- TAB-2 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab17-list" data-toggle="pill" href="#tab-17" role="tab" aria-controls="tab-12" aria-selected="false">
+                                            <a class="nav-link" id="tab17-list" data-toggle="pill" href="#tab-15" role="tab" aria-controls="tab-12" aria-selected="false">
                                            Vyaire
                                             </a>
                                         </li>
 
                                         <!-- TAB-3 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-18" role="tab" aria-controls="tab-13" aria-selected="false">
+                                            <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-16" role="tab" aria-controls="tab-13" aria-selected="false">
                                             GE Healthcare
                                             </a>
                                         </li>
 
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-18" role="tab" aria-controls="tab-13" aria-selected="false">
+                                            <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-17" role="tab" aria-controls="tab-13" aria-selected="false">
                                             Fujifilm
                                             </a>
                                         </li>
@@ -115,7 +115,7 @@
                                             </a>
                                         </li>
 										<li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-18" role="tab" aria-controls="tab-13" aria-selected="false">
+                                            <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-19" role="tab" aria-controls="tab-13" aria-selected="false">
                                             PT. Satya Abadi Vesmed
                                             </a>
                                         </li>
@@ -134,14 +134,14 @@
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                         <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab19-list" data-toggle="pill" href="#tab-19" role="tab" aria-controls="tab-11" aria-selected="true">
+                                            <a class="nav-link" id="tab19-list" data-toggle="pill" href="#tab-20" role="tab" aria-controls="tab-11" aria-selected="true">
                                                 Kesia
                                             </a>
                                         </li>
 
                                         <!-- TAB-2 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab20-list" data-toggle="pill" href="#tab-20" role="tab" aria-controls="tab-12" aria-selected="false">
+                                            <a class="nav-link" id="tab20-list" data-toggle="pill" href="#tab-21" role="tab" aria-controls="tab-12" aria-selected="false">
                                             Wifus
                                             </a>
                                         </li>
@@ -161,14 +161,14 @@
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab21-list" data-toggle="pill" href="#tab-21" role="tab" aria-controls="tab-11" aria-selected="true">
+                                            <a class="nav-link" id="tab21-list" data-toggle="pill" href="#tab-22" role="tab" aria-controls="tab-11" aria-selected="true">
                                                REI
                                             </a>
                                         </li>
 
                                         <!-- TAB-2 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab22-list" data-toggle="pill" href="#tab-22" role="tab" aria-controls="tab-12" aria-selected="false">
+                                            <a class="nav-link" id="tab22-list" data-toggle="pill" href="#tab-23" role="tab" aria-controls="tab-12" aria-selected="false">
                                            Yokogawa
                                             </a>
                                         </li>                                       
@@ -188,7 +188,7 @@
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab23-list" data-toggle="pill" href="#tab-23" role="tab" aria-controls="tab-11" aria-selected="true">
+                                            <a class="nav-link" id="tab23-list" data-toggle="pill" href="#tab-24" role="tab" aria-controls="tab-11" aria-selected="true">
                                                 Konstruksi
                                             </a>
                                         </li>                                      
@@ -212,7 +212,7 @@
 								<div class="tab-pane fade show active" id="tab-11" role="tabpanel" aria-labelledby="tab11-list">									
 									<!-- Title -->
 
-									<h3 class="h3-md steelblue-color">Bahan Habis Pakai / Aksesoris</h3>
+									<h3 class="h3-md steelblue-color">Medis</h3>
 
 									<!-- Text -->
 									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
@@ -234,7 +234,7 @@
 								<div class="tab-pane fade" id="tab-12" role="tabpanel" aria-labelledby="tab12-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">BHP Khusus / Stent & Ballon</h3>
+									<h3 class="h3-md steelblue-color">Elixir</h3>
 
 									<!-- Text -->
 									<p>ELIXIR MEDICAL merupakan perusahaan USA yang yang memproduksi BHP Kardiologi khususnya Produk Stent dan Balloon. 
@@ -256,7 +256,7 @@
 								<div class="tab-pane fade" id="tab-13" role="tabpanel" aria-labelledby="tab13-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">Mesin (Mesin Cathlab)</h3>
+									<h3 class="h3-md steelblue-color">Invamed</h3>
 
 									<!-- Text -->
 									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
@@ -278,7 +278,7 @@
 								<div class="tab-pane fade" id="tab-14" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">QFR</h3>
+									<h3 class="h3-md steelblue-color">Samsung Healthcare</h3>
 
 									<!-- Text -->
 									<p>Software Quantitative Flow Ratio (QFR) merupakan produk dari Medis Medical Imaging System bv Netherland.<br>
@@ -300,7 +300,7 @@
 								<div class="tab-pane fade" id="tab-15" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">Lain-Lain</h3>
+									<h3 class="h3-md steelblue-color">Vyaire</h3>
 
 									<!-- Text -->
 									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
@@ -321,7 +321,7 @@
 								<div class="tab-pane fade" id="tab-16" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">Mesin (MRI/CT)</h3>
+									<h3 class="h3-md steelblue-color">GE Healthcare</h3>
 
 									<!-- Text -->
 									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
@@ -342,7 +342,7 @@
 								<div class="tab-pane fade" id="tab-17" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">BHP(...)</h3>
+									<h3 class="h3-md steelblue-color">Fujifilm</h3>
 
 									<!-- Text -->
 									<p>Meditrans memiliki anak perusahaan, Numedika.Numedika fokus pada korporasi/Hospital dan e-commerce publik di 
@@ -363,7 +363,7 @@
 								<div class="tab-pane fade" id="tab-18" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">DAR</h3>
+									<h3 class="h3-md steelblue-color">Agfa</h3>
 
 									<!-- Text -->
 									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
@@ -384,7 +384,7 @@
 								<div class="tab-pane fade" id="tab-19" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">Sistem RS</h3>
+									<h3 class="h3-md steelblue-color">PT. Satya Abadi Vesmed</h3>
 
 									<!-- Text -->
 									<p>HIS "KESIA" adalah platform solusi lengkap "Sistem Informasi Rumah Sakit", dari Back office, 
@@ -405,7 +405,7 @@
 								<div class="tab-pane fade" id="tab-20" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">SIM KLINIK</h3>
+									<h3 class="h3-md steelblue-color">Kesia</h3>
 
 									<!-- Text -->
 									<p>Sistem Informasi Klinik (SIM Klinik) merupakan sistem informasi yang diperuntukan untuk Klinik.
@@ -426,7 +426,7 @@ SIM Klinik telah  						terjembatani sepenuhnya dengan BPJS serta mudah digunaka
 								<div class="tab-pane fade" id="tab-21" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">Laboratorium ()</h3>
+									<h3 class="h3-md steelblue-color">Wifus</h3>
 
 									<!-- Text -->
 									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
@@ -447,7 +447,7 @@ SIM Klinik telah  						terjembatani sepenuhnya dengan BPJS serta mudah digunaka
 								<div class="tab-pane fade" id="tab-22" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">Laboratorium Penelitian</h3>
+									<h3 class="h3-md steelblue-color">REI</h3>
 
 									<!-- Text -->
 									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
@@ -468,7 +468,7 @@ SIM Klinik telah  						terjembatani sepenuhnya dengan BPJS serta mudah digunaka
 								<div class="tab-pane fade" id="tab-23" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">Konstruksi</h3>
+									<h3 class="h3-md steelblue-color">Yokogawa</h3>
 
 									<!-- Text -->
 									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
@@ -484,6 +484,29 @@ SIM Klinik telah  						terjembatani sepenuhnya dengan BPJS serta mudah digunaka
 									<?php }?>
 									
 								</div>	<!-- END TAB-4 CONTENT -->
+
+								<!-- TAB-4 CONTENT -->
+								<div class="tab-pane fade" id="tab-24" role="tabpanel" aria-labelledby="tab14-list">
+
+								<!-- Title -->
+								<h3 class="h3-md steelblue-color">Konstruksi</h3>
+
+								<!-- Text -->
+								<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
+								integer congue magna at pretium  purus pretium 
+								</p><br>
+								<?php
+									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+									while($d=mysqli_fetch_array($sql)){
+									?> 
+									
+									<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+
+								<?php }?>
+
+								</div>	<!-- END TAB-4 CONTENT -->
+
+
 							</div>	<!-- END TABS CONTENT -->
 
 
