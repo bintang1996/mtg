@@ -192,23 +192,13 @@
 </style>
 
 <div class="timeline">
-  <div class="container2 left">
-    <div class="date"></div>
-    <i class="icon fa fa-home"></i>
-    <div class="content">
-      <h2>AKTE</h2>
-      <p>
-        No. 35, 23 November 2012
-      </p>
-    </div>
-  </div>
   <div class="container2 right">
     <div class="date"></div>
     <i class="icon fa fa-gift"></i>
     <div class="content">
-      <h2>NPWP</h2>
+      <h2>AKTE</h2>
       <p>
-        31.646.659.8-606.000  
+      No. 35, 23 November 2012  
       </p>
     </div>
   </div>
