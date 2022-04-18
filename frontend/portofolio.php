@@ -167,21 +167,54 @@
 								<div class="tab-pane fade" id="tab-12" role="tabpanel" aria-labelledby="tab12-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">BHP Khusus / Stent & Ballon</h3>
+									
+									<h3 class="h3-md steelblue-color">CT Scan</h3>
+
+									<!-- Image -->
+									<div class="tab-img">
+										<img class="img-fluid" src="images/portofolio/ct.webp" alt="tab-image" width="60%"/>
+										</div>
+										<br>
 
 									<!-- Text -->
-									<p>ELIXIR MEDICAL merupakan perusahaan USA yang yang memproduksi BHP Kardiologi khususnya Produk Stent dan Balloon. 
-										Meditrans ditunjuk sebagai distributor untuk produk-produk yang terdiri dari Premium Stent – DynamiX (Bioadaptor Stent), 
-										Stent DES - DESyneX2, dan Balloon - Xpanse
-									</p><br>
-									<?php
-										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-										while($d=mysqli_fetch_array($sql)){
-										?> 
-										
-										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+									<p>Adapun Rumah Sakit yang telah bekerjasama dengan kami untuk Penyediaan Layanan CT Scan adalah sebagai berikut.
+									</p>
+
 									
-									<?php }?>
+									
+								<table class="table table-striped">
+									<tr>
+										<th>No</th>
+										<th>Jenis Kerja Sama</th>
+										<th>Rumah Sakit</th>
+										<th>Tipe Peralatan</th>
+									</tr>
+									<tr>
+										<td>1</td>
+										<td>KSO CT-Scan</td>
+										<td>RSI.   Muhammadyah Palembang</td>
+										<td>GE   Dxi Single Slice</td>
+									</tr>
+									<tr>
+										<td>2</td>
+										<td>KSO CT-Scan</td>
+										<td>RSUD   Palabuanratu, Sukabumi</td>
+										<td>GE   Brivo, 16 Slice</td>
+									</tr>
+									<tr>
+										<td>3</td>
+										<td>KSO CT-Scan	</td>
+										<td>RS.   Dustira Cimahi</td>
+										<td>Siemens Somatom   Emotions, 16 Slice</td>
+									</tr>
+									<tr>
+										<td>4</td>
+										<td>KSO CT-Scan</td>
+										<td>RSU   Bangli - Bali</td>
+										<td>GE   Brightspeed 16 Slice</td>
+									</tr>
+
+								</table>
 								</div>	<!-- END TAB-2 CONTENT -->
 
 
