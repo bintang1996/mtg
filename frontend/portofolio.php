@@ -42,7 +42,7 @@
                                 <div class="card">
                                 <div class="card-header">
                                     <a class="card-link" data-toggle="collapse" href="#collapseOne">
-                                    <b>CARDIOVASCULAR</b>
+                                    <b>KERJASAMA</b>
                                     </a>
                                 </div>
                                 <div id="collapseOne" class="collapse show" data-parent="#accordion">
@@ -52,37 +52,24 @@
 							    	<!-- TAB-1 LINK -->
 								  	<li class="nav-item icon-xs">
 								    	<a class="nav-link active" id="tab11-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
-								    		Bahan Habis Pakai / Aksesoris
+								    		Cathlab
 								    	</a>
 								  	</li>
 
 								  	<!-- TAB-2 LINK -->
 									<li class="nav-item icon-xs">
 									    <a class="nav-link" id="tab12-list" data-toggle="pill" href="#tab-12" role="tab" aria-controls="tab-12" aria-selected="false">
-									       BHP Khusus / Stent & Ballon
+									       CT
 									    </a>
 									</li>
 
 									<!-- TAB-3 LINK -->
 									<li class="nav-item icon-xs">
 									    <a class="nav-link" id="tab13-list" data-toggle="pill" href="#tab-13" role="tab" aria-controls="tab-13" aria-selected="false">
-									       Mesin (Mesin Cathlab)
+									       PCR
 									    </a>
 									</li>
 
-									<!-- TAB-4 LINK -->
-									<li class="nav-item icon-xs">
-									    <a class="nav-link" id="tab14-list" data-toggle="pill" href="#tab-14" role="tab" aria-controls="tab-14" aria-selected="false">
-									       QFR
-									    </a>
-									</li>
-
-                                    <!-- TAB-4 LINK -->
-									<li class="nav-item icon-xs">
-									    <a class="nav-link" id="tab15-list" data-toggle="pill" href="#tab-15" role="tab" aria-controls="tab-14" aria-selected="false">
-									       Lain-lain
-									    </a>
-									</li>
 
 								</ul>
                                 </div>
@@ -90,7 +77,7 @@
                                 <div class="card">
                                 <div class="card-header">
                                     <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo">
-                                    <b>RADIOLOGI</b>
+                                    <b>Konstruksi</b>
                                 </a>
                                 </div>
                                 <div id="collapseTwo" class="collapse" data-parent="#accordion">
@@ -99,103 +86,16 @@
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab16-list" data-toggle="pill" href="#tab-16" role="tab" aria-controls="tab-11" aria-selected="true">
-                                                Mesin (MRI/ CT)
-                                            </a>
-                                        </li>
-
-                                        <!-- TAB-2 LINK -->
-                                        <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab17-list" data-toggle="pill" href="#tab-17" role="tab" aria-controls="tab-12" aria-selected="false">
-                                            BHP (...)
-                                            </a>
-                                        </li>
-
-                                        <!-- TAB-3 LINK -->
-                                        <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-18" role="tab" aria-controls="tab-13" aria-selected="false">
-                                            DAR
-                                            </a>
-                                        </li>
-
-                                       
-
-                                        </ul>
-                                    </div>
-                                </div>
-                                </div>
-                                <div class="card">
-                                <div class="card-header">
-                                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree">
-                                    <b>HEALTHCARE IT</b>
-                                    </a>
-                                </div>
-                                <div id="collapseThree" class="collapse" data-parent="#accordion">
-                                    <div class="card-body">
-                                    <ul class="nav nav-pills" id="pills-tab" role="tablist">
-                                        <!-- TAB-1 LINK -->
-                                        <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab19-list" data-toggle="pill" href="#tab-19" role="tab" aria-controls="tab-11" aria-selected="true">
-                                                Sistem RS
-                                            </a>
-                                        </li>
-
-                                        <!-- TAB-2 LINK -->
-                                        <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab20-list" data-toggle="pill" href="#tab-20" role="tab" aria-controls="tab-12" aria-selected="false">
-                                            SIM KLINIK
-                                            </a>
-                                        </li>
-
-                                        </ul>
-                                    </div>
-                                </div>
-                                </div>
-                                <div class="card">
-                                <div class="card-header">
-                                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseFour">
-                                    <b>LABORATORIUM</b>
-                                </a>
-                                </div>
-                                <div id="collapseFour" class="collapse" data-parent="#accordion">
-                                    <div class="card-body">
-                                    <ul class="nav nav-pills" id="pills-tab" role="tablist">
-                                       <!-- TAB-1 LINK -->
-                                        <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab21-list" data-toggle="pill" href="#tab-21" role="tab" aria-controls="tab-11" aria-selected="true">
-                                                Laboratorium DUMMY
-                                            </a>
-                                        </li>
-
-                                        <!-- TAB-2 LINK -->
-                                        <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab22-list" data-toggle="pill" href="#tab-22" role="tab" aria-controls="tab-12" aria-selected="false">
-                                            Laboratorium Penelitian
-                                            </a>
-                                        </li>                                       
-
-                                        </ul>
-                                    </div>
-                                </div>
-                                </div>
-                                <div class="card">
-                                <div class="card-header">
-                                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseFive">
-                                    <b>KONSTRUKSI</b>
-                                </a>
-                                </div>
-                                <div id="collapseFive" class="collapse" data-parent="#accordion">
-                                    <div class="card-body">
-                                    <ul class="nav nav-pills" id="pills-tab" role="tablist">
-                                       <!-- TAB-1 LINK -->
-                                        <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab23-list" data-toggle="pill" href="#tab-23" role="tab" aria-controls="tab-11" aria-selected="true">
                                                 Konstruksi
                                             </a>
-                                        </li>                                      
+										</li>
 
                                         </ul>
                                     </div>
                                 </div>
+                                </div>
+                                <div class="card">
+                                
                                 </div>
                             </div>
 
