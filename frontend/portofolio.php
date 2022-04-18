@@ -131,19 +131,19 @@
 										<td>-</td>
 									</tr>
 									<tr>
-										<td>1</td>
+										<td>2</td>
 										<td>KSO Cathlab</td>
 										<td>RS Al Islam Bandung</td>
 										<td>-</td>
 									</tr>
 									<tr>
-										<td>1</td>
+										<td>3</td>
 										<td>KSO Cathlab</td>
 										<td>RS Soepraoen Malang</td>
 										<td>-</td>
 									</tr>
 									<tr>
-										<td>1</td>
+										<td>4</td>
 										<td>KSO Cathlab</td>
 										<td>RSAL Ramelan</td>
 										<td>-</td>
