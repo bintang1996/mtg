@@ -85,7 +85,7 @@
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab16-list" data-toggle="pill" href="#tab-16" role="tab" aria-controls="tab-11" aria-selected="true">
+                                            <a class="nav-link" id="tab14-list" data-toggle="pill" href="#tab-14" role="tab" aria-controls="tab-14" aria-selected="true">
                                                 Konstruksi
                                             </a>
 										</li>
