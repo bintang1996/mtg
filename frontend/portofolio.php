@@ -76,7 +76,7 @@
                                 </div>
                                 <div class="card">
                                 <div class="card-header">
-                                    <a class="collapsed card-link"  id="tab14-list" data-toggle="pill" href="#tab-14" aria-controls="tab-14">
+                                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo">
                                     <b>Konstruksi</b>
                                 </a>
                                 </div>
