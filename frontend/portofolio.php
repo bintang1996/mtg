@@ -117,6 +117,11 @@
 									<!-- Text -->
 									<p>Adapun Rumah Sakit yang telah bekerjasama dengan kami untuk Penyediaan Layanan Kateterisasi Jantung (Cathlab) adalah sebagai berikut.
 									</p><br>
+
+									<!-- Image -->
+									<div class="tab-img">
+										<img class="img-fluid" src="images/portofolio/ct.webp" alt="tab-image" />
+									</div>
 								<table class="table table-striped">
 									<tr>
 										<th>No</th>
