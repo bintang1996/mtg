@@ -112,20 +112,44 @@
 								<div class="tab-pane fade show active" id="tab-11" role="tabpanel" aria-labelledby="tab11-list">									
 									<!-- Title -->
 
-									<h3 class="h3-md steelblue-color">Bahan Habis Pakai / Aksesoris</h3>
+									<h3 class="h3-md steelblue-color">Cathlab</h3>
 
 									<!-- Text -->
-									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-									   integer congue magna at pretium 
+									<p>Adapun Rumah Sakit yang telah bekerjasama dengan kami untuk Penyediaan Layanan Kateterisasi Jantung (Cathlab) adalah sebagai berikut.
 									</p><br>
-									<?php
-										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-										while($d=mysqli_fetch_array($sql)){
-										?> 
-										
-										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
-									
-									<?php }?>
+								<table class="table table-striped">
+									<tr>
+										<th>No</th>
+										<th>Jenis Kerja Sama</th>
+										<th>Rumah Sakit</th>
+										<th>Tipe Peralatan</th>
+									</tr>
+									<tr>
+										<td>1</td>
+										<td>KSO Cathlab</td>
+										<td>RS Dustira Cimahi</td>
+										<td>-</td>
+									</tr>
+									<tr>
+										<td>1</td>
+										<td>KSO Cathlab</td>
+										<td>RS Al Islam Bandung</td>
+										<td>-</td>
+									</tr>
+									<tr>
+										<td>1</td>
+										<td>KSO Cathlab</td>
+										<td>RS Soepraoen Malang</td>
+										<td>-</td>
+									</tr>
+									<tr>
+										<td>1</td>
+										<td>KSO Cathlab</td>
+										<td>RSAL Ramelan</td>
+										<td>-</td>
+									</tr>
+
+								</table>
 
 								</div>	<!-- END TAB-1 CONTENT -->
 
