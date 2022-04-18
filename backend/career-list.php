@@ -112,8 +112,8 @@
            
            
            <td>
-  <?php $sql3 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where cv_id='$id'"); while($d3=mysqli_fetch_array($sql3)){?>
-   <a target="_blank" href="../frontend/assets/imgs/shop/<?php echo $d3['img_name']; ?>" title="Download Document"> <p><?php $r=0; $r++; echo "Attacment"; echo " "; echo $r++; ?></p></a>
+  <?php $sql3 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where cv_id='$id'"); while($d3=mysqli_fetch_array($sql3)){ $r=0; ?>
+   <a target="_blank" href="../frontend/assets/imgs/shop/<?php echo $d3['img_name']; ?>" title="Download Document"> <p><?php  $r++; echo "Attacment"; echo " "; echo $r; ?></p></a>
      <?php } ?>
     </td>
                                         
