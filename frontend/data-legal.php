@@ -9,8 +9,8 @@
 			.w3-transparent, .w3-hover-none:hover {
     background-color: red;}
 			.gambar{
-			width: 80%;
-			height: 750px;
+			width: 50%;
+			height: 400px;
 			margin-left: 10%;
 			background-size: cover;
 		
