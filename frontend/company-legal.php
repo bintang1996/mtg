@@ -50,7 +50,7 @@
 												
 										<!-- Image Zoom -->		
 										<div class="image-zoom">
-											<a class="image-link" href="images/gallery/image-10.jpg" title=""><i class="fas fa-search-plus"></i></a>
+											<a class="image-link" href="images/1.png" title=""><i class="fas fa-search-plus"></i></a>
 										</div> 
 
 									</div>	
