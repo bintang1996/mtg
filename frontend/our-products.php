@@ -412,7 +412,7 @@
 SIM Klinik telah  						terjembatani sepenuhnya dengan BPJS serta mudah digunakan dengan flow yang sederhana. 
 									</p><br>
 									<?php
-										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Kesia'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
@@ -433,7 +433,7 @@ SIM Klinik telah  						terjembatani sepenuhnya dengan BPJS serta mudah digunaka
 									   integer congue magna at pretium  purus pretium 
 									</p><br>
 									<?php
-										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Wifus'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
