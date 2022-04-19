@@ -20,7 +20,7 @@
 						SERVICE CENTER: (+62) 81 28000 1102<P>							
 						</div> 
 						<div class="col">		
-						<i class="fas fa-mail" style="font-size:60px;"></i><BR><br><B>EMAIL</B><BR><BR><P>INFO@MEDITRANS.ID<BR>
+						<i class="fas fa-envelope"></i>" style="font-size:60px;"></i><BR><br><B>EMAIL</B><BR><BR><P>INFO@MEDITRANS.ID<BR>
 						CS@MEDITRANS.ID<P>
 														
 						</div> 
