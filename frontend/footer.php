@@ -10,7 +10,7 @@
 					<div class="row text-center">	
 						<div class="col">		
 							
-						<i class="far fa-map-marked-alt" style="font-size:60px;"></i><BR><br><B>ADDRESS</B><BR><BR><P>JL. MUNGGANG NO. 86 - 87 BALEKAMBANG,<BR>
+						<i class="far fa-map-marked" style="font-size:60px;"></i><BR><br><B>ADDRESS</B><BR><BR><P>JL. MUNGGANG NO. 86 - 87 BALEKAMBANG,<BR>
 						KRAMAT JATI, JAKARTA TIMUR 13530<P>
 
 						</div> 
