@@ -45,7 +45,7 @@
 									<div class="hover-overlay"> 
 
 										<!-- Gallery Image -->
-										<img class="img-fluid" src="images/gallery/image-10.jpg" alt="galley-image" />			
+										<img class="img-fluid" src="images/1.png" alt="galley-image" />			
 										<div class="item-overlay"></div>				
 												
 										<!-- Image Zoom -->		
@@ -63,10 +63,10 @@
 							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 
 								<!-- Section ID -->	
-					 			<span class="section-id blue-color">Welcome to MedService</span>
+					 			<span class="section-id blue-color">Welcome to Meditrans</span>
 
 								<!-- Title -->
-								<h3 class="h3-md steelblue-color">Clinic with Innovative Approach to Treatment</h3>
+								<h3 class="h3-md steelblue-color">Akta Notaris (Akta Perubahan)</h3>
 
 								<!-- Text -->
 								<p>An enim nullam tempor sapien gravida donec pretium ipsum  porta justo integer at  odio
