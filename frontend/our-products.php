@@ -481,15 +481,15 @@
 								<div class="tab-pane fade" id="tab-23" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">Yokogawa FlowCam 8000 Imaging</h3>
+									<h3 class="h3-md steelblue-color">Yokogawa</h3>
 
 									<!-- Text -->
-									<p>"FlowCam 8000 Imaging Particle Analysis System merupakan sistem analisis partikel pencitraan yang menggunakan mikroskop aliran untuk menggambar dan menganalisis partikel yang tidak terlihat dengan diameter mulai dari 2 m hingga 1 mm. Secara bersamaan menentukan bentuk partikel, jenis, dan distribusi ukuran dari semua partikel yang terdeteksi dalam solusi Anda.
-										-Volume sampel minimum = 100 l
-										-Kemampuan ambang batas tingkat lanjut memungkinkan analisis partikel tembus pandang yang akurat
-										-Siklus pembilasan dan pembersihan otomatis mencegah kontaminasi silang
-										-Laju analisis tipikal = 250 l/min
-										-Kompatibel dengan sistem Penanganan Cairan Otomatis FlowCam"
+									<p>FlowCam 8000 Imaging Particle Analysis System merupakan sistem analisis partikel pencitraan yang menggunakan mikroskop aliran untuk menggambar dan menganalisis partikel yang tidak terlihat dengan diameter mulai dari 2 m hingga 1 mm. Secara bersamaan menentukan bentuk partikel, jenis, dan distribusi ukuran dari semua partikel yang terdeteksi dalam solusi Anda.
+									<br>-Volume sampel minimum = 100 l
+									<br>-Kemampuan ambang batas tingkat lanjut memungkinkan analisis partikel tembus pandang yang akurat
+									<br>-Siklus pembilasan dan pembersihan otomatis mencegah kontaminasi silang
+									<br>-Laju analisis tipikal = 250 l/min
+									<br>-Kompatibel dengan sistem Penanganan Cairan Otomatis FlowCam
 
 									</p><br>
 									<?php
