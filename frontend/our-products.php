@@ -260,7 +260,7 @@
 									<h3 class="h3-md steelblue-color">Invamed</h3>
 
 									<!-- Text -->
-									<p>"Merupakan penyedia produk-produk vascular terdepan. INVAMED adalah perusahaan yang berasal dari negara Turki dimana saat ini PT. Meditrans Global ditunjuk sebagai distributor untuk produk produk penanganan kasus Peripheral Artery Diseases (PAD) dan Chronic Venous Insufficiency (CVI).
+									<p>Merupakan penyedia produk-produk vascular terdepan. INVAMED adalah perusahaan yang berasal dari negara Turki dimana saat ini PT. Meditrans Global ditunjuk sebagai distributor untuk produk produk penanganan kasus Peripheral Artery Diseases (PAD) dan Chronic Venous Insufficiency (CVI).
 										Produk dari INVAMED antara lain: VenaBLOCK, VeinOFF, thermoblock RFA.
 
 									</p><br>
