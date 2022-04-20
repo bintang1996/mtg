@@ -261,7 +261,7 @@
 
 									<!-- Text -->
 									<p>Merupakan penyedia produk-produk vascular terdepan. INVAMED adalah perusahaan yang berasal dari negara Turki dimana saat ini PT. Meditrans Global ditunjuk sebagai distributor untuk produk produk penanganan kasus Peripheral Artery Diseases (PAD) dan Chronic Venous Insufficiency (CVI).
-										Produk dari INVAMED antara lain: VenaBLOCK, VeinOFF, thermoblock RFA.
+										Produk dari INVAMED antara lain: VenaBLOCK, VeinOFF, thermoblock RFA
 
 									</p><br>
 									
@@ -283,9 +283,8 @@
 									<h3 class="h3-md steelblue-color">Samsung Healthcare</h3>
 
 									<!-- Text -->
-									<p>Software Quantitative Flow Ratio (QFR) merupakan produk dari Medis Medical Imaging System bv Netherland.<br>
-										Software ini merupakan Software penunjang Cathlab dengan terobosan terbaru dalam melakukan Analisis Fisiologi. 
-										Software ini kami perkenalkan dengan Slogan : No Wire, No Adenosine
+									<p>Produk-produk Samsung Healthcare: Radiografi Digital, Sistem Ultrasound, Monitor Tinjauan Diagnostik & Klinis
+
 									</p><br>
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Samsung Healthcare'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
@@ -305,8 +304,10 @@
 									<h3 class="h3-md steelblue-color">Vyaire</h3>
 
 									<!-- Text -->
-									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-									   integer congue magna at pretium  purus pretium 
+									<p>Vyaire merupakan perusahaan produsen ventilator dari USA. Meditrans ditunjuk sebagai produsen tunggal Ventilators Vyaire LTV 2200.
+
+										Produk dari vyaire antara lain Adult Circuit Without PEEP SPU, pediatric Circuit Without PEEP SPU, aksesoris ventilator: battery charger, Transport Bag, Assy, Floor Stand, Sprint Pack Mount, Filter, Inlet, Foam, Protective Boot, etc
+
 									</p><br>
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Vyaire'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
@@ -326,8 +327,10 @@
 									<h3 class="h3-md steelblue-color">GE Healthcare</h3>
 
 									<!-- Text -->
-									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-									   integer congue magna at pretium  purus pretium 
+									<p>GE Healthcare menyediakan teknologi dan layanan medis transformasional yang membentuk era baru perawatan pasien. GE Healthcare memiliki keahlian yang luas dalam pencitraan medis dan teknologi informasi, diagnostik medis, hingga sistem pemantauan pasien.
+
+										Berkantor pusat di Inggris Raya, GE Healthcare adalah unit dari General Electric Company (NYSE: GE). Di seluruh dunia, karyawan GE Healthcare berkomitmen untuk melayani profesional perawatan kesehatan dan pasien mereka di lebih dari 100 negara
+
 									</p><br>
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='GE Healthcare'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
@@ -344,12 +347,15 @@
 								<div class="tab-pane fade" id="tab-17" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">Fujifilm</h3>
+									<h3 class="h3-md steelblue-color">Fujifilm FCR PRIMA T2</h3>
 
 									<!-- Text -->
-									<p>Meditrans memiliki anak perusahaan, Numedika.Numedika fokus pada korporasi/Hospital dan e-commerce publik di 
-										industri kesehatan yang sudah memiliki IPAK. Hingga saat ini, ada lebih dari 1000 produk kesehatan baik personal 
-										care maupun kebutuhan klinik dan RS yang tersedia di Numedika, termasuk didalamnya BHP yang diperlukan klinik dan RS.
+									<p>FCR PRIMA T2 adalah FCR yang dirancang secara ringkas dengan resolusi tinggi dan pemrosesan cepat yang hanya dapat disediakan oleh Fuji Film.
+
+										FCR PRIMA T2 adalah unit pembaca meja yang menawarkan kecepatan pemrosesan tinggi kelas dunia 73 IP/jam. Dalam mode kecepatan tinggi (5 piksel/mm).
+
+										Meskipun ini adalah mesin yang ringkas, kualitas gambarnya yang luar biasa sama dengan yang dihasilkan oleh rentang FCR lainnya. Image Intelligence™, teknologi pemrosesan gambar milik Fujifilm, meningkatkan kontras dan ketajaman gambar, tanpa penurunan detail. FCR PRIMA T2 mendukung diagnosis yang akurat dengan menawarkan kualitas gambar yang stabil dan optimal
+
 									</p><br>
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='FUJIFILM'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
@@ -365,11 +371,15 @@
 								<div class="tab-pane fade" id="tab-18" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">Agfa</h3>
+									<h3 class="h3-md steelblue-color">FWFC Floor Wall or Floor Ceiling Digital Radiography System (Del Medical)
+										</h3>
 
 									<!-- Text -->
-									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-									   integer congue magna at pretium  purus pretium 
+									<p>Sistem FWFC DEL MEDICAL menawarkan solusi fleksibel untuk Fasilitas Kesehatan yang ingin memaksimalkan ruang dan meminimalkan modifikasi ruangan. Ini memiliki rel di lantai dan bagian atas rel yang dapat dipasang di dinding atau langit-langit untuk fleksibilitas pemasangan dan 
+
+										Sistem FWFC merupakan Alat Radiografi yang paling terjangkau di produk DEL MEDICAL ini, tetapi memiliki qualitas pencintraan yang sangat tinggi. FWFC ini di produksi langsung di USA dengan kualitas standar
+
+
 									</p><br>
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='AGFA'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
