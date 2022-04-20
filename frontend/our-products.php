@@ -420,8 +420,8 @@
 									<h3 class="h3-md steelblue-color">Kesia</h3>
 
 									<!-- Text -->
-									<p>Sistem Informasi Klinik (SIM Klinik) merupakan sistem informasi yang diperuntukan untuk Klinik.
-SIM Klinik telah  						terjembatani sepenuhnya dengan BPJS serta mudah digunakan dengan flow yang sederhana. 
+									<p>SIMRS Kesia adalah aplikasi sistem informasi yang dapat membantu proses pengadministrasian aktifitas operasional dan pendokumentasian transaksi keuangannya yang mendukung model multi-tenant Rumah Sakit dalam entiti perusahaan yang sama. Dirancang berbasis cloud computing dengan arsitektur pengembangan yang bersifat modular dan dinamis
+ 
 									</p><br>
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Kesia'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
@@ -441,8 +441,9 @@ SIM Klinik telah  						terjembatani sepenuhnya dengan BPJS serta mudah digunaka
 									<h3 class="h3-md steelblue-color">Wifus</h3>
 
 									<!-- Text -->
-									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-									   integer congue magna at pretium  purus pretium 
+									<p>WIFUS CIS merupakan sistem informasi untuk klinik yang telah terhubung dengan BPJS. Sistem informasi ini mudah digunakan dengan alur yang sederhana.
+
+										MOBILE WIFUS merupakan solusi penyedia Layanan Kesehatan untuk memanfaatkan dan menghubungkan pasien dengan Dokter dengan Telediagnostik, Telemedicine, pemesanan online, dan penyedia layanan Rumah
 									</p><br>
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Wifus'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
@@ -480,11 +481,16 @@ SIM Klinik telah  						terjembatani sepenuhnya dengan BPJS serta mudah digunaka
 								<div class="tab-pane fade" id="tab-23" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">Yokogawa</h3>
+									<h3 class="h3-md steelblue-color">Yokogawa FlowCam 8000 Imaging</h3>
 
 									<!-- Text -->
-									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-									   integer congue magna at pretium  purus pretium 
+									<p>"FlowCam 8000 Imaging Particle Analysis System merupakan sistem analisis partikel pencitraan yang menggunakan mikroskop aliran untuk menggambar dan menganalisis partikel yang tidak terlihat dengan diameter mulai dari 2 m hingga 1 mm. Secara bersamaan menentukan bentuk partikel, jenis, dan distribusi ukuran dari semua partikel yang terdeteksi dalam solusi Anda.
+										-Volume sampel minimum = 100 l
+										-Kemampuan ambang batas tingkat lanjut memungkinkan analisis partikel tembus pandang yang akurat
+										-Siklus pembilasan dan pembersihan otomatis mencegah kontaminasi silang
+										-Laju analisis tipikal = 250 l/min
+										-Kompatibel dengan sistem Penanganan Cairan Otomatis FlowCam"
+
 									</p><br>
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
