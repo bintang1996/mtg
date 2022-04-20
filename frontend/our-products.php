@@ -111,7 +111,7 @@
                                         </li>
 										<li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-18" role="tab" aria-controls="tab-13" aria-selected="false">
-                                            Agfa
+                                            Floor Wall or Floor Ceiling Digital Radiography System
                                             </a>
                                         </li>
 										<li class="nav-item icon-xs">
