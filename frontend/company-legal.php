@@ -18,7 +18,7 @@
 								</nav>
 
 								<!-- Title -->
-								<h4 class="h5-sm steelblue-color">COMPANY LEGAL</h4>
+								<h4 class="h4-sm steelblue-color">COMPANY LEGAL</h4>
 
 							</div>
 						</div>
@@ -96,7 +96,7 @@
 			<section id="info-4" class="wide-100 info-section division" style="background-color: white; padding-top:0;">
 				<div class="container">
                 
-                <h4 class="h5-md" style="color: #281E78;font-family:'Lato'; text-align : center; margin-top:0px;">Company Legal History</h4>
+                <h4 class="h4-md" style="color: #281E78;font-family:'Lato'; text-align : center; margin-top:0px;">Company Legal History</h4>
                 <br>
                 <?php include "history-company.php";?>
 

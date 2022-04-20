@@ -24,7 +24,7 @@
 		<div class="row">	
 						<div class="col-lg-10 offset-lg-1 section-title" style="margin-top:30px; margin-bottom:10px;">		
 							<!-- Title 	-->	
-							<h4 class="h5-md steelblue-color" style="color: #281E78;"><b>COMPANY LEGAL DOCUMENT</b></h4>								
+							<h4 class="h4-md steelblue-color" style="color: #281E78;"><b>COMPANY LEGAL DOCUMENT</b></h4>								
 						</div> 
 		</div>
 			
