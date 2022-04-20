@@ -215,8 +215,9 @@
 									<h3 class="h3-md steelblue-color">Medis</h3>
 
 									<!-- Text -->
-									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-									   integer congue magna at pretium 
+									<p>"Adalah Software untuk menghitung flow pembuluh darah jantung. Software Quantitative Flow Ratio (QFR) ini merupakan product dari Medis Medical Imaging System bv Netherland, dimana Software ini merupakan Software penunjang Cathlab dengan terobosan terbaru dalam melakukan Fisiology Analysis. Software ini kami perkenalkan dengan Slogan :
+										No Wire, No Adenosine"
+
 									</p><br>
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Medis'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
