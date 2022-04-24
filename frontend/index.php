@@ -261,11 +261,13 @@
 			<img class="img-fluid" width="70%" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
 			<td><br><br>
-			<h3 class="h4-md" style="color: #281E78;font-family:'Lato'; font-weight:bolder;"><B>SELAMAT DATANG DI MEDITRANS</B></h3><BR>	
-			<p style="text-align:justify;">MPT. Meditrans Global (PT. MTG) berdiri sejak tahun 2012 di Surabaya, berawal dari bisnis penyedia barang dan jasa dan seiring waktu kami terus mengembangkan perusahaan ini ke bidang bidang bisnis lainnya.</p>
+			<h3 class="h4-md" style="color: #281E78;font-family:'Lato'; font-weight:bolder;"><B>SELAMAT DATANG DI MEDITRANS</B></h3><BR>
+			<p style="text-align:justify;">"Selamat datang di Meditrans. Sebuah perusahaan kesehatan yang kami dirikan sejak 2012 di Surabaya yang sampai saat ini masih terus mengembangkan dirinya. Bersama tim yang berpengalaman di bidangnya, sejak awal dikembangkan, Meditrans telah melayani banyak rumah sakit dalam hal kebutuhan layanan kesehatan.</p>
 
-			<p style="text-align:justify;">Saat ini kami memfokuskan pengembangan perusahaan dalam hal pelayanan Barang dan Jasa penunjang kesehatan. 
-				Kami memiliki team yang solid untuk bekerjasama dengan Rumah Sakit ataupun perusahaan penyedia peralatan kesehatan baik principal ataupun pihak KSO untuk memberikan konsultasi dan pelaksanaan pekerjaan Pra Instalasi.</p>
+			<p style="text-align:justify;">Kami tidak hanya membantu rumah sakit untuk memenuhi kebutuhan peralatan kesehatan, perusahaan kami juga bergerak di bidang kerjasama operasional (KSO). Yakni berupa KSO CT Scan dan KSO Cathlab. Kami juga melayani kebutuhan renovasi dan pekerjaan konstruksi rumah sakit.</p>
+
+			<p style="text-align:justify;">Dengan banyak pengalaman yang kami miliki, Anda tidak perlu ragu untuk bermitra dan bekerjasama dengan kami. Kami selalu siap memberikan yang terbaik untuk Anda."</p>
+
 				<br><a href="#" class="btn btn-md btn-blue blue-hover">Selengkapnya</a>
 			</td>
 			<td width="5%"></td>
