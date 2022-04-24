@@ -32,7 +32,7 @@
 							<div class="caption d-flex align-items-center left-align" style="  background:linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2));">
 		       					<div class="container">
 		       						<div class="row" >
-		       							<div class="col-md-12" >
+		       							<div class="col-md-12 col-lg-10" >
 		       								<div class="caption-txt">
 
 											   <h4 class="white-color"><?php echo $d['atas_judul'] ?></h4>
