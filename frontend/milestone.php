@@ -18,8 +18,8 @@ button {
 
 body {
   font: normal 16px/1.5 "Helvetica Neue", sans-serif;
-  background: #456990;
-  color: #fff;
+  background: white;
+  color: blue;
 }
 
 
@@ -27,7 +27,7 @@ body {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 .section {
-  background: #F45B69;
+  background: white;
   padding: 50px 0;
 }
 
@@ -227,7 +227,7 @@ body {
 
 <section class="section intro">
   <div class="container">
-    <h1>Horizontal Timeline &rarr;</h1>
+    <h1>Milestone</h1>
   </div>
 </section>
 
