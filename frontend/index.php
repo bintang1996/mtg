@@ -112,7 +112,7 @@
 								<p style="color: black;">Kami hanya memberikan produk dan jasa dengan kualitas terbaik untuk pelanggan setia kami. 
 										Baik itu Business-to-Business (B2B), maupun Business-to-Customer B2C. <br><br>
 
-								</p>
+								</p><br>
 							
 								<!-- Button -->
 								<a><h6 style="color: #f96845;"><b>PRODUK KAMI</b></h6></a>
