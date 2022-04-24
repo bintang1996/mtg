@@ -204,7 +204,7 @@
   </div>
   <div class="container2 left">
     <div class="date"></div>
-    <i class="icon fa fa-calendar-check-o"></i>
+    <i class="icon fa fa-calendar-check"></i>
     <div class="content">
       <h2>TDP</h2>
       <p>
