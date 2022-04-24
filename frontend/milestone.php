@@ -18,8 +18,8 @@ button {
 
 body {
   font: normal 16px/1.5 "Helvetica Neue", sans-serif;
-  background: white;
-  color: blue;
+  background: #456990;
+  color: #fff;
 }
 
 
