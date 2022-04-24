@@ -66,6 +66,9 @@
 					p {
 						font-size : 8px;
 					}
+					td .lala{
+						width:50%;
+					}
 				}
 
 		</style>
