@@ -7,7 +7,7 @@
 
 
 
-.timeline {
+.timeline1 {
   position: relative;
   width: 100%;
   max-width: 1140px;
@@ -15,7 +15,7 @@
   padding: 15px 0;
 }
 
-.timeline::after {
+.timeline1::after {
   content: '';
   position: absolute;
   width: 2px;
@@ -145,7 +145,7 @@
 }
 
 @media (max-width: 767.98px) {
-  .timeline::after {
+  .timeline1::after {
     left: 90px;
   }
 
@@ -191,7 +191,7 @@
 
 </style>
 
-<div class="timeline">
+<div class="timeline1">
   <div class="container2 right">
     <div class="date"></div>
     <i class="icon fa fa-check"></i>
