@@ -101,16 +101,12 @@
 							</div>
 						</div>
 
-
-
-
-
 						<!-- ABOUT BOX #2 -->
 						<div id="abox-2" class="col-md-12 col-lg-3" style="margin-right:2%; border-radius:10%; min-width:32%; max-width:32%;">
 							<div class="abox-1 white-color" style="padding:30px;" >
 
 							<p style="font-size:14px; color: #f96845;">PRODUK TERLENGKAP</p>
-								<h4 style="color: #f96845; margin-top:0px;"><b>BERKUALITAS TERBAIK</b></h4>
+								<h4 style="color: #f96845; margin-top:0px;font-weight:bolder;"><b>BERKUALITAS TERBAIK</b></h4>
 
 								<!-- Text -->
 								<p style="color: black;">Kami hanya memberikan produk dan jasa dengan kualitas terbaik untuk pelanggan setia kami. 
@@ -123,17 +119,13 @@
 							</div>
 						</div>
 
-
-			
-
-
 						<!-- ABOUT BOX #4 -->
 						<div id="abox-4" class="col-md-12 col-lg-3" style="border-radius:10%; min-width:32%; max-width:32%">
 							<div class="abox-1 white-color" style="padding:30px;">
 
 								<!-- Title -->
 								<p style="color: #f96845;">TEMUI KAMI DI KOTA ANDA</p>
-								<h4 style="color: #f96845;  margin-top:0px;"><b>JARINGAN LUAS</b></h4>
+								<h4 style="color: #f96845;  margin-top:0px; font-weight:bolder;"><b>JARINGAN LUAS</b></h4>
 
 								<!-- Text -->
 								<p class="mt-20" style="color: black;">Meditrans memiliki jaringan dan distribusi yang luas meliputi 
