@@ -297,14 +297,13 @@
 			 						<div class="icon-xs wow fadeInUp" data-wow-delay="0.4s">
 			 							<a href="service-1.html">
 
-				 							<!-- Icon -->
-											 <h5 class="h5-sm steelblue-color"><span class="flaticon-045-molecule blue-color"><span style="padding-bottom: 10px;">BERPEGANG PADA ETIKA</span></span></h5>
-
-											<!-- Text -->
-										
 				
-												<!-- Title -->
-												
+										<table>
+										<tr>
+											<td><span class="flaticon-045-molecule blue-color"></span></td>
+											<td><h5 class="h5-sm steelblue-color">BERPEGANG PADA ETIKA</h5></td>
+										</tr>
+										</table>		
 
 											
 
