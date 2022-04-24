@@ -5162,6 +5162,7 @@ ul.blog-category-list li:hover {
 #breadcrumb {
   background-image: url(../images/breadcrumb.jpg);
   background-position: center center;
+  height: 100px;
 }
 
 .breadcrumb-holder {
@@ -5171,6 +5172,7 @@ ul.blog-category-list li:hover {
 }
 
 .breadcrumb {
+
   padding: 0;
   margin-bottom: 0;
   background-color: transparent;
