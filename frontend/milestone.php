@@ -18,8 +18,8 @@ button {
 
 body {
   font: normal 16px/1.5 "Helvetica Neue", sans-serif;
-  background: #456990;
-  color: #fff;
+  background: white;
+  color: #214068;
 }
 
 
@@ -27,7 +27,7 @@ body {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 .section {
-  background: #F45B69;
+  background: white;
   padding: 50px 0;
 }
 
@@ -68,7 +68,7 @@ body {
   list-style-type: none;
   width: 160px;
   height: 3px;
-  background: #fff;
+  background: #214068;
 }
 
 .timeline ol li:last-child {
@@ -89,7 +89,7 @@ body {
   height: 12px;
   transform: translateY(-50%);
   border-radius: 50%;
-  background: #F45B69;
+  background: #F96845;
 }
 
 .timeline ol li div {
@@ -99,8 +99,8 @@ body {
   padding: 15px;
   font-size: 1rem;
   white-space: normal;
-  color: black;
-  background: white;
+  color: white;
+  background: #214068;
 }
 
 .timeline ol li div::before {
@@ -121,7 +121,7 @@ body {
 .timeline ol li:nth-child(odd) div::before {
   top: 100%;
   border-width: 8px 8px 0 0;
-  border-color: white transparent transparent transparent;
+  border-color: #214068 transparent transparent transparent;
 }
 
 .timeline ol li:nth-child(even) div {
@@ -131,7 +131,7 @@ body {
 .timeline ol li:nth-child(even) div::before {
   top: -8px;
   border-width: 8px 0 0 8px;
-  border-color: transparent transparent transparent white;
+  border-color: transparent transparent transparent #214068;
 }
 
 .timeline time {
@@ -225,11 +225,6 @@ body {
 }
 </style>
 
-<section class="section intro">
-  <div class="container">
-    <h1>Milestone</h1>
-  </div>
-</section>
 
 <section class="timeline">
   <ol>
