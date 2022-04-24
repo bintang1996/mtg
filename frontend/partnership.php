@@ -49,13 +49,12 @@
 							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 
 															<!-- Title -->
-								<h3 class="h3-md steelblue-color">Latar Belakang KSO</h3>
+								<h3 class="h3-md steelblue-color">Latar belakang PPP</h3>
 
 								<!-- Text -->
-								<p>KSO merupakan kerjasama antara Rumah Sakit Umum dan Perusahaan Swast.
-									KSO merupakan salah satu solusi yang dilakukan oleh pihak swasta untuk membantu dan bekerjasama dengan Rumah 
-									Sakit membuka layanan baru serta mendapatkan akses teknologi baru dan transfer ilmu.
-								</p>
+								<p>"Public Private Partnership (PPP)  merupakan kerjasama antara Rumah Sakit Umum dan Perusahaan Swasta.
+									PPPP merupakan salah satu solusi yang dilakukan oleh pihak swasta untuk membantu dan bekerjasama dengan Rumah Sakit membuka layanan baru 
+									serta mendapatkan akses teknologi baru dan transfer ilmu."</p>
 							</div>
 						</div>	<!-- END TEXT BLOCK -->	
 
@@ -77,10 +76,7 @@
 									<h3 class="h3-md steelblue-color">Model Bisnis</h3>
 
 									<!-- Text -->
-									<p class="mb-30">An enim nullam tempor sapien gravida donec enim ipsum blandit
-									   porta justo integer odio velna vitae auctor integer congue magna at pretium 
-									   purus pretium ligula rutrum itae laoreet augue posuere and curae integer 
-									   congue leo metus mollis primis and mauris
+									<p class="mb-30">
 									</p>
 
 									<!-- Options List -->
@@ -91,19 +87,19 @@
 											<!-- Option #1 -->
 											<div class="box-list">							
 												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p class="p-sm">Nemo ipsam egestas volute and turpis dolores quaerat</p>							
+												<p class="p-sm">Kolaborasi BPJS, Funneling, PPP Model, Subdistribution</p>							
 											</div>
 
 											<!-- Option #2 -->
 											<div class="box-list">	
 												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p class="p-sm">Magna luctus tempor</p>				
+												<p class="p-sm">Dedicated Sales and Apps Person<br>Dedicated Sales and Apps person will give high chance to win</p>				
 											</div>
 
 											<!-- Option #3 -->
 											<div class="box-list">	
 												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p class="p-sm">An enim nullam tempor at pretium purus blandit</p>				
+												<p class="p-sm">Bundle With Modality<br>Offer Bundle package with cathlab</p>				
 											</div>
 
 										</div>
@@ -113,13 +109,13 @@
 											<!-- Option #4 -->
 											<div class="box-list">	
 												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p class="p-sm">Magna luctus tempor blandit a vitae suscipit mollis</p>				
+												<p class="p-sm">E-catalog listed product<br>Register QFR in Government Ecommerce</p>				
 											</div>
 
 											<!-- Option #5 -->
 											<div class="box-list">							
 												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p class="p-sm">Nemo ipsam egestas volute turpis dolores quaerat</p>							
+												<p class="p-sm">On-site Support<br>Build confidence on Users/cardiologist</p>							
 											</div>
 
 											<!-- Option #6 -->
