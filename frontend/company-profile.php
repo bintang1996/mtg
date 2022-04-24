@@ -281,7 +281,7 @@
 							<div class="services-7-table blue-table mb-30 wow fadeInUp" data-wow-delay="0.6s">
 
 								<!-- Title -->
-								<h4 class="h4-xs">COMPANY VALUES</h4>
+								<h4 class="h4-xs text-center" style="padding-top=200px;">COMPANY<br> VALUES</h4>
 
 							</div>	
 						</div>	<!-- END INFO TABLE -->
