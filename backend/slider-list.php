@@ -26,7 +26,7 @@ $deskripsi=$_POST['deskripsi'];
 
             
 
-				$query1="INSERT INTO slider_top (type_file, link_slider, slider_img, atas_judul, judul, deksripsi)values('$temp1', '$link_slider', '$newfilename', '$atas_judul', '$judul', '$deskripsi' )";
+				$query1="INSERT INTO slider_top (type_file, link_slider, slider_img, atas_judul, judul, deskripsi)values('$temp1', '$link_slider', '$newfilename', '$atas_judul', '$judul', '$deskripsi' )";
 				$result1 = mysqli_query($GLOBALS["___mysqli_ston"], $query1);	}
                 
              
