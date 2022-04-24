@@ -318,17 +318,14 @@
 			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.6s">
 			 							<a href="service-2.html">
 
-				 							<!-- Icon -->
-											<span class="flaticon-047-head blue-color"></span>
-
-											<!-- Text -->
-											<div class="sbox-7-txt">
-				
-												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">KOMPETISI</h5>
-													
-
-											</div>
+											
+										<table>
+										<tr>
+											<td><span class="flaticon-045-molecule blue-color"></span></td>
+											<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+											<td><h5 class="h5-sm steelblue-color" style="font-weight:bolder;padding-top:5px;">KOMPETISI</h5></td>
+										</tr>
+										</table>
 
 				 						</a>
 			 						</div>
@@ -340,17 +337,13 @@
 			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.4s">
 			 							<a href="service-1.html">
 
-				 							<!-- Icon -->
-											<span class="flaticon-015-blood-donation-1 blue-color"></span>
-
-											<!-- Text -->
-											<div class="sbox-7-txt">
-				
-												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">PROAKTIF</h5>
-													
-
-											</div>
+										<table>
+										<tr>
+											<td><span class="flaticon-045-molecule blue-color"></span></td>
+											<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+											<td><h5 class="h5-sm steelblue-color" style="font-weight:bolder;padding-top:5px;">PROAKTIF</h5></td>
+										</tr>
+										</table>
 
 				 						</a>
 			 						</div>
@@ -362,16 +355,13 @@
 			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.6s">
 			 							<a href="service-2.html">
 
-				 							<!-- Icon -->
-											<span class="flaticon-047-head blue-color"></span>
-
-											<!-- Text -->
-											<div class="sbox-7-txt">
-				
-												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">SALING MENGHORMATI</h5>
-													
-											</div>
+										<table>
+										<tr>
+											<td><span class="flaticon-045-molecule blue-color"></span></td>
+											<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+											<td><h5 class="h5-sm steelblue-color" style="font-weight:bolder;padding-top:5px;">SALING MENGHORMATI</h5></td>
+										</tr>
+										</table>
 
 				 						</a>
 			 						</div>
@@ -383,17 +373,13 @@
 			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.4s">
 			 							<a href="service-1.html">
 
-				 							<!-- Icon -->
-											<span class="flaticon-015-blood-donation-1 blue-color"></span>
-
-											<!-- Text -->
-											<div class="sbox-7-txt">
-				
-												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">STANDARD TINGGI</h5>
-													
-
-											</div>
+										<table>
+										<tr>
+											<td><span class="flaticon-045-molecule blue-color"></span></td>
+											<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+											<td><h5 class="h5-sm steelblue-color" style="font-weight:bolder;padding-top:5px;">STANDART TINGGI</h5></td>
+										</tr>
+										</table>
 
 				 						</a>
 			 						</div>
@@ -405,17 +391,14 @@
 			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.6s">
 			 							<a href="service-2.html">
 
-				 							<!-- Icon -->
-											<span class="flaticon-047-head blue-color"></span>
-
-											<!-- Text -->
-											<div class="sbox-7-txt">
-				
-												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">TUMBUH DAN BERKEMBANG</h5>
-													
-
-											</div>
+											
+										<table>
+										<tr>
+											<td><span class="flaticon-045-molecule blue-color"></span></td>
+											<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+											<td><h5 class="h5-sm steelblue-color" style="font-weight:bolder;padding-top:5px;">TUMBUH DAN BERKEMBANG</h5></td>
+										</tr>
+										</table>
 
 										</a>
 			 						</div>
