@@ -166,13 +166,10 @@
 					          	 
 								
         						<!-- DROPDOWN MENU -->
-					        	<li aria-haspopup="true"><a href="#"><img src="images/flag/1.png" width="15px"><span class="wsarrow"></span></a>
+					        	<li aria-haspopup="true"><a href="#"><img src="images/flag/1.png" width="20px"><span class="wsarrow"></span></a>
 					           		<ul class="sub-menu">
-					           			<li aria-haspopup="true"><a href="#">Dummy Link Style #1</a></li>
-					              		<li aria-haspopup="true"><a href="#">Dummy Link Style #2</a></li>
-					              		<li aria-haspopup="true"><a href="#">Dummy Link Style #3</a></li>
-					              		<li aria-haspopup="true"><a href="#">Dummy Link Style #4</a></li>
-					              		<li aria-haspopup="true"><a href="#">Dummy Link Style #5</a></li>
+					           			<li aria-haspopup="true"><a href="#"><img src="images/flag/1.png" width="20px"></a></li>
+					              		<li aria-haspopup="true"><a href="#"><img src="images/flag/2.png" width="20px"></a></li>
 					           		</ul>
 					          	</li>	<!-- END DROPDOWN MENU -->
                                 
