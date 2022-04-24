@@ -49,7 +49,7 @@
 							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 
 															<!-- Title -->
-								<h3 class="h3-md steelblue-color">Latar belakang PPP</h3>
+								<h3 class="h3-md steelblue-color">Latar belakang Public Private Partnership (PPP)</h3>
 
 								<!-- Text -->
 								<p>"Public Private Partnership (PPP)  merupakan kerjasama antara Rumah Sakit Umum dan Perusahaan Swasta.
@@ -117,12 +117,6 @@
 												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
 												<p class="p-sm">On-site Support<br>Build confidence on Users/cardiologist</p>							
 											</div>
-
-											<!-- Option #6 -->
-											<div class="box-list">	
-												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p class="p-sm">An enim nullam tempor</p>				
-											</div>
 										</div>
 									</div>	<!-- End Options List -->
 								</div>
@@ -141,14 +135,14 @@
 
 <!-- ABOUT-5
 			============================================= -->
-			<section id="about-5" class="pt-100 about-section division" style="background-color:#281E78; padding-top:50px;">
+			<section id="about-5" class="pt-100 about-section division" style="background-color:#ececec; padding-top:50px;">
 				<div class="container" style="background-color:#281E78;">
 
 				
 					<!-- Title 	-->	
-					<h3 style="margin-bottom:0;" class="h3-md col-lg-10 offset-lg-1 section-title white-color">Why KSO</h3>						
+					<h3 style="margin-bottom:0;color:#214068;" class="h3-md col-lg-10 offset-lg-1 section-title">Mengapa Public Private Partnership (PPP)</h3>						
 				
-					
+					<p>PPP merupakan salah satu solusi bagi Rumah Sakit untuk mengembangkan layanannya. PPP juga menjadi solusi untuk meningkatkan okupansi RS dan layanan lain, program pengembangan, rencana pemasaran, optimalisasi BHP, jaminan utilisasi alat, dukungan terhadap alat, akses teknologi baru, serta meningkatkan citra dan reputasi RS.</p>
 					<div class="row d-flex align-items-center text-center">
 
 
