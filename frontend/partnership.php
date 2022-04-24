@@ -154,7 +154,7 @@
 					</div>
 					<!-- Title -->
 					<br>
-					<h5 class="h5-xs" style="margin-top:0;color:#214068;">Lorem Ipsum</h5>																																		
+					<h5 class="h5-xs" style="margin-top:0;color:#214068;padding-top:20px;">Lorem Ipsum</h5>																																		
 					</div>
 					</div>
 
@@ -166,7 +166,7 @@
 					</div>
 					<!-- Title -->
 					<br>
-					<h5 class="h5-xs" style="margin-top:0;color:#214068;">Lorem Ipsum</h5>																																		
+					<h5 class="h5-xs" style="margin-top:0;color:#214068;padding-top:20px;">Lorem Ipsum</h5>																																		
 					</div>
 					</div>
 
@@ -178,7 +178,7 @@
 					</div>						
 					<!-- Title -->
 					<br>
-					<h5 class="h5-xs" style="margin-top:0;color:#214068;">Lorem Ipsum</h5>																																		
+					<h5 class="h5-xs" style="margin-top:0;color:#214068;padding-top:20px;">Lorem Ipsum</h5>																																		
 					</div>
 					</div>
 
@@ -190,7 +190,7 @@
 					</div>						
 					<!-- Title -->
 					<br>
-					<h5 class="h5-xs" style="margin-top:0;color:#214068;">Lorem Ipsum</h5>																																		
+					<h5 class="h5-xs" style="margin-top:0;color:#214068;padding-top:20px;">Lorem Ipsum</h5>																																		
 					</div>
 					</div>
 
@@ -205,7 +205,7 @@
 					</div>						
 					<!-- Title -->
 					<br>
-					<h5 class="h5-xs" style="margin-top:0;color:#214068;">Lorem Ipsum</h5>																																		
+					<h5 class="h5-xs" style="margin-top:0;color:#214068;padding-top:20px;">Lorem Ipsum</h5>																																		
 					</div>
 					</div>
 						
@@ -221,7 +221,7 @@
 					</div>
 					<!-- Title -->
 					<br>
-					<h5 class="h5-xs" style="margin-top:0;color:#214068;">Lorem Ipsum</h5>																																		
+					<h5 class="h5-xs" style="margin-top:0;color:#214068;padding-top:20px;">Lorem Ipsum</h5>																																		
 					</div>
 					</div>
 
@@ -233,7 +233,7 @@
 					</div>
 					<!-- Title -->
 					<br>
-					<h5 class="h5-xs" style="margin-top:0;color:#214068;">Lorem Ipsum</h5>																																		
+					<h5 class="h5-xs" style="margin-top:0;color:#214068;padding-top:20px;">Lorem Ipsum</h5>																																		
 					</div>
 					</div>
 
@@ -245,7 +245,7 @@
 					</div>						
 					<!-- Title -->
 					<br>
-					<h5 class="h5-xs" style="margin-top:0;color:#214068;">Lorem Ipsum</h5>																																		
+					<h5 class="h5-xs" style="margin-top:0;color:#214068;padding-top:20px;">Lorem Ipsum</h5>																																		
 					</div>
 					</div>
 
@@ -257,7 +257,7 @@
 					</div>						
 					<!-- Title -->
 					<br>
-					<h5 class="h5-xs" style="margin-top:0;color:#214068;">Lorem Ipsum</h5>																																		
+					<h5 class="h5-xs" style="margin-top:0;color:#214068;padding-top:20px;">Lorem Ipsum</h5>																																		
 					</div>
 					</div>
 
@@ -271,7 +271,7 @@
 						<span class="flaticon-129-hospital-1"></span>
 					</div>						
 					<!-- Title --><br>
-					<h5 class="h5-xs" style="margin-top:0; color:#214068;">Lorem Ipsum</h5>																																		
+					<h5 class="h5-xs" style="padding-top:20px; color:#214068;">Lorem Ipsum</h5>																																		
 					</div>
 					</div>		
 					</div>    <!-- End row -->
