@@ -27,7 +27,36 @@
 								?> 	
                                 <li id="slide-<?php echo $i;  ?>">			
 								<a href="<?php echo $d['link_slider'] ?>"><img class="img-fluid" width="1200px" height="600px" src="images/slider/<?php echo $d['slider_img'] ?>" alt="hero-image"></a>
-                                </li>
+                                
+							<!-- Image Caption -->
+							<div class="caption d-flex align-items-center left-align">
+		       					<div class="container">
+		       						<div class="row">
+		       							<div class="col-md-9 col-lg-7">
+		       								<div class="caption-txt">
+
+						       					<!-- Title -->
+						       					<h2 class="steelblue-color">We will help you <span class="blue-color">to become healthy</span></h2>
+
+						       					<!-- Option Box #1 -->
+												<div class="box-list">							
+													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
+													<p class="p-md">Fringilla risus nec, luctus mauris orci auctor purus euismod 
+													   pretium purus pretium ligula rutrum tempor sapien at pretium luctus ligula
+													</p>						
+												</div>
+
+									          	
+
+											</div>
+										</div>
+									</div>  <!-- End row -->
+								</div>  <!-- End container -->
+					        </div>	<!-- End Image Caption -->
+
+							
+							
+							</li>
                                 <?php } ?>
 						
 					    	<!-- END SLIDE #1 -->
