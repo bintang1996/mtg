@@ -82,8 +82,7 @@
 
 								<!-- Text -->
 								<p style="color: black;">Kami hanya memberikan produk dan jasa dengan kualitas terbaik untuk pelanggan setia kami. 
-										Baik itu Business-to-Business (B2B), maupun Business-to-Customer B2C. Meditrans juga memiliki sistem terbaik 
-										dalam hal pengembangan layanan kerjasama dengan Rumah Sakit.
+										Baik itu Business-to-Business (B2B), maupun Business-to-Customer B2C. 
 
 								</p>
 							
