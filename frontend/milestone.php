@@ -19,7 +19,7 @@ button {
 body {
   font: normal 16px/1.5 "Helvetica Neue", sans-serif;
   background: white;
-  color: black;
+  color: #214068;
 }
 
 
