@@ -80,8 +80,8 @@
 								<h3 class="h3-md steelblue-color">Konstruksi</h3>
 
 								<!-- Text -->
-								<p>
-								<i class="fa fa-circle">- Timbalisasi ruangan Radiologi</i><br>
+								<p><ul>
+								<li>Timbalisasi ruangan Radiologi</li><br>
 									- Penyediaan Kaca Pb, Frame Kaca dan Pemasangannya
 									- Menyediakan Pintu Timbal atau Anti radiasi dengan berbagai macam tipe dan bahan (Finishing HPL, Stainles Steel baik manual maupun otomatis atau Pintu Harmetic)<br>
 									- Finishing Ruangan dengan berbagai macam bahan (Partisi Gypsum, Kalsiboard maupun Sandwich Panel)<br>
@@ -89,7 +89,7 @@
 									- Pengerjaan penguatan rangka atas untuk penggunaan alat dan penguatan fondasi alat<br>
 									- Electrical dan Grounding Installation<br>
 									- Penyediaan dan pemasangan raised floor
-
+</ul>
 								</p>
 
 							</div>
