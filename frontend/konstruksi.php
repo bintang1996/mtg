@@ -125,12 +125,20 @@
 								<h3 class="h3-md steelblue-color">Renovasi Ruang Operasi (MOT)</h3>
 
 								<!-- Text -->
-								<p>
-									- Hepa Filter<br>
-									- Instrument Ruang Operasi: Meja operasi, pass box, film viewer, display information, pendant, vynil lantai, dll<br>
-									- Finishing dinding ruang operasi dengan material lokal maupun import<br>
-									- pintu hermatic dnegan mesin China, Jepang, maupun Eropa
-								</p>
+								<p><table>
+								<tr>
+								<td valign="top">&#8226; </td> <td> Hepa Filter</td>
+								</tr>
+								<tr>
+								<td valign="top">&#8226; </td> <td>Instrument Ruang Operasi: Meja operasi, pass box, film viewer, display information, pendant, vynil lantai, dll</td>
+								</tr>
+								<tr>
+								<td valign="top">&#8226; </td> <td>Finishing dinding ruang operasi dengan material lokal maupun import</td>
+								</tr>
+								<tr>
+								<td valign="top">&#8226; </td> <td>pintu hermatic dnegan mesin China, Jepang, maupun Eropa</td>
+								</tr>
+</table></p>
 							</div>
 						</div>	<!-- END TEXT BLOCK -->	
 								<!-- INFO IMAGE -->
