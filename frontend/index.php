@@ -38,7 +38,7 @@
 											   <h4 class="white-color">ATAS JUDUL</h4>
 
 						       					<!-- Title -->
-						       					<h3 class="white-color">We will help you <span class="white-color">to become healthy</span></h3>
+						       					<h3 class="h3-md white-color">We will help you <span class="white-color">to become healthy</span></h3>
 
 						       					<!-- Option Box #1 -->
 												<div class="box-list">							
