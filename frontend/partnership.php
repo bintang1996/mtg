@@ -153,7 +153,8 @@
 						<span class="flaticon-060-cardiogram-4"></span>
 					</div>
 					<!-- Title -->
-					<h5 class="h5-xs white-color" style="margin-top:0;">Lorem Ipsum</h5>																																		
+					<br>
+					<h5 class="h5-xs" style="margin-top:0;color:#214068;">Lorem Ipsum</h5>																																		
 					</div>
 					</div>
 
@@ -164,7 +165,8 @@
 						<span class="flaticon-031-scanner"></span>
 					</div>
 					<!-- Title -->
-					<h5 class="h5-xs white-color" style="margin-top:0;">Lorem Ipsum</h5>																																		
+					<br>
+					<h5 class="h5-xs" style="margin-top:0;color:#214068;">Lorem Ipsum</h5>																																		
 					</div>
 					</div>
 
@@ -175,7 +177,8 @@
 						<span class="flaticon-136-monitor"></span>
 					</div>						
 					<!-- Title -->
-					<h5 class="h5-xs white-color" style="margin-top:0;">Lorem Ipsum</h5>																																		
+					<br>
+					<h5 class="h5-xs" style="margin-top:0;color:#214068;">Lorem Ipsum</h5>																																		
 					</div>
 					</div>
 
@@ -186,7 +189,8 @@
 						<span class="flaticon-076-microscope"></span>
 					</div>						
 					<!-- Title -->
-					<h5 class="h5-xs white-color" style="margin-top:0;">Lorem Ipsum</h5>																																		
+					<br>
+					<h5 class="h5-xs" style="margin-top:0;color:#214068;">Lorem Ipsum</h5>																																		
 					</div>
 					</div>
 
@@ -200,7 +204,8 @@
 						<span class="flaticon-129-hospital-1"></span>
 					</div>						
 					<!-- Title -->
-					<h5 class="h5-xs white-color" style="margin-top:0;">Lorem Ipsum</h5>																																		
+					<br>
+					<h5 class="h5-xs" style="margin-top:0;color:#214068;">Lorem Ipsum</h5>																																		
 					</div>
 					</div>
 						
@@ -215,7 +220,8 @@
 						<span class="flaticon-060-cardiogram-4"></span>
 					</div>
 					<!-- Title -->
-					<h5 class="h5-xs white-color" style="margin-top:0;">Lorem Ipsum</h5>																																		
+					<br>
+					<h5 class="h5-xs" style="margin-top:0;color:#214068;">Lorem Ipsum</h5>																																		
 					</div>
 					</div>
 
@@ -226,7 +232,8 @@
 						<span class="flaticon-031-scanner"></span>
 					</div>
 					<!-- Title -->
-					<h5 class="h5-xs white-color" style="margin-top:0;">Lorem Ipsum</h5>																																		
+					<br>
+					<h5 class="h5-xs" style="margin-top:0;color:#214068;">Lorem Ipsum</h5>																																		
 					</div>
 					</div>
 
@@ -237,7 +244,8 @@
 						<span class="flaticon-136-monitor"></span>
 					</div>						
 					<!-- Title -->
-					<h5 class="h5-xs white-color" style="margin-top:0;">Lorem Ipsum</h5>																																		
+					<br>
+					<h5 class="h5-xs" style="margin-top:0;color:#214068;">Lorem Ipsum</h5>																																		
 					</div>
 					</div>
 
@@ -248,7 +256,8 @@
 						<span class="flaticon-076-microscope"></span>
 					</div>						
 					<!-- Title -->
-					<h5 class="h5-xs white-color" style="margin-top:0;">Lorem Ipsum</h5>																																		
+					<br>
+					<h5 class="h5-xs" style="margin-top:0;color:#214068;">Lorem Ipsum</h5>																																		
 					</div>
 					</div>
 
@@ -261,8 +270,8 @@
 					<div class="sbox-3-icon">
 						<span class="flaticon-129-hospital-1"></span>
 					</div>						
-					<!-- Title -->
-					<h5 class="h5-xs white-color" style="margin-top:0;">Lorem Ipsum</h5>																																		
+					<!-- Title --><br>
+					<h5 class="h5-xs" style="margin-top:0; color:#214068;">Lorem Ipsum</h5>																																		
 					</div>
 					</div>		
 					</div>    <!-- End row -->
