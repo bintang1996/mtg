@@ -82,28 +82,28 @@
 								<!-- Text -->
 								<p><table>
 								<tr>
-								<td>&#8226; </td> <td> Timbalisasi ruangan Radiologi</td>
+								<td valign="top">&#8226; </td> <td> Timbalisasi ruangan Radiologi</td>
 								</tr>
 								<tr>
-								<td>&#8226; </td> <td> Penyediaan Kaca Pb, Frame Kaca dan Pemasangannya</td>
+								<td valign="top">&#8226; </td> <td> Penyediaan Kaca Pb, Frame Kaca dan Pemasangannya</td>
 								</tr>
 								<tr>
-								<td>&#8226; </td> <td> Menyediakan Pintu Timbal atau Anti radiasi dengan berbagai macam tipe dan bahan (Finishing HPL, Stainles Steel baik manual maupun otomatis atau Pintu Harmetic)</td>
+								<td valign="top">&#8226; </td> <td> Menyediakan Pintu Timbal atau Anti radiasi dengan berbagai macam tipe dan bahan (Finishing HPL, Stainles Steel baik manual maupun otomatis atau Pintu Harmetic)</td>
 								</tr>
 								<tr>
-								<td>&#8226; </td> <td> Finishing Ruangan dengan berbagai macam bahan (Partisi Gypsum, Kalsiboard maupun Sandwich Panel)</td>
+								<td valign="top">&#8226; </td> <td> Finishing Ruangan dengan berbagai macam bahan (Partisi Gypsum, Kalsiboard maupun Sandwich Panel)</td>
 								</tr>
 								<tr>
-								<td>&#8226; </td> <td> Penyediaan dan pemasangan lantai vynil</td>
+								<td valign="top">&#8226; </td> <td> Penyediaan dan pemasangan lantai vynil</td>
 								</tr>
 								<tr>
-								<td>&#8226; </td> <td> Pengerjaan penguatan rangka atas untuk penggunaan alat dan penguatan fondasi alat</td>
+								<td valign="top">&#8226; </td> <td> Pengerjaan penguatan rangka atas untuk penggunaan alat dan penguatan fondasi alat</td>
 								</tr>
 								<tr>
-								<td>&#8226; </td> <td> Electrical dan Grounding Installation</td>
+								<td valign="top">&#8226; </td> <td> Electrical dan Grounding Installation</td>
 								</tr>
 								<tr>
-								<td>&#8226; </td> <td> Penyediaan dan pemasangan raised floor</td>
+								<td valign="top">&#8226; </td> <td> Penyediaan dan pemasangan raised floor</td>
 								</tr>
 </table>
 								</p>
