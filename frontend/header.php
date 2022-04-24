@@ -163,9 +163,18 @@
 								<li class="nl-simple" aria-haspopup="true"><a href="<?php echo $d['logo']; ?>"><?php echo $d['cat_name'] ?></a></li>
 								<?php } ?>	
 
-					          	<!-- NAVIGATION MENU BUTTON -->
-							    <li class="nl-simple header-btn" aria-haspopup="true"><a href="appointment.html">Staff Login</a></li>
-                                   
+					          	 
+								
+        						<!-- DROPDOWN MENU -->
+					        	<li aria-haspopup="true"><a href="#"><img src="/images/flag/1.png" width="15px"><span class="wsarrow"></span></a>
+					           		<ul class="sub-menu">
+					           			<li aria-haspopup="true"><a href="#">Dummy Link Style #1</a></li>
+					              		<li aria-haspopup="true"><a href="#">Dummy Link Style #2</a></li>
+					              		<li aria-haspopup="true"><a href="#">Dummy Link Style #3</a></li>
+					              		<li aria-haspopup="true"><a href="#">Dummy Link Style #4</a></li>
+					              		<li aria-haspopup="true"><a href="#">Dummy Link Style #5</a></li>
+					           		</ul>
+					          	</li>	<!-- END DROPDOWN MENU -->
                                 
         					</ul>
         				</nav>	<!-- END MAIN MENU -->
