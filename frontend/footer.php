@@ -2,9 +2,8 @@
 
 	<!-- SERVICES-3
 			============================================= -->
-			<section id="services-3" class="bg-lightgrey wide-100 services-section division" style="background-color:white; padding-bottom:0px;">
+			<section id="services-3" class="bg-lightgrey wide-100 services-section division" style="background-color:white; padding-bottom:0px;padding-top: 50px;">
 				<div class="container">
-
 
 					<!-- SECTION TITLE -->	
 					<div class="row text-center">	
