@@ -47,10 +47,10 @@
 													   pretium purus pretium ligula rutrum tempor sapien at pretium luctus ligula
 													</p>						
 												</div>
-
+												<br>
 									          	<!-- Button -->
 												<a href="<?php echo $d['link_slider'] ?>" ><p class="p-md white-color"><i class="fas fa-angle-double-right"></i>  More Detail</p></a>
-
+												<br><br>
 
 											</div>
 										</div>
