@@ -301,15 +301,11 @@
 											<span class="flaticon-015-blood-donation-1 blue-color"></span>
 
 											<!-- Text -->
-											<div class="sbox-7-txt">
+											<div>
 				
 												<!-- Title -->
 												<h5 class="h5-sm steelblue-color">BERPEGANG PADA ETIKA</h5>
 													
-												<!-- Text -->
-												<p class="p-sm">Selalu berpegang teguh pada Etika Bisnis bisnis yang tinggi 
-													dalam setiap aktivitas perusahaan.
-												</p>
 
 											</div>
 
@@ -332,11 +328,6 @@
 												<!-- Title -->
 												<h5 class="h5-sm steelblue-color">KOMPETISI</h5>
 													
-												<!-- Text -->
-												<p class="p-sm">Kompetensi karyawan dikembangkan terus menerus untuk memaksimalkan 
-													kapabilitas Karyawan.
-
-												</p>
 
 											</div>
 
@@ -359,10 +350,6 @@
 												<!-- Title -->
 												<h5 class="h5-sm steelblue-color">PROAKTIF</h5>
 													
-												<!-- Text -->
-												<p class="p-sm">Senantiasa mengupayakan peningkatan system dan 
-													operational kerja yang lebih baik dari sebelumnya.
-												</p>
 
 											</div>
 
@@ -385,11 +372,6 @@
 												<!-- Title -->
 												<h5 class="h5-sm steelblue-color">SALING MENGHORMATI</h5>
 													
-												<!-- Text -->
-												<p class="p-sm">Membangun hubungan berdasarkan prinsip saling 
-													menghormati diantara sesama rekan kerja, pelanggan dan masyarakat industri.
-												</p>
-
 											</div>
 
 				 						</a>
@@ -411,9 +393,6 @@
 												<!-- Title -->
 												<h5 class="h5-sm steelblue-color">STANDARD TINGGI</h5>
 													
-												<!-- Text -->
-												<p class="p-sm">Mempertahankan standard yang tinggi dalam setiap aktifitas kerja.
-												</p>
 
 											</div>
 
@@ -436,10 +415,6 @@
 												<!-- Title -->
 												<h5 class="h5-sm steelblue-color">TUMBUH DAN BERKEMBANG</h5>
 													
-												<!-- Text -->
-												<p class="p-sm">Mengupayakan pertumbuhan finansial, intelektual, 
-													dan citra perusahaan yang konsisten serta melakukan investasi kembali ke dalam bisnis yang dijalankan.
-												</p>
 
 											</div>
 
