@@ -434,7 +434,7 @@
 					
 						<!-- DOCTOR #1 -->
 						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img  src="images/networks/Picture1.png" alt="doctor-foto">								
+							<img width="160px" src="images/networks/Picture1.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
