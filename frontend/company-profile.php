@@ -298,16 +298,15 @@
 			 							<a href="service-1.html">
 
 				 							<!-- Icon -->
-											<span class="flaticon-015-blood-donation-1 blue-color"></span>
+											<span class="flaticon-015-blood-donation-1 blue-color"><h5 class="h5-sm steelblue-color">BERPEGANG PADA ETIKA</h5></span>
 
 											<!-- Text -->
-											<div class="sbox-7-txt">
+										
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">BERPEGANG PADA ETIKA</h5>
-													
+												
 
-											</div>
+											
 
 										</a>
 			 						</div>
