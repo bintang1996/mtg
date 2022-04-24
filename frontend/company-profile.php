@@ -437,18 +437,10 @@
 							<div class="doctor-1">								
 														
 								<!-- Doctor Photo -->
-								<div class="hover-overlay text-center"> 
-
+								
 									<!-- Photo -->
-									<img class="img-fluid" src="images/rs-premier.jpg" alt="doctor-foto">	
-									<div class="item-overlay"></div>
-
-									<!-- Profile Link -->		
-									<div class="profile-link">
-										<a class="btn btn-sm btn-tra-white black-hover" href="doctor-1.html" title="">View More Info</a>
-									</div> 
-
-								</div>	
+									<img class="img-fluid" src="images/networks/picture1.png" alt="doctor-foto">	
+								
 
 							</div>								
 						</div>	<!-- END DOCTOR #1 -->
