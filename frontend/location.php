@@ -32,6 +32,7 @@
 
 
 
+
 			<!-- TESTIMONIALS-2
 			============================================= -->
 			<section id="reviews-2" class="bg-lightgrey wide-100 reviews-section division" style="padding-top:50px; padding-bottom:50px;">
@@ -40,33 +41,33 @@
 				<div class="row">	
 						<div class="col-lg-10 offset-lg-1 section-title" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="color: #281E78;  font-weight: 700;">OFFICE & LOKASI SITE</h3>								
+							<h3 class="h4-md steelblue-color" style="color: #281E78;"><b><b></b></b></h3>								
 						</div> 
 					</div>
 					<div class="row">
 								<table width="100%">		<tr>
 									
-								<td width="50%"></td>
-								<td width="20%"></td>
+								<td width="70%"><?php include "lala.php";?></td>
+								<td width="5%"></td>
 								<td style="align:right;">	
 											<table>
 											<tr>
-												<th colspan="5"><h4 style="color: #281E78;"><b>TEMUKAN KAMI DI KOTA ANDA!</b></h4></th>
+												<th colspan="5"><h4 style="color: #281E78;font-weight:bolder;"><b>TEMUKAN KAMI DI KOTA ANDA!</b></h4></th>
 											
 											</tr>
 											<tr>
-												<td><i style="color:red;" class="fab fa-discourse"></i> Jakarta</td>
+												<td><p><i style="color:red;" class="fas fa-home"></i> Jakarta</p></td>
 												<td> </td>
-												<td><i class="fab fa-discourse"></i> Bandung</td>
+												<td><p><i style="color:red;" class="fas fa-map-marker-alt"></i> Bandung</p></td>
 												<td> </td>
-												<td><i class="fab fa-discourse"></i> Makassar</td>
+												<td><p><i style="color:red;" class="fas fa-map-marker-alt"></i> Makassar</p></td>
 											</tr>
 											<tr>
-												<td><i style="color:red;" class="fab fa-discourse"></i> Surabaya</td>
+												<td><p><i style="color:red;" class="fas fa-home"></i> Surabaya</p></td>
 												<td></td>
-												<td><i class="fab fa-discourse"></i> Palembang</td>
+												<td><p><i style="color:red;" class="fas fa-map-marker-alt"></i> Palembang</p></td>
 												<td></td>
-												<td><i class="fab fa-discourse"></i> Padang</td>
+												<td><p><i style="color:red;" class="fas fa-map-marker-alt"></i> Padang</p></td>
 											</tr>
 											</table>
 							</td>
@@ -79,7 +80,7 @@
 				
 					<!-- SECTION TITLE -->	
 					<div class="row">	
-						<?php include "lala.php";?>
+						
 					</div>	
 
 
