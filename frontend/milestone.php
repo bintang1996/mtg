@@ -131,7 +131,7 @@ body {
 .timeline ol li:nth-child(even) div::before {
   top: -8px;
   border-width: 8px 0 0 8px;
-  border-color: transparent transparent transparent white;
+  border-color: transparent transparent transparent #214068;
 }
 
 .timeline time {
