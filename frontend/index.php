@@ -279,7 +279,7 @@
 			<img class="img-fluid" width="70%" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
 			<td><br><br>
-			<h3 class="h3-md" style="color: #281E78;font-weight:bolder;">Advancing in Healthcare Everyday</h3>	
+			<h3 class="h4-md" style="color: #281E78;font-weight:bolder;">Advancing in Healthcare Everyday</h3>	
 			<p style="text-align:justify;">Selamat datang di Meditrans. Sebuah perusahaan kesehatan 
 										yang kami dirikan sejak 2012 di Surabaya yang sampai saat ini masih terus 
 										mengembangkan dirinya. Bersama tim yang berpengalaman di bidangnya, sejak 
@@ -306,7 +306,7 @@
 			<img class="img-fluid" width="70%" src="images/pediatrics_700x700.jpg" alt="tab-image">
 			</td>
 			<td><br><br>
-			<h3 class="h3-md" style="color: #281E78;font-weight:bolder;">SELAMAT DATANG DI MTGLOBAL</h3>	
+			<h3 class="h4-md" style="color: #281E78;font-weight:bolder;">SELAMAT DATANG DI MTGLOBAL</h3>	
 			<p style="text-align:justify;">PT. Meditrans Global (PT. MTG) berdiri sejak tahun 2012 di Surabaya, berawal dari bisnis penyedia barang dan jasa dan seiring waktu kami terus mengembangkan perusahaan ini ke bidang bidang bisnis lainnya.</p>
 
 			<p style="text-align:justify;">Berlatar belakang pendiri perusahaan yang memiliki pengalaman dibidang peralatan penunjang kesehatan, Saat ini kami memfokuskan pengembangan perusahaan dalam hal pelayanan Barang dan Jasa penunjang kesehatan. 
