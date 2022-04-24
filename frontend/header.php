@@ -166,7 +166,7 @@
 					          	 
 								
         						<!-- DROPDOWN MENU -->
-					        	<li aria-haspopup="true"><a href="#"><img src="/images/flag/1.png" width="15px"><span class="wsarrow"></span></a>
+					        	<li aria-haspopup="true"><a href="#"><img src="images/flag/1.png" width="15px"><span class="wsarrow"></span></a>
 					           		<ul class="sub-menu">
 					           			<li aria-haspopup="true"><a href="#">Dummy Link Style #1</a></li>
 					              		<li aria-haspopup="true"><a href="#">Dummy Link Style #2</a></li>
