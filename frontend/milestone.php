@@ -225,11 +225,6 @@ body {
 }
 </style>
 
-<section class="section intro">
-  <div class="container">
-    <h1>Milestone</h1>
-  </div>
-</section>
 
 <section class="timeline">
   <ol>
