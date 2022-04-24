@@ -415,7 +415,7 @@
 
 
 			 		<!-- SECTION TITLE -->	
-					<div class="row">	
+					<div class="row" style="background-color:white;">	
 						<div class="col-lg-10 offset-lg-1 section-title">		
 
 							<!-- Title 	-->	
