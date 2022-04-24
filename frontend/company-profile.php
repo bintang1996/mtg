@@ -300,7 +300,7 @@
 				
 										<table>
 										<tr>
-											<td><span class="flaticon-045-molecule blue-color"></span></td>
+										<td><i class="fa fa-circle" aria-hidden="true"></i></td>
 											<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 											<td><h5 class="h5-sm steelblue-color" style="font-weight:bolder;padding-top:5px;">BERPEGANG PADA ETIKA</h5></td>
 										</tr>
@@ -321,7 +321,7 @@
 											
 										<table>
 										<tr>
-											<td><i class="fa fa-circle-alt" aria-hidden="true"></i></td>
+											<td><i class="fa fa-circle" aria-hidden="true"></i></td>
 											<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 											<td><h5 class="h5-sm steelblue-color" style="font-weight:bolder;padding-top:5px;">KOMPETISI</h5></td>
 										</tr>
@@ -339,7 +339,7 @@
 
 										<table>
 										<tr>
-											<td><span class="flaticon-045-molecule blue-color"></span></td>
+										<td><i class="fa fa-circle" aria-hidden="true"></i></td>
 											<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 											<td><h5 class="h5-sm steelblue-color" style="font-weight:bolder;padding-top:5px;">PROAKTIF</h5></td>
 										</tr>
@@ -357,7 +357,7 @@
 
 										<table>
 										<tr>
-											<td><span class="flaticon-045-molecule blue-color"></span></td>
+										<td><i class="fa fa-circle" aria-hidden="true"></i></td>
 											<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 											<td><h5 class="h5-sm steelblue-color" style="font-weight:bolder;padding-top:5px;">SALING MENGHORMATI</h5></td>
 										</tr>
@@ -375,7 +375,7 @@
 
 										<table>
 										<tr>
-											<td><span class="flaticon-045-molecule blue-color"></span></td>
+										<td><i class="fa fa-circle" aria-hidden="true"></i></td>
 											<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 											<td><h5 class="h5-sm steelblue-color" style="font-weight:bolder;padding-top:5px;">STANDART TINGGI</h5></td>
 										</tr>
@@ -394,7 +394,7 @@
 											
 										<table>
 										<tr>
-											<td><span class="flaticon-045-molecule blue-color"></span></td>
+										<td><i class="fa fa-circle" aria-hidden="true"></i></td>
 											<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 											<td><h5 class="h5-sm steelblue-color" style="font-weight:bolder;padding-top:5px;">TUMBUH DAN BERKEMBANG</h5></td>
 										</tr>
