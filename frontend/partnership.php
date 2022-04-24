@@ -136,7 +136,7 @@
 <!-- ABOUT-5
 			============================================= -->
 			<section id="about-5" class="pt-100 about-section division" style="background-color:#ececec; padding-top:50px;">
-				<div class="container" style="background-color:#281E78;">
+				<div class="container" style="background-color:#ececec;">
 
 				
 					<!-- Title 	-->	
