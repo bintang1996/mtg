@@ -407,9 +407,12 @@
 	 						</div>
 						</div>	<!-- END SERVICE BOXES -->	
 
-
+						</div>    <!-- End row -->
+				</div>	   <!-- End container -->
+			</section>	<!-- END COMPANY-VALUES -->
 			<!-- OUR-NETWORK
 			============================================= -->
+			
 			<section id="doctors-1" class="wide-40 doctors-section division"style="background-color:white;">
 				<div class="container">
 
@@ -581,8 +584,6 @@
 			</section>	<!-- END  OUR-NETWORK-->
 
 						
-					</div>    <!-- End row -->
-				</div>	   <!-- End container -->
-			</section>	<!-- END COMPANY-VALUES -->
+				
 
 <?php include "footer.php";?>
