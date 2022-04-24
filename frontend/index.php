@@ -12,7 +12,7 @@
 
 				<!-- SLIDER -->
 				<div class="slider blue-nav">
-			    	<ul class="slides">
+			    	<ul class="slides"style="  background:linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));">
 
 
 				     	<!-- SLIDE #1 -->
