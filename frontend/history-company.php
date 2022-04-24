@@ -204,7 +204,7 @@
   </div>
   <div class="container2 left">
     <div class="date"></div>
-    <i class="icon fa fa-calendar-check"></i>
+    <i class="icon fa fa-check"></i>
     <div class="content">
       <h2>TDP</h2>
       <p>
@@ -214,7 +214,7 @@
   </div>
   <div class="container2 right">
     <div class="date"></div>
-    <i class="icon fa fa-calendar-check-o"></i>
+    <i class="icon fa fa-check"></i>
     <div class="content">
       <h2>SIUP</h2>
       <p>
@@ -224,7 +224,7 @@
   </div>
   <div class="container2 left">
     <div class="date"></div>
-    <i class="icon fa fa-calendar-check-o"></i>
+    <i class="icon fa fa-check"></i>
     <div class="content">
       <h2>SIJUK</h2>
       <p>
@@ -236,7 +236,7 @@
   </div>
   <div class="container2 right">
     <div class="date"></div>
-    <i class="icon fa fa-calendar-check-o"></i>
+    <i class="icon fa fa-check"></i>
     <div class="content">
       <h2>IPAK</h2>
       <p>
