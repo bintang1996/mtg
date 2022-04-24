@@ -30,7 +30,7 @@
                                 
 							<!-- Image Caption -->
 							<div class="caption d-flex align-items-center left-align">
-		       					<div class="container">
+		       					<div class="container"style="  background:linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));">
 		       						<div class="row" style="  background:linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));">
 		       							<div class="col-md-9 col-lg-7" >
 		       								<div class="caption-txt">
