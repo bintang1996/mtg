@@ -32,16 +32,9 @@
 							<h3 class="h3-md steelblue-color">Bergabunglah bersama Meditrans</h3><br>
 
                             <!-- Text -->
-                            <p class="p-lg">Meditrans merupakan deskirpsi Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-                            integer congue magna at pretium  purus pretium ligula rutrum itae laoreet augue in 
-                            cubilia laoreet an augue egestas ipsum vitae emo ligula vitae arcu mollis blandit ultrice
-                            ligula egestas magna suscipit
+                            <p class="p-lg">Jika Anda adalah orang dengan minat dalam industri kesehatan, Meditrans adalah perusahaan yang tepat bagi Anda untuk mengembangkan karir. Anda akan bertemu begitu banyak orang yang memiliki passion seperti Anda di dunia healthcare. Pemimpin dan tim kami menghargai bakat dan kontribusi Anda untuk memberi dampak pada industri healthcare dan lainnya.
+
                             </p>
-                            <p class="p-lg">Ligula risus auctor tempus dolor feugiat, felis lacinia risus interdum auctor
-								   id viverra dolor iaculis luctus bibendum luctus neque rhoncus ipsum tempor varius iaculis at
-								   luctus neque rhoncus ipsum tempor varius cubilia laoreet augue vitae laoreet augue undo cubilia 
-								   feugiat suscipit emper lacus
-							</p>
                         </div>
                     </div>
                 </div>
