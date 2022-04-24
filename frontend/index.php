@@ -557,7 +557,7 @@
 											<tr>
 												<td><i style="color:red;" class="fas fa-home"></i> Jakarta</td>
 												<td> </td>
-												<td><i class="fas fa-map-marker"></i> Bandung</td>
+												<td><i style="color:red;" class="fas fa-map-marker-alt"></i> Bandung</td>
 												<td> </td>
 												<td><i class="fas fa-location"></i> Makassar</td>
 											</tr>
