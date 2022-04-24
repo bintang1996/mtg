@@ -81,7 +81,7 @@
 
 								<!-- Text -->
 								<p><ul>
-								<li>Timbalisasi ruangan Radiologi</li><br>
+								<i class="icon fa fa-circle"></i>Timbalisasi ruangan Radiologi<br>
 									- Penyediaan Kaca Pb, Frame Kaca dan Pemasangannya
 									- Menyediakan Pintu Timbal atau Anti radiasi dengan berbagai macam tipe dan bahan (Finishing HPL, Stainles Steel baik manual maupun otomatis atau Pintu Harmetic)<br>
 									- Finishing Ruangan dengan berbagai macam bahan (Partisi Gypsum, Kalsiboard maupun Sandwich Panel)<br>
