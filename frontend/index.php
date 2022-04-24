@@ -147,8 +147,8 @@
 
 			<!-- ABOUT-5
 			============================================= -->
-			<section id="about-5" class="pt-100 about-section division" style="background-color:#281E78; padding-top:50px;">
-				<div class="container" style="background-color:#281E78;">
+			<section id="about-5" class="pt-100 about-section division" style="background-color:#214068; padding-top:50px;">
+				<div class="container" style="background-color:#214068;">
 
 				
 					<!-- Title 	-->	
@@ -159,7 +159,7 @@
 
 
 					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none; padding-left:0px; margin-left:0px; padding-right:0px; margin-right:0px; ">
+					<div class="sbox-3 icon-sm" style="background-color:#214068; border:none; padding-left:0px; margin-left:0px; padding-right:0px; margin-right:0px; ">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
 						<span class="flaticon-060-cardiogram-4"></span>
@@ -170,7 +170,7 @@
 					</div>
 
 					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none; padding-left:0px; margin-left:0px; padding-right:0px; margin-right:0px;">
+					<div class="sbox-3 icon-sm" style="background-color:#214068; border:none; padding-left:0px; margin-left:0px; padding-right:0px; margin-right:0px;">
 					<!-- Icon -->
 					<div class="sbox-3-icon"> 
 						<span class="flaticon-031-scanner"></span>
@@ -181,7 +181,7 @@
 					</div>
 
 					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none; padding-left:0px; margin-left:0px; padding-right:0px; margin-right:0px;">
+					<div class="sbox-3 icon-sm" style="background-color:#214068; border:none; padding-left:0px; margin-left:0px; padding-right:0px; margin-right:0px;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
 						<span class="flaticon-136-monitor"></span>
@@ -192,7 +192,7 @@
 					</div>
 
 					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none; padding-left:0px; margin-left:0px; padding-right:0px; margin-right:0px;">
+					<div class="sbox-3 icon-sm" style="background-color:#214068; border:none; padding-left:0px; margin-left:0px; padding-right:0px; margin-right:0px;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
 						<span class="flaticon-076-microscope"></span>
@@ -206,7 +206,7 @@
 
 
 					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#281E78; border:none; padding:0px; margin:0px;">
+					<div class="sbox-3 icon-sm" style="background-color:#214068; border:none; padding:0px; margin:0px;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
 						<span class="flaticon-129-hospital-1"></span>
