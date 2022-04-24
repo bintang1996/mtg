@@ -354,7 +354,7 @@
 
 												<!-- Text -->
 												<p class="mb-30">Meditrans adalah partner KSO yang terpercaya dan pengalaman di bidang CATHLAB,
-																hingga 2022, telah ada 6 lokasi KSO cathlab terdiri dari RS pemerintah dan RS swasta.
+																hingga 2022, telah ada 6 lokasi cathlab terdiri dari RS pemerintah dan RS swasta.
 												</p>
 
 												<!-- Options List -->
