@@ -559,14 +559,14 @@
 												<td> </td>
 												<td><i style="color:red;" class="fas fa-map-marker-alt"></i> Bandung</td>
 												<td> </td>
-												<td><i class="fas fa-location"></i> Makassar</td>
+												<td><i style="color:red;" class="fas fa-map-marker-alt"></i> Makassar</td>
 											</tr>
 											<tr>
 												<td><i style="color:red;" class="fas fa-home"></i> Surabaya</td>
 												<td></td>
-												<td><i class="fas fa-location"></i> Palembang</td>
+												<td><i style="color:red;" class="fas fa-map-marker-alt"></i> Palembang</td>
 												<td></td>
-												<td><i class="fas fa-location"></i> Padang</td>
+												<td><i style="color:red;" class="fas fa-map-marker-alt"></i> Padang</td>
 											</tr>
 											</table>
 							</td>
