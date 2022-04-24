@@ -19,7 +19,7 @@ button {
 body {
   font: normal 16px/1.5 "Helvetica Neue", sans-serif;
   background: white;
-  color: #fff;
+  color: black;
 }
 
 
@@ -121,7 +121,7 @@ body {
 .timeline ol li:nth-child(odd) div::before {
   top: 100%;
   border-width: 8px 8px 0 0;
-  border-color: white transparent transparent transparent;
+  border-color: #214068 transparent transparent transparent;
 }
 
 .timeline ol li:nth-child(even) div {
