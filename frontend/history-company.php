@@ -19,7 +19,7 @@
   content: '';
   position: absolute;
   width: 2px;
-  background: #281E78;
+  background: #214068;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -120,7 +120,7 @@
 
 .container2 .content {
   padding: 30px 90px 30px 30px;
-  background: #281E78;
+  background: #214068;
   position: relative;
   border-radius: 0 500px 500px 0;
 }
