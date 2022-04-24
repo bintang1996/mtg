@@ -434,142 +434,142 @@
 					
 						<!-- DOCTOR #1 -->
 						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture1.png" alt="doctor-foto">								
+							<img  src="images/networks/Picture1.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture2.png" alt="doctor-foto">								
+							<img  src="images/networks/Picture2.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture3.png" alt="doctor-foto">								
+							<img src="images/networks/Picture3.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture4.png" alt="doctor-foto">								
+							<img  src="images/networks/Picture4.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture5.png" alt="doctor-foto">								
+							<img  src="images/networks/Picture5.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture6.png" alt="doctor-foto">								
+							<img src="images/networks/Picture6.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture7.png" alt="doctor-foto">								
+							<img  src="images/networks/Picture7.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture8.png" alt="doctor-foto">								
+							<img src="images/networks/Picture8.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture9.png" alt="doctor-foto">								
+							<img  src="images/networks/Picture9.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture10.png" alt="doctor-foto">								
+							<img  src="images/networks/Picture10.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture11.png" alt="doctor-foto">								
+							<img  src="images/networks/Picture11.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture12.png" alt="doctor-foto">								
+							<img  src="images/networks/Picture12.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture13.png" alt="doctor-foto">								
+							<img src="images/networks/Picture13.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture14.png" alt="doctor-foto">								
+							<img src="images/networks/Picture14.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture15.png" alt="doctor-foto">								
+							<img src="images/networks/Picture15.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture16.png" alt="doctor-foto">								
+							<img  src="images/networks/Picture16.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture17.png" alt="doctor-foto">								
+							<img  src="images/networks/Picture17.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture18.png" alt="doctor-foto">								
+							<img src="images/networks/Picture18.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture19.png" alt="doctor-foto">								
+							<img src="images/networks/Picture19.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture20.png" alt="doctor-foto">								
+							<img src="images/networks/Picture20.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture21.png" alt="doctor-foto">								
+							<img src="images/networks/Picture21.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture22.png" alt="doctor-foto">								
+							<img src="images/networks/Picture22.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture23.png" alt="doctor-foto">								
+							<img src="images/networks/Picture23.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture24.png" alt="doctor-foto">								
+							<img src="images/networks/Picture24.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture25.png" alt="doctor-foto">								
+							<img  src="images/networks/Picture25.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture26.png" alt="doctor-foto">								
+							<img  src="images/networks/Picture26.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture27.png" alt="doctor-foto">								
+							<img src="images/networks/Picture27.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img class="img-fluid" src="images/networks/Picture28.png" alt="doctor-foto">								
+							<img  src="images/networks/Picture28.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 						
