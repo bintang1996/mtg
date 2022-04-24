@@ -413,7 +413,7 @@
 			<!-- OUR-NETWORK
 			============================================= -->
 			
-			<section id="doctors-1" class="wide-40 doctors-section division"style="background-color:white;">
+			<section id="doctors-1" class="wide-40 doctors-section division"style="background-color:white; border-bottom:1px solid grey;">
 				<div class="container">
 
 
