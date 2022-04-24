@@ -165,7 +165,7 @@
 						<span class="flaticon-060-cardiogram-4"></span>
 					</div>
 					<!-- Title -->
-					<h5 class="h5 white-color" style="margin-top:0;">KARDIOVASKULAR</h5>																																		
+					<h6 class="white-color" style="margin-top:0;">KARDIOVASKULAR</h6>																																		
 					</div>
 					</div>
 
@@ -176,7 +176,7 @@
 						<span class="flaticon-031-scanner"></span>
 					</div>
 					<!-- Title -->
-					<h5 class=" white-color" style="margin-top:0;">RADIOLOGI</h5>																																		
+					<h6 class=" white-color" style="margin-top:0;">RADIOLOGI</h6>																																		
 					</div>
 					</div>
 
