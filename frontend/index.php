@@ -555,14 +555,14 @@
 											
 											</tr>
 											<tr>
-												<td><i style="color:red;" class="fas fa-house"></i> Jakarta</td>
+												<td><i style="color:red;" class="fas fa-home"></i> Jakarta</td>
 												<td> </td>
 												<td><i class="fab fa-discourse"></i> Bandung</td>
 												<td> </td>
 												<td><i class="fab fa-discourse"></i> Makassar</td>
 											</tr>
 											<tr>
-												<td><i style="color:red;" class="fas fa-house"></i> Surabaya</td>
+												<td><i style="color:red;" class="fas fa-home"></i> Surabaya</td>
 												<td></td>
 												<td><i class="fab fa-discourse"></i> Palembang</td>
 												<td></td>
