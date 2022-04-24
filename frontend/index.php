@@ -176,7 +176,7 @@
 						<span class="flaticon-031-scanner"></span>
 					</div>
 					<!-- Title -->
-					<h6 class=" white-color" style="margin-top:0;">RADIOLOGI</h6>																																		
+					<h6 class=" white-color" style="margin-top:0;"><b>RADIOLOGI</b></h6>																																		
 					</div>
 					</div>
 
@@ -187,7 +187,7 @@
 						<span class="flaticon-136-monitor"></span>
 					</div>						
 					<!-- Title -->
-					<h5 class="h5-xs white-color" style="margin-top:0;">HEALTHCARE IT</h5>																																		
+					<h5 class="h5-xs white-color" style="margin-top:0;"><b>HEALTHCARE IT</b></h5>																																		
 					</div>
 					</div>
 
@@ -198,7 +198,7 @@
 						<span class="flaticon-076-microscope"></span>
 					</div>						
 					<!-- Title -->
-					<h5 class="h5-xs white-color" style="margin-top:0;">LABORATORIUM</h5>																																		
+					<h6 class="white-color" style="margin-top:0;"><b>LABORATORIUM</b></h6>																																		
 					</div>
 					</div>
 
@@ -209,7 +209,7 @@
 						<span class="flaticon-129-hospital-1"></span>
 					</div>						
 					<!-- Title -->
-					<h5 class="h5-xs white-color" style="margin-top:0;">KONSTRUKSI</h5>																																		
+					<h6 class="white-color" style="margin-top:0;"><b>KONSTRUKSI</b></h6>																																		
 					</div>
 					</div>
 
