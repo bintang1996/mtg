@@ -294,14 +294,14 @@
 
 								<!-- SERVICE BOX #1 -->
 			 					<div class="col-md-6">
-			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.4s">
+			 						<div class="icon-xs wow fadeInUp" data-wow-delay="0.4s">
 			 							<a href="service-1.html">
 
 				 							<!-- Icon -->
 											<span class="flaticon-015-blood-donation-1 blue-color"></span>
 
 											<!-- Text -->
-											<div>
+											<div class="sbox-7-txt">
 				
 												<!-- Title -->
 												<h5 class="h5-sm steelblue-color">BERPEGANG PADA ETIKA</h5>
