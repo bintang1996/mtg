@@ -298,28 +298,28 @@
 							    	<!-- TAB-1 LINK -->
 								  	<li class="nav-item icon-xs">
 								    	<a class="nav-link active" id="tab1-list" data-toggle="pill" href="#tab-1" role="tab" aria-controls="tab-1" aria-selected="true">
-								    		<span class="flaticon-083-stethoscope"></span> Cathlab
+								    		<span class="flaticon-083-stethoscope"></span> Kerjasama Cathlab
 								    	</a>
 								  	</li>
 
 								  	<!-- TAB-2 LINK -->
 									<li class="nav-item icon-xs">
 									    <a class="nav-link" id="tab2-list" data-toggle="pill" href="#tab-2" role="tab" aria-controls="tab-2" aria-selected="false">
-									       <span class="flaticon-005-blood-donation-3"></span> KSO CT-Scan
+									       <span class="flaticon-005-blood-donation-3"></span> Kerjasama CT-Scan
 									    </a>
 									</li>
 
 									<!-- TAB-3 LINK -->
 									<li class="nav-item icon-xs">
 									    <a class="nav-link" id="tab3-list" data-toggle="pill" href="#tab-3" role="tab" aria-controls="tab-3" aria-selected="false">
-									       <span class="flaticon-031-scanner"></span> KSO MRI
+									       <span class="flaticon-031-scanner"></span> Kerjasama MRI
 									    </a>
 									</li>
 
 									<!-- TAB-4 LINK -->
 									<li class="nav-item icon-xs">
 									    <a class="nav-link" id="tab4-list" data-toggle="pill" href="#tab-4" role="tab" aria-controls="tab-4" aria-selected="false">
-									       <span class="flaticon-048-lungs"></span> KSO Lab-PCR
+									       <span class="flaticon-048-lungs"></span> Kerjasama Lab-PCR
 									    </a>
 									</li>
 
@@ -350,10 +350,10 @@
 											<div class="txt-block pc-30">
 
 												<!-- Title -->
-												<h3 class="h3-md steelblue-color">Cathlab</h3>
+												<h3 class="h3-md steelblue-color">Kerjasama Cathlab</h3>
 
 												<!-- Text -->
-												<p class="mb-30">Meditrans adalah partner KSO yang terpercaya dan pengalaman di bidang CATHLAB,
+												<p class="mb-30">Meditrans adalah partner Kerjasama yang terpercaya dan pengalaman di bidang CATHLAB,
 																hingga 2022, telah ada 6 lokasi cathlab terdiri dari RS pemerintah dan RS swasta.
 												</p>
 
@@ -407,7 +407,7 @@
 												</div>	<!-- End Options List -->
 
 												<!-- Button -->
-												<a href="service-1.html" class="btn btn-blue blue-hover mt-30">Lebih Lanjut Tentang Kerjasama KSO</a>
+												<a href="service-1.html" class="btn btn-blue blue-hover mt-30">Lebih Lanjut</a>
 
 											</div>	
 										</div>	<!-- END TAB-1 TEXT -->
@@ -435,10 +435,10 @@
 											<div class="txt-block pc-30">
 
 												<!-- Title -->
-												<h3 class="h3-md steelblue-color">KSO CT-Scan</h3>
+												<h3 class="h3-md steelblue-color">Kerjasama CT-Scan</h3>
 
 												<!-- Text -->
-												<p class="mb-30">Meditrans adalah KSO provider terbesar di Indonesia dengan 14 CT scan dan terus tumbuh. 
+												<p class="mb-30">Meditrans adalah Kerjasama provider terbesar di Indonesia dengan 14 CT scan dan terus tumbuh. 
 													Kami dipercaya di beberapa RS Pemerintah ataupun Swasta, diantaranya MRI dan CT Scan.
 												</p>
 
@@ -492,7 +492,7 @@
 												</div>	<!-- End Options List -->
 
 												<!-- Button -->
-												<a href="service-2.html" class="btn btn-blue blue-hover mt-30">Lebih Lanjut Tentang Kerjasama KSO</a>
+												<a href="service-2.html" class="btn btn-blue blue-hover mt-30">Lebih Lanjut</a>
 
 											</div>	
 										</div>	<!-- END TAB-2 TEXT -->
@@ -520,7 +520,7 @@
 											<div class="txt-block pc-30">
 
 												<!-- Title -->
-												<h3 class="h3-md steelblue-color">KSO MRI</h3>
+												<h3 class="h3-md steelblue-color">Kerjasama MRI</h3>
 
 												<!-- Text -->
 												<p class="mb-30">An enim nullam tempor sapien gravida donec enim ipsum blandit
@@ -580,7 +580,7 @@
 												</div>	<!-- End Options List -->
 
 												<!-- Button -->
-												<a href="service-1.html" class="btn btn-blue blue-hover mt-30">Lebih Lanjut Tentang Kerjasama KSO</a>
+												<a href="service-1.html" class="btn btn-blue blue-hover mt-30">Lebih Lanjut</a>
 
 											</div>	
 										</div>	<!-- END TAB-3 TEXT -->
@@ -608,7 +608,7 @@
 											<div class="txt-block pc-30">
 
 												<!-- Title -->
-												<h3 class="h3-md steelblue-color">KSO Lab PCR</h3>
+												<h3 class="h3-md steelblue-color">Kerjasama Lab PCR</h3>
 
 												<!-- Text -->
 												<p class="mb-30">An enim nullam tempor sapien gravida donec enim ipsum blandit
@@ -668,7 +668,7 @@
 												</div>	<!-- End Options List -->
 
 												<!-- Button -->
-												<a href="service-2.html" class="btn btn-blue blue-hover mt-30">Lebih Lanjut Tentang Kerjasama KSO</a>
+												<a href="service-2.html" class="btn btn-blue blue-hover mt-30">Lebih Lanjut</a>
 
 											</div>	
 										</div>	<!-- END TAB-4 TEXT -->
