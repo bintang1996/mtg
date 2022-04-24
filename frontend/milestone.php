@@ -27,7 +27,7 @@ body {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 .section {
-  background: white;
+  background: #F45B69;
   padding: 50px 0;
 }
 
