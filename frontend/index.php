@@ -42,14 +42,14 @@
 
 						       					<!-- Option Box #1 -->
 												<div class="box-list">							
-													<div class="box-list-icon white-color"><i class="fas fa-angle-double-right"></i></div>
+													<div class="box-list-icon white-color"></div>
 													<p class="p-md white-color" >Fringilla risus nec, luctus mauris orci auctor purus euismod 
 													   pretium purus pretium ligula rutrum tempor sapien at pretium luctus ligula
 													</p>						
 												</div>
 
 									          	<!-- Button -->
-												<a href="<?php echo $d['link_slider'] ?>" class="btn btn-blue blue-hover">More Detail</a>
+												<a href="<?php echo $d['link_slider'] ?>" ><i class="fas fa-angle-double-right"></i><p class="p-md white-color">More Detail</p></a>
 
 
 											</div>
