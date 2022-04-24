@@ -80,15 +80,31 @@
 								<h3 class="h3-md steelblue-color">Konstruksi</h3>
 
 								<!-- Text -->
-								<p>
-								&#8226; Timbalisasi ruangan Radiologi<br>
-								&#8226; Penyediaan Kaca Pb, Frame Kaca dan Pemasangannya<br>
-								&#8226; Menyediakan Pintu Timbal atau Anti radiasi dengan berbagai macam tipe dan bahan (Finishing HPL, Stainles Steel baik manual maupun otomatis atau Pintu Harmetic)<br>
-								&#8226; Finishing Ruangan dengan berbagai macam bahan (Partisi Gypsum, Kalsiboard maupun Sandwich Panel)<br>
-								&#8226; Penyediaan dan pemasangan lantai vynil<br>
-								&#8226; Pengerjaan penguatan rangka atas untuk penggunaan alat dan penguatan fondasi alat<br>
-								&#8226; Electrical dan Grounding Installation<br>
-								&#8226; Penyediaan dan pemasangan raised floor
+								<p><table>
+								<tr>
+								<td>&#8226; </td> <td> Timbalisasi ruangan Radiologi</td>
+								</tr>
+								<tr>
+								<td>&#8226; </td> <td> Penyediaan Kaca Pb, Frame Kaca dan Pemasangannya</td>
+								</tr>
+								<tr>
+								<td>&#8226; </td> <td> Menyediakan Pintu Timbal atau Anti radiasi dengan berbagai macam tipe dan bahan (Finishing HPL, Stainles Steel baik manual maupun otomatis atau Pintu Harmetic)</td>
+								</tr>
+								<tr>
+								<td>&#8226; </td> <td> Finishing Ruangan dengan berbagai macam bahan (Partisi Gypsum, Kalsiboard maupun Sandwich Panel)</td>
+								</tr>
+								<tr>
+								<td>&#8226; </td> <td> Penyediaan dan pemasangan lantai vynil</td>
+								</tr>
+								<tr>
+								<td>&#8226; </td> <td> Pengerjaan penguatan rangka atas untuk penggunaan alat dan penguatan fondasi alat</td>
+								</tr>
+								<tr>
+								<td>&#8226; </td> <td> Electrical dan Grounding Installation</td>
+								</tr>
+								<tr>
+								<td>&#8226; </td> <td> Penyediaan dan pemasangan raised floor</td>
+								</tr>
 
 								</p>
 
