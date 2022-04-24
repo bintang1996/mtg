@@ -176,7 +176,7 @@
 						<span class="flaticon-031-scanner"></span>
 					</div>
 					<!-- Title -->
-					<h5 class="h5-xs white-color" style="margin-top:0;">RADIOLOGI</h5>																																		
+					<h5 class=" white-color" style="margin-top:0;">RADIOLOGI</h5>																																		
 					</div>
 					</div>
 
