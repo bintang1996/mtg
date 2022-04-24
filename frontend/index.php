@@ -557,16 +557,16 @@
 											<tr>
 												<td><i style="color:red;" class="fas fa-home"></i> Jakarta</td>
 												<td> </td>
-												<td><i class="fab fa-discourse"></i> Bandung</td>
+												<td><i class="fas fa-location"></i> Bandung</td>
 												<td> </td>
-												<td><i class="fab fa-discourse"></i> Makassar</td>
+												<td><i class="fas fa-location"></i> Makassar</td>
 											</tr>
 											<tr>
 												<td><i style="color:red;" class="fas fa-home"></i> Surabaya</td>
 												<td></td>
-												<td><i class="fab fa-discourse"></i> Palembang</td>
+												<td><i class="fas fa-location"></i> Palembang</td>
 												<td></td>
-												<td><i class="fab fa-discourse"></i> Padang</td>
+												<td><i class="fas fa-location"></i> Padang</td>
 											</tr>
 											</table>
 							</td>
