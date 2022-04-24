@@ -36,11 +36,11 @@
 		       								<div class="caption-txt">
 
 						       					<!-- Title -->
-						       					<h2 class="steelblue-color">We will help you <span class="blue-color">to become healthy</span></h2>
+						       					<h2 class="white-color">We will help you <span class="white-color">to become healthy</span></h2>
 
 						       					<!-- Option Box #1 -->
 												<div class="box-list">							
-													<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
+													<div class="box-list-icon white-color"><i class="fas fa-angle-double-right"></i></div>
 													<p class="p-md">Fringilla risus nec, luctus mauris orci auctor purus euismod 
 													   pretium purus pretium ligula rutrum tempor sapien at pretium luctus ligula
 													</p>						
