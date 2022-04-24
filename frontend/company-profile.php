@@ -410,12 +410,12 @@
 
 			<!-- OUR-NETWORK
 			============================================= -->
-			<section id="doctors-1" class="wide-40 doctors-section division">
+			<section id="doctors-1" class="wide-40 doctors-section division"style="background-color:white;">
 				<div class="container">
 
 
 			 		<!-- SECTION TITLE -->	
-					<div class="row" style="background-color:white;">	
+					<div class="row" >	
 						<div class="col-lg-10 offset-lg-1 section-title">		
 
 							<!-- Title 	-->	
