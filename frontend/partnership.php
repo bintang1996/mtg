@@ -298,7 +298,7 @@
 							    	<!-- TAB-1 LINK -->
 								  	<li class="nav-item icon-xs">
 								    	<a class="nav-link active" id="tab1-list" data-toggle="pill" href="#tab-1" role="tab" aria-controls="tab-1" aria-selected="true">
-								    		<span class="flaticon-083-stethoscope"></span> KSO Cathlab
+								    		<span class="flaticon-083-stethoscope"></span> Cathlab
 								    	</a>
 								  	</li>
 
@@ -350,7 +350,7 @@
 											<div class="txt-block pc-30">
 
 												<!-- Title -->
-												<h3 class="h3-md steelblue-color">KSO Cathlab</h3>
+												<h3 class="h3-md steelblue-color">Cathlab</h3>
 
 												<!-- Text -->
 												<p class="mb-30">Meditrans adalah partner KSO yang terpercaya dan pengalaman di bidang CATHLAB,
