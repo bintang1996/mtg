@@ -29,7 +29,7 @@
 								<a href="<?php echo $d['link_slider'] ?>"><img class="img-fluid" width="1200px" height="600px" src="images/slider/<?php echo $d['slider_img'] ?>" alt="hero-image"></a>
                                 
 							<!-- Image Caption -->
-							<div class="caption d-flex align-items-center left-align" style="  background:linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));">
+							<div class="caption d-flex align-items-center left-align" style="  background:linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8));">
 		       					<div class="container">
 		       						<div class="row" >
 		       							<div class="col-md-9 col-lg-7" >
