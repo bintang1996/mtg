@@ -194,7 +194,7 @@
 <div class="timeline">
   <div class="container2 right">
     <div class="date"></div>
-    <i class="icon fa fa-gift"></i>
+    <i class="icon fa fa-menu"></i>
     <div class="content">
       <h2>AKTE</h2>
       <p>
