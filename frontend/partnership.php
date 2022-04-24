@@ -141,7 +141,7 @@
 				
 					<!-- Title 	-->	
 					<h3 style="margin-bottom:0;color:#214068;" class="h3-md col-lg-10 offset-lg-1 section-title">Mengapa Public Private Partnership (PPP)</h3>						
-				
+					<br>
 					<p>PPP merupakan salah satu solusi bagi Rumah Sakit untuk mengembangkan layanannya. PPP juga menjadi solusi untuk meningkatkan okupansi RS dan layanan lain, program pengembangan, rencana pemasaran, optimalisasi BHP, jaminan utilisasi alat, dukungan terhadap alat, akses teknologi baru, serta meningkatkan citra dan reputasi RS.</p>
 					<div class="row d-flex align-items-center text-center">
 
