@@ -315,7 +315,7 @@
 
 			 					<!-- SERVICE BOX #2 -->
 			 					<div class="col-md-6">
-			 						<div class="icon-xs wow fadeInUp" style="padding-bottom:100px" data-wow-delay="0.6s">
+			 						<div class="icon-xs wow fadeInUp" style="padding-bottom:60px" data-wow-delay="0.6s">
 			 							<a href="service-2.html">
 
 											
@@ -334,7 +334,7 @@
 
 			 					<!-- SERVICE BOX #3 -->
 			 					<div class="col-md-6">
-			 						<div class="icon-xs wow fadeInUp" style="padding-bottom:100px" data-wow-delay="0.4s">
+			 						<div class="icon-xs wow fadeInUp" style="padding-bottom:60px" data-wow-delay="0.4s">
 			 							<a href="service-1.html">
 
 										<table>
@@ -352,7 +352,7 @@
 
 			 					<!-- SERVICE BOX #4 -->
 			 					<div class="col-md-6">
-			 						<div class="icon-xs wow fadeInUp" style="padding-bottom:100px" data-wow-delay="0.6s">
+			 						<div class="icon-xs wow fadeInUp" style="padding-bottom:60px" data-wow-delay="0.6s">
 			 							<a href="service-2.html">
 
 										<table>
@@ -370,7 +370,7 @@
 
 			 					<!-- SERVICE BOX #5 -->
 			 					<div class="col-md-6">
-			 						<div class="icon-xs wow fadeInUp" style="padding-bottom:100px" data-wow-delay="0.4s">
+			 						<div class="icon-xs wow fadeInUp" style="padding-bottom:60px" data-wow-delay="0.4s">
 			 							<a href="service-1.html">
 
 										<table>
@@ -388,7 +388,7 @@
 
 			 					<!-- SERVICE BOX #6 -->
 			 					<div class="col-md-6">
-			 						<div class="icon-xs wow fadeInUp" style="padding-bottom:100px" data-wow-delay="0.6s">
+			 						<div class="icon-xs wow fadeInUp" style="padding-bottom:60px" data-wow-delay="0.6s">
 			 							<a href="service-2.html">
 
 											
