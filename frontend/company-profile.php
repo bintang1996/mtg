@@ -298,7 +298,7 @@
 			 							<a href="service-1.html">
 
 				 							<!-- Icon -->
-											<span class="flaticon-045-molecule blue-color"><h5 class="h5-sm steelblue-color">BERPEGANG PADA ETIKA</h5></span>
+											 <h5 class="h5-sm steelblue-color"><span class="flaticon-045-molecule blue-color">BERPEGANG PADA ETIKA</span></h5>
 
 											<!-- Text -->
 										
