@@ -95,7 +95,7 @@
 								<p style="color: black;">Meditrans telah bermitra dengan berbagai rumah sakit dan perusaahan di Indonesia. 
 									Kami berkomitmen untuk selalu dapat bermitra dengan fasilitas layanan kesehatan maupun perusahaan non kesehatan.
 								</p>
-								<br><br>
+								
 								<!-- Button -->
 								<a href="contact-us.php"><h6 style="color: #f96845;"><b>HUBUNGI KAMI</b></h6></a>
 							</div>
@@ -110,7 +110,7 @@
 
 								<!-- Text -->
 								<p style="color: black;">Kami hanya memberikan produk dan jasa dengan kualitas terbaik untuk pelanggan setia kami. 
-										Baik itu Business-to-Business (B2B), maupun Business-to-Customer B2C. <br><br><br><br>
+										Baik itu Business-to-Business (B2B), maupun Business-to-Customer B2C. <br><br>
 
 								</p>
 							
@@ -131,7 +131,7 @@
 								<p class="mt-20" style="color: black;">Meditrans memiliki jaringan dan distribusi yang luas meliputi 
 										berbagai institusi kesehatan termasuk rumah sakit pemerintah dan swasta.
 								</p>
-<br><br><br>
+<br>
 								<!-- Button -->
 								<a href="location.php"><h6 style="color: #f96845;"><b>LOKASI KAMI</b></h6></a>
 							</div>
