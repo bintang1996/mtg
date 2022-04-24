@@ -64,7 +64,7 @@
 				}
 				@media only screen and (max-width: 600px) {
 					p {
-						font-size : 6px;
+						font-size : 8px;
 					}
 				}
 
