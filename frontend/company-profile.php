@@ -439,7 +439,7 @@
 								<!-- Doctor Photo -->
 								
 									<!-- Photo -->
-									<img class="img-fluid" src="images/networks/picture1.png" alt="doctor-foto">	
+									<img class="img-fluid" src="images/networks/Picture1.png" alt="doctor-foto">	
 								
 
 							</div>								
