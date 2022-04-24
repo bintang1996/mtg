@@ -85,7 +85,7 @@
 							<h3 class="h3-md steelblue-color">Our Leaders</h3>	
 
 							<!-- Text -->
-							<p>Direksi Meditrans mendorong peningkatan kinerja tim sehingga mampu memberikan pelayanan
+							<p style="padding-left: 100px; padding-right:100px;">Direksi Meditrans mendorong peningkatan kinerja tim sehingga mampu memberikan pelayanan
 								terbaik, turut berkontribusi, dan berperan positif di dunia kesehatan serta masyarakat pada umumnya.
 							</p>
 										
