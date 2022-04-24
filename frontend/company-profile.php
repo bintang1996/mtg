@@ -301,8 +301,8 @@
 										<table>
 										<tr>
 											<td><span class="flaticon-045-molecule blue-color"></span></td>
-											<td>&nbsp;&nbsp;&nbsp;</td>
-											<td><h5 class="h5-sm steelblue-color" style="font-weight:bolder;">BERPEGANG PADA ETIKA</h5></td>
+											<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+											<td><br><h5 class="h5-sm steelblue-color" style="font-weight:bolder;">BERPEGANG PADA ETIKA</h5></td>
 										</tr>
 										</table>		
 
