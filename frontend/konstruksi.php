@@ -105,7 +105,7 @@
 								<tr>
 								<td>&#8226; </td> <td> Penyediaan dan pemasangan raised floor</td>
 								</tr>
-
+</table>
 								</p>
 
 							</div>
