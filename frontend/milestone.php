@@ -18,7 +18,7 @@ button {
 
 body {
   font: normal 16px/1.5 "Helvetica Neue", sans-serif;
-  background: #456990;
+  background: white;
   color: #fff;
 }
 
@@ -100,7 +100,7 @@ body {
   font-size: 1rem;
   white-space: normal;
   color: white;
-  background: white;
+  background: #214068;
 }
 
 .timeline ol li div::before {
