@@ -202,11 +202,8 @@
 					</div>
 					</div>
 
-
-
-
 					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#214068; border:none; padding:0px; margin:0px;">
+					<div class="sbox-3 icon-sm" style="background-color:#214068; border:none; padding-left:0px; margin-left:0px; padding-right:0px; margin-right:0px;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
 						<span class="flaticon-129-hospital-1"></span>
@@ -215,6 +212,8 @@
 					<h5 class="h5-xs white-color" style="margin-top:0;">KONSTRUKSI</h5>																																		
 					</div>
 					</div>
+
+
 				
 					
 									
