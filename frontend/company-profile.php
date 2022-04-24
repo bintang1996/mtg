@@ -321,7 +321,7 @@
 											
 										<table>
 										<tr>
-											<td><i class="fa fa-circle-o"></i></td>
+											<td><i class="fa fa-circle" aria-hidden="true"></i></td>
 											<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 											<td><h5 class="h5-sm steelblue-color" style="font-weight:bolder;padding-top:5px;">KOMPETISI</h5></td>
 										</tr>
