@@ -35,6 +35,8 @@
 		       							<div class="col-md-9 col-lg-7" >
 		       								<div class="caption-txt">
 
+											   <h4 class="white-color">ATAS JUDUL</h4>
+
 						       					<!-- Title -->
 						       					<h2 class="white-color">We will help you <span class="white-color">to become healthy</span></h2>
 
