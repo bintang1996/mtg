@@ -35,16 +35,15 @@
 		       							<div class="col-md-9 col-lg-7" >
 		       								<div class="caption-txt">
 
-											   <h4 class="white-color">ATAS JUDUL</h4>
+											   <h4 class="white-color"><?php echo $d['atas_judul'] ?></h4>
 
 						       					<!-- Title -->
-						       					<h2 class="white-color">We will help you <span class="white-color">to become healthy</span></h2>
+						       					<h2 class="white-color"><?php echo $d['judul'] ?></h2>
 
 						       					<!-- Option Box #1 -->
 												<div class="box-list">							
 													<div class="box-list-icon white-color"></div>
-													<p class="p-md white-color" >Fringilla risus nec, luctus mauris orci auctor purus euismod 
-													   pretium purus pretium ligula rutrum tempor sapien at pretium luctus ligula
+													<p class="p-md white-color" ><?php echo $d['deskripsi'] ?>
 													</p>						
 												</div>
 												<br>

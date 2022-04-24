@@ -2,6 +2,9 @@
 
 if(isset($_POST['submit1'])){
 $link_slider=$_POST['link_slider']; 	
+$atas_judul=$_POST['atas_judul'];
+$judul=$_POST['judul'];
+$deskripsi=$_POST['deskripsi'];
 
 	$lokasi_file 	= $_FILES['P_ATTACHMENT']['tmp_name'];
 	$tipe_file		= $_FILES['P_ATTACHMENT']['type'];
@@ -23,7 +26,7 @@ $link_slider=$_POST['link_slider'];
 
             
 
-				$query1="INSERT INTO slider_top (type_file, link_slider, slider_img)values('$temp1', '$link_slider', '$newfilename' )";
+				$query1="INSERT INTO slider_top (type_file, link_slider, slider_img, atas_judul, judul, deksripsi)values('$temp1', '$link_slider', '$newfilename', '$atas_judul', '$judul', '$deskripsi' )";
 				$result1 = mysqli_query($GLOBALS["___mysqli_ston"], $query1);	}
                 
              
@@ -188,7 +191,10 @@ items.forEach(function(item) {
                             <div class="tes">
 
 
-                                    <input type="hidden" class="form-control" value="<?php echo $d1['id'];?>" name="id" id="id" /> 
+                                    <input type="hidden" class="form-control" value="<?php echo $d1['id'];?>" name="id" id="id" />
+                                    <input type="text" name="atas_judul" placeholder="Atas Judul" class="form-control"/><br>
+                                    <input type="text" name="judul" placeholder="Judul" class="form-control"/><br>
+                                    <textarea type="text" name="deskripsi" placeholder="Deskripsi" class="form-control"></textarea><br> 
                                     <input type="text" name="link_slider" placeholder="Slider Url" class="form-control"/><br>
                                     <input type="file" name="P_ATTACHMENT[]" id="P_ATTACHMENT" class="form-control" multiple />
                                 </div>
