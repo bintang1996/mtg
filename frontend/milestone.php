@@ -27,7 +27,7 @@ body {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 .section {
-  background: #F45B69;
+  background: white;
   padding: 50px 0;
 }
 
@@ -68,7 +68,7 @@ body {
   list-style-type: none;
   width: 160px;
   height: 3px;
-  background: #fff;
+  background: #214068;
 }
 
 .timeline ol li:last-child {
@@ -89,7 +89,7 @@ body {
   height: 12px;
   transform: translateY(-50%);
   border-radius: 50%;
-  background: #F45B69;
+  background: #F96845;
 }
 
 .timeline ol li div {
@@ -99,7 +99,7 @@ body {
   padding: 15px;
   font-size: 1rem;
   white-space: normal;
-  color: black;
+  color: white;
   background: white;
 }
 
