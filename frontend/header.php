@@ -168,8 +168,8 @@
         						<!-- DROPDOWN MENU -->
 					        	<li aria-haspopup="true"><a href="#"><img src="images/flag/1.png" width="20px"><span class="wsarrow"></span></a>
 					           		<ul class="sub-menu">
-					           			<li aria-haspopup="true"><a href="#"><img src="images/flag/1.png" width="20px"></a></li>
-					              		<li aria-haspopup="true"><a href="#"><img src="images/flag/2.png" width="20px"></a></li>
+					           			<li><a href="#"><img src="images/flag/1.png" width="20px"></a></li>
+					              		<li><a href="#"><img src="images/flag/2.png" width="20px"></a></li>
 					           		</ul>
 					          	</li>	<!-- END DROPDOWN MENU -->
                                 
