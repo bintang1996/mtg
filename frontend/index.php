@@ -89,7 +89,7 @@
 
 								<!-- Title -->
 								<p style="color: #f96845;">KSO</p>
-								<h4 style="color: #f96845;  margin-top:0px; weight:300;"><b>KEMITRAAN</b></h4>
+								<h4 style="color: #f96845;  margin-top:0px; weight:500;"><b>KEMITRAAN</b></h4>
 
 								<!-- Text -->
 								<p style="color: black;">Meditrans telah bermitra dengan berbagai rumah sakit dan perusaahan di Indonesia. 
