@@ -424,7 +424,7 @@
 										<!-- TAB-2 IMAGE -->
 										<div class="col-lg-6">
 											<div class="tab-imgs">
-												<img class="img-fluid" src="images/hematology_700x700.jpg" alt="tab-image" />
+												<img class="img-fluid" src="images/CT Scan.jpg" alt="tab-image" />
 											</div>
 										</div>
 
