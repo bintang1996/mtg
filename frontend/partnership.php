@@ -597,7 +597,7 @@
 										<!-- TAB-4 IMAGE -->
 										<div class="col-lg-6">
 											<div class="tab-img">
-												<img class="img-fluid" src="images/x-ray_700x700.jpg" alt="tab-image" />
+												<img class="img-fluid" src="images/Laboratorium.jpg" alt="tab-image" />
 											</div>
 										</div>
 
