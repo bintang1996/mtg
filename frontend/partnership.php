@@ -509,7 +509,7 @@
 										<!-- TAB-3 IMAGE -->
 										<div class="col-lg-6">
 											<div class="tab-img">
-												<img class="img-fluid" src="images/mri_700x700.jpg" alt="tab-image" />
+												<img class="img-fluid" src="images/MRI.jpg" alt="tab-image" />
 											</div>
 										</div>
 
