@@ -232,7 +232,7 @@
 
 									<!-- Image -->
 									<div class="tab-img">
-										<img class="img-fluid" src="images/portofolio/ct.webp" alt="tab-image" width="60%"/>
+										<img class="img-fluid" src="images/Laboratorium.jpg" alt="tab-image" width="60%"/>
 										</div>
 										<br>
 
