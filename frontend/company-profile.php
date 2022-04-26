@@ -71,6 +71,121 @@
 
 
 
+
+	<!-- CONTACTS-1
+			============================================= -->
+			<section id="contacts-1" class="wide-60 contacts-section division" style="background-color:white; border-bottom:1px solid grey">				
+				<div class="container">
+
+
+					<!-- SECTION TITLE -->	
+					<div class="row">	
+						<div class="col-lg-10 offset-lg-1 section-title">	
+
+							<!-- Title 	-->	
+							<h3 class="h3-md steelblue-color">Hubungi Kami</h3>	
+
+							<!-- Text -->
+							<p>Have a question? Want to book an appointment for yourself or your children? Give us a call
+							   or send an email to contact the MedService.
+							</p>
+								
+						</div>
+					</div>
+
+						
+					<div class="row">	
+
+
+		 				<!-- CONTACTS INFO -->
+		 				<div class="col-md-5 col-lg-4">
+
+		 					<!-- General Information -->
+		 					<div class="contact-box mb-40">
+								<h5 class="h5-sm steelblue-color">Jakarta Head Office</h5>
+								<p>Jalan Munggang no 86-87</p> 
+								<p>Balaikambang, Keramat Jati, Jakarta Timur</p>
+                                <p>13530</p>
+								<p>Phone: +62 21 2204 7248</p>
+								<p>Email: <a href="mailto:info@meditrans.id" class="blue-color">info@meditrans.id</a></p>
+		 					</div>
+
+		 					<!-- Patient Experience -->
+		 					<div class="contact-box mb-40">
+								<h5 class="h5-sm steelblue-color">Surabaya Head Office</h5>
+								<p>Rungkut Menanggal Harapan O/28</p>
+                                <p>Rungkut, Surabaya</p>
+                                <p>60239</p>
+								<p>Phone: +62 21 2287 9398</p>
+								<p>Email: <a href="mailto:info@meditrans.id" class="blue-color">info@meditrans.id</a></p>
+		 					</div>
+
+		 					<!-- Working Hours -->
+		 					<div class="contact-box mb-40">
+								<h5 class="h5-sm steelblue-color">Working Hours</h5>
+								<p>Monday – Friday : 8:00 - 17:00 WIB</p> 
+								
+		 					</div>
+
+						</div>	<!-- END CONTACTS INFO -->
+
+
+						<!-- CONTACT FORM -->	
+				 		<div class="col-md-7 col-lg-8">
+						 <div class="doctor-1">	
+																						
+																						<!-- LEADER Photo -->
+																						<div class="hover-overlay text-center"> 
+														
+																							<!-- Photo -->
+																							<img class="img-fluid" src="images/tari.png" alt="doctor-foto">	
+																							<div class="item-overlay"></div>
+														
+																							<!-- Profile Link -->		
+																							<div class="profile-link">
+																								<a class="btn btn-sm btn-tra-white black-hover" href="doctor-2.html" title="">View More Info</a>
+																							</div>
+														
+																						</div>	
+														
+																						<!-- LEADER Meta -->		
+																						<div class="doctor-meta">
+														
+																							<h5 class="h5-sm steelblue-color">Tari Pristiyani</h5>
+																							<span class="blue-color">Director of Operation and Marketing</span>
+																						</div>	
+														
+																					</div>					 				
+				 		</div> 	<!-- END CONTACT FORM -->	
+
+
+				 	</div>	<!-- End row -->			  
+ 
+
+				</div>	   <!-- End container -->		
+			</section>	<!-- END CONTACTS-1 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<!-- OUR-LEADERS
 			============================================= -->
 
