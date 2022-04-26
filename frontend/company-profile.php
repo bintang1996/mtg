@@ -98,7 +98,7 @@
 
 
 		 				<!-- CONTACTS INFO -->
-		 				<div class="col-md-5 col-lg-4">
+		 				<div class="col-md-5 col-lg-5">
 
 		 					<!-- General Information -->
 		 					<div class="contact-box mb-40">
@@ -125,7 +125,7 @@
 
 
 						<!-- CONTACT FORM -->	
-				 		<div class="col-md-7 col-lg-8">
+				 		<div class="col-md-7 col-lg-7">
 						<table><tr><td>	 
 						<div class="doctor-1">								
 						<div class="hover-overlay text-center"> 
