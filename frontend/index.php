@@ -410,40 +410,70 @@
 			<section id="info-9" class="bg-blue info-section division">
 
 		
-            <!-- TEXT BLOCK -->		
-            <div class="container">
-                <div class="row d-flex align-items-center">	
-                    <div class="col-lg-6">
-                       
-						<?php
-							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d2=mysqli_fetch_array($sql2)){
-							?> 
-										<div class="gambar" style="background-image: url('assets/imgs/shop/<?php echo $d2['img_name']; ?>');"></div>
-		<?php } ?>
-						
-                    </div>	
+			
+<div class="w3-content w3-display-container" style="max-width:100%; background-color:#ececec;">
 
-                    <div class="col-md-6">
-                        <div class="info-9-table white-color wow fadeInUp" data-wow-delay="0.4s">
-						<p style="margin-bottom:1px; font-size:1em;">LATEST POST</p>
-                            <!-- Title -->
-                            <h4 class="h4-xs"><?php echo $d1['p_name']; ?></h4>
 
-                            <!-- Text -->
-                            <p><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 200); ?>
-                                
-                             
-                            </p>
 
-                            <!-- Button -->
-								<a href="article-details.php?id=<?php echo $d1['id']; ?>" class="btn btn-tra-white white-hover mt-20">Find Out More</a>
+<div class="mySlides1">
 
-                        </div>	
-                    </div>
-                </div>	  <!-- End row -->
-            </div>	   <!-- END TEXT BLOCK -->	
+<table class="table" width="90%" style="border:none; margin-bottom:0; margin-right:5%;">
+<tr><td width="50%"  class="text-center align-center">
+<img class="img-fluid" width="70%" src="images/pediatrics_700x700.jpg" alt="tab-image">
+</td>
+<td><br><br>
+<h3 class="h4-md" style="color: #281E78;font-family:'Lato'; font-weight:bolder;"><B><?php echo $d1['p_name']; ?></B></h3><BR>
+<p style="text-align:justify;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 200); ?></p>
+	<br><a href="article-details.php?id=<?php echo $d1['id']; ?>" class="btn btn-md btn-blue blue-hover">Selengkapnya</a>
+</td>
+<td width="5%"></td>
+</table>			
+</div>
+
+
+<button class="w3-button w3-display-left w3-red" onclick="plusDivs(-1)">&#10094;</button>
+<button class="w3-button w3-display-right w3-red" onclick="plusDivs(1)">&#10095;</button>
+<div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
+
+	<span class="w3-badge demo1 w3-border w3-red w3-hover-red" onclick="currentDiv(1)"></span>
+	<span class="w3-badge demo1 w3-border w3-red w3-hover-red" onclick="currentDiv(2)"></span>
+	<span class="w3-badge demo1 w3-border w3-red w3-hover-red" onclick="currentDiv(3)"></span>
+</div>
+</div>
 <?php }} ?>
+	<script>
+	var slideIndex = 1;
+	showDivs(slideIndex);
+
+	function plusDivs(n) {
+	showDivs(slideIndex += n);
+	}
+
+	function currentDiv(n) {
+	showDivs(slideIndex = n);
+	}
+
+	function showDivs(n) {
+	var i;
+	var x = document.getElementsByClassName("mySlides1");
+	var dots = document.getElementsByClassName("demo1");
+	if (n > x.length) {slideIndex = 1}
+	if (n < 1) {slideIndex = x.length}
+	for (i = 0; i < x.length; i++) {
+		x[i].style.display = "none";  
+	}
+	for (i = 0; i < dots.length; i++) {
+		dots[i].className = dots[i].className.replace(" w3-white", "");
+	}
+	x[slideIndex-1].style.display = "block";  
+	dots[slideIndex-1].className += " w3-white";
+	}
+	</script>
+
+
+
+
+
 
             </section>	<!-- END TOP-NEWS -->
 
