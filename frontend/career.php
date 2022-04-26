@@ -33,8 +33,10 @@
 
                             <!-- Text -->
                             <p class="p-lg">Jika Anda adalah orang dengan minat dalam industri kesehatan, Meditrans adalah perusahaan yang tepat bagi Anda untuk mengembangkan karir. Anda akan bertemu begitu banyak orang yang memiliki passion seperti Anda di dunia healthcare. Pemimpin dan tim kami menghargai bakat dan kontribusi Anda untuk memberi dampak pada industri healthcare dan lainnya.
-							<img class="img-fluid" width="210" src="images/Career.jpg" alt="doctor-foto">	
-                            </p>
+							
+						
+                            </p><br>
+							<img class="img-fluid" width="70%" src="images/Career.jpg" alt="doctor-foto">	
                         </div>
                     </div>
                 </div>
