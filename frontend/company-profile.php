@@ -35,7 +35,7 @@
 						<!-- IMAGE BLOCK -->
 						<div class="col-lg-6">
 							<div class="info-1-img text-center mb-40 wow fadeInUp" data-wow-delay="0.6s">
-								<img class="img-fluid" src="images/meditrans-office-ps3.png" alt="info-image">
+								<img class="img-fluid" src="images/lobby-meditrans.jpg" alt="info-image">
 							</div>
 						</div>
 
