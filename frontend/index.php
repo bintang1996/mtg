@@ -424,7 +424,7 @@
 
 		
 			
-<div class="w3-content w3-display-container" style="max-width:100%; background-color:#ececec;">
+<div class="w3-content w3-display-container" style="max-width:100%; background-color:#fff;">
 
 <?php
                     $r=$_GET['id'];
