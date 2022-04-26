@@ -401,6 +401,9 @@
 <!-- TOP-NEWS
 			============================================= -->
 	
+			<section id="info-9" class="bg-blue info-section division">
+
+		
 			
 <div class="w3-content w3-display-container" style="max-width:100%; background-color:#ececec;">
 
@@ -466,6 +469,13 @@
 	dots[slideIndex-1].className += " w3-white";
 	}
 	</script>
+
+
+
+
+
+
+            </section>	<!-- END TOP-NEWS -->
 
 
 
