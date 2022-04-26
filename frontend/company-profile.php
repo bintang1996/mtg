@@ -179,7 +179,31 @@
 																							<span class="blue-color">Director of Operation and Marketing</span>
 																						</div>	
 														
-																					</div>					 				
+																					</div>	
+																					
+																					<div class="doctor-1">	
+																					
+								<!-- LEADER Photo -->
+								<div class="hover-overlay text-center"> 
+
+									<!-- Photo -->
+									<img class="img-fluid" src="images/Horraizi-photo.png" alt="doctor-foto">	
+									<div class="item-overlay"></div>
+
+									<!-- Profile Link -->		
+									<div class="profile-link">
+										<a class="btn btn-sm btn-tra-white black-hover" href="doctor-2.html" title="">View More Info</a>
+									</div>
+
+								</div>		
+								
+								<!-- LEADER Meta -->		
+								<div class="doctor-meta">
+
+									<h5 class="h5-sm steelblue-color">Horraizi Hosen</h5>
+									<span class="blue-color">Director of Engineering</span>
+								</div>	
+							</div>
 				 		</div> 	<!-- END CONTACT FORM -->	
 
 
