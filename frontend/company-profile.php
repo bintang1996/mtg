@@ -120,12 +120,6 @@
 								<p>Email: <a href="mailto:info@meditrans.id" class="blue-color">info@meditrans.id</a></p>
 		 					</div>
 
-		 					<!-- Working Hours -->
-		 					<div class="contact-box mb-40">
-								<h5 class="h5-sm steelblue-color">Working Hours</h5>
-								<p>Monday – Friday : 8:00 - 17:00 WIB</p> 
-								
-		 					</div>
 
 						</div>	<!-- END CONTACTS INFO -->
 
