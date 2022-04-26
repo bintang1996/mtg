@@ -83,11 +83,11 @@
 						<div class="col-lg-10 offset-lg-1 section-title">	
 
 							<!-- Title 	-->	
-							<h3 class="h3-md steelblue-color">Hubungi Kami</h3>	
+							<h3 class="h3-md steelblue-color">Our Leaders</h3>	
 
 							<!-- Text -->
-							<p>Have a question? Want to book an appointment for yourself or your children? Give us a call
-							   or send an email to contact the MedService.
+							<p>Direksi Meditrans mendorong peningkatan kinerja tim sehingga mampu memberikan pelayanan
+								terbaik, turut berkontribusi, dan berperan positif di dunia kesehatan serta masyarakat pada umumnya.
 							</p>
 								
 						</div>
@@ -102,7 +102,7 @@
 
 		 					<!-- General Information -->
 		 					<div class="contact-box mb-40">
-								<h5 class="h5-sm steelblue-color">Jakarta Head Office</h5>
+								<h5 class="h5-sm steelblue-color">About Us</h5>
 								<p>Jalan Munggang no 86-87</p> 
 								<p>Balaikambang, Keramat Jati, Jakarta Timur</p>
                                 <p>13530</p>
@@ -112,7 +112,7 @@
 
 		 					<!-- Patient Experience -->
 		 					<div class="contact-box mb-40">
-								<h5 class="h5-sm steelblue-color">Surabaya Head Office</h5>
+								<h5 class="h5-sm steelblue-color">Our Leader</h5>
 								<p>Rungkut Menanggal Harapan O/28</p>
                                 <p>Rungkut, Surabaya</p>
                                 <p>60239</p>
