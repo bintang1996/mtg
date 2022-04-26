@@ -138,7 +138,7 @@
 
     					<!-- LOGO IMAGE -->
     					<!-- For Retina Ready displays take a image with double the amount of pixels that your image will be displayed (e.g 360 x 80 pixels) -->
-    					<div class="desktoplogo"><a href ="index.php"><img src="images/logo-meditrans.png"  width="200"  alt="header-logo"></a></div>
+    					<div class="desktoplogo"><a href ="index.php"><img src="images/logo-meditrans.png"  width="230"  alt="header-logo"></a></div>
 
     					<!-- MAIN MENU -->
       					<nav class="wsmenu clearfix">
