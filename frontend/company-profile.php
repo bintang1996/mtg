@@ -74,7 +74,7 @@
 			<!-- OUR-LEADERS
 			============================================= -->
 
-			<div class="col-lg-8 section-title">
+			
 			<section id="doctors-1" class="wide-40 doctors-section division" style="background-color:white;">
 				<div class="container">
 
@@ -195,7 +195,7 @@
 
 				</div>	   <!-- End container -->
 			</section>	
-</div>
+
 			
 			<!-- OUR-LEADERS -->
 
