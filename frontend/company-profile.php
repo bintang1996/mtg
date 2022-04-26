@@ -152,38 +152,9 @@
 
 							</div>					
 						</div>	<!-- END LEADER #2 -->
-						
+														
 						
 						<!-- LEADER #3 -->
-						<div class="col-md-6 col-lg-3">
-							<div class="doctor-1">	
-																						
-								<!-- LEADER Photo -->
-								<div class="hover-overlay text-center"> 
-
-									<!-- Photo -->
-									<img class="img-fluid" src="images/eddy.png" alt="doctor-foto">	
-									<div class="item-overlay"></div>
-
-									<!-- Profile Link -->		
-									<div class="profile-link">
-										<a class="btn btn-sm btn-tra-white black-hover" href="doctor-1.html" title="">View More Info</a>
-									</div>
-
-								</div>		
-								
-								<!-- LEADER Meta -->		
-								<div class="doctor-meta">
-
-									<h5 class="h5-sm steelblue-color">Eddy Santoso</h5>
-									<span class="blue-color">Director of Sales</span>
-								</div>	
-
-							</div>			
-						</div>	<!-- END LEADER #3 -->
-											
-						
-						<!-- LEADER #4 -->
 						<div class="col-md-6 col-lg-3">
 							<div class="doctor-1">	
 																					
@@ -208,7 +179,7 @@
 									<span class="blue-color">Director of Engineering</span>
 								</div>	
 							</div>			
-						</div>	<!-- END LEADER #4 -->
+						</div>	<!-- END LEADER #3 -->
 
 
 					</div>	    <!-- End row -->
