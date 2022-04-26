@@ -425,13 +425,13 @@
 
 <div class="mySlides1">
 
-<table class="table" width="90%" style="border:none; margin-bottom:0; margin-right:5%;">
+<table class="table" width="90%" style="border:none; margin-bottom:0; margin-right:5%; margin-left:20%;">
 <tr><td width="50%"  class="text-center align-center">
 <?php
 							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 							while($d2=mysqli_fetch_array($sql2)){
 							?> 
-										<div style="background-image: url('assets/imgs/shop/<?php echo $d2['img_name']; ?>');"></div>
+							<div class="gambar" style="background-image: url('assets/imgs/shop/<?php echo $d2['img_name']; ?>');"></div>
 		<?php } ?>
 </td>
 <td><br><br>
