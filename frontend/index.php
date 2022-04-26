@@ -477,14 +477,14 @@
 <?php }} ?>
 	<script>
 	var slideIndex = 1;
-	showDivs1(slideIndex);
+	showDivs(slideIndex);
 
 	function plusDivs1(n) {
-	showDivs1(slideIndex += n);
+	showDivs(slideIndex += n);
 	}
 
 	function currentDiv1(n) {
-	showDivs1(slideIndex = n);
+	showDivs(slideIndex = n);
 	}
 
 	function showDivs1(n) {
