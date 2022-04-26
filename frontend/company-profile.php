@@ -132,78 +132,53 @@
 
 						<!-- CONTACT FORM -->	
 				 		<div class="col-md-7 col-lg-8">
-						 <div class="doctor-1">								
-														
-														<!-- LEADER Photo -->
-														<div class="hover-overlay text-center"> 
-						
-															<!-- Photo -->
-															<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
-															<div class="item-overlay"></div>
-						
-															<!-- Profile Link -->		
-															<div class="profile-link">
-																<a class="btn btn-sm btn-tra-white black-hover" href="doctor-1.html" title="">View More Info</a>
-															</div> 
-						
-														</div>	
-						
-														<!-- LEADER Meta -->		
-														<div class="doctor-meta">
-						
-															<h5 class="h5-sm steelblue-color">Ibnu Affan</h5>
-															<span class="blue-color">Chief Executive Officer</span>
-														</div>	
-						
-													</div>				
-						 <div class="doctor-1">	
-																						
-																						<!-- LEADER Photo -->
-																						<div class="hover-overlay text-center"> 
-														
-																							<!-- Photo -->
-																							<img class="img-fluid" src="images/tari.png" alt="doctor-foto">	
-																							<div class="item-overlay"></div>
-														
-																							<!-- Profile Link -->		
-																							<div class="profile-link">
-																								<a class="btn btn-sm btn-tra-white black-hover" href="doctor-2.html" title="">View More Info</a>
-																							</div>
-														
-																						</div>	
-														
-																						<!-- LEADER Meta -->		
-																						<div class="doctor-meta">
-														
-																							<h5 class="h5-sm steelblue-color">Tari Pristiyani</h5>
-																							<span class="blue-color">Director of Operation and Marketing</span>
-																						</div>	
-														
-																					</div>	
-																					
-																					<div class="doctor-1">	
-																					
-								<!-- LEADER Photo -->
-								<div class="hover-overlay text-center"> 
+						<table><tr><td>	 
+						<div class="doctor-1">								
+						<div class="hover-overlay text-center"> 
+						<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
+						<div class="item-overlay"></div>	
+						<div class="profile-link">
+						<a class="btn btn-sm btn-tra-white black-hover" href="doctor-1.html" title="">View More Info</a>
+						</div> 
+						</div>	
+						<div class="doctor-meta">
+						<h5 class="h5-sm steelblue-color">Ibnu Affan</h5>
+						<span class="blue-color">Chief Executive Officer</span>
+						</div>	
+						</div>		
+</td><td>
+						<div class="doctor-1">	
+						<div class="hover-overlay text-center"> 
+						<img class="img-fluid" src="images/tari.png" alt="doctor-foto">	
+						<div class="item-overlay"></div>
+						<div class="profile-link">
+						<a class="btn btn-sm btn-tra-white black-hover" href="doctor-2.html" title="">View More Info</a>
+						</div>
+						</div>	
+						<div class="doctor-meta">
+						<h5 class="h5-sm steelblue-color">Tari Pristiyani</h5>
+						<span class="blue-color">Director of Operation and Marketing</span>
+						</div>	
+						</div>	
+</td><td>
+						<div class="doctor-1">
+						<div class="hover-overlay text-center"> 
+						<img class="img-fluid" src="images/Horraizi-photo.png" alt="doctor-foto">	
+						<div class="item-overlay"></div>
+						<div class="profile-link">
+						<a class="btn btn-sm btn-tra-white black-hover" href="doctor-2.html" title="">View More Info</a>
+						</div>
+						</div>		
+						<div class="doctor-meta">
+						<h5 class="h5-sm steelblue-color">Horraizi Hosen</h5>
+						<span class="blue-color">Director of Engineering</span>
+						</div>	
+						</div>
 
-									<!-- Photo -->
-									<img class="img-fluid" src="images/Horraizi-photo.png" alt="doctor-foto">	
-									<div class="item-overlay"></div>
+</td></tr></table>
 
-									<!-- Profile Link -->		
-									<div class="profile-link">
-										<a class="btn btn-sm btn-tra-white black-hover" href="doctor-2.html" title="">View More Info</a>
-									</div>
 
-								</div>		
-								
-								<!-- LEADER Meta -->		
-								<div class="doctor-meta">
 
-									<h5 class="h5-sm steelblue-color">Horraizi Hosen</h5>
-									<span class="blue-color">Director of Engineering</span>
-								</div>	
-							</div>
 				 		</div> 	<!-- END CONTACT FORM -->	
 
 
