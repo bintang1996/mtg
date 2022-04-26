@@ -73,14 +73,19 @@
 
 			<!-- OUR-LEADERS
 			============================================= -->
-<div class="col-lg-4 section-title"></div>
+
 			<div class="col-lg-8 section-title">
 			<section id="doctors-1" class="wide-40 doctors-section division" style="background-color:white;">
 				<div class="container">
 
 
+
+				
 			 		<!-- SECTION TITLE -->	
 					<div class="row">	
+
+
+					<div class="col-lg-4 section-title"></div>
 						<div class="col-lg-12 section-title">		
 
 							<!-- Title 	-->	
@@ -92,10 +97,6 @@
 							</p>
 										
 						</div> 
-					</div>	 <!-- END SECTION TITLE -->	
-
-
-					<div class="row">
 
 
 						<!-- LEADER #1 -->
