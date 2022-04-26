@@ -400,20 +400,17 @@
 
 <!-- TOP-NEWS
 			============================================= -->
-			<?php
+	
+			
+<div class="w3-content w3-display-container" style="max-width:100%; background-color:#ececec;">
+
+<?php
                     $r=$_GET['id'];
 							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a where cat_name = 'Default News Page' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
                                 $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
                                 while($d1=mysqli_fetch_array($sql1)){ 
 							?> 
-			<section id="info-9" class="bg-blue info-section division">
-
-		
-			
-<div class="w3-content w3-display-container" style="max-width:100%; background-color:#ececec;">
-
-
 
 <div class="mySlides1">
 
@@ -469,13 +466,6 @@
 	dots[slideIndex-1].className += " w3-white";
 	}
 	</script>
-
-
-
-
-
-
-            </section>	<!-- END TOP-NEWS -->
 
 
 
