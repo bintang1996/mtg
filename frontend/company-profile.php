@@ -95,7 +95,7 @@
 
 
 						<!-- LEADER #1 -->
-						<div class="col-md-7 col-lg-3">
+						<div class="col-md-6 col-lg-3">
 							<div class="doctor-1">								
 														
 								<!-- LEADER Photo -->
@@ -124,7 +124,7 @@
 						
 						
 						<!-- LEADER #2 -->
-						<div class="col-md-7 col-lg-3">
+						<div class="col-md-6 col-lg-3">
 							<div class="doctor-1">	
 																						
 								<!-- LEADER Photo -->
@@ -153,7 +153,7 @@
 														
 						
 						<!-- LEADER #3 -->
-						<div class="col-md-7 col-lg-3">
+						<div class="col-md-6 col-lg-3">
 							<div class="doctor-1">	
 																					
 								<!-- LEADER Photo -->
