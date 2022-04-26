@@ -79,14 +79,9 @@
 				<div class="container">
 
 
-
-				
 			 		<!-- SECTION TITLE -->	
 					<div class="row">	
-
-
-					<div class="col-lg-4 section-title"></div>
-						<div class="col-lg-8 section-title">		
+						<div class="col-md-5 section-title">		
 
 							<!-- Title 	-->	
 							<h3 class="h3-md steelblue-color">Our Leaders</h3>	
@@ -100,7 +95,7 @@
 
 
 						<!-- LEADER #1 -->
-						<div class="col-md-6 col-lg-4">
+						<div class="col-md-7 col-lg-4">
 							<div class="doctor-1">								
 														
 								<!-- LEADER Photo -->
