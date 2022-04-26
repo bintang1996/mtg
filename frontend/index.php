@@ -434,11 +434,11 @@
 					</div>
 
 <?php
-                    $r=$_GET['id'];
+                    $r=$_GET['id']; $gi=0;
 							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a where cat_name = 'Default News Page' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
                                 $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-                                while($d1=mysqli_fetch_array($sql1)){ 
+                                while($d1=mysqli_fetch_array($sql1)){  $gi++;
 							?> 
 
 <div class="mySlides1">
@@ -466,9 +466,10 @@
 <button class="w3-button w3-display-right w3-red" onclick="plusDivs(1)">&#10095;</button>
 <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 
-	<span class="w3-badge demo1 w3-border w3-red w3-hover-red" onclick="currentDiv(1)"></span>
-	<span class="w3-badge demo1 w3-border w3-red w3-hover-red" onclick="currentDiv(2)"></span>
-	<span class="w3-badge demo1 w3-border w3-red w3-hover-red" onclick="currentDiv(3)"></span>
+	<span class="w3-badge demo1 w3-border w3-red w3-hover-red" onclick="currentDiv(<?php echo $gi; ?>)"></span>
+
+
+
 </div>
 </div>
 <?php }} ?>
