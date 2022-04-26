@@ -86,7 +86,7 @@
 
 
 					<div class="col-lg-4 section-title"></div>
-						<div class="col-lg-12 section-title">		
+						<div class="col-lg-8 section-title">		
 
 							<!-- Title 	-->	
 							<h3 class="h3-md steelblue-color">Our Leaders</h3>	
