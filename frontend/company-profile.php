@@ -104,7 +104,7 @@
 								<div class="hover-overlay text-center"> 
 
 									<!-- Photo -->
-									<img class="img-fluid" src="images/ibnu.png" alt="doctor-foto">	
+									<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
 									<div class="item-overlay"></div>
 
 									<!-- Profile Link -->		
@@ -191,7 +191,7 @@
 								<div class="hover-overlay text-center"> 
 
 									<!-- Photo -->
-									<img class="img-fluid" src="images/roy.png" alt="doctor-foto">	
+									<img class="img-fluid" src="images/Horraizi-photo.png" alt="doctor-foto">	
 									<div class="item-overlay"></div>
 
 									<!-- Profile Link -->		
