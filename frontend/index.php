@@ -462,11 +462,11 @@
 </div>
 
 
-<button class="w3-button w3-display-left w3-red" onclick="plusDivs(-1)">&#10094;</button>
-<button class="w3-button w3-display-right w3-red" onclick="plusDivs(1)">&#10095;</button>
+<button class="w3-button w3-display-left w3-red" onclick="plusDivs1(-1)">&#10094;</button>
+<button class="w3-button w3-display-right w3-red" onclick="plusDivs1(1)">&#10095;</button>
 <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 
-	<span class="w3-badge demo1 w3-border w3-red w3-hover-red" onclick="currentDiv(<?php echo $gi; ?>)"></span>
+	<span class="w3-badge demo1 w3-border w3-red w3-hover-red" onclick="currentDiv1(<?php echo $gi; ?>)"></span>
 
 
 
@@ -475,17 +475,17 @@
 <?php }} ?>
 	<script>
 	var slideIndex1 = 1;
-	showDivs(slideIndex1);
+	showDivs1(slideIndex1);
 
-	function plusDivs(n) {
-	showDivs(slideIndex1 += n);
+	function plusDivs1(n) {
+	showDivs1(slideIndex1 += n);
 	}
 
-	function currentDiv(n) {
-	showDivs(slideIndex1 = n);
+	function currentDiv1(n) {
+	showDivs1(slideIndex1 = n);
 	}
 
-	function showDivs(n) {
+	function showDivs1(n) {
 	var i;
 	var x = document.getElementsByClassName("mySlides1");
 	var dots = document.getElementsByClassName("demo1");
