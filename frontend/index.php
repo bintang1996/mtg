@@ -186,8 +186,8 @@
 					<div class="sbox-3-icon">
 						<span class="flaticon-136-monitor"></span>
 					</div>						
-					<!-- Title -->
-					<h5 class="h5-xs white-color" style="margin-top:0;"><b>HEALTHCARE IT</b></h5>																																		
+					<!-- Title -->	
+					<h6 class="white-color" style="margin-top:0;"><b>HEALTHCARE IT</b></h6>																																	
 					</div>
 					</div>
 
