@@ -425,7 +425,7 @@
 
 <div class="mySlides1">
 
-<table class="table" width="90%" style="border:none; margin-bottom:0; margin-right:5%; margin-left:10%;">
+<table class="table" width="90%" style="border:none; margin-bottom:0; margin-right:7%; margin-left:7%;">
 <tr><td width="50%"  class="text-center align-center">
 <?php
 							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
