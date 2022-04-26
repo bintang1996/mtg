@@ -52,9 +52,9 @@
 								<h3 class="h3-md steelblue-color">Latar belakang Public Private Partnership (PPP)</h3>
 
 								<!-- Text -->
-								<p>"Public Private Partnership (PPP)  merupakan kerjasama antara Rumah Sakit Umum dan Perusahaan Swasta.
+								<p>Public Private Partnership (PPP)  merupakan kerjasama antara Rumah Sakit Umum dan Perusahaan Swasta.
 									PPPP merupakan salah satu solusi yang dilakukan oleh pihak swasta untuk membantu dan bekerjasama dengan Rumah Sakit membuka layanan baru 
-									serta mendapatkan akses teknologi baru dan transfer ilmu."</p>
+									serta mendapatkan akses teknologi baru dan transfer ilmu.</p>
 							</div>
 						</div>	<!-- END TEXT BLOCK -->	
 
