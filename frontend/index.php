@@ -462,8 +462,8 @@
 </div>
 
 
-<button class="w3-button w3-display-left w3-red" onclick="plusDivs1(-1)">&#10094;</button>
-<button class="w3-button w3-display-right w3-red" onclick="plusDivs1(1)">&#10095;</button>
+<button class="w3-button w3-display-left w3-red" onclick="plusDivs(-1)">&#10094;</button>
+<button class="w3-button w3-display-right w3-red" onclick="plusDivs(1)">&#10095;</button>
 <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 
 	<span class="w3-badge demo1 w3-border w3-red w3-hover-red" onclick="currentDiv(4)"></span>
@@ -475,34 +475,7 @@
 </div>
 </div>
 <?php }} ?>
-	<script>
-	var slideIndex = 1;
-	showDivs(slideIndex);
 
-	function plusDivs1(n) {
-	showDivs(slideIndex += n);
-	}
-
-	function currentDiv(n) {
-	showDivs(slideIndex = n);
-	}
-
-	function showDivs(n) {
-	var i;
-	var x = document.getElementsByClassName("mySlides1");
-	var dots = document.getElementsByClassName("demo1");
-	if (n > x.length) {slideIndex = 1}
-	if (n < 1) {slideIndex = x.length}
-	for (i = 0; i < x.length; i++) {
-		x[i].style.display = "none";  
-	}
-	for (i = 0; i < dots.length; i++) {
-		dots[i].className = dots[i].className.replace(" w3-white", "");
-	}
-	x[slideIndex-1].style.display = "block";  
-	dots[slideIndex-1].className += " w3-white";
-	}
-	</script>
 
 
 
