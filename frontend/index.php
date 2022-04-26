@@ -246,6 +246,17 @@
 			
   background-position: center;
 			
+
+			}
+			.gambar1{
+			width: 90%;
+			height: 500px;
+		
+			background-repeat: no-repeat;
+			background-size: cover;
+			
+  background-position: center;
+			
 			}
 			</style>
 		
@@ -431,12 +442,12 @@
 							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 							while($d2=mysqli_fetch_array($sql2)){
 							?> 
-							<div class="gambar" style="background-image: url('assets/imgs/shop/<?php echo $d2['img_name']; ?>');"></div>
+							<div class="gambar1" style="background-image: url('assets/imgs/shop/<?php echo $d2['img_name']; ?>');"></div>
 		<?php } ?>
 </td>
-<td><br><br>
+<td width="40%"><br><br>
 <h3 class="h4-md" style="color: #281E78;font-family:'Lato'; font-weight:bolder;"><B><?php echo $d1['p_name']; ?></B></h3><BR>
-<p style="text-align:justify;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 200); ?></p>
+<p style="text-align:justify;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 500); ?></p>
 	<br><a href="article-details.php?id=<?php echo $d1['id']; ?>" class="btn btn-md btn-blue blue-hover">Selengkapnya</a>
 </td>
 <td width="5%"></td>
