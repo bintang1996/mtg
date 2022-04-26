@@ -424,7 +424,7 @@
 
 		
 			
-<div class="w3-content w3-display-container" style="max-width:100%; background-color:#fff;">
+<div class="w3-content w3-display-container" style="max-width:100%; background-color:#fff; padding-bottom: 50px;">
 
 <div class="row">	
 						<div class="col-lg-10 offset-lg-1 section-title">		
