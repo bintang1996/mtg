@@ -79,7 +79,7 @@
 
 			 		<!-- SECTION TITLE -->	
 					<div class="row">	
-						<div class="col-lg-12 offset-lg-1 section-title">		
+						<div class="col-lg-12 section-title">		
 
 							<!-- Title 	-->	
 							<h3 class="h3-md steelblue-color">Our Leaders</h3>	
