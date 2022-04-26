@@ -462,13 +462,13 @@
 </div>
 
 
-<button class="w3-button w3-display-left w3-red" onclick="plusDivs1(-1)">&#10094;</button>
-<button class="w3-button w3-display-right w3-red" onclick="plusDivs1(1)">&#10095;</button>
+<button class="w3-button w3-display-left w3-red" onclick="plusDivs(-1)">&#10094;</button>
+<button class="w3-button w3-display-right w3-red" onclick="plusDivs(1)">&#10095;</button>
 <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 
-	<span class="w3-badge demo1 w3-border w3-red w3-hover-red" onclick="currentDiv1(1)"></span>
-	<span class="w3-badge demo1 w3-border w3-red w3-hover-red" onclick="currentDiv1(2)"></span>
-	<span class="w3-badge demo1 w3-border w3-red w3-hover-red" onclick="currentDiv1(3)"></span>
+	<span class="w3-badge demo1 w3-border w3-red w3-hover-red" onclick="currentDiv(1)"></span>
+	<span class="w3-badge demo1 w3-border w3-red w3-hover-red" onclick="currentDiv(2)"></span>
+	<span class="w3-badge demo1 w3-border w3-red w3-hover-red" onclick="currentDiv(3)"></span>
 
 
 
@@ -479,15 +479,15 @@
 	var slideIndex = 1;
 	showDivs(slideIndex);
 
-	function plusDivs1(n) {
+	function plusDivs(n) {
 	showDivs(slideIndex += n);
 	}
 
-	function currentDiv1(n) {
+	function currentDiv(n) {
 	showDivs(slideIndex = n);
 	}
 
-	function showDivs1(n) {
+	function showDivs(n) {
 	var i;
 	var x = document.getElementsByClassName("mySlides1");
 	var dots = document.getElementsByClassName("demo1");
