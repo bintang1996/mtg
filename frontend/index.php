@@ -426,6 +426,13 @@
 			
 <div class="w3-content w3-display-container" style="max-width:100%; background-color:#fff;">
 
+<div class="row">	
+						<div class="col-lg-10 offset-lg-1 section-title">		
+							<!-- Title 	-->	
+							<h3 class="h4-md steelblue-color" style="color: #281E78;"><b><b>RECENT POST</b></b></h3>								
+						</div> 
+					</div>
+
 <?php
                     $r=$_GET['id'];
 							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a where cat_name = 'Default News Page' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
