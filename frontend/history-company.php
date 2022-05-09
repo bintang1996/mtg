@@ -132,9 +132,8 @@
   box-shadow: 10px 7px 20px grey;
 }
 
-.container2 .content:hover .content h2 {
+.container2 .content:hover {
   background-color: #214068;
-  color: #fff;
 }
 
 .container2 .content h2 {
@@ -144,12 +143,19 @@
   color: #214068;
 }
 
+.container2 .content:hover h2{
+  color: #fff;
+}
 
 .container2 .content p {
   margin: 0;
   font-size: 16px;
   line-height: 22px;
   color: #214068;
+}
+
+.container2 .content:hover p{
+  color: #fff;
 }
 
 
