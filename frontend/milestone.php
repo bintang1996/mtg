@@ -146,6 +146,12 @@ body {
   border-color: transparent transparent transparent #fff;
 }
 
+.timeline ol li:nth-child(even) div:hover:before {
+  top: -8px;
+  border-width: 8px 0 0 8px;
+  border-color: transparent transparent transparent #214068;
+}
+
 .timeline time {
   display: block;
   font-size: 1.2rem;
