@@ -100,7 +100,7 @@ body {
   padding: 15px;
   font-size: 1rem;
   white-space: normal;
-  color: white;
+  color: #214068;
   background: #fff;
   box-shadow: 10px 7px 20px grey;
 }
