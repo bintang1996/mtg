@@ -132,7 +132,7 @@
   box-shadow: 10px 7px 20px grey;
 }
 
-.container2 .content:hover .container2 .content h2 p{
+.container2 .content:hover h2 {
   background-color: #214068;
   color: #fff;
 }
