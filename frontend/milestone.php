@@ -69,6 +69,7 @@ body {
   width: 160px;
   height: 3px;
   background: #214068;
+  
 }
 
 .timeline ol li:last-child {
@@ -100,7 +101,8 @@ body {
   font-size: 1rem;
   white-space: normal;
   color: white;
-  background: #214068;
+  background: #fff;
+  box-shadow: 10px 7px 20px grey;
 }
 
 .timeline ol li div::before {
