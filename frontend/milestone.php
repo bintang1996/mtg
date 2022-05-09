@@ -105,6 +105,11 @@ body {
   box-shadow: 10px 7px 20px grey;
 }
 
+.timeline ol li div:hover{
+  color: #fff;
+  background: #214068;
+}
+
 .timeline ol li div::before {
   content: '';
   position: absolute;
