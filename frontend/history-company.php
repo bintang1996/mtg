@@ -120,18 +120,20 @@
 
 .container2 .content {
   padding: 30px 90px 30px 30px;
-  background: #214068;
+  background: white;
   position: relative;
   border-radius: 10px 10px 10px 10px;
+  box-shadow: 10px 7px 20px grey;
 }
 
 .container2.right .content {
   padding: 30px 30px 30px 90px;
   border-radius: 10px 10px 10px 10px;
+  box-shadow: 10px 7px 20px grey;
 }
 
 .container2 .content:hover{
-  background-color: yellow;
+  background-color: #214068;
 }
 
 .container2 .content h2 {
