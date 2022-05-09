@@ -68,7 +68,7 @@ body {
   list-style-type: none;
   width: 160px;
   height: 3px;
-  background: #fff;
+  background: #214068;
   
 }
 
@@ -123,7 +123,7 @@ body {
 .timeline ol li:nth-child(odd) div::before {
   top: 100%;
   border-width: 8px 8px 0 0;
-  border-color: #214068 transparent transparent transparent;
+  border-color: #fff transparent transparent transparent;
 }
 
 .timeline ol li:nth-child(even) div {
@@ -133,7 +133,7 @@ body {
 .timeline ol li:nth-child(even) div::before {
   top: -8px;
   border-width: 8px 0 0 8px;
-  border-color: transparent transparent transparent #214068;
+  border-color: transparent transparent transparent #fff;
 }
 
 .timeline time {
