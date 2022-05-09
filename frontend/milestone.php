@@ -114,7 +114,7 @@ body {
   border-color: transparent transparent transparent #214068;
 }
 
-.timeline ol li div:hover .timeline ol li:nth-child(odd) div::before {
+.timeline ol li:nth-child(odd) div::before:hover {
   border-color: transparent transparent transparent #214068;
 }
 
