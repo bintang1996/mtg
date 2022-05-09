@@ -127,7 +127,7 @@
 
 .container2.right .content {
   padding: 30px 30px 30px 90px;
-  border-radius: 500px 0 0 500px;
+  border-radius: 10px 10px 10px 10px;
 }
 
 .container2 .content h2 {
