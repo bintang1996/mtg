@@ -104,7 +104,7 @@
 						<div class="col-lg-5">
 							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 								<!-- Title -->
-								<h3 class="h3-md steelblue-color">COMPANY LEGAL HISTORY </h3>
+								<h3 class="h3-md steelblue-color">COMPANY LEGAL </h3>
 
 								<!-- Text -->
 								<p>An enim nullam tempor sapien gravida donec pretium ipsum  porta justo integer at  odio
