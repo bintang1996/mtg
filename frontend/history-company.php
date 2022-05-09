@@ -122,7 +122,7 @@
   padding: 30px 90px 30px 30px;
   background: #214068;
   position: relative;
-  border-radius: 50px 50px 50px 50px;
+  border-radius: 10px 10px 10px 10px;
 }
 
 .container2.right .content {
