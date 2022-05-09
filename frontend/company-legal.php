@@ -95,7 +95,10 @@
 			============================================= -->
 			<section id="info-4" class="wide-100 info-section division" style="background-color: #f8f9fb; padding-top: 40px; border-bottom:1px solid grey;">
 				<div class="container">
-
+                <div class="col-lg-12">
+                <h4 class="h4-md" style="color: #281E78;font-family:'Lato'; text-align : center; margin-top:0px; font-weight:bolder;">COMPANY LEGAL HISTORY</h4>
+                <br>
+				</div>
 					<div class="row d-flex align-items-center">
 						<div class="col-lg-6">
 							<?php include "history-company.php";?>
