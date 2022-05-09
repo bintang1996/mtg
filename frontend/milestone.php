@@ -110,14 +110,6 @@ body {
   background: #214068;
 }
 
-.timeline ol li div:hover .timeline ol li:nth-child(even) div::before {
-  border-color: transparent transparent transparent #214068;
-}
-
-.timeline ol li:nth-child(odd) div::before:hover {
-  border-color: transparent transparent transparent #214068;
-}
-
 .timeline ol li div::before {
   content: '';
   position: absolute;
@@ -136,7 +128,7 @@ body {
 .timeline ol li:nth-child(odd) div::before {
   top: 100%;
   border-width: 8px 8px 0 0;
-  border-color: #fff transparent transparent transparent;
+  border-color: #214068 transparent transparent transparent;
 }
 
 .timeline ol li:nth-child(even) div {
