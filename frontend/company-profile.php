@@ -143,7 +143,7 @@
 </td><td>
 						<div class="doctor-1">	
 						<div class="hover-overlay text-center"> 
-						<img class="img-fluid" src="images/tari.png" alt="doctor-foto">	
+						<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
 						<div class="item-overlay"></div>
 						<div class="profile-link">
 						<a class="btn btn-sm btn-tra-white black-hover" href="doctor-2.html" title="">View More Info</a>
@@ -157,7 +157,7 @@
 </td><td>
 						<div class="doctor-1">
 						<div class="hover-overlay text-center"> 
-						<img class="img-fluid" src="images/Horraizi-photo.png" alt="doctor-foto">	
+						<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
 						<div class="item-overlay"></div>
 						<div class="profile-link">
 						<a class="btn btn-sm btn-tra-white black-hover" href="doctor-2.html" title="">View More Info</a>
