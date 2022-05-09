@@ -140,6 +140,10 @@
   margin: 0 0 10px 0;
   font-size: 18px;
   font-weight: normal;
+  color: #214068;
+}
+
+.container2 .content h2 :hover{
   color: #fff;
 }
 
@@ -147,6 +151,10 @@
   margin: 0;
   font-size: 16px;
   line-height: 22px;
+  color: #214068;
+}
+
+.container2 .content p :hover{
   color: #fff;
 }
 
