@@ -97,11 +97,11 @@
 				<div class="container">
           
 					<div class="row d-flex align-items-top">
-						<div class="col-lg-8">
+						<div class="col-lg-7">
 							<?php include "history-company.php";?>
 						</div>
 
-						<div class="col-lg-4">
+						<div class="col-lg-5">
 							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 								<!-- Title -->
 								<h3 class="h3-md steelblue-color">COMPANY LEGAL HISTORY </h3>
