@@ -95,10 +95,7 @@
 			============================================= -->
 			<section id="info-4" class="wide-100 info-section division" style="background-color: #f8f9fb; padding-top: 40px; border-bottom:1px solid grey;">
 				<div class="container">
-                <div class="col-lg-12">
-                <h4 class="h4-md" style="color: #281E78;font-family:'Lato'; text-align : center; margin-top:0px; font-weight:bolder;">COMPANY LEGAL HISTORY</h4>
-                <br>
-				</div>
+          
 					<div class="row d-flex align-items-center">
 						<div class="col-lg-6">
 							<?php include "history-company.php";?>
@@ -107,7 +104,7 @@
 						<div class="col-lg-6">
 							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 								<!-- Title -->
-								<h3 class="h3-md steelblue-color">Lorem ipsum dolor sit amet</h3>
+								<h3 class="h3-md steelblue-color">COMPANY LEGAL HISTORY </h3>
 
 								<!-- Text -->
 								<p>An enim nullam tempor sapien gravida donec pretium ipsum  porta justo integer at  odio
