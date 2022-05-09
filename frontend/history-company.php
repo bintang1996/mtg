@@ -119,7 +119,7 @@
 }
 
 .container2 .content {
-  padding: 30px 90px 30px 30px;
+  padding: 30px 50px 30px 30px;
   background: white;
   position: relative;
   border-radius: 10px 10px 10px 10px;
@@ -127,7 +127,7 @@
 }
 
 .container2.right .content {
-  padding: 30px 30px 30px 90px;
+  padding: 30px 30px 30px 50px;
   border-radius: 10px 10px 10px 10px;
   box-shadow: 10px 7px 20px grey;
 }
