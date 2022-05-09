@@ -130,8 +130,8 @@
   border-radius: 10px 10px 10px 10px;
 }
 
-.container2 .content: hover{
-  background: yellow;
+.container2 .content:hover{
+  background-color: yellow;
 }
 
 .container2 .content h2 {
