@@ -132,8 +132,9 @@
   box-shadow: 10px 7px 20px grey;
 }
 
-.container2 .content:hover{
+.container2 .content:hover .container2 .content h2 p{
   background-color: #214068;
+  color: #fff;
 }
 
 .container2 .content h2 {
@@ -143,9 +144,6 @@
   color: #214068;
 }
 
-.container2 .content h2 :hover{
-  color: #fff;
-}
 
 .container2 .content p {
   margin: 0;
@@ -154,9 +152,6 @@
   color: #214068;
 }
 
-.container2 .content p :hover{
-  color: #fff;
-}
 
 @media (max-width: 767.98px) {
   .timeline1::after {
