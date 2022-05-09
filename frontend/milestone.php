@@ -68,7 +68,7 @@ body {
   list-style-type: none;
   width: 160px;
   height: 3px;
-  background: #214068;
+  background: #fff;
   
 }
 
