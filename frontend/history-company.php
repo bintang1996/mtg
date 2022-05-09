@@ -99,7 +99,7 @@
   display: inline-block;
   width: 40px;
   height: 40px;
-  padding: 9px 0;
+  padding: 2px 0;
   top: calc(50% - 20px);
   background: #fff;
   border: 2px solid #006E51;
@@ -119,7 +119,7 @@
 }
 
 .container2 .content {
-  padding: 30px 50px 30px 30px;
+  padding: 30px 90px 30px 30px;
   background: white;
   position: relative;
   border-radius: 10px 10px 10px 10px;
@@ -127,7 +127,7 @@
 }
 
 .container2.right .content {
-  padding: 30px 30px 30px 50px;
+  padding: 30px 30px 30px 90px;
   border-radius: 10px 10px 10px 10px;
   box-shadow: 10px 7px 20px grey;
 }
