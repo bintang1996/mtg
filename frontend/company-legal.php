@@ -101,7 +101,7 @@
 							<?php include "history-company.php";?>
 						</div>
 
-						<div class="col-lg-4">
+						<div class="col-lg-4" style="text-align: right;">
 							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 								<!-- Title -->
 								<h3 class="h3-md steelblue-color">COMPANY LEGAL </h3>
