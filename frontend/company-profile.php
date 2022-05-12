@@ -447,7 +447,7 @@
 					<div class="row col-md-12">
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 50;">
-    				<img style="max-height: 50px;" src="images/networks/Picture1.png">
+    				<img style="min-width:150px; max-height: 50px;" src="images/networks/Picture1.png">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 50;">
