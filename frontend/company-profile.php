@@ -83,7 +83,7 @@
 						<div class="col-lg-12 section-title">	
 
 							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="font-family: 'Lato'; color: #214068; font-size: 20px;"><b><b>OUR LEADERS</b></b></h3>		
+							<h3 class="h3-md steelblue-color">Our Leaders</h3>	
 
 							<!-- Text -->
 							<p>Direksi Meditrans mendorong peningkatan kinerja tim sehingga mampu memberikan pelayanan
@@ -263,6 +263,11 @@
 				
 												<!-- Title -->
 												<h5 class="h5-sm steelblue-color">Berpegang Pada Etika</h5>
+												
+												<!-- Text -->
+												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
+												   auctor tempus feugiat dolor
+												</p>
 
 											</div>
 
@@ -284,6 +289,11 @@
 				
 												<!-- Title -->
 												<h5 class="h5-sm steelblue-color">Proaktif</h5>
+												<!-- Text -->
+												
+												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
+												   auctor tempus feugiat dolor
+												</p>
 
 											</div>
 
@@ -305,6 +315,10 @@
 				
 												<!-- Title -->
 												<h5 class="h5-sm steelblue-color">Standart Tinggi</h5>
+												<!-- Text -->
+												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
+												   auctor tempus feugiat dolor
+												</p>
 
 											</div>
 
@@ -326,6 +340,10 @@
 				
 												<!-- Title -->
 												<h5 class="h5-sm steelblue-color">Kompetisi</h5>
+												<!-- Text -->
+												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
+												   auctor tempus feugiat dolor
+												</p>
 
 											</div>
 
@@ -347,6 +365,10 @@
 				
 												<!-- Title -->
 												<h5 class="h5-sm steelblue-color">Saling Menghormati</h5>
+												<!-- Text -->
+												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
+												   auctor tempus feugiat dolor
+												</p>
 
 											</div>
 
@@ -368,7 +390,11 @@
 				
 												<!-- Title -->
 												<h5 class="h5-sm steelblue-color">Tumbuh Dan Berkembang</h5>
-	
+												<!-- Text -->
+												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
+												   auctor tempus feugiat dolor
+												</p>
+												
 											</div>
 
 										</a>
