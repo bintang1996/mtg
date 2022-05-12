@@ -1127,7 +1127,7 @@
 									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 46); ?>
-									...</p>
+									... <span style="color: grey;">read more<span></p>
 
 								</div>	
 
