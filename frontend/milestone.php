@@ -104,7 +104,9 @@ body {
   color: #214068;
   background: #fff;
   box-shadow: 10px 7px 20px grey;
-  border-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
 
 .timeline ol li div:hover{
