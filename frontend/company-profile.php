@@ -83,11 +83,7 @@
 						<div class="col-lg-12 section-title">	
 
 							<!-- Title 	-->	
-<<<<<<< HEAD
-							<h3 class="h4-md steelblue-color" style="font-family: 'Lato'; color: #214068; font-size: 20px;"><b><b>PRODUCT BRAND</b></b></h3>		
-=======
-							<h3 class="h3-md steelblue-color">Our Leaders</h3>	
->>>>>>> 1a08d664d7f730c5cc8187cc64c5ac7d7d1b7c75
+							<h3 class="h4-md steelblue-color" style="font-family: 'Lato'; color: #214068; font-size: 20px;"><b><b>OUR LEADERS</b></b></h3>		
 
 							<!-- Text -->
 							<p>Direksi Meditrans mendorong peningkatan kinerja tim sehingga mampu memberikan pelayanan
