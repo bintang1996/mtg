@@ -64,7 +64,7 @@
 	<section id="info-4" class="wide-100 info-section division" style="background-color: #f8f9fb; padding-top: 40px;">
 				<div class="container">
                 
-                <h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>MILESTONE</b></b></h3>
+                <h4 class="h4-md" style="color: #281E78;font-family: 'Lato'; text-align : center; margin-top:0px; font-weight:bolder;">MILESTONE</h4>
                 <br>
 
 				<?php include "milestone.php";?>
