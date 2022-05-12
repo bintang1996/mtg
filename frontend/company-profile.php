@@ -446,24 +446,24 @@
 
 					<div class="row col-md-12">
 
-					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 100;">
-    				<img style="max-height: 50px; padding:100px;" src="images/networks/Picture1.png">
+					<div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin:50px;" src="images/networks/Picture1.png">
   					</div>
 
-					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 50;">
+					<div class="panel-body" style="text-align: center; overflow: hidden; ">
     				<img  style="max-height: 50px;" src="images/networks/Picture2.png">
   					</div>
 
 
-					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 50;">
+					<div class="panel-body" style="text-align: center; overflow: hidden;">
     				<img  style="max-height: 50px;" src="images/networks/Picture3.png">
   					</div>
 
-					  <div class="panel-body" style="text-align: center; overflow: hidden; padding: 15;">
+					  <div class="panel-body" style="text-align: center; overflow: hidden;">
     				<img  style="max-height: 50px;" src="images/networks/Picture4.png">
   					</div>
 
-					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 15;">
+					<div class="panel-body" style="text-align: center; overflow: hidden; ">
     				<img  style="max-height: 50px;" src="images/networks/Picture5.png">
   					</div>
 
