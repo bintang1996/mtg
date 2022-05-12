@@ -69,6 +69,7 @@ body {
   width: 160px;
   height: 3px;
   background: #214068;
+  border-radius: 10px;
   
 }
 
