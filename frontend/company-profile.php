@@ -48,7 +48,8 @@
 					 			<span class="section-id blue-color">Tentang Kami</span>
 
 								<!-- Title -->
-								<h3 class="h3-md steelblue-color">Meditrans Global</h3>
+								<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>MEDITRANS GLOBAL</b></b></h3>								
+						
 
 								<!-- Text -->
 								<p class="mb-30" style="text-align:justify;">PT. Meditrans Global berdiri sejak tahun 2012 di Surabaya, berawal dari bisnis penyedia barang dan jasa, seiring waktu Meditrans terus berkembang ke bidang bidang bisnis lainnya.<br>
@@ -82,7 +83,7 @@
 					<div class="row">	
 					<div class="col-lg-12 offset-lg-1 section-title" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>PRODUCT BRAND</b></b></h3>								
+							<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>OUR LEADERS</b></b></h3>								
 						
 
 							<!-- Text -->
@@ -431,7 +432,8 @@
 						<div class="col-lg-10 offset-lg-1 section-title">		
 
 							<!-- Title 	-->	
-							<h3 class="h3-md steelblue-color">Our Network</h3>	
+							<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>OUR NETWORK</b></b></h3>								
+						
 
 							<!-- Text -->
 							<p>We are trusted to distributed and ........................, 
