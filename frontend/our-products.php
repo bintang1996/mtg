@@ -211,14 +211,10 @@
 								<!-- TAB-1 CONTENT -->
 								<div class="tab-pane fade show active" id="tab-11" role="tabpanel" aria-labelledby="tab11-list">									
 									<!-- Title -->
-
+									<table style="border: none;" width="100%"><tr><td>
 									<h3 class="h3-md steelblue-color">Medis</h3>
-
-									<!-- Text -->
-									<p>Merupakan Software untuk menghitung flow pembuluh darah jantung. Software Quantitative Flow Ratio (QFR) ini merupakan product dari Medis Medical Imaging System by Netherland, dimana Software ini merupakan Software penunjang Cathlab dengan terobosan terbaru dalam melakukan Fisiology Analysis. Software ini kami perkenalkan dengan Slogan
-										"No Wire, No Adenosine"
-
-									</p><br>
+									</td>
+									<td style="text-align: right; align:right;">
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Medis'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
@@ -227,6 +223,14 @@
 										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
+									</td></tr>
+									</table>
+									<!-- Text -->
+									<p>Merupakan Software untuk menghitung flow pembuluh darah jantung. Software Quantitative Flow Ratio (QFR) ini merupakan product dari Medis Medical Imaging System by Netherland, dimana Software ini merupakan Software penunjang Cathlab dengan terobosan terbaru dalam melakukan Fisiology Analysis. Software ini kami perkenalkan dengan Slogan
+										"No Wire, No Adenosine"
+
+									</p><br>
+								
 
 								</div>	<!-- END TAB-1 CONTENT -->
 
@@ -235,13 +239,10 @@
 								<div class="tab-pane fade" id="tab-12" role="tabpanel" aria-labelledby="tab12-list">
 
 									<!-- Title -->
+									<table style="border: none;" width="100%"><tr><td>
 									<h3 class="h3-md steelblue-color">Elixir</h3>
-
-									<!-- Text -->
-									<p>ELIXIR MEDICAL merupakan perusahaan USA yang yang memproduksi BHP Kardiologi khususnya Produk Stent dan Balloon. 
-										Meditrans ditunjuk sebagai distributor untuk produk-produk yang terdiri dari Premium Stent – DynamiX (Bioadaptor Stent), 
-										Stent DES - DESyneX2, dan Balloon - Xpanse
-									</p><br>
+									</td>
+									<td style="text-align: right; align:right;">
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Elixir'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
@@ -250,6 +251,14 @@
 										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
+									</td></tr>
+									</table>
+									<!-- Text -->
+									<p>ELIXIR MEDICAL merupakan perusahaan USA yang yang memproduksi BHP Kardiologi khususnya Produk Stent dan Balloon. 
+										Meditrans ditunjuk sebagai distributor untuk produk-produk yang terdiri dari Premium Stent – DynamiX (Bioadaptor Stent), 
+										Stent DES - DESyneX2, dan Balloon - Xpanse
+									</p><br>
+								
 								</div>	<!-- END TAB-2 CONTENT -->
 
 
@@ -257,14 +266,10 @@
 								<div class="tab-pane fade" id="tab-13" role="tabpanel" aria-labelledby="tab13-list">
 
 									<!-- Title -->
+									<table style="border: none;" width="100%"><tr><td>
 									<h3 class="h3-md steelblue-color">Invamed</h3>
-
-									<!-- Text -->
-									<p>Merupakan penyedia produk-produk vascular terdepan. INVAMED adalah perusahaan yang berasal dari negara Turki dimana saat ini PT. Meditrans Global ditunjuk sebagai distributor untuk produk produk penanganan kasus Peripheral Artery Diseases (PAD) dan Chronic Venous Insufficiency (CVI).
-										Produk dari INVAMED antara lain: VenaBLOCK, VeinOFF, thermoblock RFA
-
-									</p><br>
-									
+									</td>
+									<td style="text-align: right; align:right;">
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Invamed'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
@@ -273,6 +278,16 @@
 										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
+									</td></tr>
+									</table>
+
+									<!-- Text -->
+									<p>Merupakan penyedia produk-produk vascular terdepan. INVAMED adalah perusahaan yang berasal dari negara Turki dimana saat ini PT. Meditrans Global ditunjuk sebagai distributor untuk produk produk penanganan kasus Peripheral Artery Diseases (PAD) dan Chronic Venous Insufficiency (CVI).
+										Produk dari INVAMED antara lain: VenaBLOCK, VeinOFF, thermoblock RFA
+
+									</p><br>
+									
+									
 								</div>	<!-- END TAB-3 CONTENT -->
 
 
@@ -280,12 +295,10 @@
 								<div class="tab-pane fade" id="tab-14" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
+									<table style="border: none;" width="100%"><tr><td>
 									<h3 class="h3-md steelblue-color">Samsung Healthcare</h3>
-
-									<!-- Text -->
-									<p>Produk-produk Samsung Healthcare: Radiografi Digital, Sistem Ultrasound, Monitor Tinjauan Diagnostik & Klinis
-
-									</p><br>
+									</td>
+									<td style="text-align: right; align:right;">
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Samsung Healthcare'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
@@ -294,6 +307,14 @@
 										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
+									</td></tr>
+									</table>
+
+									<!-- Text -->
+									<p>Produk-produk Samsung Healthcare: Radiografi Digital, Sistem Ultrasound, Monitor Tinjauan Diagnostik & Klinis
+
+									</p><br>
+									
 									
 								</div>	<!-- END TAB-4 CONTENT -->
 
@@ -301,14 +322,10 @@
 								<div class="tab-pane fade" id="tab-15" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
+									<table style="border: none;" width="100%"><tr><td>
 									<h3 class="h3-md steelblue-color">Vyaire</h3>
-
-									<!-- Text -->
-									<p>Vyaire merupakan perusahaan produsen ventilator dari USA. Meditrans ditunjuk sebagai produsen tunggal Ventilators Vyaire LTV 2200.
-
-										Produk dari vyaire antara lain Adult Circuit Without PEEP SPU, pediatric Circuit Without PEEP SPU, aksesoris ventilator: battery charger, Transport Bag, Assy, Floor Stand, Sprint Pack Mount, Filter, Inlet, Foam, Protective Boot, etc
-
-									</p><br>
+									</td>
+									<td style="text-align: right; align:right;">
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Vyaire'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
@@ -317,6 +334,16 @@
 										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
+									</td></tr>
+									</table>
+
+									<!-- Text -->
+									<p>Vyaire merupakan perusahaan produsen ventilator dari USA. Meditrans ditunjuk sebagai produsen tunggal Ventilators Vyaire LTV 2200.
+
+										Produk dari vyaire antara lain Adult Circuit Without PEEP SPU, pediatric Circuit Without PEEP SPU, aksesoris ventilator: battery charger, Transport Bag, Assy, Floor Stand, Sprint Pack Mount, Filter, Inlet, Foam, Protective Boot, etc
+
+									</p><br>
+									
 									
 								</div>	<!-- END TAB-4 CONTENT -->
 
@@ -324,14 +351,10 @@
 								<div class="tab-pane fade" id="tab-16" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
+									<table style="border: none;" width="100%"><tr><td>
 									<h3 class="h3-md steelblue-color">GE Healthcare</h3>
-
-									<!-- Text -->
-									<p>GE Healthcare menyediakan teknologi dan layanan medis transformasional yang membentuk era baru perawatan pasien. GE Healthcare memiliki keahlian yang luas dalam pencitraan medis dan teknologi informasi, diagnostik medis, hingga sistem pemantauan pasien.
-
-										Berkantor pusat di Inggris Raya, GE Healthcare adalah unit dari General Electric Company (NYSE: GE). Di seluruh dunia, karyawan GE Healthcare berkomitmen untuk melayani profesional perawatan kesehatan dan pasien mereka di lebih dari 100 negara
-
-									</p><br>
+									</td>
+									<td style="text-align: right; align:right;">
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='GE Healthcare'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
@@ -340,6 +363,16 @@
 										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
+									</td></tr>
+									</table>
+
+									<!-- Text -->
+									<p>GE Healthcare menyediakan teknologi dan layanan medis transformasional yang membentuk era baru perawatan pasien. GE Healthcare memiliki keahlian yang luas dalam pencitraan medis dan teknologi informasi, diagnostik medis, hingga sistem pemantauan pasien.
+
+										Berkantor pusat di Inggris Raya, GE Healthcare adalah unit dari General Electric Company (NYSE: GE). Di seluruh dunia, karyawan GE Healthcare berkomitmen untuk melayani profesional perawatan kesehatan dan pasien mereka di lebih dari 100 negara
+
+									</p><br>
+									
 									
 								</div>	<!-- END TAB-4 CONTENT -->
 								
@@ -347,7 +380,20 @@
 								<div class="tab-pane fade" id="tab-17" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
+									<table style="border: none;" width="100%"><tr><td>
 									<h3 class="h3-md steelblue-color">Fujifilm FCR PRIMA T2</h3>
+									</td>
+									<td style="text-align: right; align:right;">
+									<?php
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='FUJIFILM'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										while($d=mysqli_fetch_array($sql)){
+										?> 
+										
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+									
+									<?php }?>
+									</td></tr>
+									</table>
 
 									<!-- Text -->
 									<p>FCR PRIMA T2 adalah FCR yang dirancang secara ringkas dengan resolusi tinggi dan pemrosesan cepat yang hanya dapat disediakan oleh Fuji Film.
@@ -357,30 +403,18 @@
 										Meskipun ini adalah mesin yang ringkas, kualitas gambarnya yang luar biasa sama dengan yang dihasilkan oleh rentang FCR lainnya. Image Intelligence™, teknologi pemrosesan gambar milik Fujifilm, meningkatkan kontras dan ketajaman gambar, tanpa penurunan detail. FCR PRIMA T2 mendukung diagnosis yang akurat dengan menawarkan kualitas gambar yang stabil dan optimal
 
 									</p><br>
-									<?php
-										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='FUJIFILM'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-										while($d=mysqli_fetch_array($sql)){
-										?> 
-										
-										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
-									<?php }?>
 									
 								</div>	<!-- END TAB-4 CONTENT -->
 							<!-- TAB-4 CONTENT -->
 								<div class="tab-pane fade" id="tab-18" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
+									<table style="border: none;" width="100%"><tr><td>
 									<h3 class="h3-md steelblue-color">FWFC Floor Wall or Floor Ceiling Digital Radiography System (Del Medical)
 										</h3>
-
-									<!-- Text -->
-									<p>Sistem FWFC DEL MEDICAL menawarkan solusi fleksibel untuk Fasilitas Kesehatan yang ingin memaksimalkan ruang dan meminimalkan modifikasi ruangan. Ini memiliki rel di lantai dan bagian atas rel yang dapat dipasang di dinding atau langit-langit untuk fleksibilitas pemasangan dan 
-
-										Sistem FWFC merupakan Alat Radiografi yang paling terjangkau di produk DEL MEDICAL ini, tetapi memiliki qualitas pencintraan yang sangat tinggi. FWFC ini di produksi langsung di USA dengan kualitas standar
-
-
-									</p><br>
+										</td>
+									<td style="text-align: right; align:right;">
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Del Medical'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
@@ -389,6 +423,17 @@
 										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
+									</td></tr>
+									</table>
+
+									<!-- Text -->
+									<p>Sistem FWFC DEL MEDICAL menawarkan solusi fleksibel untuk Fasilitas Kesehatan yang ingin memaksimalkan ruang dan meminimalkan modifikasi ruangan. Ini memiliki rel di lantai dan bagian atas rel yang dapat dipasang di dinding atau langit-langit untuk fleksibilitas pemasangan dan 
+
+										Sistem FWFC merupakan Alat Radiografi yang paling terjangkau di produk DEL MEDICAL ini, tetapi memiliki qualitas pencintraan yang sangat tinggi. FWFC ini di produksi langsung di USA dengan kualitas standar
+
+
+									</p><br>
+								
 									
 								</div>	<!-- END TAB-4 CONTENT -->
 
@@ -396,12 +441,10 @@
 								<div class="tab-pane fade" id="tab-19" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
+									<table style="border: none;" width="100%"><tr><td>
 									<h3 class="h3-md steelblue-color">PT. Satya Abadi Vesmed</h3>
-
-									<!-- Text -->
-									<p>HIS "KESIA" adalah platform solusi lengkap "Sistem Informasi Rumah Sakit", dari Back office, 
-										BI, PACS, LIS dan TELEMEDICINE AND TELEDIAGNOSTIC 
-									</p><br>
+									</td>
+									<td style="text-align: right; align:right;">
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='SAV'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
@@ -410,6 +453,14 @@
 										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
+									</td></tr>
+									</table>
+
+									<!-- Text -->
+									<p>HIS "KESIA" adalah platform solusi lengkap "Sistem Informasi Rumah Sakit", dari Back office, 
+										BI, PACS, LIS dan TELEMEDICINE AND TELEDIAGNOSTIC 
+									</p><br>
+								
 									
 								</div>	<!-- END TAB-4 CONTENT -->
 								
@@ -445,14 +496,13 @@
 								<div class="tab-pane fade" id="tab-21" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
+									<table style="border: none;" width="100%"><tr><td>
 									<h3 class="h3-md steelblue-color">Wifus</h3>
+										</td>
+										<td style="text-align: right; align:right;">
 
-									<!-- Text -->
-									<p>WIFUS CIS merupakan sistem informasi untuk klinik yang telah terhubung dengan BPJS. Sistem informasi ini mudah digunakan dengan alur yang sederhana.
 
-										MOBILE WIFUS merupakan solusi penyedia Layanan Kesehatan untuk memanfaatkan dan menghubungkan pasien dengan Dokter dengan Telediagnostik, Telemedicine, pemesanan online, dan penyedia layanan Rumah
-									</p><br>
-									<?php
+										<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Wifus'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
 										?> 
@@ -460,6 +510,15 @@
 										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
+									</td></tr>
+									</table>
+
+									<!-- Text -->
+									<p>WIFUS CIS merupakan sistem informasi untuk klinik yang telah terhubung dengan BPJS. Sistem informasi ini mudah digunakan dengan alur yang sederhana.
+
+										MOBILE WIFUS merupakan solusi penyedia Layanan Kesehatan untuk memanfaatkan dan menghubungkan pasien dengan Dokter dengan Telediagnostik, Telemedicine, pemesanan online, dan penyedia layanan Rumah
+									</p><br>
+									
 									
 								</div>	<!-- END TAB-4 CONTENT -->
 
@@ -467,20 +526,27 @@
 								<div class="tab-pane fade" id="tab-22" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
+									<table style="border: none;" width="100%"><tr><td>
 									<h3 class="h3-md steelblue-color">REI</h3>
+									</td>
+										<td style="text-align: right; align:right;">
 
-									<!-- Text -->
-									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-									   integer congue magna at pretium  purus pretium 
-									</p><br>
-									<?php
-										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										<?php
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='REI'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
 										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
+									</td></tr>
+									</table>
+
+									<!-- Text -->
+									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
+									   integer congue magna at pretium  purus pretium 
+									</p><br>
+									
 									
 								</div>	<!-- END TAB-4 CONTENT -->
 
@@ -488,7 +554,21 @@
 								<div class="tab-pane fade" id="tab-23" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
+									<table style="border: none;" width="100%"><tr><td>
 									<h3 class="h3-md steelblue-color">Yokogawa</h3>
+									</td>
+										<td style="text-align: right; align:right;">
+
+										<?php
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='YOKOGAWA'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										while($d=mysqli_fetch_array($sql)){
+										?> 
+										
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+									
+									<?php }?>
+									</td></tr>
+									</table>
 
 									<!-- Text -->
 									<p>FlowCam 8000 Imaging Particle Analysis System merupakan sistem analisis partikel pencitraan yang menggunakan mikroskop aliran untuk menggambar dan menganalisis partikel yang tidak terlihat dengan diameter mulai dari 2 m hingga 1 mm. Secara bersamaan menentukan bentuk partikel, jenis, dan distribusi ukuran dari semua partikel yang terdeteksi dalam solusi Anda.
@@ -499,14 +579,7 @@
 									<br>-Kompatibel dengan sistem Penanganan Cairan Otomatis FlowCam
 
 									</p><br>
-									<?php
-										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-										while($d=mysqli_fetch_array($sql)){
-										?> 
-										
-										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
-									
-									<?php }?>
+								
 									
 								</div>	<!-- END TAB-4 CONTENT -->
 
