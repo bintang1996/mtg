@@ -447,7 +447,7 @@
 					<div class="row col-md-12">
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
-    <img style="max-height: 100px;" src="images/networks/Picture20.png">
+    <img style="max-height: 50px;" src="images/networks/Picture20.png">
   </div>
 				
 						<!-- DOCTOR #1 -->
