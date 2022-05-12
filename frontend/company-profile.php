@@ -567,7 +567,7 @@
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin:20px;" src="images/networks/Picture28.png">
+    				<img style="max-height: 30px; margin:20px;" src="images/networks/Picture28.png">
   					</div>
 
 					
