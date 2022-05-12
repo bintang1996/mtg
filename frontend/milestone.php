@@ -215,6 +215,7 @@ body {
     width: 94%;
     height: auto !important;
     margin: 0 auto 25px;
+    border-radius: 10px;
   }
   
   .timeline ol li div {
