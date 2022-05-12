@@ -265,7 +265,7 @@
 								<!-- SERVICE BOX #1 -->
 								<div class="col-md-6">
 			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.4s">
-			 							<a href="service-1.html">
+			 							<a href="#">
 
 				 							<!-- Icon -->
 											<span class="flaticon-018-scale-1 blue-color"></span>
@@ -291,7 +291,7 @@
 			 					<!-- SERVICE BOX #2 -->
 			 					<div class="col-md-6">
 			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.6s">
-			 							<a href="service-2.html">
+			 							<a href="#">
 
 				 							<!-- Icon -->
 											<span class="flaticon-123-smartphone-3 blue-color"></span>
@@ -317,7 +317,7 @@
 			 					<!-- SERVICE BOX #3 -->
 			 					<div class="col-md-6">
 			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.8s">
-			 							<a href="service-1.html">
+			 							<a href="#">
 
 				 							<!-- Icon -->
 											<span class="flaticon-124-laptop blue-color"></span>
@@ -342,7 +342,7 @@
 			 					<!-- SERVICE BOX #4 -->
 			 					<div class="col-md-6">
 			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="1s">
-			 							<a href="service-2.html">
+			 							<a href="#">
 
 				 							<!-- Icon -->
 											<span class="flaticon-080-shield blue-color"></span>
@@ -367,7 +367,7 @@
 			 					<!-- SERVICE BOX #5 -->
 			 					<div class="col-md-6">
 			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="1.2s">
-			 							<a href="service-1.html">
+			 							<a href="#">
 
 				 							<!-- Icon -->
 											<span class="flaticon-011-atoms blue-color"></span>
@@ -392,7 +392,7 @@
 			 					<!-- SERVICE BOX #6 -->
 			 					<div class="col-md-6">
 			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="1.4s">
-			 							<a href="service-2.html">
+			 							<a href="#">
 
 				 							<!-- Icon -->
 											<span class="flaticon-119-clipboard-1 blue-color"></span>
