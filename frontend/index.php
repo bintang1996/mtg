@@ -395,7 +395,7 @@
 							?> 
 							
 							
-							<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+							<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img WIDTH="150PX" class="img-fluid" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 						
 							
 							<?php }?>
