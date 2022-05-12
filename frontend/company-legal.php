@@ -40,7 +40,7 @@
 							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 								<!-- Title -->
 								<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>COMPANY LEGAL</b></b></h3>
-
+<br>
 								<!-- Text -->
 								<p>An enim nullam tempor sapien gravida donec pretium ipsum  porta justo integer at  odio
 								velna vitae auctor integer congue magna purus pretium ligula rutrum luctus ultrice aliquam
