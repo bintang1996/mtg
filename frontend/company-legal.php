@@ -28,7 +28,7 @@
 
 <!-- INFO-5
 			============================================= -->
-			<section id="info-4" class="wide-100 info-section division" style="background-color: #f8f9fb; padding-top: 40px; border-bottom:1px solid grey;">
+			<section id="info-4" class="wide-100 info-section division" style="background-color: #fff; padding-top: 40px;">
 				<div class="container">
           
 					<div class="row d-flex align-items-top">
