@@ -74,7 +74,7 @@
 
 	<!-- CONTACTS-1
 			============================================= -->
-			<section id="contacts-1" class="wide-60 contacts-section division" style="background-color:white; border-bottom:1px solid grey">				
+			<section id="contacts-1" class="wide-60 contacts-section division" style="background-color:white; border-bottom:1px solid grey; padding-top: 0;">				
 				<div class="container">
 
 
@@ -82,7 +82,7 @@
 					<div class="row">	
 					<div class="col-lg-12 offset-lg-1 section-title" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 900;"><b><b>PRODUCT BRAND</b></b></h3>								
+							<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>PRODUCT BRAND</b></b></h3>								
 						
 
 							<!-- Text -->
