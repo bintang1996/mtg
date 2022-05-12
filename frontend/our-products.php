@@ -420,7 +420,7 @@
 
 									<table style="border: none;" width="100%"><tr><td>
 									<h3 class="h3-md steelblue-color">Kesia</h3></td>
-									<td>
+									<td style="text-align: right; align:right;">
 
 
 									<?php
