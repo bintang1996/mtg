@@ -241,9 +241,7 @@
 								<!-- Title -->
 								<h4 class="h4-xs text-center" >COMPANY<br> VALUES</h4>
 
-							</div>	
-
-							<!-- Text -->
+								<!-- Text -->
 							<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
 												   auctor tempus feugiat dolor, Porta semper lacus at cursus primis ultrice in ligula risus an
 												   auctor tempus feugiat dolor Porta semper lacus at cursus primis ultrice in ligula risus an
@@ -253,6 +251,9 @@
 												   auctor tempus feugiat dolor Porta semper lacus at cursus primis ultrice in ligula risus an
 												   auctor tempus feugiat dolor.
 												</p>
+												
+							</div>	
+
 						</div>	<!-- END INFO TABLE -->
 
 
