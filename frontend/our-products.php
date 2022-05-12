@@ -417,12 +417,12 @@
 								<div class="tab-pane fade" id="tab-20" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">Kesia</h3>
 
-									<!-- Text -->
-									<p>SIMRS Kesia adalah aplikasi sistem informasi yang dapat membantu proses pengadministrasian aktifitas operasional dan pendokumentasian transaksi keuangannya yang mendukung model multi-tenant Rumah Sakit dalam entiti perusahaan yang sama. Dirancang berbasis cloud computing dengan arsitektur pengembangan yang bersifat modular dan dinamis
- 
-									</p><br>
+									<table style="border: none;" width="100%"><tr><td>
+									<h3 class="h3-md steelblue-color">Kesia</h3></td>
+									<td>
+
+
 									<?php
 										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Kesia'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
@@ -431,6 +431,13 @@
 										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
+									</td></tr>
+									</table>
+									<!-- Text -->
+									<p>SIMRS Kesia adalah aplikasi sistem informasi yang dapat membantu proses pengadministrasian aktifitas operasional dan pendokumentasian transaksi keuangannya yang mendukung model multi-tenant Rumah Sakit dalam entiti perusahaan yang sama. Dirancang berbasis cloud computing dengan arsitektur pengembangan yang bersifat modular dan dinamis
+ 
+									</p><br>
+								
 									
 								</div>	<!-- END TAB-4 CONTENT -->
 
