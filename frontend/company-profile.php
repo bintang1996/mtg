@@ -445,10 +445,14 @@
 
 
 					<div class="row col-md-12">
-					
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    <img style="max-height: 200px;" src="images/networks/Picture20.png">
+  </div>
+				
 						<!-- DOCTOR #1 -->
 						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">	
-						<img width="90%" src="images/networks/Picture20.png" alt="doctor-foto">		
+						<img width="90%"  alt="doctor-foto">		
 															
 						</div>
 						<!-- END DOCTOR #1 -->
