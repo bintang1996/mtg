@@ -246,7 +246,7 @@
 
 
 						<!-- SERVICE BOXES -->	
-						<div class="col-lg-8" style="margin-top:50%; margin-bottom:50%;">
+						<div class="col-lg-8">
 							<div class="row">
 
 
