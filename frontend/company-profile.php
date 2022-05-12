@@ -74,7 +74,7 @@
 
 	<!-- CONTACTS-1
 			============================================= -->
-			<section id="contacts-1" class="wide-60 contacts-section division" style="background-color:white; border-bottom:1px solid grey">				
+			<section id="services-3" class="wide-60 contacts-section division" style="background-color:white; border-bottom:1px solid grey">				
 				<div class="container">
 
 
@@ -83,7 +83,7 @@
 						<div class="col-lg-12 section-title">	
 
 							<!-- Title 	-->	
-							<h3 class="h3-md steelblue-color">Our Leaders</h3>	
+							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>OUR LEADERS</b></b></h3>	
 
 							<!-- Text -->
 							<p>Direksi Meditrans mendorong peningkatan kinerja tim sehingga mampu memberikan pelayanan
