@@ -447,33 +447,33 @@
 					<div class="row col-md-12">
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 15;">
-    				<img style="max-height: 50px;" src="images/networks/Picture1.png">
+    				<img width="150px" style="max-height: 50px;" src="images/networks/Picture1.png">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 15;">
-    				<img style="max-height: 50px;" src="images/networks/Picture2.png">
+    				<img width="150px" style="max-height: 50px;" src="images/networks/Picture2.png">
   					</div>
 
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 15;">
-    				<img style="max-height: 50px;" src="images/networks/Picture3.png">
+    				<img width="150px" style="max-height: 50px;" src="images/networks/Picture3.png">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; padding: 15;">
-    				<img style="max-height: 50px;" src="images/networks/Picture4.png">
+    				<img width="150px" style="max-height: 50px;" src="images/networks/Picture4.png">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 15;">
-    				<img style="max-height: 50px;" src="images/networks/Picture5.png">
+    				<img width="150px" style="max-height: 50px;" src="images/networks/Picture5.png">
   					</div>
 
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 15;">
-    				<img style="max-height: 50px;" src="images/networks/Picture6.png">
+    				<img width="150px" style="max-height: 50px;" src="images/networks/Picture6.png">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; padding: 15;">
-    				<img style="max-height: 50px;" src="images/networks/Picture7.png">
+    				<img width="150px" style="max-height: 50px;" src="images/networks/Picture7.png">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 15;">
