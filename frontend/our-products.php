@@ -411,7 +411,7 @@
 
 									<!-- Title -->
 									<table style="border: none;" width="100%"><tr><td>
-									<h3 class="h3-md steelblue-color" STYLE="FONT-SIZE: 14PX;">FWFC Floor Wall or Floor Ceiling Digital Radiography System (Del Medical)
+									<h3 class="h3-md steelblue-color" STYLE="FONT-SIZE: 20PX;">FWFC Floor Wall or Floor Ceiling Digital Radiography System (Del Medical)
 										</h3>
 										</td>
 									<td style="text-align: right; align:right;">
