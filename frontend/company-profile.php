@@ -447,16 +447,16 @@
 					<div class="row col-md-12">
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin:20px;" src="images/networks/Picture1.png">
+    				<img style="max-height: 50px; margin:20px; margin-right:0;" src="images/networks/Picture1.png">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img  style="max-height: 50px;  margin:20px;" src="images/networks/Picture2.png">
+    				<img  style="max-height: 50px;  margin:20px; margin-right:0;" src="images/networks/Picture2.png">
   					</div>
 
 
 					<div class="panel-body" style="text-align: center; overflow: hidden;">
-    				<img  style="max-height: 50px;  margin:20px;" src="images/networks/Picture3.png">
+    				<img  style="max-height: 50px;  margin:20px; margin-right:0;" src="images/networks/Picture3.png">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden;">
