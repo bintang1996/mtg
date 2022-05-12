@@ -453,12 +453,12 @@
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img  width="90%" src="images/networks/Picture2.png" alt="doctor-foto">								
+							<img width="90%" src="images/networks/Picture28.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture3.png" alt="doctor-foto">								
+							<img width="90%" src="images/networks/Picture23.png" alt="doctor-foto">								
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
@@ -468,7 +468,7 @@
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture5.png" alt="doctor-foto">								
+							<img width="90%" src="images/networks/Picture15.png" alt="doctor-foto">									
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
@@ -517,8 +517,9 @@
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture15.png" alt="doctor-foto">								
+							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
+							<img width="90%" src="images/networks/Picture5.png" alt="doctor-foto">		
+														
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
@@ -557,8 +558,9 @@
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture23.png" alt="doctor-foto">								
+							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
+							<img width="90%" src="images/networks/Picture3.png" alt="doctor-foto">		
+														
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
@@ -582,8 +584,9 @@
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture28.png" alt="doctor-foto">								
+							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">	
+							<img  width="90%" src="images/networks/Picture2.png" alt="doctor-foto">		
+													
 						</div>
 						<!-- END DOCTOR #1 -->
 						
