@@ -503,7 +503,7 @@
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
 							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture18.png" alt="doctor-foto">									
+							<img width="90%" src="images/networks/Picture22.png" alt="doctor-foto">									
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
@@ -555,8 +555,9 @@
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture22.png" alt="doctor-foto">								
+							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
+							<img width="90%" src="images/networks/Picture18.png" alt="doctor-foto">			
+														
 						</div>
 						<!-- END DOCTOR #1 -->
 							<!-- DOCTOR #1 -->
