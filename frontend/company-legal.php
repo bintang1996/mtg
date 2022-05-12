@@ -39,7 +39,7 @@
 						<div class="col-lg-4" style="text-align: right;">
 							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 								<!-- Title -->
-								<h3 class="h3-md steelblue-color">COMPANY LEGAL </h3>
+								<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>COMPANY LEGAL</b></b></h3>
 
 								<!-- Text -->
 								<p>An enim nullam tempor sapien gravida donec pretium ipsum  porta justo integer at  odio
@@ -63,8 +63,7 @@
 
 	<section id="info-4" class="wide-100 info-section division" style="background-color: #f8f9fb; padding-top: 40px;">
 				<div class="container">
-                
-                <h4 class="h4-md" style="color: #281E78;font-family: 'Lato'; text-align : center; margin-top:0px; font-weight:bolder;">MILESTONE</h4>
+                <h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>MILESTONE</b></b></h3>
                 <br>
 
 				<?php include "milestone.php";?>
