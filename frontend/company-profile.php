@@ -268,7 +268,7 @@
 			 							<a href="service-1.html">
 
 				 							<!-- Icon -->
-											<span class="flaticon-137-doctor blue-color"></span>
+											<span class="flaticon-018-scale-1 blue-color"></span>
 
 											<!-- Text -->
 											<div class="sbox-7-txt">
@@ -294,7 +294,7 @@
 			 							<a href="service-2.html">
 
 				 							<!-- Icon -->
-											<span class="flaticon-076-microscope blue-color"></span>
+											<span class="flaticon-123-smartphone-3 blue-color"></span>
 
 											<!-- Text -->
 											<div class="sbox-7-txt">
@@ -320,7 +320,7 @@
 			 							<a href="service-1.html">
 
 				 							<!-- Icon -->
-											<span class="flaticon-065-hospital-bed blue-color"></span>
+											<span class="flaticon-124-laptop blue-color"></span>
 
 											<!-- Text -->
 											<div class="sbox-7-txt">
@@ -345,7 +345,7 @@
 			 							<a href="service-2.html">
 
 				 							<!-- Icon -->
-											<span class="flaticon-058-blood-transfusion-2 blue-color"></span>
+											<span class="flaticon-080-shield blue-color"></span>
 
 											<!-- Text -->
 											<div class="sbox-7-txt">
@@ -370,7 +370,7 @@
 			 							<a href="service-1.html">
 
 				 							<!-- Icon -->
-											<span class="flaticon-141-clinic-history blue-color"></span>
+											<span class="flaticon-011-atoms blue-color"></span>
 
 											<!-- Text -->
 											<div class="sbox-7-txt">
@@ -395,7 +395,7 @@
 			 							<a href="service-2.html">
 
 				 							<!-- Icon -->
-											<span class="flaticon-008-ambulance-6 blue-color"></span>
+											<span class="flaticon-119-clipboard-1 blue-color"></span>
 
 											<!-- Text -->
 											<div class="sbox-7-txt">
