@@ -447,8 +447,24 @@
 					<div class="row col-md-12">
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
-    <img style="max-height: 50px;" src="images/networks/Picture20.png">
-  </div>
+    				<img style="max-height: 50px;" src="images/networks/Picture20.png">
+  					</div>
+
+					  <div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture24.png">
+  					</div>
+
+
+					  <div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture13.png">
+  					</div>
+
+
+
+
+
+
+
 				
 						<!-- DOCTOR #1 -->
 						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">	
