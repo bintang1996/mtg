@@ -447,175 +447,130 @@
 					<div class="row col-md-12">
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
-    				<img style="max-height: 50px;" src="images/networks/Picture20.png">
+    				<img style="max-height: 50px;" src="images/networks/Picture1.png">
+  					</div>
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture2.png">
+  					</div>
+
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture3.png">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
-    				<img style="max-height: 50px;" src="images/networks/Picture24.png">
+    				<img style="max-height: 50px;" src="images/networks/Picture4.png">
   					</div>
 
+					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture5.png">
+  					</div>
+
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture6.png">
+  					</div>
+
+					  <div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture7.png">
+  					</div>
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture8.png">
+  					</div>
+
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture9.png">
+  					</div>
+
+					  <div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture10.png">
+  					</div>
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture11.png">
+  					</div>
+
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture12.png">
+  					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
     				<img style="max-height: 50px;" src="images/networks/Picture13.png">
   					</div>
 
+					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture14.png">
+  					</div>
 
 
+					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture15.png">
+  					</div>
 
 
+					  <div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture16.png">
+  					</div>
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture17.png">
+  					</div>
 
 
-				
-						<!-- DOCTOR #1 -->
-						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">	
-						<img width="90%"  alt="doctor-foto">		
-															
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture28.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture23.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img  width="90%" src="images/networks/Picture4.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture15.png" alt="doctor-foto">									
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture6.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture7.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture8.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture9.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture19.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%"  src="images/networks/Picture11.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture22.png" alt="doctor-foto">									
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture13.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">	
-							<img width="90%" src="images/networks/Picture21.png" alt="doctor-foto">		
-														
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
-							<img width="90%" src="images/networks/Picture5.png" alt="doctor-foto">		
-														
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%"  src="images/networks/Picture16.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture17.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
-							<img width="90%" src="images/networks/Picture12.png" alt="doctor-foto">		
-														
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
-							<img width="90%" src="images/networks/Picture10.png" alt="doctor-foto">			
-													
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture1.png" alt="doctor-foto">						
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture14.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
-							<img width="90%" src="images/networks/Picture18.png" alt="doctor-foto">			
-														
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">
-							<img width="90%" src="images/networks/Picture3.png" alt="doctor-foto">		
-														
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture24.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img  width="90%" src="images/networks/Picture25.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture26.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture27.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">	
-							<img  width="90%" src="images/networks/Picture2.png" alt="doctor-foto">		
-													
-						</div>
-						<!-- END DOCTOR #1 -->
+					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture18.png">
+  					</div>
+
+
+					  <div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture19.png">
+  					</div>
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture20.png">
+  					</div>
+
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture21.png">
+  					</div>
 						
-						
+					  <div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture22.png">
+  					</div>
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture23.png">
+  					</div>
+
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture24.png">
+  					</div>
+					  
+					  
+					  <div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture25.png">
+  					</div>
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture26.png">
+  					</div>
+
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture27.png">
+  					</div>
+
+					  <div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">
+    				<img style="max-height: 50px;" src="images/networks/Picture28.png">
+  					</div>
+
+					
 
 					</div>	    <!-- End row2 -->
 
