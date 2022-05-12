@@ -245,7 +245,13 @@
 
 							<!-- Text -->
 							<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor
+												   auctor tempus feugiat dolor, Porta semper lacus at cursus primis ultrice in ligula risus an
+												   auctor tempus feugiat dolor Porta semper lacus at cursus primis ultrice in ligula risus an
+												   auctor tempus feugiat dolor Porta semper lacus at cursus primis ultrice in ligula risus an
+												   auctor tempus feugiat dolor Porta semper lacus at cursus primis ultrice in ligula risus an
+												   auctor tempus feugiat dolor Porta semper lacus at cursus primis ultrice in ligula risus an
+												   auctor tempus feugiat dolor Porta semper lacus at cursus primis ultrice in ligula risus an
+												   auctor tempus feugiat dolor.
 												</p>
 						</div>	<!-- END INFO TABLE -->
 
