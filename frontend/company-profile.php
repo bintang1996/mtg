@@ -236,7 +236,7 @@
 
 						<!-- INFO TABLE -->
 						<div class="col-lg-4">
-							<div class="services-7-table blue-table mb-30 wow fadeInUp" data-wow-delay="0.6s"style="margin-top:25%; margin-bottom:25%;">
+							<div class="services-7-table blue-table mb-30 wow fadeInUp" data-wow-delay="0.6s"style="margin-top:50px;">
 
 								<!-- Title -->
 								<h4 class="h4-xs text-center" >COMPANY<br> VALUES</h4>
@@ -394,7 +394,7 @@
 												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
 												   auctor tempus feugiat dolor
 												</p>
-												
+
 											</div>
 
 										</a>
