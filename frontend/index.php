@@ -394,8 +394,10 @@
 							while($d=mysqli_fetch_array($sql)){
 							?> 
 							
-							<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="150px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
-							
+							<div class="panel-body" style="text-align: center; overflow: hidden; padding: 0;">				
+
+							<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px; max-height: 50px;"></a>
+							</div>
 							
 							<?php }?>
 						</div>
