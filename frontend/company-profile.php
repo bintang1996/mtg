@@ -236,7 +236,7 @@
 
 						<!-- INFO TABLE -->
 						<div class="col-lg-4">
-							<div class="services-7-table blue-table mb-30 wow fadeInUp" data-wow-delay="0.6s"style="margin-top:50px;">
+							<div class="services-7-table blue-table mb-30 wow fadeInUp" data-wow-delay="0.6s"style="margin-top:60px;">
 
 								<!-- Title -->
 								<h4 class="h4-xs text-center" >COMPANY<br> VALUES</h4>
@@ -251,20 +251,20 @@
 
 
 								<!-- SERVICE BOX #1 -->
-			 					<div class="col-md-6">
-			 						<div class="icon-xs wow fadeInUp" data-wow-delay="0.4s">
+								<div class="col-md-6">
+			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.4s">
 			 							<a href="service-1.html">
 
-				
-										<table>
-										<tr>
-										<td><i class="fa fa-circle" aria-hidden="true"></i></td>
-											<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-											<td><h5 class="h5-sm steelblue-color" style="font-weight:bolder;padding-top:5px;">BERPEGANG PADA ETIKA</h5></td>
-										</tr>
-										</table>		
+				 							<!-- Icon -->
+											<span class="flaticon-137-doctor blue-color"></span>
 
-											
+											<!-- Text -->
+											<div class="sbox-7-txt">
+				
+												<!-- Title -->
+												<h5 class="h5-sm steelblue-color">Berpegang Pada Etika</h5>
+
+											</div>
 
 										</a>
 			 						</div>
@@ -273,17 +273,19 @@
 
 			 					<!-- SERVICE BOX #2 -->
 			 					<div class="col-md-6">
-			 						<div class="icon-xs wow fadeInUp" style="padding-bottom:60px" data-wow-delay="0.6s">
+			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.6s">
 			 							<a href="service-2.html">
 
-											
-										<table>
-										<tr>
-											<td><i class="fa fa-circle" aria-hidden="true"></i></td>
-											<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-											<td><h5 class="h5-sm steelblue-color" style="font-weight:bolder;padding-top:5px;">KOMPETISI</h5></td>
-										</tr>
-										</table>
+				 							<!-- Icon -->
+											<span class="flaticon-076-microscope blue-color"></span>
+
+											<!-- Text -->
+											<div class="sbox-7-txt">
+				
+												<!-- Title -->
+												<h5 class="h5-sm steelblue-color">Proaktif</h5>
+
+											</div>
 
 				 						</a>
 			 						</div>
@@ -292,16 +294,19 @@
 
 			 					<!-- SERVICE BOX #3 -->
 			 					<div class="col-md-6">
-			 						<div class="icon-xs wow fadeInUp" style="padding-bottom:60px" data-wow-delay="0.4s">
+			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.8s">
 			 							<a href="service-1.html">
 
-										<table>
-										<tr>
-										<td><i class="fa fa-circle" aria-hidden="true"></i></td>
-											<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-											<td><h5 class="h5-sm steelblue-color" style="font-weight:bolder;padding-top:5px;">PROAKTIF</h5></td>
-										</tr>
-										</table>
+				 							<!-- Icon -->
+											<span class="flaticon-065-hospital-bed blue-color"></span>
+
+											<!-- Text -->
+											<div class="sbox-7-txt">
+				
+												<!-- Title -->
+												<h5 class="h5-sm steelblue-color">Standart Tinggi</h5>
+
+											</div>
 
 				 						</a>
 			 						</div>
@@ -310,16 +315,19 @@
 
 			 					<!-- SERVICE BOX #4 -->
 			 					<div class="col-md-6">
-			 						<div class="icon-xs wow fadeInUp" style="padding-bottom:60px" data-wow-delay="0.6s">
+			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="1s">
 			 							<a href="service-2.html">
 
-										<table>
-										<tr>
-										<td><i class="fa fa-circle" aria-hidden="true"></i></td>
-											<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-											<td><h5 class="h5-sm steelblue-color" style="font-weight:bolder;padding-top:5px;">SALING MENGHORMATI</h5></td>
-										</tr>
-										</table>
+				 							<!-- Icon -->
+											<span class="flaticon-058-blood-transfusion-2 blue-color"></span>
+
+											<!-- Text -->
+											<div class="sbox-7-txt">
+				
+												<!-- Title -->
+												<h5 class="h5-sm steelblue-color">Kompetisi</h5>
+
+											</div>
 
 				 						</a>
 			 						</div>
@@ -328,16 +336,19 @@
 
 			 					<!-- SERVICE BOX #5 -->
 			 					<div class="col-md-6">
-			 						<div class="icon-xs wow fadeInUp" style="padding-bottom:60px" data-wow-delay="0.4s">
+			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="1.2s">
 			 							<a href="service-1.html">
 
-										<table>
-										<tr>
-										<td><i class="fa fa-circle" aria-hidden="true"></i></td>
-											<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-											<td><h5 class="h5-sm steelblue-color" style="font-weight:bolder;padding-top:5px;">STANDART TINGGI</h5></td>
-										</tr>
-										</table>
+				 							<!-- Icon -->
+											<span class="flaticon-141-clinic-history blue-color"></span>
+
+											<!-- Text -->
+											<div class="sbox-7-txt">
+				
+												<!-- Title -->
+												<h5 class="h5-sm steelblue-color">Saling Menghormati</h5>
+
+											</div>
 
 				 						</a>
 			 						</div>
@@ -346,17 +357,19 @@
 
 			 					<!-- SERVICE BOX #6 -->
 			 					<div class="col-md-6">
-			 						<div class="icon-xs wow fadeInUp" style="padding-bottom:60px" data-wow-delay="0.6s">
+			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="1.4s">
 			 							<a href="service-2.html">
 
-											
-										<table>
-										<tr>
-										<td><i class="fa fa-circle" aria-hidden="true"></i></td>
-											<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-											<td><h5 class="h5-sm steelblue-color" style="font-weight:bolder;padding-top:5px;">TUMBUH DAN BERKEMBANG</h5></td>
-										</tr>
-										</table>
+				 							<!-- Icon -->
+											<span class="flaticon-008-ambulance-6 blue-color"></span>
+
+											<!-- Text -->
+											<div class="sbox-7-txt">
+				
+												<!-- Title -->
+												<h5 class="h5-sm steelblue-color">Tumbuh Dan Berkembang</h5>
+	
+											</div>
 
 										</a>
 			 						</div>
