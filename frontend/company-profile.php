@@ -159,7 +159,7 @@
 						<span class="blue-color">Operation and Marketing Director</span>
 						</div>	
 						</div>	
-</td><td>
+</td><td style="padding-top:21px;">
 						<div class="doctor-1">
 						<div class="hover-overlay text-center"> 
 						<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
