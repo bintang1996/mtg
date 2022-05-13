@@ -127,7 +127,7 @@
 
 						<!-- CONTACT FORM -->	
 				 		<div class="col-md-7 col-lg-7">
-						<table class="table"><tr><td>	<br> 
+						<table class="table"><tr><td>	
 						<div class="doctor-1">								
 						<div class="hover-overlay text-center"> 
 						<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
@@ -138,7 +138,7 @@
 						</div>	
 						<div class="doctor-meta">
 						<h5 class="h5-sm steelblue-color">Ibnu Affan</h5>
-						<span class="blue-color">Chief Executive Officer</span>
+						<span class="blue-color">Chief Executive Officer</span><br>
 						</div>	
 						</div>		
 </td><td>
