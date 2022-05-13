@@ -138,7 +138,7 @@
 						</div>	
 						<div class="doctor-meta">
 						<h5 class="h5-sm steelblue-color">Ibnu Affan</h5>
-						<span class="blue-color">(CEO) Chief Executive Officer</span>
+						<span class="blue-color">Chief Executive Officer</span>
 						</div>	
 						</div>		
 </td><td>
@@ -152,7 +152,7 @@
 						</div>	
 						<div class="doctor-meta">
 						<h5 class="h5-sm steelblue-color">Tari Pristiyani</h5>
-						<span class="blue-color">Operation and Marketing Director</span>
+						<span class="blue-color">Operation & Marketing Director</span>
 						</div>	
 						</div>	
 </td><td>
