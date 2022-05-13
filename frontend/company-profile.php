@@ -152,7 +152,7 @@
 						</div>	
 						<div class="doctor-meta">
 						<h5 class="h5-sm steelblue-color">Tari Pristiyani</h5>
-						<span class="blue-color">Director of Operation and Marketing</span>
+						<span class="blue-color">Operation and Marketing Director</span>
 						</div>	
 						</div>	
 </td><td>
