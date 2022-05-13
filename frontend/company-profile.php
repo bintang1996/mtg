@@ -136,7 +136,7 @@
 						<a class="btn btn-sm btn-tra-white black-hover" href="doctor-1.html" title="">View More Info</a>
 						</div> 
 						</div>	
-						<div class="doctor-meta"><br>
+						<div class="doctor-meta">
 						<h5 class="h5-sm steelblue-color">Ibnu Affan</h5>
 						<span class="blue-color">Chief Executive Officer</span>
 						</div>	
