@@ -127,7 +127,7 @@
 
 						<!-- CONTACT FORM -->	
 				 		<div class="col-md-7 col-lg-7">
-						<table class="table"><tr><td>
+						<table class="table"><tr><td style="padding-top:20px;">
 							
 						
 
