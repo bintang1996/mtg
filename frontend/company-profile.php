@@ -138,7 +138,7 @@
 						</div>	
 						<div class="doctor-meta">
 						<h5 class="h5-sm steelblue-color">Ibnu Affan</h5>
-						<span class="blue-color">Chief Executive Officer</span><br>
+						<span class="blue-color">Chief Executive Officer</span><br><br>
 						</div>	
 						</div>		
 </td><td>
