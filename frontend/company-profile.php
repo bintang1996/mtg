@@ -127,7 +127,7 @@
 
 						<!-- CONTACT FORM -->	
 				 		<div class="col-md-7 col-lg-7">
-						<table class="table"><tr><td>	 
+						<table class="table"><tr><td>	<br> 
 						<div class="doctor-1">								
 						<div class="hover-overlay text-center"> 
 						<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
