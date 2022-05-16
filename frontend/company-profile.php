@@ -81,7 +81,7 @@
 
 					<!-- SECTION TITLE -->	
 					<div class="row">	
-					<div class="col-lg-12 offset-lg-1 section-title" style="margin-bottom:30px;">		
+					<div class="col-md-12 section-title" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
 							<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>OUR LEADERS</b></b></h3>								
 						
@@ -94,12 +94,6 @@
 						</div>
 					</div>
 
-						
-
-
-		 		
-						<table class="table"><tr><td style="padding-top:22px;">
-							
 						
 
 						<div class="doctor-1">	
@@ -116,7 +110,7 @@
 						</div>	
 						</div>	
 	
-</td><td>
+
 						<div class="doctor-1">	
 						<div class="hover-overlay text-center"> 
 						<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
@@ -130,7 +124,7 @@
 						<span class="blue-color">Operation and Marketing Director</span>
 						</div>	
 						</div>	
-</td><td style="padding-top:10px;">
+
 						<div class="doctor-1">
 						<div class="hover-overlay text-center"> 
 						<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
@@ -145,7 +139,7 @@
 						</div>	
 						</div>
 
-</td></tr></table>
+
 
 		  
  
