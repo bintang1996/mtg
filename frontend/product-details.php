@@ -141,6 +141,10 @@
   <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
 
   <div class="container">
+  <h3 class="h3-md steelblue-color">Brosur Produk</h3>
+
+  <p>SIlahkan download brosur produk pada link berikut.</p>
+
 
   <?php       
            
