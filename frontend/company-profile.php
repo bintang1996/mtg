@@ -98,7 +98,7 @@
 
 
 		 		
-						<table class="table"><tr><td style="padding-top:18px;">
+						<table class="table"><tr><td style="">
 							
 						
 
@@ -130,7 +130,7 @@
 						<span class="blue-color">Operation and Marketing Director</span>
 						</div>	
 						</div>	
-</td><td style="padding-top:10px;">
+</td><td style="">
 						<div class="doctor-1">
 						<div class="hover-overlay text-center"> 
 						<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
