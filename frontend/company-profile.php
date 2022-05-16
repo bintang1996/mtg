@@ -100,7 +100,7 @@
 		 		
 						<table class="table" style="border:none;"><tr style="border:none;"><td>
 							
-						
+						<tbody style="border:none;">
 
 						<div class="doctor-1">	
 						<div class="hover-overlay text-center"> 
@@ -145,7 +145,7 @@
 						</div>	
 						</div>
 
-</td></tr></table>
+</td></tr> </tbody></table>
 
 		  
  
