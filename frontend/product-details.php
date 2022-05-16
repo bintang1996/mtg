@@ -125,15 +125,19 @@
                 <?php } ?>
 
 
-  </div>
+  </div></div>
   <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+
   <div class="container">
   <br><p>Informasi Produk Lebih Lanjut</p>
-                <a href="contact-us.php" class="btn btn-md btn-blue blue-hover">Hubungi Kami</a>
+ <a href="contact-us.php" class="btn btn-md btn-blue blue-hover">Hubungi Kami</a>
 
 		 </div>
 
   </div>
+
+
+
   <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
 
   <div class="container">
