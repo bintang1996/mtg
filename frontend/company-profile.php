@@ -98,9 +98,9 @@
 
 
 		 		
-						<table class="table" style="border:none;"><tr style="border:none;"><td>
+						<table class="table" style="border:none;"><tbody style="border:none;"><tr style="border:none;"><td>
 							
-						<tbody style="border:none;">
+						
 
 						<div class="doctor-1">	
 						<div class="hover-overlay text-center"> 
