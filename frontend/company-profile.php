@@ -98,7 +98,7 @@
 
 
 		 		
-						<table class="table"><tr><td style="">
+						<table class="table"><tr style="border:none;"><td>
 							
 						
 
