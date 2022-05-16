@@ -245,7 +245,7 @@
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Berpegang Pada Etika</h5>
+												<h5 class="h5-sm steelblue-color">KOMITMEN PADA CUSTOMER</h5>
 												
 												<!-- Text -->
 												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
@@ -271,7 +271,7 @@
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Proaktif</h5>
+												<h5 class="h5-sm steelblue-color">TERPERCAYA</h5>
 												<!-- Text -->
 												
 												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
@@ -297,7 +297,7 @@
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Standart Tinggi</h5>
+												<h5 class="h5-sm steelblue-color">INOVASI</h5>
 												<!-- Text -->
 												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
 												   auctor tempus feugiat dolor
@@ -322,7 +322,7 @@
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Kompetisi</h5>
+												<h5 class="h5-sm steelblue-color">JUJUR</h5>
 												<!-- Text -->
 												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
 												   auctor tempus feugiat dolor
@@ -347,7 +347,7 @@
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Saling Menghormati</h5>
+												<h5 class="h5-sm steelblue-color">BERINTEGRITAS</h5>
 												<!-- Text -->
 												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
 												   auctor tempus feugiat dolor
@@ -372,7 +372,7 @@
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Tumbuh Dan Berkembang</h5>
+												<h5 class="h5-sm steelblue-color">BERKUALITAS</h5>
 												<!-- Text -->
 												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
 												   auctor tempus feugiat dolor
