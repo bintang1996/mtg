@@ -129,7 +129,12 @@
   <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
 
   <div class="container">
-  <br><p>Informasi Produk Lebih Lanjut</p>
+
+  <h3 class="h3-md steelblue-color">Kontak Kami</h3>
+
+<p>Silahkan download brosur produk pada link berikut.</p>
+
+  <p>Informasi Produk Lebih Lanjut</p>
  <a href="contact-us.php" class="btn btn-md btn-blue blue-hover">Hubungi Kami</a>
 
 		 </div>
@@ -143,7 +148,7 @@
   <div class="container">
   <h3 class="h3-md steelblue-color">Brosur Produk</h3>
 
-  <p>SIlahkan download brosur produk pada link berikut.</p>
+  <p>Silahkan download brosur produk pada link berikut.</p>
 
 
   <?php       
