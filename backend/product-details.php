@@ -590,13 +590,13 @@ $(document).ready(function() {
                         <form id="formgaul" name="form1" method="post" action="edit-product-page.php">
                         <div class="card mb-4">
                             <div class="card-header">
-                                <h4>Media </h4>(png, jpg, jpeg, mp4, webm, ogg)
+                                <h4>Media </h4>(png, jpg, jpeg, mp4, webm, ogg, pdf)
                             </div>
                             <div class="card-body">
                           <div class="card card-product-grid" id="image-container">
                           <div class="row gx-3 row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-xl-4 row-cols-xxl-6" id="image-list">
                          
-                                    <?php $no=0;  $sql3 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$id' and img_name LIKE '%.webm%' or p_id='$id' and img_name LIKE '%.mp4%' or p_id='$id' and img_name LIKE '%.ogg%' or p_id='$id' and img_name LIKE '%.png%' or p_id='$id' and img_name LIKE '%.jpg%' or p_id='$id' and img_name LIKE '%.jpeg%' ORDER BY urutan"); 
+                                    <?php $no=0;  $sql3 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$id' and img_name LIKE '%.webm%' or p_id='$id' and img_name LIKE '%.mp4%' or p_id='$id' and img_name LIKE '%.ogg%' or p_id='$id' and img_name LIKE '%.png%' or p_id='$id' and img_name LIKE '%.jpg%' or p_id='$id' and img_name LIKE '%.jpeg%' or p_id='$id' and img_name LIKE '%.pdf%' ORDER BY urutan"); 
                                     
                                     while($d3=mysqli_fetch_array($sql3)){ $no++;
                                     $format_gg=$d3['tipe_file'];
