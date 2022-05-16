@@ -264,7 +264,7 @@
 			 							
 
 				 							<!-- Icon -->
-											<span class="flaticon-123-smartphone-3 blue-color"></span>
+											<span class="flaticon-080-shield blue-color"></span>
 
 											<!-- Text -->
 											<div class="sbox-7-txt">
@@ -315,7 +315,7 @@
 			 							
 
 				 							<!-- Icon -->
-											<span class="flaticon-080-shield blue-color"></span>
+											<span class="flaticon-016-doctor-1 blue-color"></span>
 
 											<!-- Text -->
 											<div class="sbox-7-txt">
