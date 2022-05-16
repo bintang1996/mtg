@@ -248,8 +248,7 @@
 												<h5 class="h5-sm steelblue-color">KOMITMEN PADA CUSTOMER</h5>
 												
 												<!-- Text -->
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor
+												<p class="p-sm">Porta semper lacus at cursus primis ultrice
 												</p>
 
 											</div>
