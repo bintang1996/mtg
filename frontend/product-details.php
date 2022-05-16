@@ -98,6 +98,7 @@
     <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-contact" aria-selected="false">Brosur Produk</a>
   </div>
 </nav>
+<br><br>
 <div class="tab-content" id="nav-tabContent">
   <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
   <div class="container">
@@ -169,6 +170,6 @@
 				</div>	   <!-- End container -->
 			</section>	<!-- END INFO-4 -->
 
-
+<br><br><br>
 
 <?php include "footer.php";?>
