@@ -239,7 +239,7 @@
 			 							
 
 				 							<!-- Icon -->
-											<span class="flaticon-018-scale-1 blue-color"></span>
+											<span class="flaticon-077-ribbon blue-color"></span>
 
 											<!-- Text -->
 											<div class="sbox-7-txt">
@@ -290,7 +290,7 @@
 			 							
 
 				 							<!-- Icon -->
-											<span class="flaticon-124-laptop blue-color"></span>
+											<span class="flaticon-045-molecule blue-color"></span>
 
 											<!-- Text -->
 											<div class="sbox-7-txt">
