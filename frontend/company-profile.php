@@ -98,13 +98,13 @@
 
 
 		 		
-						<table style="width:100%; border:1px solid black;"><tr><td>
+						<table class="table"><tr><td style="">
 							
 						
 
 						<div class="doctor-1">	
 						<div class="hover-overlay text-center"> 
-						<img src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
+						<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
 						<div class="item-overlay"></div>
 						<div class="profile-link">
 						<a class="btn btn-sm btn-tra-white black-hover" href="doctor-2.html" title="">View More Info</a>
@@ -119,7 +119,7 @@
 </td><td>
 						<div class="doctor-1">	
 						<div class="hover-overlay text-center"> 
-						<img  src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
+						<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
 						<div class="item-overlay"></div>
 						<div class="profile-link">
 						<a class="btn btn-sm btn-tra-white black-hover" href="doctor-2.html" title="">View More Info</a>
@@ -130,10 +130,10 @@
 						<span class="blue-color">Operation and Marketing Director</span>
 						</div>	
 						</div>	
-</td><td >
+</td><td style="">
 						<div class="doctor-1">
 						<div class="hover-overlay text-center"> 
-						<img src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
+						<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
 						<div class="item-overlay"></div>
 						<div class="profile-link">
 						<a class="btn btn-sm btn-tra-white black-hover" href="doctor-2.html" title="">View More Info</a>
