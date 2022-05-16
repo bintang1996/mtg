@@ -101,7 +101,7 @@
 <div class="tab-content" id="nav-tabContent">
   <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
   <div class="container">
-	  
+
   <?php 
                   $id = $_GET['id'];      
                   $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
@@ -127,7 +127,7 @@
 
   </div>
   <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
-
+  <div class="container">
   <br><p>Informasi Produk Lebih Lanjut</p>
                 <a href="contact-us.php" class="btn btn-md btn-blue blue-hover">Hubungi Kami</a>
 
