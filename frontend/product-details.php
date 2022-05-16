@@ -159,7 +159,7 @@
 				while($d=mysqli_fetch_array($sql)){
 			?>
 
-<a href="assets/imgs/shop/<?php echo $d['img_name']; ?>">Download <?php echo $d['img_name']; ?></a> 
+<a style="color:blue;" href="assets/imgs/shop/<?php echo $d['img_name']; ?>">Download <?php echo $d['img_name']; ?></a> 
 
 <?php } ?></div>
   </div>
