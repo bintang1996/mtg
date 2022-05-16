@@ -26,7 +26,7 @@
             <?php       
             include "koneksi.php";
             $id=$_GET['id'];
-				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$id' and img_name NOT LIKE '%.pdf%' ") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 				while($d=mysqli_fetch_array($sql)){
 			?> 
 			<div class="mySlides">
@@ -48,7 +48,7 @@
             <br><br>
 <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 			<?php       
-				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$id' and img_name NOT LIKE '%.pdf%'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 				
 				$i=mysqli_num_rows($sql);
                     for ($x = 1; $x <= $i; $x+=1) {
