@@ -166,10 +166,10 @@
 </div>
 
 
-
+<br><br><br><br>
 				</div>	   <!-- End container -->
 			</section>	<!-- END INFO-4 -->
 
-<br><br><br>
+
 
 <?php include "footer.php";?>
