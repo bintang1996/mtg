@@ -33,7 +33,7 @@
 								<img class="img-fluid" width="1200px" height="600px" src="images/slider/<?php echo $d['slider_img'] ?>" alt="hero-image">
                                 
 							<!-- Image Caption -->
-							<div class="caption d-flex align-items-center left-align" style="  background:linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)); transform: none; transform: translateX(0px);">
+							<div class="caption d-flex align-items-center left-align" style="  background:gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)); ">
 		       					<div class="container">
 		       						<div class="row" >
 		       							<div class="col-md-12 col-lg-10" >
