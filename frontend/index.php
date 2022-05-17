@@ -3,7 +3,11 @@
 
 ?>
 
-
+<style>
+	element.style{
+		transform:  none;
+	}
+</style>
 
 			<!-- HERO-2
 			============================================= -->	
