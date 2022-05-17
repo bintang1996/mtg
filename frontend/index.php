@@ -35,7 +35,7 @@
 		       							<div class="col-md-12 col-lg-10" >
 		       								<div class="caption-txt">
 
-											   <h4 class="white-color"><?php echo $d['atas_judul'] ?></h4>
+		
 
 						       					<!-- Title -->
 						       					<h2 class="white-color"><?php echo $d['judul'] ?></h2>
