@@ -192,7 +192,7 @@ items.forEach(function(item) {
 
 
                                     <input type="hidden" class="form-control" value="<?php echo $d1['id'];?>" name="id" id="id" />
-                                    <input type="text" name="atas_judul" placeholder="Atas Judul" class="form-control"/><br>
+                                    <input type="hidden" name="atas_judul" placeholder="Atas Judul" class="form-control"/><br>
                                     <input type="text" name="judul" placeholder="Judul" class="form-control"/><br>
                                     <textarea type="text" name="deskripsi" placeholder="Deskripsi" class="form-control"></textarea><br> 
                                     <input type="text" name="link_slider" placeholder="Slider Url" class="form-control"/><br>
