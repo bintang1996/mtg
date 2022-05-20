@@ -561,7 +561,7 @@
                                         <!-- Judul News -->
 										<div class="review-author">
 											<br>
-											<p style="margin-bottom:0px; font-size:1em; color:yellow;"><?php echo $d['cat_name']; ?></p>
+											<p style="margin-bottom:0px; font-size:1em; color:#F86845;"><?php echo $d['cat_name']; ?></p>
 											<h4 class="h5-md" style="margin-top:0px; padding-left:8px;"><?php echo $d1['p_name']; ?></h4>
 										</div>	
 
