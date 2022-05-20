@@ -60,7 +60,7 @@
 				{
 				font-family: Lato;
 				font-family: 'Lato';
-				font-weight: 400;
+				
 				}
 				@media only screen and (max-width: 600px) {
 					p {

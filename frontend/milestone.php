@@ -69,6 +69,7 @@ body {
   width: 160px;
   height: 3px;
   background: #214068;
+  border-radius: 10px;
   
 }
 
@@ -103,6 +104,9 @@ body {
   color: #214068;
   background: #fff;
   box-shadow: 10px 7px 20px grey;
+
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
 
 .timeline ol li div:hover{
@@ -214,6 +218,7 @@ body {
     width: 94%;
     height: auto !important;
     margin: 0 auto 25px;
+    border-radius: 10px;
   }
   
   .timeline ol li div {

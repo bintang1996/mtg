@@ -3,7 +3,11 @@
 
 ?>
 
-
+<style>
+	element.style{
+		transform:  none;
+	}
+</style>
 
 			<!-- HERO-2
 			============================================= -->	
@@ -29,13 +33,13 @@
 								<img class="img-fluid" width="1200px" height="600px" src="images/slider/<?php echo $d['slider_img'] ?>" alt="hero-image">
                                 
 							<!-- Image Caption -->
-							<div class="caption d-flex align-items-center left-align" style="  background:linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2));">
+							<div class="caption d-flex align-items-center left-align" style="background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)); ">
 		       					<div class="container">
 		       						<div class="row" >
 		       							<div class="col-md-12 col-lg-10" >
 		       								<div class="caption-txt">
 
-											   <h4 class="white-color"><?php echo $d['atas_judul'] ?></h4>
+		
 
 						       					<!-- Title -->
 						       					<h2 class="white-color"><?php echo $d['judul'] ?></h2>
@@ -394,8 +398,9 @@
 							while($d=mysqli_fetch_array($sql)){
 							?> 
 							
-							<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="150px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 							
+							<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img WIDTH="150PX" class="img-fluid" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+						
 							
 							<?php }?>
 						</div>
