@@ -428,7 +428,7 @@
 
 		
 			
-<div class="w3-content w3-display-container" style="max-width:100%; background-color:#f8f9fa; padding-bottom: 50px; padding-top: 50px; ">
+<div class="w3-content w3-display-container" style="max-width:100%; background-color:#f8f9fa; padding-bottom: 50px; padding-top: 20px; ">
 
 <div class="row">	
 						<div class="col-lg-10 offset-lg-1 section-title" style="margin-bottom: 30px;">		
