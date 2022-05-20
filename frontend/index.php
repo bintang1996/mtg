@@ -615,14 +615,14 @@
 											
 											
 											<tr>
-												<td><p><i style="color:red;" class="fas fa-home"></i> Jakarta</p></td>
+												<td><p><i style="color:red;" class="fas fa-building"></i> Jakarta</p></td>
 												<td> </td>
 												<td><p><i style="color:red;" class="fas fa-map-marker-alt"></i> Bandung</p></td>
 												<td> </td>
 												<td><p><i style="color:red;" class="fas fa-map-marker-alt"></i> Makassar</p></td>
 											</tr>
 											<tr>
-												<td><p><i style="color:red;" class="fas fa-home"></i> Surabaya</p></td>
+												<td><p><i style="color:red;" class="fas fa-building"></i> Surabaya</p></td>
 												<td></td>
 												<td><p><i style="color:red;" class="fas fa-map-marker-alt"></i> Palembang</p></td>
 												<td></td>
