@@ -491,7 +491,7 @@
 				showDivs1(slideIndex1 = n);
 				}
 
-				function showDi   vs1(n) {
+				function showDivs1(n) {
 				var i;
 				var x = document.getElementsByClassName("mySlides1");
 				var dots = document.getElementsByClassName("demo1");
