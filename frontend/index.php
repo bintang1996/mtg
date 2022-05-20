@@ -394,7 +394,7 @@
 						
 						
 								<?php
-							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_desc='Brand' and cat_name!='Samsung Healthcare'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_desc='Brand' ") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 							while($d=mysqli_fetch_array($sql)){
 							?> 
 							
