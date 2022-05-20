@@ -80,9 +80,13 @@
 
 					<!-- SECTION TITLE -->	
 					<div class="row">	
-					<div class="col-lg-10 offset-lg-1 section-title" style="margin-bottom:30px;">		
+					<div class="col-lg-12 offset-lg-1 section-title" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
+<<<<<<< HEAD
 							<h3 class="h4-md steelblue-color" style="color: #214068; "><b><b>PRODUCT BRAND</b></b></h3>								
+=======
+							<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: bolder;"><b><b>PRODUCT BRAND</b></b></h3>								
+>>>>>>> 42f1079e8e6029a8c52043a84a49f4888fac8a4e
 						
 
 							<!-- Text -->
@@ -265,7 +269,7 @@
 								<!-- SERVICE BOX #1 -->
 								<div class="col-md-6">
 			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.4s">
-			 							<a href="#">
+			 							
 
 				 							<!-- Icon -->
 											<span class="flaticon-018-scale-1 blue-color"></span>
@@ -283,7 +287,7 @@
 
 											</div>
 
-										</a>
+										
 			 						</div>
 			 					</div>  <!-- END SERVICE BOX #1 -->
 
@@ -291,7 +295,7 @@
 			 					<!-- SERVICE BOX #2 -->
 			 					<div class="col-md-6">
 			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.6s">
-			 							<a href="#">
+			 							
 
 				 							<!-- Icon -->
 											<span class="flaticon-123-smartphone-3 blue-color"></span>
@@ -309,7 +313,7 @@
 
 											</div>
 
-				 						</a>
+				 						
 			 						</div>
 			 					</div>  <!-- END SERVICE BOX #2 -->
 
@@ -317,7 +321,7 @@
 			 					<!-- SERVICE BOX #3 -->
 			 					<div class="col-md-6">
 			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.8s">
-			 							<a href="#">
+			 							
 
 				 							<!-- Icon -->
 											<span class="flaticon-124-laptop blue-color"></span>
@@ -334,7 +338,7 @@
 
 											</div>
 
-				 						</a>
+				 						
 			 						</div>
 			 					</div>  <!-- END SERVICE BOX #3-->
 
@@ -342,7 +346,7 @@
 			 					<!-- SERVICE BOX #4 -->
 			 					<div class="col-md-6">
 			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="1s">
-			 							<a href="#">
+			 							
 
 				 							<!-- Icon -->
 											<span class="flaticon-080-shield blue-color"></span>
@@ -359,7 +363,7 @@
 
 											</div>
 
-				 						</a>
+				 						
 			 						</div>
 			 					</div>  <!-- END SERVICE BOX #4 -->
 
@@ -367,7 +371,7 @@
 			 					<!-- SERVICE BOX #5 -->
 			 					<div class="col-md-6">
 			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="1.2s">
-			 							<a href="#">
+			 						
 
 				 							<!-- Icon -->
 											<span class="flaticon-011-atoms blue-color"></span>
@@ -384,7 +388,7 @@
 
 											</div>
 
-				 						</a>
+				 						
 			 						</div>
 			 					</div>  <!-- END SERVICE BOX #5 -->
 
@@ -392,7 +396,7 @@
 			 					<!-- SERVICE BOX #6 -->
 			 					<div class="col-md-6">
 			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="1.4s">
-			 							<a href="#">
+			 						
 
 				 							<!-- Icon -->
 											<span class="flaticon-119-clipboard-1 blue-color"></span>
@@ -409,7 +413,7 @@
 
 											</div>
 
-										</a>
+									
 			 						</div>
 			 					</div>  <!-- END SERVICE BOX #6 -->
 			 					
