@@ -404,7 +404,7 @@
 						
 
 							<!-- Text -->
-							<p>We are trusted to distributed and providing the right solution for clients is our focus and priority.
+							<p>We are trusted to distributed and providing the right solution for clients is our focus and priority..
 							</p>
 										
 						</div> 
