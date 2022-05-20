@@ -48,7 +48,8 @@
 					 			<span class="section-id blue-color">Tentang Kami</span>
 
 								<!-- Title -->
-								<h3 class="h3-md steelblue-color">Meditrans Global</h3>
+								<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>MEDITRANS GLOBAL</b></b></h3>								
+						
 
 								<!-- Text -->
 								<p class="mb-30" style="text-align:justify;">PT. Meditrans Global berdiri sejak tahun 2012 di Surabaya, berawal dari bisnis penyedia barang dan jasa, seiring waktu Meditrans terus berkembang ke bidang bidang bisnis lainnya.<br>
@@ -80,13 +81,17 @@
 
 					<!-- SECTION TITLE -->	
 					<div class="row">	
-					<div class="col-lg-12 offset-lg-1 section-title" style="margin-bottom:30px;">		
+					<div class="col-lg-12 text-center" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
+<<<<<<< HEAD
 <<<<<<< HEAD
 							<h3 class="h4-md steelblue-color" style="color: #214068; "><b><b>PRODUCT BRAND</b></b></h3>								
 =======
 							<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: bolder;"><b><b>PRODUCT BRAND</b></b></h3>								
 >>>>>>> 42f1079e8e6029a8c52043a84a49f4888fac8a4e
+=======
+							<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>OUR LEADERS</b></b></h3>								
+>>>>>>> 00b69765a891a3d091e155f0ce99482f073d7766
 						
 
 							<!-- Text -->
@@ -98,52 +103,27 @@
 					</div>
 
 						
-					<div class="row">	
 
 
-		 				<!-- CONTACTS INFO -->
-		 				<div class="col-md-5 col-lg-5">
+		 		
+						<table class="table" style="border:none;"><tbody style="border:none;"><tr style="border:none;"><td>
+							
+						
 
-		 					<!-- General Information -->
-		 					<div class="contact-box mb-40">
-								<h5 class="h5-sm steelblue-color">About Us</h5>
-								<p>Jalan Munggang no 86-87</p> 
-								<p>Balaikambang, Keramat Jati, Jakarta Timur</p>
-                                <p>13530</p>
-								<p>Phone: +62 21 2204 7248</p>
-								<p>Email: <a href="mailto:info@meditrans.id" class="blue-color">info@meditrans.id</a></p>
-		 					</div>
-
-		 					<!-- Patient Experience -->
-		 					<div class="contact-box mb-40">
-								<h5 class="h5-sm steelblue-color">Our Leader</h5>
-								<p>Rungkut Menanggal Harapan O/28</p>
-                                <p>Rungkut, Surabaya</p>
-                                <p>60239</p>
-								<p>Phone: +62 21 2287 9398</p>
-								<p>Email: <a href="mailto:info@meditrans.id" class="blue-color">info@meditrans.id</a></p>
-		 					</div>
-
-
-						</div>	<!-- END CONTACTS INFO -->
-
-
-						<!-- CONTACT FORM -->	
-				 		<div class="col-md-7 col-lg-7">
-						<table><tr><td>	 
-						<div class="doctor-1">								
+						<div class="doctor-1">	
 						<div class="hover-overlay text-center"> 
 						<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
-						<div class="item-overlay"></div>	
+						<div class="item-overlay"></div>
 						<div class="profile-link">
-						<a class="btn btn-sm btn-tra-white black-hover" href="doctor-1.html" title="">View More Info</a>
-						</div> 
+						<a class="btn btn-sm btn-tra-white black-hover" href="doctor-2.html" title="">View More Info</a>
+						</div>
 						</div>	
 						<div class="doctor-meta">
 						<h5 class="h5-sm steelblue-color">Ibnu Affan</h5>
 						<span class="blue-color">Chief Executive Officer</span>
 						</div>	
-						</div>		
+						</div>	
+	
 </td><td>
 						<div class="doctor-1">	
 						<div class="hover-overlay text-center"> 
@@ -155,10 +135,10 @@
 						</div>	
 						<div class="doctor-meta">
 						<h5 class="h5-sm steelblue-color">Tari Pristiyani</h5>
-						<span class="blue-color">Director of Operation and Marketing</span>
+						<span class="blue-color">Operation and Marketing Director</span>
 						</div>	
 						</div>	
-</td><td>
+</td><td style="">
 						<div class="doctor-1">
 						<div class="hover-overlay text-center"> 
 						<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
@@ -169,18 +149,13 @@
 						</div>		
 						<div class="doctor-meta">
 						<h5 class="h5-sm steelblue-color">Horraizi Hosen</h5>
-						<span class="blue-color">Director of Engineering</span>
+						<span class="blue-color">Director of Engineering</span><br>
 						</div>	
 						</div>
 
-</td></tr></table>
+</td></tr> </tbody></table>
 
-
-
-				 		</div> 	<!-- END CONTACT FORM -->	
-
-
-				 	</div>	<!-- End row -->			  
+		  
  
 
 				</div>	   <!-- End container -->		
@@ -272,17 +247,16 @@
 			 							
 
 				 							<!-- Icon -->
-											<span class="flaticon-018-scale-1 blue-color"></span>
+											<span class="flaticon-077-ribbon blue-color"></span>
 
 											<!-- Text -->
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Berpegang Pada Etika</h5>
+												<h5 class="h5-sm steelblue-color">KOMITMEN PADA CUSTOMER</h5>
 												
 												<!-- Text -->
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor
+												<p class="p-sm">Porta semper lacus at cursus primis ultrice
 												</p>
 
 											</div>
@@ -298,13 +272,13 @@
 			 							
 
 				 							<!-- Icon -->
-											<span class="flaticon-123-smartphone-3 blue-color"></span>
+											<span class="flaticon-080-shield blue-color"></span>
 
 											<!-- Text -->
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Proaktif</h5>
+												<h5 class="h5-sm steelblue-color">TERPERCAYA</h5>
 												<!-- Text -->
 												
 												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
@@ -324,13 +298,13 @@
 			 							
 
 				 							<!-- Icon -->
-											<span class="flaticon-124-laptop blue-color"></span>
+											<span class="flaticon-045-molecule blue-color"></span>
 
 											<!-- Text -->
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Standart Tinggi</h5>
+												<h5 class="h5-sm steelblue-color">INOVASI</h5>
 												<!-- Text -->
 												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
 												   auctor tempus feugiat dolor
@@ -349,13 +323,13 @@
 			 							
 
 				 							<!-- Icon -->
-											<span class="flaticon-080-shield blue-color"></span>
+											<span class="flaticon-016-doctor-1 blue-color"></span>
 
 											<!-- Text -->
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Kompetisi</h5>
+												<h5 class="h5-sm steelblue-color">JUJUR</h5>
 												<!-- Text -->
 												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
 												   auctor tempus feugiat dolor
@@ -380,7 +354,7 @@
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Saling Menghormati</h5>
+												<h5 class="h5-sm steelblue-color">BERINTEGRITAS</h5>
 												<!-- Text -->
 												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
 												   auctor tempus feugiat dolor
@@ -405,7 +379,7 @@
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">Tumbuh Dan Berkembang</h5>
+												<h5 class="h5-sm steelblue-color">BERKUALITAS</h5>
 												<!-- Text -->
 												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
 												   auctor tempus feugiat dolor
@@ -435,7 +409,8 @@
 						<div class="col-lg-10 offset-lg-1 section-title">		
 
 							<!-- Title 	-->	
-							<h3 class="h3-md steelblue-color">Our Network</h3>	
+							<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>OUR NETWORK</b></b></h3>								
+						
 
 							<!-- Text -->
 							<p>We are trusted to distributed and ........................, 
@@ -446,150 +421,133 @@
 					</div>	 <!-- END SECTION TITLE -->	
 
 
-					<div class="row col-md-12">
+					<div class="row col-md-12 text-center align-center">
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture1.png">
+  					</div>
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture2.png">
+  					</div>
+
+
+					<div class="panel-body" style="text-align: center; overflow: hidden;">
+    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture3.png">
+  					</div>
+
+					  <div class="panel-body" style="text-align: center; overflow: hidden;">
+    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture4.png">
+  					</div>
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture5.png">
+  					</div>
+
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture6.png">
+  					</div>
+
+					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture7.png">
+  					</div>
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture8.png">
+  					</div>
+
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture9.png">
+  					</div>
+
+					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture10.png">
+  					</div>
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture11.png">
+  					</div>
+
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture12.png">
+  					</div>
+
+					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture13.png">
+  					</div>
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture14.png">
+  					</div>
+
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture15.png">
+  					</div>
+
+
+					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture16.png">
+  					</div>
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture17.png">
+  					</div>
+
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture18.png">
+  					</div>
+
+
+					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture19.png">
+  					</div>
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture20.png">
+  					</div>
+
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture21.png">
+  					</div>
+						
+					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture22.png">
+  					</div>
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture23.png">
+  					</div>
+
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture24.png">
+  					</div>
+					  
+					  
+					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture25.png">
+  					</div>
+
+					<div class="panel-body" style="text-align: center; overflow: hidden;">
+    				<img style="max-height: 50px; margin:20px;" src="images/networks/Picture26.png">
+  					</div>
+
+
+					<div class="panel-body" style="text-align: center; overflow: hidden;">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture27.png">
+  					</div>
+
+					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 30px; margin:20px;" src="images/networks/Picture28.png">
+  					</div>
+
 					
-						<!-- DOCTOR #1 -->
-						<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture1.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img  width="90%" src="images/networks/Picture2.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture3.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img  width="90%" src="images/networks/Picture4.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture5.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture6.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture7.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture8.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture9.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture10.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%"  src="images/networks/Picture11.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture12.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture13.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture14.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture15.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%"  src="images/networks/Picture16.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture17.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture18.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture19.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture20.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture21.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture22.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture23.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture24.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img  width="90%" src="images/networks/Picture25.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture26.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture27.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-							<!-- DOCTOR #1 -->
-							<div class="col-md-2" style="margin-left: auto; margin-right: auto;">		
-							<img width="90%" src="images/networks/Picture28.png" alt="doctor-foto">								
-						</div>
-						<!-- END DOCTOR #1 -->
-						
-						
 
 					</div>	    <!-- End row2 -->
 
