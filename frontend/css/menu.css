@@ -183,6 +183,7 @@ video {
   line-height: 50px;
   text-decoration: none;
   position: relative;
+  font-weight: bold;
 }
 
 #header-2 .wsmenu > .wsmenu-list > li > a {
