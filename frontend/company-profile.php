@@ -83,17 +83,8 @@
 					<div class="row">	
 					<div class="col-lg-12 text-center" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
-<<<<<<< HEAD
-<<<<<<< HEAD
-							<h3 class="h4-md steelblue-color" style="color: #214068; "><b><b>PRODUCT BRAND</b></b></h3>								
-=======
-							<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: bolder;"><b><b>PRODUCT BRAND</b></b></h3>								
->>>>>>> 42f1079e8e6029a8c52043a84a49f4888fac8a4e
-=======
 							<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>OUR LEADERS</b></b></h3>								
->>>>>>> 00b69765a891a3d091e155f0ce99482f073d7766
-						
-
+	
 							<!-- Text -->
 							<p>Direksi Meditrans mendorong peningkatan kinerja tim sehingga mampu memberikan pelayanan
 								terbaik, turut berkontribusi, dan berperan positif di dunia kesehatan serta masyarakat pada umumnya.
