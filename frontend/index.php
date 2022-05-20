@@ -283,7 +283,7 @@
 
 			<p style="text-align:justify;">Dengan banyak pengalaman yang kami miliki, Anda tidak perlu ragu untuk bermitra dan bekerjasama dengan kami. Kami selalu siap memberikan yang terbaik untuk Anda."</p>
 
-				<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-md btn-blue blue-hover">Selengkapnya..</a>
+				<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-md btn-blue blue-hover">Selengkapnya..cok</a>
 			</td>
 			<td width="5%"></td>
 			</table>			
@@ -654,5 +654,3 @@
     include "footer.php";
 
 ?>
-
-
