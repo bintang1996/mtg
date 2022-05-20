@@ -273,7 +273,7 @@
 
 			<table class="table" width="90%" style="border:none; margin-bottom:0; margin-right:5%;">
 			<tr><td width="50%"  class="text-center align-center">
-			<img class="img-fluid" width="70%" src="images/pediatrics_700x700.jpg" alt="tab-image">
+			<img class="img-fluid" width="70%" src="images/meditrans-office-ps3.png" alt="tab-image">
 			</td>
 			<td><br><br>
 			<h3 class="h4-md" style="color: #214068;font-family:'Lato'; font-weight:bolder;"><B>SELAMAT DATANG DI MEDITRANS</B></h3><BR>
