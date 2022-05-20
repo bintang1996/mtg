@@ -174,7 +174,8 @@ video {
 }
 
 .wsmenu >.wsmenu-list > li:hover > a {
-  color: #281E78;
+  color: #E87722;
+  font-weight: bold;
 }
 
 .wsmenu > .wsmenu-list > li > a {
