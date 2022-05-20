@@ -428,7 +428,7 @@
 
 		
 			
-<div class="w3-content w3-display-container" style="max-width:100%; background-color:#f8f9fa; padding-bottom: 50px; padding-top: 20px; ">
+<div class="w3-content w3-display-container" style="max-width:100%; background-color:#f8f9fa; padding-bottom: 50px; padding-top: 50px; ">
 
 <div class="row">	
 						<div class="col-lg-10 offset-lg-1 section-title" style="margin-bottom: 30px;">		
@@ -491,7 +491,7 @@
 				showDivs1(slideIndex1 = n);
 				}
 
-				function showDivs1(n) {
+				function showDi   vs1(n) {
 				var i;
 				var x = document.getElementsByClassName("mySlides1");
 				var dots = document.getElementsByClassName("demo1");
@@ -561,7 +561,7 @@
                                         <!-- Judul News -->
 										<div class="review-author">
 											<br>
-											<p style="margin-bottom:0px; font-size:1em;"><?php echo $d['cat_name']; ?></p>
+											<p style="margin-bottom:0px; font-size:1em; color:yellow;"><?php echo $d['cat_name']; ?></p>
 											<h4 class="h5-md" style="margin-top:0px; padding-left:8px;"><?php echo $d1['p_name']; ?></h4>
 										</div>	
 
