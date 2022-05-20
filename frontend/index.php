@@ -610,10 +610,10 @@
 								<td width="5%"></td>
 								<td style="align:right;">	
 											<table>
-											<tr>
+											
 												<th colspan="5"><h2 style="color: #214068;font-weight:bolder;"><b>TEMUKAN KAMI DI KOTA ANDA!</b></h2></th>
 											
-											</tr>
+											
 											<tr>
 												<td><p><i style="color:red;" class="fas fa-home"></i> Jakarta</p></td>
 												<td> </td>
