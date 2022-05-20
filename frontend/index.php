@@ -289,7 +289,7 @@
 			</table>			
 			</div>
 			
-			<div class="mySlides">
+			<!-- <div class="mySlides">
 
 			<table class="table" width="90%" style="border:none; margin-bottom:0; margin-right:5%;">
 			<tr><td width="50%"  class="text-center align-center">
@@ -330,7 +330,7 @@
 				Kami memiliki team yang solid untuk bekerjasama dengan Rumah Sakit ataupun perusahaan penyedia peralatan kesehatan baik principal ataupun pihak KSO untuk memberikan konsultasi dan pelaksanaan pekerjaan Pra Instalasi peralatan kesehatan seperti instalasi X-Ray, CT-Scan, MRI dan Cathlab.</p>
 				<br><a href="#" class="btn btn-md btn-blue blue-hover">Selengkapnya</a>
 			</td>
-			<td width="5%"></td>
+			<td width="5%"></td> -->
 
 			
 			</table>			
