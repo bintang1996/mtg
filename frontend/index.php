@@ -456,6 +456,7 @@
 							<div class="gambar1" style="background-image: url('assets/imgs/shop/<?php echo $d2['img_name']; ?>');"></div>
 		<?php } ?>
 </td>
+<td width="5%"></td>
 <td width="40%">
 <h3 class="h4-md" style="color: #214068;font-family:'Lato'; font-weight:bolder;"><B><?php echo $d1['p_name']; ?></B></h3><BR>
 <p style="text-align:justify;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 1000); ?> ....</p>
