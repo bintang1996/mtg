@@ -96,7 +96,7 @@
 								<h4 style="color: #f96845;  margin-top:0px; font-weight:bolder;"><b>KEMITRAAN</b></h4>
 
 								<!-- Text -->
-								<p style="color: black;">Meditrans telah bermitra dengan berbagai rumah sakit dan perusaahan di Indonesia. 
+								<p class="mt-20" style="color: black;">Meditrans telah bermitra dengan berbagai rumah sakit dan perusaahan di Indonesia. 
 									Kami berkomitmen untuk selalu dapat bermitra dengan fasilitas layanan kesehatan maupun perusahaan non kesehatan.
 								</p><br>
 								
@@ -113,7 +113,7 @@
 								<h4 style="color: #f96845; margin-top:0px;font-weight:bolder;"><b>BERKUALITAS TERBAIK</b></h4>
 
 								<!-- Text -->
-								<p style="color: black;">Kami hanya memberikan produk dan jasa dengan kualitas terbaik untuk pelanggan setia kami. 
+								<p class="mt-20" style="color: black;">Kami hanya memberikan produk dan jasa dengan kualitas terbaik untuk pelanggan setia kami. 
 								Meditrans juga memiliki sistem terbaik dalam hal pengembangan layanan kerjasama dengan Rumah Sakit.<br><br>
 
 								</p><br>
@@ -132,7 +132,7 @@
 								<h4 style="color: #f96845;  margin-top:0px; font-weight:bolder;"><b>JARINGAN LUAS</b></h4>
 
 								<!-- Text -->
-								<p style="color: black;">Meditrans memiliki jaringan dan distribusi yang luas meliputi berbagai institusi kesehatan termasuk rumah sakit pemerintah dan swasta. 
+								<p class="mt-20" style="color: black;">Meditrans memiliki jaringan dan distribusi yang luas meliputi berbagai institusi kesehatan termasuk rumah sakit pemerintah dan swasta. 
 								Meditrans juga siap melayani kebutuhan  anda secara B2B maupun B2C.
 								</p>
 <br>
