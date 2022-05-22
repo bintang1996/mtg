@@ -319,7 +319,8 @@ h2.h2-huge { font-size: 5rem; }    /* 80px */
 /*------------------------------------------*/
 
 p.p-sm { font-size: 0.95rem; }     /* 15.2px */
-p { font-size: 1rem; }             /* 16px */
+p { font-size: 1rem;  text-align: justify;
+  text-justify: inter-word; }             /* 16px */
 p.p-md { font-size: 1.125rem; }    /* 18px */
 p.p-lg { font-size: 1.25rem; }     /* 20px */
 p.p-xl { font-size: 1.3175rem; }   /* 22px */
