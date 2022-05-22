@@ -101,7 +101,7 @@
 								</p>
 								
 								<!-- Button -->
-								<a href="contact-us.php"><h6 style="color: #f96845;"><b>HUBUNGI KAMI</b></h6></a>
+								<a href="partnership.php"><h6 style="color: #f96845;"><b>LAYANAN KAMI</b></h6></a>
 							</div>
 						</div>
 
@@ -119,7 +119,7 @@
 								</p><br>
 							
 								<!-- Button -->
-								<a><h6 style="color: #f96845;"><b>PRODUK KAMI</b></h6></a>
+								<a href="our-product.php"><h6 style="color: #f96845;"><b>PRODUK KAMI</b></h6></a>
 							</div>
 						</div>
 
