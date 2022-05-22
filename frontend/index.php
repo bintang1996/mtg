@@ -119,7 +119,7 @@
 								</p><br>
 							
 								<!-- Button -->
-								<a href="our-product.php"><h6 style="color: #f96845;"><b>PRODUK KAMI</b></h6></a>
+								<a href="our-products.php"><h6 style="color: #f96845;"><b>PRODUK KAMI</b></h6></a>
 							</div>
 						</div>
 
