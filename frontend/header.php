@@ -62,6 +62,9 @@
 				font-family: 'Lato';
 				
 				}
+				h3 *{
+						font-size: 30px;
+				}
 				@media only screen and (max-width: 600px) {
 					p {
 						font-size : 8px;
