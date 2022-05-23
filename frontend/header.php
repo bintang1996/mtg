@@ -98,6 +98,22 @@
 						width:50%;
 					}
 				}
+				@media only screen and (max-width: 200px) {
+					p {
+						font-size : 3px;
+					}
+					h3{
+						font-size : 5px;
+
+					}
+					h4{
+						font-size : 5px;
+
+					}
+					td .lala{
+						width:50%;
+					}
+				}
 
 		</style>
 	
