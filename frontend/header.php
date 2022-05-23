@@ -65,7 +65,7 @@
 				h3 *{
 						font-size: 30px;
 				}
-				@media only screen and (max-width: 600px) {
+				@media only screen and (max-width: 992px) {
 					p {
 						font-size : 3px;
 					}
