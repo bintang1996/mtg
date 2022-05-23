@@ -73,6 +73,10 @@
 						font-size : 5px;
 
 					}
+					h4{
+						font-size : 5px;
+
+					}
 					td .lala{
 						width:50%;
 					}
