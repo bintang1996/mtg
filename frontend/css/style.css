@@ -319,7 +319,7 @@ h2.h2-huge { font-size: 5rem; }    /* 80px */
 /*------------------------------------------*/
 
 p.p-sm { font-size: 0.95rem; }     /* 15.2px */
-p {text-align: justify;
+p { font-size: 1rem;  text-align: justify;
   text-justify: inter-word; }             /* 16px */
 p.p-md { font-size: 1.125rem; }    /* 18px */
 p.p-lg { font-size: 1.25rem; }     /* 20px */
@@ -1145,7 +1145,7 @@ span.id-color {
   color: #5f5f5f;
 }
 
-@media only screen and (min-width: 144px) and (max-width:500px) {
+@media only screen and (min-width: 230px) and (max-width:991px) {
 
   .headtoppart {
     display: none;
@@ -3657,7 +3657,7 @@ td.text-right {
 
 .brands-section p {
   color: #888;
-
+  font-size: 1.1rem;
   font-weight: 400;
   margin-bottom: 30px;
 }
@@ -5539,7 +5539,7 @@ ul.blog-category-list li:hover {
 }
 
 .terms-box p span {
-
+  font-size: 1.1rem;
   line-height: 1;
   font-weight: 700; 
   margin-right: 5px;
