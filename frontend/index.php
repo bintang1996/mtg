@@ -265,7 +265,7 @@
 			</style>
 		
 			
-		<section id="info-4" class="wide-100 info-section division" style="background-color:#FFFFFF; padding-bottom: 0px; border-bottom:1px solid grey;">
+		<section id="info-4" class="wide-100 info-section division" style="background-color: #f8f9fa; padding-bottom: 0px; border-bottom:1px solid grey;">
 				<div class="container" style="background-color:#f8f9fa;">
 
 
@@ -276,10 +276,9 @@
 
 						<!-- INFO IMAGE -->
 						<div class="col-lg-6">
-						<div class="info-1-img text-center mb-40 wow fadeInUp" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
-							
+				
 			<img class="img-fluid" width="70%" src="images/meditrans-office-ps3.png" alt="tab-image">
-			</div>
+			
 						</div>
 
 
