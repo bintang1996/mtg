@@ -330,7 +330,7 @@
 				Kami memiliki team yang solid untuk bekerjasama dengan Rumah Sakit ataupun perusahaan penyedia peralatan kesehatan baik principal ataupun pihak KSO untuk memberikan konsultasi dan pelaksanaan pekerjaan Pra Instalasi peralatan kesehatan seperti instalasi X-Ray, CT-Scan, MRI dan Cathlab.</p>
 				<br><a href="#" class="btn btn-md btn-blue blue-hover">Selengkapnya</a>
 			</td>
-			<td width="5%"></td> -->
+			<td width="5%"></td> 
 
 			
 			</table>			
@@ -342,7 +342,7 @@
 			
 				<span class="w3-badge demo w3-border w3-red w3-hover-red" onclick="currentDiv(1)"></span>
 				<span class="w3-badge demo w3-border w3-red w3-hover-red" onclick="currentDiv(2)"></span>
-				<span class="w3-badge demo w3-border w3-red w3-hover-red" onclick="currentDiv(3)"></span>
+				<span class="w3-badge demo w3-border w3-red w3-hover-red" onclick="currentDiv(3)"></span>-->
 			</div>
 			</div>
 
