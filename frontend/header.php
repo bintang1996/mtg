@@ -80,6 +80,9 @@
 					td .lala{
 						width:50%;
 					}
+					#about-1{
+						display: none;
+					}
 				}
 				@media only screen and (max-width: 500px) {
 					p {
