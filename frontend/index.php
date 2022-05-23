@@ -459,23 +459,39 @@
 
 <div class="mySlides1">
 
-<table width="90%" style="border:none; margin-bottom:0; margin-right:5%; margin-left:5%;">
-<tr><td width="40%"  class="text-center align-center">
+<section id="info-4" class="wide-100 info-section division" style="background-color: #f8f9fa; padding-bottom: 0px; ">
+				<div class="container" style="background-color:#f8f9fa;">
+
+
+					<!-- TOP ROW -->
+					<div class="top-row mb-80">
+						<div class="row d-flex align-items-center">
+
+
+						<!-- INFO IMAGE -->
+						<div class="col-lg-6">
 <?php
 							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$gk' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 							while($d2=mysqli_fetch_array($sql2)){
 							?> 
 							<div class="gambar1" style="background-image: url('assets/imgs/shop/<?php echo $d2['img_name']; ?>');"></div>
 		<?php } ?>
-</td>
-<td width="5%"></td>
-<td width="40%">
+		</div>
+
+
+<!-- INFO TEXT -->	
+<div class="col-lg-6">
+	<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
+
 <h3 class="h4-md" style="color: #214068;font-family:'Lato'; font-weight:bolder;"><B><?php echo $d1['p_name']; ?></B></h3><BR>
 <p style="text-align: justify; text-justify: inter-word;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 1000); ?> ....</p>
 	<br><a href="article-details.php?id=<?php echo $d1['id']; ?>" class="btn btn-md btn-blue blue-hover">Selengkapnya</a>
-</td>
-<td width="5%"></td>
-</table>			
+	</div>    <!-- End row -->
+				</div>	<!-- END SECOND ROW -->
+						
+
+                </div>	   <!-- End container -->
+			</section>	<!-- END INFO-4 -->
 </div>
 
 <?php }} ?>
