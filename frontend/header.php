@@ -89,7 +89,11 @@
 				}
 				@media only screen and (max-width: 448px) {
 .sbox-3{
-	padding: 20px;
+	padding: 0px;
+}
+h6
+{
+	font-size: 14px;
 }
 
 				}
