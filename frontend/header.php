@@ -87,7 +87,12 @@
 				
 					
 				}
-				
+				@media only screen and (max-width: 448px) {
+.sbox-3{
+	padding: 20px;
+}
+
+				}
 
 		</style>
 	
