@@ -80,7 +80,7 @@
 					td .lala{
 						width:50%;
 					}
-					#about-1{
+					.about-section division 1{
 						display: none;
 					}
 				}
