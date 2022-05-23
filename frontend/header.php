@@ -83,6 +83,16 @@
 					.about-section division 1{
 						display: none;
 					}
+					#abox-3{
+						display: none;
+					}
+					#abox-2{
+						display: none;
+					}
+					#abox-4{
+						display: none;
+					}
+					
 				}
 				@media only screen and (max-width: 500px) {
 					p {
