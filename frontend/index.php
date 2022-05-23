@@ -80,7 +80,7 @@
 
 			<!-- ABOUT-1
 			============================================= -->
-			<section id="about-1" class="about-section division 1" >
+			<section id="about-1" class="about-section division inilohilangin" >
 				<div class="container">
 					<div class="row d-flex align-items-center">
 
