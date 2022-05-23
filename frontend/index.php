@@ -268,11 +268,9 @@
 			<div class="w3-content w3-display-container" style="max-width:100%; background-color:#ececec;">
 
 
-
-			<div class="mySlides">
-<div class="col-md-5">
+<div class="col-lg-5">
 			<img class="img-fluid" width="70%" src="images/meditrans-office-ps3.png" alt="tab-image">
-		</div><div class="col-md-7">
+		</div><div class="col-lg-7">
 			<h3 class="h4-md" style="color: #214068;font-family:'Lato'; font-weight:bolder;"><B>SELAMAT DATANG DI MEDITRANS</B></h3><BR>
 			<p style="text-align:justify;">"Selamat datang di Meditrans. Sebuah perusahaan kesehatan yang kami dirikan sejak 2012 di Surabaya yang sampai saat ini masih terus mengembangkan dirinya. Bersama tim yang berpengalaman di bidangnya, sejak awal dikembangkan, Meditrans telah melayani banyak rumah sakit dalam hal kebutuhan layanan kesehatan.</p>
 
@@ -281,8 +279,7 @@
 			<p style="text-align:justify;">Dengan banyak pengalaman yang kami miliki, Anda tidak perlu ragu untuk bermitra dan bekerjasama dengan kami. Kami selalu siap memberikan yang terbaik untuk Anda."</p>
 
 				<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-md btn-blue blue-hover">Selengkapnya</a>
-		</div>			
-			</div>
+	
 			
 			<!-- <div class="mySlides">
 
