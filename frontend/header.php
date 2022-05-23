@@ -80,68 +80,14 @@
 					td .lala{
 						width:50%;
 					}
-					.about-section division 1{
+			
+					.inilohilangin{
 						display: none;
 					}
-					#abox-3{
-						display: none;
-					}
-					#abox-2{
-						display: none;
-					}
-					#abox-4{
-						display: none;
-					}
+				
 					
 				}
-				@media only screen and (max-width: 500px) {
-					p {
-						font-size : 3px;
-					}
-					h3{
-						font-size : 5px;
-
-					}
-					h4{
-						font-size : 5px;
-
-					}
-					td .lala{
-						width:50%;
-					}
-				}
-				@media only screen and (max-width: 400px) {
-					p {
-						font-size : 2px;
-					}
-					h3{
-						font-size : 3px;
-
-					}
-					h4{
-						font-size : 3px;
-
-					}
-					td .lala{
-						width:50%;
-					}
-				}
-				@media only screen and (max-width: 200px) {
-					p {
-						font-size : 1px;
-					}
-					h3{
-						font-size : 3px;
-
-					}
-					h4{
-						font-size : 3px;
-
-					}
-					td .lala{
-						width:50%;
-					}
-				}
+				
 
 		</style>
 	
