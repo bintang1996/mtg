@@ -67,7 +67,7 @@
 				}
 				@media only screen and (max-width: 992px) {
 					p {
-						font-size : 8px;
+						font-size : 1rem;
 					}
 					h3{
 						font-size : 10px;
