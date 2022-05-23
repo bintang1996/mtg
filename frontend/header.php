@@ -84,14 +84,14 @@
 
 				@media only screen and (max-width: 400px) {
 					p {
-						font-size : 3px;
+						font-size : 2px;
 					}
 					h3{
-						font-size : 5px;
+						font-size : 3px;
 
 					}
 					h4{
-						font-size : 5px;
+						font-size : 3px;
 
 					}
 					td .lala{
@@ -100,14 +100,14 @@
 				}
 				@media only screen and (max-width: 200px) {
 					p {
-						font-size : 3px;
+						font-size : 1px;
 					}
 					h3{
-						font-size : 5px;
+						font-size : 3px;
 
 					}
 					h4{
-						font-size : 5px;
+						font-size : 3px;
 
 					}
 					td .lala{
