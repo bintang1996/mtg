@@ -265,7 +265,7 @@
 			</style>
 		
 			
-		<section id="info-4" class="wide-100 info-section division" style="background-color: #f8f9fa; padding-bottom: 0px; border-bottom:1px solid grey;">
+		<section id="info-4" class="wide-100 info-section division" style="background-color: #f8f9fa; padding-bottom: 0px; ">
 				<div class="container" style="background-color:#f8f9fa;">
 
 
