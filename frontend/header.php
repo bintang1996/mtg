@@ -69,6 +69,10 @@
 					p {
 						font-size : 8px;
 					}
+					h3{
+						font-size : 5px;
+
+					}
 					td .lala{
 						width:50%;
 					}
