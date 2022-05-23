@@ -355,8 +355,8 @@
 				<span class="w3-badge demo w3-border w3-red w3-hover-red" onclick="currentDiv(1)"></span>
 				<span class="w3-badge demo w3-border w3-red w3-hover-red" onclick="currentDiv(2)"></span>
 				<span class="w3-badge demo w3-border w3-red w3-hover-red" onclick="currentDiv(3)"></span>-->
-			</div>
-			</div>
+		
+		
 
 				<script>
 				var slideIndex = 1;
