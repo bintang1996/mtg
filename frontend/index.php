@@ -459,7 +459,7 @@
 
 <div class="mySlides1">
 
-<section id="info-4" class="wide-100 info-section division" style="background-color: #f8f9fa; padding-bottom: 0px; ">
+<section id="info-4" class="wide-100 info-section division" style="background-color: #f8f9fa; padding-bottom: 0px; padding-top:0px; ">
 				<div class="container" style="background-color:#f8f9fa;">
 
 
