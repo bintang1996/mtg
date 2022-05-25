@@ -286,7 +286,7 @@
 						<div class="col-lg-6">
 							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 
-			<h3 class="h4-md" style="color: #214068;font-family:'Lato Black'; font-weight:bolder;"><B>SELAMAT DATANG DI MEDITRANS</B></h3><BR>
+			<h3 class="h4-md" style="color: #214068;font-family:'Lato black'; font-weight:bolder;"><B>SELAMAT DATANG DI MEDITRANS</B></h3><BR>
 			<p style="text-align:justify;">"Selamat datang di Meditrans. Sebuah perusahaan kesehatan yang kami dirikan sejak 2012 di Surabaya yang sampai saat ini masih terus mengembangkan dirinya. Bersama tim yang berpengalaman di bidangnya, sejak awal dikembangkan, Meditrans telah melayani banyak rumah sakit dalam hal kebutuhan layanan kesehatan.</p>
 
 			<p style="text-align:justify;">Kami tidak hanya membantu rumah sakit untuk memenuhi kebutuhan peralatan kesehatan, perusahaan kami juga bergerak di bidang kerjasama operasional (KSO). Yakni berupa KSO CT Scan dan KSO Cathlab. Kami juga melayani kebutuhan renovasi dan pekerjaan konstruksi rumah sakit.</p>
@@ -483,7 +483,7 @@
 <div class="col-lg-6">
 	<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 
-<h3 class="h4-md" style="color: #214068;font-family:'Lato Black'; font-weight:bolder;"><B><?php echo $d1['p_name']; ?></B></h3><BR>
+<h3 class="h4-md" style="color: #214068;font-family:'Lato black'; font-weight:bolder;"><B><?php echo $d1['p_name']; ?></B></h3><BR>
 <p style="text-align: justify; text-justify: inter-word;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 1000); ?> ....</p>
 	<br><a href="article-details.php?id=<?php echo $d1['id']; ?>" class="btn btn-md btn-blue blue-hover">Selengkapnya</a>
 	</div>    <!-- End row -->
