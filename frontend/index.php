@@ -442,17 +442,16 @@
 			
 <div class="w3-content w3-display-container" style="max-width:100%; background-color:#f8f9fa; padding-bottom: 50px; padding-top: 50px; ">
 
-<div class="row">	
+					<div class="row">	
 						<div class="col-lg-10 offset-lg-1 section-title" style="margin-bottom: 30px;">		
-							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>RECENT POST</b></b></h3>								
+															
 						</div> 
 					</div>
 
-<?php
-                    $r=$_GET['id']; $gi=0;
-							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a where cat_name = 'Default News Page' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
+							<?php
+                    			$r=$_GET['id']; $gi=0;
+								$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a where cat_name = 'Default News Page' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+								while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
                                 $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel limit 3") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
                                 while($d1=mysqli_fetch_array($sql1)){  $gi++; $gk=$d1['id'];
 							?> 
@@ -481,6 +480,9 @@
 
 <!-- INFO TEXT -->	
 <div class="col-lg-6">
+	
+	<!-- Title 	-->	
+	<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>RECENT POST</b></b></h3>
 	<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 
 <h3 class="h4-md" style="color: #214068;font-family:'Lato black'; font-weight:bolder;"><B><?php echo $d1['p_name']; ?></B></h3><BR>
