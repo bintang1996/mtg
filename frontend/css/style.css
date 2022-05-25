@@ -486,14 +486,14 @@ ul.content-list li:last-child {
   border-color: #0dc176;
 }
 
-.btn-orange-Meditrans,
-.white-color .btn-orange-Meditrans{
+.btn-orangemeditrans,
+.white-color .btn-orangemeditrans {
   color: #fff;
   background-color: #e86845;
   border-color: #e86845;  
 }
 
-.btn-orange-Meditrans:hover{
+.orangemeditrans-hover:hover {
   color: #fff;
   background-color: #214068;
   border-color: #214068;  
