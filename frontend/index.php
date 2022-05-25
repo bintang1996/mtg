@@ -499,7 +499,7 @@
 </div>
 
 <?php }} ?>
-<button class="w3-button w3-display-left w3-red" onclick="plusDivs1(-1)">&#10094;</button>
+<button class="w3-button w3-display-left" onclick="plusDivs1(-1)" style= "color: #f44336;">&#10094;</button>
 <button class="w3-button w3-display-right w3-red" onclick="plusDivs1(1)">&#10095;</button>
 <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 
