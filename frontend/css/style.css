@@ -486,7 +486,8 @@ ul.content-list li:last-child {
   border-color: #0dc176;
 }
 
-.btn-orange-Meditrans{
+.btn-orange-Meditrans,
+.white-color .btn-orange-Meditrans{
   color: #fff;
   background-color: #e86845;
   border-color: #e86845;  
