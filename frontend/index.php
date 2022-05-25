@@ -579,7 +579,7 @@
 										<div class="quote"></div>	
 
 										<!-- Author Avatar -->
-										<div class="hover-overlay text-center">
+										<div class="hover-overlay text-center" style="border-radius: 25px;">
 
                                                                 <?php
 							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
