@@ -486,6 +486,18 @@ ul.content-list li:last-child {
   border-color: #0dc176;
 }
 
+.btn-orange-Meditrans{
+  color: #fff;
+  background-color: #e86845;
+  border-color: #e86845;  
+}
+
+.btn-orange-Meditrans:hover{
+  color: #fff;
+  background-color: #214068;
+  border-color: #214068;  
+}
+
 .btn-orange,
 .white-color .btn-orange {
   color: #fff;
