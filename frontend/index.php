@@ -488,7 +488,7 @@
 	<br>
 
 <h5 class="h4-md" style="color: #333;font-family:'Lato black'; font-weight:bolder;"><B><?php echo $d1['p_name']; ?></B></h5><BR>
-<p style="text-align: justify; text-justify: inter-word;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 750); ?> ....</p>
+<p style="text-align: justify; text-justify: inter-word;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 650); ?> ....</p>
 	<br><a href="article-details.php?id=<?php echo $d1['id']; ?>" class="btn btn-md btn-blue blue-hover">Selengkapnya</a>
 	</div>    <!-- End row -->
 				</div>	<!-- END SECOND ROW -->
