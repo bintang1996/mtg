@@ -255,7 +255,7 @@
 			.gambar1{
 			width: 90%;
 			height: 500px;
-			border-radius: 25px;
+			border-radius: 35px;
 			background-repeat: no-repeat;
 			background-size: cover;
 			
