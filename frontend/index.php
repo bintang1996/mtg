@@ -483,6 +483,8 @@
 	
 	<!-- Title 	-->	
 	<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>RECENT POST</b></b></h3>
+	<br><br>
+	
 	<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 
 <h3 class="h4-md" style="color: #214068;font-family:'Lato black'; font-weight:bolder;"><B><?php echo $d1['p_name']; ?></B></h3><BR>
