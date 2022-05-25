@@ -255,7 +255,7 @@
 			.gambar1{
 			width: 90%;
 			height: 500px;
-		
+			border-radius: 25px;
 			background-repeat: no-repeat;
 			background-size: cover;
 			
@@ -484,7 +484,7 @@
 	<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 
 <!-- Title 	-->	
-<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>RECENT POST</b></b></h3>
+<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>RECENT UPDATE</b></b></h3>
 	<br>
 
 <h5 class="h4-md" style="color: #333;font-family:'Lato black'; font-weight:bolder;"><B><?php echo $d1['p_name']; ?></B></h5><BR>
