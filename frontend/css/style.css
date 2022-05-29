@@ -536,11 +536,11 @@ ul.content-list li:last-child {
   border-color: #333;
 }
 
-.blue-hover:hover,
-.white-color .blue-hover:hover {
+.orange-hover:hover,
+.white-color .orange-hover:hover {
   color: #fff!important;
-  background-color: #214068;
-  border-color: #214068;
+  background-color: #f96845;
+  border-color: #f96845;
 }
 
 /*------------------------------------------*/
