@@ -108,7 +108,7 @@
 										<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
 											
 										<!-- Title -->
-										<div style="padding-right: 20; padding-left: 20;">
+										<div style="margin-right: 20; margin-left: 20;">
 										<h5 class="h5-xs steelblue-color">Pediatrics</h5>
 
 										<!-- Text -->
