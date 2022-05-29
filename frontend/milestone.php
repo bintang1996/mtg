@@ -78,7 +78,7 @@
   border: 1px solid #c0c0c0;
   background: #ffffff;
   border-radius: 20px;
-  padding: 0;
+  padding: 20px;
   -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
   box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
 }
@@ -188,21 +188,18 @@
 						<li class="timeline-item">
 							<div class="timeline-badge primary"><i class="glyphicon glyphicon-check"></i></div>
 							<div class="timeline-panel">
-              <div class="sbox-3 icon-sm" style="padding-top: 0; padding-left: 0; padding-right: 0;">
-
-										<!-- Icon -->
-										<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
+              <img class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              	<!-- Icon -->
+								
 											
-										<!-- Title -->
-										<div class="text-left" style="margin-right: 20px; margin-left: 20px;">
-										<h5 class="h5-xs steelblue-color">Ibnu Affan</h5>
-
-										<!-- Text -->
-										<p>Chief Executive Officer
-										</p>
-										</div>
-										<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>																										
-										</div>
+								<div class="timeline-heading">
+               
+									<h4 class="timeline-title">Mussum ipsum cacilds 1</h4>
+									<p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p>
+								</div>
+								<div class="timeline-body">
+									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis faiz elementum girarzis, nisi eros gostis.</p>
+								</div>
 							</div>
 						</li>
 						<li class="timeline-item">
