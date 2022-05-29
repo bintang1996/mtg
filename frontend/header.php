@@ -59,11 +59,12 @@
 			html *
 				{
 				font-family: Lato;
-				font-family: 'Lato Black';
+				font-family: 'Lato';
 				
 				}
 				h3 *{
 						font-size: 30px;
+						font-family: 'Lato Black';
 				}
 				@media only screen and (max-width: 992px) {
 					p {
