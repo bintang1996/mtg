@@ -252,9 +252,23 @@ body {
 <section class="timeline">
   <ol>
     <li>
-      <div>
-        <time>2012</time> Awal berdiri di surabaya (2012) - Akte Notaris No 35 tgl 23 Nov 2012 sebagai perusahaan konstruksi dan renovasi ruang Radiologi dan Kardiologi 
-      </div>
+      
+										<!-- SERVICE BOX #1 -->
+										<div class="sbox-3 icon-sm" style="padding-top: 0; padding-left: 0; padding-right: 0;">
+
+										<!-- Icon -->
+										<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
+											
+										<!-- Title -->
+										<div class="text-left" style="margin-right: 20px; margin-left: 20px;">
+										<h5 class="h5-xs steelblue-color">Ibnu Affan</h5>
+
+										<!-- Text -->
+										<p>Chief Executive Officer
+										</p>
+										</div>
+										<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>																										
+										</div>
     </li>
     <li>
       <div>
