@@ -88,7 +88,7 @@
 				
 
 						<!-- ABOUT BOX #3 -->
-						<div id="abox-3" class="col-md-12 col-lg-3" style="margin-right:2%; border-radius:20%; min-width:32%; max-width:32%;">
+						<div id="abox-3" class="col-md-12 col-lg-3" style="margin-right:2%; border-radius:17%; min-width:32%; max-width:32%;">
 										<div class="abox-1 white-color" style="padding:47px;">
 
 								<!-- Title -->
@@ -106,7 +106,7 @@
 						</div>
 
 						<!-- ABOUT BOX #2 -->
-						<div id="abox-2" class="col-md-12 col-lg-3" style="margin-right:2%; border-radius:20%; min-width:32%; max-width:32%;">
+						<div id="abox-2" class="col-md-12 col-lg-3" style="margin-right:2%; border-radius:17%; min-width:32%; max-width:32%;">
 							<div class="abox-1 white-color" style="padding:47px;" >
 
 							<!-- <p style="font-size:14px; color: #f96845;">PRODUK TERLENGKAP</p> -->
@@ -124,7 +124,7 @@
 						</div>
 
 						<!-- ABOUT BOX #4 -->
-						<div id="abox-4" class="col-md-12 col-lg-3" style="border-radius:20%; min-width:32%; max-width:32%">
+						<div id="abox-4" class="col-md-12 col-lg-3" style="border-radius:17%; min-width:32%; max-width:32%">
 							<div class="abox-1 white-color" style="padding:47px;">
 
 								<!-- Title -->
