@@ -108,13 +108,14 @@
 										<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
 											
 										<!-- Title -->
+										<div style="padding-right: 20; padding-left: 20;">
 										<h5 class="h5-xs steelblue-color">Pediatrics</h5>
 
 										<!-- Text -->
 										<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
 										tempus feugiat dolor lacinia cubilia curae integer congue leo metus
 										</p>
-																																							
+										</div>																										
 										</div>
 	
 </td><td>
