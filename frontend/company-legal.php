@@ -29,7 +29,7 @@ display: none;
 		       							<div class="col-md-12 col-lg-10" >
 		       								<div class="caption-txt">
 						       					<!-- Title -->
-						       					<h3 class="white-color">PROFIL PERUSAHAAN</h3>
+						       					<h3 class="white-color">LEGALITAS PERUSAHAAN</h3>
 
 						       					<!-- Option Box #1 -->
 												<div class="box-list">							
