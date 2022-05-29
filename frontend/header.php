@@ -59,7 +59,7 @@
 			html *
 				{
 				font-family: Lato;
-				font-family: 'Lato';
+				font-family: 'Lato Black';
 				
 				}
 				h3 *{
