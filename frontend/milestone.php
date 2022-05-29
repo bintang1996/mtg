@@ -188,8 +188,7 @@
 						<li class="timeline-item">
 							<div class="timeline-badge primary"><i class="glyphicon glyphicon-check"></i></div>
 							<div class="timeline-panel">
-              <img class="img-fluid"  style="width: 100%; border-radius: 20px;" src="images/head/legal.jpg" alt="doctor-foto">	
-              	<!-- Icon -->
+           	<!-- Icon -->
 								
 											
 								<div class="timeline-heading">
@@ -200,6 +199,8 @@
 								<div class="timeline-body">
 									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis faiz elementum girarzis, nisi eros gostis.</p>
 								</div>
+                <img class="img-fluid"  style="width: 100%; border-radius: 20px;" src="images/head/legal.jpg" alt="doctor-foto">	
+              
 							</div>
 						</li>
 						<li class="timeline-item">
