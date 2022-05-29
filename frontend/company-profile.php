@@ -32,13 +32,12 @@
 						       					<!-- Option Box #1 -->
 												<div class="box-list">							
 													<div class="box-list-icon white-color"></div>
-													<p class="p-md white-color" ><?php echo $d['deskripsi'] ?>
+													<p class="p-md white-color" >Ini profil Perusahaan
 													</p>						
 												</div>
 												<br>
 									          	<!-- Button -->
-												<!-- <a href="<?php echo $d['link_slider'] ?>" ><p class="p-md white-color"><i class="fas fa-angle-double-right"></i>  More Detail</p></a> -->
-												<br><br>
+											<br><br>
 
 											</div>
 										</div>
