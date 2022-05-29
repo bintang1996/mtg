@@ -1,4 +1,4 @@
-
+<TABLE><tr><td>
 										<!-- SERVICE BOX #1 -->
 										<div class="sbox-3 icon-sm" style="padding-top: 0; padding-left: 0; padding-right: 0;">
 
@@ -15,7 +15,7 @@
 										</div>
 										<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>																										
 										</div>
-
+</td><td>
 
 
 
@@ -36,7 +36,7 @@
                     <br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>																										
                     </div>
 
-
+</td><td>
 
 
 										<!-- SERVICE BOX #1 -->
@@ -57,7 +57,7 @@
 										</div>
 
 
-
+</td><td>
 
 										<!-- SERVICE BOX #1 -->
 										<div class="sbox-3 icon-sm" style="padding-top: 0; padding-left: 0; padding-right: 0;">
@@ -78,7 +78,7 @@
 
 
 
-
+</td><td>
 										<!-- SERVICE BOX #1 -->
 										<div class="sbox-3 icon-sm" style="padding-top: 0; padding-left: 0; padding-right: 0;">
 
@@ -94,4 +94,4 @@
 										</p>
 										</div>
 										<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>																										
-										</div>
+</td></tr></table>
