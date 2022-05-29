@@ -65,31 +65,14 @@ display: none;
 			============================================= -->
 			<section id="info-4" class="wide-100 info-section division" style="background-color: #fff; padding-top: 40px;">
 				<div class="container">
-          
+				<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>COMPANY LEGAL</b></b></h3>
+<br>
 					<div class="row d-flex align-items-top">
-						<div class="col-lg-8">
+						<div class="col-lg-12">
 							<?php include "history-company.php";?>
 						</div>
 
-						<div class="col-lg-4" style="text-align: right;">
-							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
-								<!-- Title -->
-								<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>COMPANY LEGAL</b></b></h3>
-<br>
-								<!-- Text -->
-								<p>An enim nullam tempor sapien gravida donec pretium ipsum  porta justo integer at  odio
-								velna vitae auctor integer congue magna purus pretium ligula rutrum luctus ultrice aliquam
-								a augue suscipit
-								</p>
-
-								<!-- Text -->
-								<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor tempus feugiat
-								dolor lacinia cubilia curae integer congue leo metus, eu mollislorem primis in orci integer
-								metus mollis faucibus. An enim nullam tempor sapien gravida donec pretium and ipsum porta
-								justo integer at velna vitae auctor integer congue
-								</p>
-							</div>
-						</div>
+			
 					</div>
                 </div>	   <!-- End container -->
 			</section>	<!-- END INFO-4 -->

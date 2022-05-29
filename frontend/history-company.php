@@ -207,7 +207,7 @@
 </style>
 
 <div class="timeline1">
-  <div class="container2 right">
+  <div class="container2">
     <div class="date"></div>
     <i class="icon fa fa-check"></i>
     <div class="content">
@@ -217,7 +217,7 @@
       </p>
     </div>
   </div>
-  <div class="container2 left">
+  <div class="container2">
     <div class="date"></div>
     <i class="icon fa fa-check"></i>
     <div class="content">
@@ -227,7 +227,7 @@
       </p>
     </div>
   </div>
-  <div class="container2 right">
+  <div class="container2">
     <div class="date"></div>
     <i class="icon fa fa-check"></i>
     <div class="content">
@@ -237,7 +237,7 @@
       </p>
     </div>
   </div>
-  <div class="container2 left">
+  <div class="container2">
     <div class="date"></div>
     <i class="icon fa fa-check"></i>
     <div class="content">
@@ -249,7 +249,7 @@
       <p>Pengolahan Limbah</p>
     </div>
   </div>
-  <div class="container2 right">
+  <div class="container2">
     <div class="date"></div>
     <i class="icon fa fa-check"></i>
     <div class="content">
