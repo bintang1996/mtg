@@ -132,7 +132,7 @@
 								<h4 style="color: #f96845;  margin-top:0px; font-weight:bolder;"><b>JARINGAN LUAS</b></h4>
 
 								<!-- Text -->
-								<p class="mt-20" style="color: black;">Meditrans memiliki jaringan dan distribusi yang luas meliputi berbagai institusi kesehatan termasuk rumah sakit pemerintah dan swasta. 
+								<p class="mt-20" style="color: black;">Meditrans memiliki jaringan dan distribusi luas meliputi institusi kesehatan termasuk rumah sakit pemerintah dan swasta. 
 								Meditrans juga melayani kebutuhan  anda secara B2B maupun B2C.
 								</p>
 <br>
