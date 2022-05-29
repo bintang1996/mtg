@@ -81,6 +81,18 @@ body {
   margin-left: 14px;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
 .timeline ol li:not(:last-child)::after {
   content: '';
   position: absolute;
@@ -114,20 +126,39 @@ body {
   background: #214068;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .timeline ol li div::before {
   content: '';
   position: absolute;
-  top: 100%;
-  left: 0;
-  width: 0;
-  height: 0;
-  border-style: solid;
+  top: 50%;
+  left: calc(100% + 1px);
+  bottom: 0;
+  width: 12px;
+  height: 12px;
+  transform: translateY(-50%);
+  border-radius: 50%;
+  background: #F96845;
 }
 
 .timeline ol li:nth-child(odd) div {
   top: -16px;
   transform: translateY(-100%);
 }
+
 
 .timeline ol li:nth-child(odd) div::before {
   top: 100%;
