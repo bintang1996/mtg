@@ -56,6 +56,9 @@
 		<link href="css/responsive.css" rel="stylesheet"> 
 
 		<style>
+			img *{
+				border-radius: 10%;
+			}
 			html *
 				{
 				font-family: Lato;
@@ -87,6 +90,7 @@
 				
 					
 				}
+
 				@media only screen and (max-width: 448px) {
 .sbox-3{
 	padding: 0px;
