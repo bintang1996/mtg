@@ -190,7 +190,7 @@
 							<div class="timeline-panel">
 
               	<!-- Icon -->
-										<img class="img-fluid" src="images/head/dasi.jpg" alt="doctor-foto">	
+										<img class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
 											
 								<div class="timeline-heading">
 									<h4 class="timeline-title">Mussum ipsum cacilds 1</h4>
