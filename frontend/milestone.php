@@ -2,7 +2,7 @@
 
 <style>
     *,
-*::before,
+
 *::after {
   margin: 0;
   padding: 0;
@@ -115,13 +115,7 @@ body {
 }
 
 .timeline ol li div::before {
-  content: '';
-  position: absolute;
-  top: 0%;
-  left: 0;
-  width: 0;
-  height: 0;
-  border-style: solid;
+ display: none;
 }
 
 .timeline ol li:nth-child(odd) div {
@@ -133,8 +127,7 @@ body {
 }
 
 .timeline ol li:nth-child(odd) div:hover:before{
-  border-width: 8px 8px 0 0;
-  border-color: #214068 transparent transparent transparent;
+  display: none;
 }
 
 .timeline ol li:nth-child(even) div {
@@ -142,15 +135,11 @@ body {
 }
 
 .timeline ol li:nth-child(even) div::before {
-  top: -8px;
-  border-width: 8px 0 0 8px;
-  border-color: transparent transparent transparent #fff;
+  display: none;
 }
 
 .timeline ol li:nth-child(even) div:hover:before {
-  top: -8px;
-  border-width: 8px 0 0 8px;
-  border-color: transparent transparent transparent #214068;
+  display: none;
 }
 
 .timeline time {
@@ -228,12 +217,7 @@ body {
   
   .timeline ol li:nth-child(odd) div::before,
   .timeline ol li:nth-child(even) div::before {
-    left: 50%;
-    top: 100%;
-    transform: translateX(-50%);
-    border: none;
-    border-left: 1px solid white;
-    height: 25px;
+    display: none;
   }
   
   .timeline ol li:last-child,
