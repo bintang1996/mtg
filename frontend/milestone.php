@@ -81,18 +81,6 @@ body {
   margin-left: 14px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
 .timeline ol li:not(:last-child)::after {
   content: '';
   position: absolute;
@@ -126,21 +114,6 @@ body {
   background: #214068;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .timeline ol li div::before {
   content: '';
   position: absolute;
@@ -156,9 +129,8 @@ body {
   transform: translateY(-100%);
 }
 
-
 .timeline ol li:nth-child(odd) div::before {
-  top: 0%;
+  top: 100%;
   border-width: 8px 8px 0 0;
   border-color: #fff transparent transparent transparent;
 }
