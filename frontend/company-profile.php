@@ -97,7 +97,7 @@
 
 
 		 		
-						<table class="table" style="border:none;"><tbody style="border:none;"><tr style="border:none;"><td>
+						<table style="border:none;"><tbody style="border:none;"><tr style="border:none;"><td>
 							
 						
 
