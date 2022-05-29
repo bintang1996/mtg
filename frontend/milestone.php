@@ -249,12 +249,7 @@ body {
 <section class="timeline">
   <ol>
     <li>
-      <div>
-        	<!-- Icon -->
-          <img class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
-											
-        <time>2012</time> Awal berdiri di surabaya (2012) - Akte Notaris No 35 tgl 23 Nov 2012 sebagai perusahaan konstruksi dan renovasi ruang Radiologi dan Kardiologi 
-      </div>
+  
     </li>
     <li>
       <div>
@@ -263,9 +258,7 @@ body {
       </div>
     </li>
     <li>
-      <div>
-        <time>2018</time> Perpindahan ke Head Office Jakarta
-      </div>
+  
     </li>
     <li>
       <div>
@@ -273,9 +266,7 @@ body {
       </div>
     </li>
     <li>
-      <div>
-        <time>2020</time> Project vyaire, distribusi 1000 ventilator support USAID dan KEMENKES
-      </div>
+  
     </li>
     <li>
       <div>
@@ -283,9 +274,7 @@ body {
       </div>
     </li>
     <li>
-      <div>
-        <time>2021</time> Samsung
-      </div>
+  
     </li>
     <li>
       <div>
@@ -293,9 +282,7 @@ body {
       </div>
     </li>
     <li>
-      <div>
-        <time>2022</time> Yokogawa
-      </div>
+  
     </li>
     
     <li></li>
