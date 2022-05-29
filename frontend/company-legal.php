@@ -71,7 +71,7 @@ display: none;
 						<div class="col-lg-12">
 							<?php include "history-company.php";?>
 						</div>
-
+<br><br>
 			
 					</div>
                 </div>	   <!-- End container -->
