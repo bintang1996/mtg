@@ -144,14 +144,11 @@ body {
 .timeline ol li div::before {
   content: '';
   position: absolute;
-  top: 50%;
-  left: calc(100% + 1px);
-  bottom: 0;
-  width: 12px;
-  height: 12px;
-  transform: translateY(-50%);
-  border-radius: 50%;
-  background: #F96845;
+  top: 100%;
+  left: 0;
+  width: 0;
+  height: 0;
+  border-style: solid;
 }
 
 .timeline ol li:nth-child(odd) div {
@@ -161,7 +158,7 @@ body {
 
 
 .timeline ol li:nth-child(odd) div::before {
-  top: 100%;
+  top: 0%;
   border-width: 8px 8px 0 0;
   border-color: #fff transparent transparent transparent;
 }
