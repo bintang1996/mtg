@@ -261,6 +261,7 @@ body {
     </li>
     <li>
       <div>
+      <img class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
         <time>2016</time> Project KSO Cathlab pertama
       </div>
     </li>
