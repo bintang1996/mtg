@@ -1,12 +1,16 @@
 <?php include "header.php";?>
-
+<style>
+	.indicators {
+display: none;
+	}
+</style>
 	<!-- HERO-2
 			============================================= -->	
 			<section id="hero-2" class="hero-section division">
 
 
 				<!-- SLIDER -->
-				<div class="slider blue-nav" style="height: 500px;">
+				<div class="slider" style="height: 500px;">
 			    	<ul class="slides">
 
 
