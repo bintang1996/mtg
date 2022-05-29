@@ -7,14 +7,14 @@
 
 				<!-- SLIDER -->
 				<div class="slider blue-nav" style="height: 500px;">
-			    	<ul >
+			    	<ul class="slides">
 
 
 				     	<!-- SLIDE #1 -->
 				      	
 
     	
-                                <li id="slide-1" style="height: 500px;">			
+                                <li style="height: 500px;">			
 								<img class="img-fluid" width="100%" height="500px" src="images/head/tangan.jpg" alt="hero-image">
                                 
 							<!-- Image Caption -->
