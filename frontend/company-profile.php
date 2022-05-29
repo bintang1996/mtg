@@ -104,47 +104,49 @@
 										<!-- SERVICE BOX #1 -->
 										<div class="sbox-3 icon-sm">
 
-<!-- Icon -->
-<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
-	
-<!-- Title -->
-<h5 class="h5-xs steelblue-color">Pediatrics</h5>
+										<!-- Icon -->
+										<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
+											
+										<!-- Title -->
+										<h5 class="h5-xs steelblue-color">Pediatrics</h5>
 
-<!-- Text -->
-<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
-   tempus feugiat dolor lacinia cubilia curae integer congue leo metus
-</p>
-																													
-</div>
+										<!-- Text -->
+										<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
+										tempus feugiat dolor lacinia cubilia curae integer congue leo metus
+										</p>
+																																							
+										</div>
 	
 </td><td>
-						<div class="doctor-1">	
-						<div class="hover-overlay text-center"> 
-						<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
-						<div class="item-overlay"></div>
-						<div class="profile-link">
-						<a class="btn btn-sm btn-tra-white black-hover" href="doctor-2.html" title="">View More Info</a>
-						</div>
-						</div>	
-						<div class="doctor-meta">
-						<h5 class="h5-sm steelblue-color">Tari Pristiyani</h5>
-						<span class="blue-color">Operation and Marketing Director</span>
-						</div>	
-						</div>	
+										<div class="sbox-3 icon-sm">
+
+										<!-- Icon -->
+										<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
+											
+										<!-- Title -->
+										<h5 class="h5-xs steelblue-color">Pediatrics</h5>
+
+										<!-- Text -->
+										<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
+										tempus feugiat dolor lacinia cubilia curae integer congue leo metus
+										</p>
+																																							
+										</div>
 </td><td style="">
-						<div class="doctor-1">
-						<div class="hover-overlay text-center"> 
-						<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
-						<div class="item-overlay"></div>
-						<div class="profile-link">
-						<a class="btn btn-sm btn-tra-white black-hover" href="doctor-2.html" title="">View More Info</a>
-						</div>
-						</div>		
-						<div class="doctor-meta">
-						<h5 class="h5-sm steelblue-color">Horraizi Hosen</h5>
-						<span class="blue-color">Director of Engineering</span><br>
-						</div>	
-						</div>
+										<div class="sbox-3 icon-sm">
+
+										<!-- Icon -->
+										<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
+											
+										<!-- Title -->
+										<h5 class="h5-xs steelblue-color">Pediatrics</h5>
+
+										<!-- Text -->
+										<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
+										tempus feugiat dolor lacinia cubilia curae integer congue leo metus
+										</p>
+																																							
+										</div>
 
 </td></tr> </tbody></table>
 
