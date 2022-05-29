@@ -15,7 +15,7 @@
 
     	
                                 <li id="slide-1">			
-								<img class="img-fluid" width="1200px" height="600px" src="images/slider/1650788411.jpeg" alt="hero-image">
+								<img class="img-fluid" width="1200px" height="600px" src="images/head/tangan.jpg" alt="hero-image">
                                 
 							<!-- Image Caption -->
 							<div class="caption d-flex align-items-center left-align" style="background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)); ">
