@@ -89,7 +89,7 @@ body {
   bottom: 0;
   width: 12px;
   height: 12px;
-  transform: translateY(50%);
+  transform: translateY(-50%);
   border-radius: 50%;
   background: #F96845;
 }
@@ -126,7 +126,7 @@ body {
 
 .timeline ol li:nth-child(odd) div {
   top: -16px;
-  transform: translateY(-100%);
+  transform: translateY(100%);
 }
 
 .timeline ol li:nth-child(odd) div::before {
