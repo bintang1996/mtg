@@ -644,7 +644,7 @@
 								<td style="align:right;">	
 											<table>
 											
-												<th colspan="5"><h2 style="color: #214068;font-weight:bolder;"><b>TEMUKAN KAMI DI KOTA ANDA!</b></h2></th><br><br>
+												<th colspan="5"><h2 style="color: #214068;font-weight:bolder;"><b>TEMUKAN KAMI DI KOTA ANDA!</b></h2></th><br><br><br>
 											
 											
 											<tr>
