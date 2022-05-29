@@ -108,7 +108,7 @@
 										<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
 											
 										<!-- Title -->
-										<div style="margin-right: 20px; margin-left: 20px;">
+										<div class="text-left" style="margin-right: 20px; margin-left: 20px;">
 										<h5 class="h5-xs steelblue-color">Pediatrics</h5>
 
 										<!-- Text -->
@@ -125,7 +125,7 @@
 										<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
 											
 										<!-- Title -->
-										<div style="margin-right: 20px; margin-left: 20px;">
+										<div  class="text-left" style="margin-right: 20px; margin-left: 20px;">
 										<h5 class="h5-xs steelblue-color">Pediatrics</h5>
 
 										<!-- Text -->
@@ -142,7 +142,7 @@
 										<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
 											
 										<!-- Title -->
-										<div style="margin-right: 20px; margin-left: 20px;">
+										<div class="text-left" style="margin-right: 20px; margin-left: 20px;">
 										<h5 class="h5-xs steelblue-color">Pediatrics</h5>
 
 										<!-- Text -->
