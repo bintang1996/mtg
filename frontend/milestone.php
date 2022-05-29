@@ -188,6 +188,10 @@
 						<li class="timeline-item">
 							<div class="timeline-badge primary"><i class="glyphicon glyphicon-check"></i></div>
 							<div class="timeline-panel">
+
+              	<!-- Icon -->
+										<img class="img-fluid" src="images/head/dasi.jpg" alt="doctor-foto">	
+											
 								<div class="timeline-heading">
 									<h4 class="timeline-title">Mussum ipsum cacilds 1</h4>
 									<p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p>
