@@ -215,7 +215,7 @@
 							</div>
 						</li>
 						<li class="timeline-item">
-							<div class="timeline-badge info"><i class="fa fa-check"></i></div>
+							<div class="timeline-badge success"><i class="fa fa-check"></i></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
 									<h4 class="timeline-title">Mussum ipsum cacilds 3</h4>
@@ -227,7 +227,7 @@
 							</div>
 						</li>
 						<li class="timeline-item">
-							<div class="timeline-badge danger"><i class="fa fa-check"></i></div>
+							<div class="timeline-badge success"><i class="fa fa-check"></i></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
 									<h4 class="timeline-title">Mussum ipsum cacilds 4</h4>
@@ -239,7 +239,7 @@
 							</div>
 						</li>
 						<li class="timeline-item">
-							<div class="timeline-badge warning"><i class="fa fa-check"></i></div>
+							<div class="timeline-badge success"><i class="fa fa-check"></i></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
 									<h4 class="timeline-title">Mussum ipsum cacilds 5</h4>
@@ -251,7 +251,7 @@
 							</div>
 						</li>
 						<li class="timeline-item">
-							<div class="timeline-badge"><i class="fa fa-check"></i></div>
+							<div class="timeline-badge success"><i class="fa fa-check"></i></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
 									<h4 class="timeline-title">Mussum ipsum cacilds 6</h4>
