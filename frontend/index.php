@@ -642,8 +642,15 @@
 								<td width="70%" class="lala"><?php include "lala.php";?></td>
 								<td width="5%"></td>
 								<td style="align:right;">	
-								<h3 class="h4-md steelblue-color" style="color: #214068;font-weight:bolder;"><b>TEMUKAN KAMI DI KOTA ANDA!</b></h3><br>
-											<table>
+								<div class="row">	
+						<div class="col-lg-10 offset-lg-1 section-title" style="margin-bottom:30px;">		
+							<!-- Title 	-->	
+							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>TEMUKAN KAMI DI KOTA ANDA!</b></b></h3>								
+						</div> 
+					</div>	
+								
+								
+								<table>
 											
 											
 											
