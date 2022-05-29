@@ -112,8 +112,7 @@
 										<h5 class="h5-xs steelblue-color">Ibnu Affan</h5>
 
 										<!-- Text -->
-										<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
-										tempus feugiat dolor lacinia cubilia curae integer congue leo metus
+										<p>Chief Executive Officer
 										</p>
 										</div>
 										<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>																										
@@ -130,8 +129,7 @@
 										<h5 class="h5-xs steelblue-color">Tari Pristiyanti</h5>
 
 										<!-- Text -->
-										<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
-										tempus feugiat dolor lacinia cubilia curae integer congue leo metus
+										<p>Operation and Marketing Director
 										</p>
 										</div>
 										<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>
@@ -148,8 +146,7 @@
 										<h5 class="h5-xs steelblue-color">Horraizi Hosen</h5>
 
 										<!-- Text -->
-										<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
-										tempus feugiat dolor lacinia cubilia curae integer congue leo metus
+										<p>Director of Engineering
 										</p>
 										</div>
 										<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>
