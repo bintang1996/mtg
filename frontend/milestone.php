@@ -125,8 +125,7 @@ body {
 }
 
 .timeline ol li:nth-child(odd) div {
-  top: -16px;
-  transform: translateY(100%);
+ display: none;
 }
 
 .timeline ol li:nth-child(odd) div::before {
