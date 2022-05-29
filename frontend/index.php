@@ -277,7 +277,7 @@
 						<!-- INFO IMAGE -->
 						<div class="col-lg-6">
 				
-			<img class="img-fluid" width="100%" src="images/meditrans-office-ps3.png" alt="tab-image">
+			<img class="img-fluid" style="boreder-radius: 10%;" width="100%" src="images/meditrans-office-ps3.png" alt="tab-image">
 			
 						</div>
 
