@@ -233,7 +233,7 @@ body {
   .timeline ol li:nth-child(even) div::before {
     left: 50%;
     top: 100%;
-    transform: translateX(-50%);
+    transform: translateX(50%);
     border: none;
     border-left: 1px solid white;
     height: 25px;
