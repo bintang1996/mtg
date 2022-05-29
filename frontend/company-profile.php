@@ -102,7 +102,7 @@
 						
 
 										<!-- SERVICE BOX #1 -->
-										<div class="sbox-3 icon-sm">
+										<div class="sbox-3 icon-sm" style="padding-top: 0; padding-left: 0; padding-right: 0;">
 
 										<!-- Icon -->
 										<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
@@ -118,7 +118,7 @@
 										</div>
 	
 </td><td>
-										<div class="sbox-3 icon-sm">
+										<div class="sbox-3 icon-sm" style="padding-top: 0; padding-left: 0; padding-right: 0;">
 
 										<!-- Icon -->
 										<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
@@ -133,7 +133,7 @@
 																																							
 										</div>
 </td><td style="">
-										<div class="sbox-3 icon-sm">
+										<div class="sbox-3 icon-sm" style="padding-top: 0; padding-left: 0; padding-right: 0;">
 
 										<!-- Icon -->
 										<img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
