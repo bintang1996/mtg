@@ -13,8 +13,7 @@
 										<p>Chief Executive Officer
 										</p>
 										</div>
-										<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>																										
-										</div>
+								</div>
 </td><td>
 
 
@@ -33,8 +32,7 @@
                     <p>Chief Executive Officer
                     </p>
                     </div>
-                    <br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>																										
-                    </div>
+                  </div>
 
 </td><td>
 
@@ -53,7 +51,6 @@
 										<p>Chief Executive Officer
 										</p>
 										</div>
-										<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>																										
 										</div>
 
 
@@ -73,8 +70,7 @@
                     <p>Chief Executive Officer
                     </p>
                     </div>
-                    <br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>																										
-                    </div>
+                   </div>
 
 
 
@@ -93,5 +89,6 @@
 										<p>Chief Executive Officer
 										</p>
 										</div>
-										<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>																										
-</td></tr></table>
+								    </div>
+                   
+                  </td></tr></table>
