@@ -129,9 +129,7 @@ body {
 }
 
 .timeline ol li:nth-child(odd) div::before {
-  top: 100%;
-  border-width: 8px 8px 0 0;
-  border-color: #fff transparent transparent transparent;
+  display: none;
 }
 
 .timeline ol li:nth-child(odd) div:hover:before{
