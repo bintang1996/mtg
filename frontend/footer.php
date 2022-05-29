@@ -15,11 +15,11 @@
 						</div> 
 						<div class="col">		
 							
-						<img src="images/icon/phone.png"  width="120"><br><B>PHONE</B><BR><BR>HOTLINE: (+62) 21 2204 7248<BR>
+						<img src="images/icon/phone1.png"  width="120"><br><B>PHONE</B><BR><BR>HOTLINE: (+62) 21 2204 7248<BR>
 						SERVICE CENTER: (+62) 81 28000 1102						
 						</div> 
 						<div class="col">		
-						<img src="images/icon/surat.png"  width="120"><br><B>EMAIL</B><BR><BR>INFO@MEDITRANS.ID<BR>
+						<img src="images/icon/surat1.png"  width="120"><br><B>EMAIL</B><BR><BR>INFO@MEDITRANS.ID<BR>
 						CS@MEDITRANS.ID
 														
 						</div> 
