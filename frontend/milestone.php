@@ -188,7 +188,7 @@
 						<li class="timeline-item">
 							<div class="timeline-badge primary"><i class="glyphicon glyphicon-check"></i></div>
 							<div class="timeline-panel">
-              <img class="img-fluid"  style="max-height: 100px;" src="images/head/legal.jpg" alt="doctor-foto">	
+              <img class="img-fluid"  style="width: 100%; border-radius: 20px;" src="images/head/legal.jpg" alt="doctor-foto">	
               	<!-- Icon -->
 								
 											
