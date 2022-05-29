@@ -8,7 +8,7 @@
 
 
 .timeline1 {
-  position: relative;
+
   width: 100%;
   max-width: 1140px;
   margin: 0 auto;
@@ -17,7 +17,7 @@
 
 .timeline1::after {
   content: '';
-  position: absolute;
+
   width: 2px;
   background: #214068;
   top: 0;
@@ -28,22 +28,15 @@
 
 .container2 {
   padding: 15px 30px;
-  position: relative;
+
   background: inherit;
   width: 50%;
 }
 
-.container2.left {
-  left: 0;
-}
-
-.container2.right {
-  left: 50%;
-}
 
 .container2::after {
   content: '';
-  position: absolute;
+ 
   width: 16px;
   height: 16px;
   top: calc(50% - 8px);
@@ -54,13 +47,11 @@
   z-index: 1;
 }
 
-.container2.right::after {
-  left: -8px;
-}
+
 
 .container2::before {
   content: '';
-  position: absolute;
+
   width: 50px;
   height: 2px;
   top: calc(50% - 1px);
@@ -74,7 +65,7 @@
 }
 
 .container2 .date {
-  position: absolute;
+
   display: inline-block;
   top: calc(50% - 8px);
   text-align: center;
@@ -86,16 +77,9 @@
   z-index: 1;
 }
 
-.container2.left .date {
-  right: -75px;
-}
-
-.container2.right .date {
-  left: -75px;
-}
 
 .container2 .icon {
-  position: absolute;
+
   display: inline-block;
   width: 40px;
   height: 40px;
@@ -110,18 +94,11 @@
   z-index: 1;
 }
 
-.container2.left .icon {
-  right: 50px;
-}
-
-.container2.right .icon {
-  left: 50px;
-}
 
 .container2 .content {
   padding: 25px 85px 25px 25px;
   background: white;
-  position: relative;
+
   border-radius: 10px 10px 10px 10px;
   box-shadow: 10px 7px 20px grey;
 }
@@ -170,38 +147,11 @@
     padding-right: 30px;
   }
 
-  .container2.right {
-    left: 0%;
-  }
 
-  .container2.left::after, 
-  .container2.right::after {
-    left: 82px;
-  }
 
-  .container2.left::before,
-  .container2.right::before {
-    left: 100px;
-    border-color: transparent #006E51 transparent transparent;
-  }
+  
 
-  .container2.left .date,
-  .container2.right .date {
-    right: auto;
-    left: 15px;
-  }
 
-  .container2.left .icon,
-  .container2.right .icon {
-    right: auto;
-    left: 146px;
-  }
-
-  .container2.left .content,
-  .container2.right .content {
-    padding: 30px 30px 30px 90px;
-    border-radius: 500px 0 0 500px;
-  }
 }
 
 </style>
