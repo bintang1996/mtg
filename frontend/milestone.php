@@ -79,7 +79,7 @@
   background: #ffffff;
   border-radius: 20px;
   padding: 20px;
-  margin: 50px;
+  margin-top: 50px;
   -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
   box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
 }
