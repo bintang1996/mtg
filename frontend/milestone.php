@@ -253,6 +253,9 @@ body {
   <ol>
     <li>
       <div>
+        	<!-- Icon -->
+          <img class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+											
         <time>2012</time> Awal berdiri di surabaya (2012) - Akte Notaris No 35 tgl 23 Nov 2012 sebagai perusahaan konstruksi dan renovasi ruang Radiologi dan Kardiologi 
       </div>
     </li>
