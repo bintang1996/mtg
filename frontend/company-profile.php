@@ -109,7 +109,7 @@
 											
 										<!-- Title -->
 										<div class="text-left" style="margin-right: 20px; margin-left: 20px;">
-										<h5 class="h5-xs steelblue-color">Pediatrics</h5>
+										<h5 class="h5-xs steelblue-color">Ibnu Affan</h5>
 
 										<!-- Text -->
 										<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
@@ -127,7 +127,7 @@
 											
 										<!-- Title -->
 										<div  class="text-left" style="margin-right: 20px; margin-left: 20px;">
-										<h5 class="h5-xs steelblue-color">Pediatrics</h5>
+										<h5 class="h5-xs steelblue-color">Tari Pristiyanti</h5>
 
 										<!-- Text -->
 										<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
@@ -145,7 +145,7 @@
 											
 										<!-- Title -->
 										<div class="text-left" style="margin-right: 20px; margin-left: 20px;">
-										<h5 class="h5-xs steelblue-color">Pediatrics</h5>
+										<h5 class="h5-xs steelblue-color">Horraizi Hosen</h5>
 
 										<!-- Text -->
 										<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
