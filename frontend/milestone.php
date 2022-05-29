@@ -1,436 +1,669 @@
-
-
 <style>
-    *,
-*::before,
-*::after {
+body {
   margin: 0;
-  padding: 0;
+}
+
+.body-wrap {
+  background-color: #fff;
+  width: 600px;
+  min-height: 500px;
+  margin: 0 auto;
+  font-size: 12px;
+}
+
+.pres-timeline {
+  font-family: roboto, helvetica, sans-serif;
+  font-size: 12px;
+  color: #4A4A4A;
+  width: 100%;
+  margin: 30px 0;
+}
+.pres-timeline > div > div {
+  padding: 1em 0;
   box-sizing: border-box;
 }
-
-button {
-  background: transparent;
-  border: none;
-  cursor: pointer;
-  outline: none;
-}
-
-body {
-  font: normal 16px/1.5 "Helvetica Neue", sans-serif;
-  background: white;
-  color: #214068;
-}
-
-
-/* .section SECTION
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-
-.section {
-  background: white;
-  padding: 50px 0;
-}
-
-.section .container {
-  width: 90%;
-  max-width: 1200px;
-  margin: 0 auto;
-  text-align: center;
-}
-
-.section h1 {
-  font-size: 2.5rem;
-}
-
-.section h2 {
-  font-size: 1.3rem;
-}
-
-
-/* TIMELINE
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-
-.timeline {
-  white-space: nowrap;
-  overflow-x: hidden;
-}
-
-.timeline ol {
-  font-size: 0;
-  width: 100vw;
-  padding: 250px 0;
-  transition: all 1s;
-}
-
-.timeline ol li {
+.pres-timeline .periods-container, .pres-timeline .cards-container {
+  overflow: hidden;
+  box-sizing: border-box;
   position: relative;
-  display: inline-block;
-  list-style-type: none;
-  width: 160px;
-  height: 3px;
-  background: #214068;
-  border-radius: 10px;
-  
+  min-height: 100px;
+  transition: height 0.5s ease-in-out;
+  background-color: #FFF;
 }
-
-.timeline ol li:last-child {
-  width: 280px;
-}
-
-.timeline ol li:not(:first-child) {
-  margin-left: 14px;
-}
-
-.timeline ol li:not(:last-child)::after {
-  content: '';
-  position: absolute;
-  top: 50%;
-  left: calc(100% + 1px);
-  bottom: 0;
-  width: 12px;
-  height: 12px;
-  transform: translateY(-50%);
-  border-radius: 50%;
-  background: #F96845;
-}
-
-.timeline ol li div {
-  position: absolute;
-  left: calc(100% + 7px);
-  width: 280px;
-  padding: 15px;
-  font-size: 1rem;
-  white-space: normal;
-  color: #214068;
-  background: #fff;
-  box-shadow: 10px 7px 20px grey;
-
-  border-top-right-radius: 10px;
-  border-bottom-right-radius: 10px;
-}
-
-.timeline ol li div:hover{
-  color: #fff;
-  background: #214068;
-}
-
-.timeline ol li div::before {
-  content: '';
-  position: absolute;
-  top: 100%;
+.periods-container:before {
+  background-image: linear-gradient(left, #FFF, rgba(248, 248, 248, 0));
   left: 0;
-  width: 0;
+  content: "";
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  height: 100%;
+  width: 100px;
+}
+.periods-container:after {
+  background-image: linear-gradient(right, #FFF, rgba(248, 248, 248, 0));
+  right: 0;
+  content: "";
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  height: 100%;
+  width: 100px;
+}
+.periods-container .btn-back, .periods-container .btn-next {
+  display: inline-block;
+  width: 15%;
+  height: 100%;
+  position: absolute;
+  cursor: pointer;
+  z-index: 10;
+  transition: 0.3s ease-in-out;
+}
+.periods-container .btn-back:hover, .periods-container .btn-next:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.periods-container .btn-back.hide, .periods-container .btn-next.hide {
+  display: none;
+}
+.periods-container .btn-back {
+  left: 0;
+}
+.periods-container .btn-next {
+  right: 0;
+}
+.periods-container section {
+  width: 70%;
   height: 0;
-  border-style: solid;
+  position: absolute;
+  margin-left: 15%;
+  border-bottom: 5px solid #dfe3e6;
+  padding: 1.5em;
+  box-sizing: border-box;
+  transition: transform 0.3s ease-in-out, opacity 0.2s ease, height 0.3s ease;
+  bottom: 0;
+  opacity: 0;
+  background-color: #fff;
 }
-
-.timeline ol li:nth-child(odd) div {
-  top: -16px;
-  transform: translateY(-100%);
+.periods-container section.active {
+  height: auto;
+  opacity: 1;
+  transform: translateX(0);
+  z-index: 5;
 }
-
-.timeline ol li:nth-child(odd) div::before {
-  top: 100%;
-  border-width: 8px 8px 0 0;
-  border-color: #fff transparent transparent transparent;
-}
-
-.timeline ol li:nth-child(odd) div:hover:before{
-  border-width: 8px 8px 0 0;
-  border-color: #214068 transparent transparent transparent;
-}
-
-.timeline ol li:nth-child(even) div {
-  top: calc(100% + 16px);
-}
-
-.timeline ol li:nth-child(even) div::before {
-  top: -8px;
-  border-width: 8px 0 0 8px;
-  border-color: transparent transparent transparent #fff;
-}
-
-.timeline ol li:nth-child(even) div:hover:before {
-  top: -8px;
-  border-width: 8px 0 0 8px;
-  border-color: transparent transparent transparent #214068;
-}
-
-.timeline time {
+.periods-container section.active .title, .periods-container section.active p {
   display: block;
-  font-size: 1.2rem;
-  font-weight: bold;
-  margin-bottom: 8px;
+}
+.periods-container section.prev {
+  height: auto;
+  opacity: 0.4;
+  transform: translateX(-100%);
+  z-index: 0;
+}
+.periods-container section.prev .year {
+  text-align: right;
+}
+.periods-container section.next {
+  height: auto;
+  opacity: 0.4;
+  transform: translateX(100%);
+  z-index: 0;
+}
+.periods-container section .year {
+  font-size: 20px;
+  font-weight: 400;
+}
+.periods-container section .title {
+  color: #4A4A4A;
+  font-size: 28px;
+  font-weight: 400;
+  display: none;
+}
+.periods-container section p {
+  display: none;
 }
 
-
-/* TIMELINE ARROWS
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-
-.timeline .arrows {
-  display: flex;
-  justify-content: center;
-  margin-bottom: 20px;
+.timeline-container {
+  position: relative;
+  width: 100%;
+  height: 50px;
+  overflow: hidden;
+}
+.timeline-container:before {
+  background-image: linear-gradient(left, #FFF, rgba(248, 248, 248, 0));
+  left: 0;
+  content: "";
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  height: 100%;
+  width: 100px;
+}
+.timeline-container:after {
+  background-image: linear-gradient(right, #FFF, rgba(248, 248, 248, 0));
+  right: 0;
+  content: "";
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  height: 100%;
+  width: 100px;
+}
+.timeline-container .timeline {
+  position: absolute;
+  display: block;
+  height: 50px;
+  transition: left 0.3s ease-in-out;
+}
+.timeline-container .timeline ol {
+  display: block;
+  width: 100%;
+  height: 2px;
+  background-color: #dfe3e6;
+  list-style: none;
+  padding-left: 210px;
+  padding-right: 300px;
+}
+.timeline-container .timeline ol li {
+  display: inline-block;
+  padding: 5px;
+  margin-top: -11px;
+  margin-left: 80px;
+  border-radius: 50%;
+  border: 3px solid #7f9298;
+  background-color: #FFF;
+  position: relative;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+.timeline-container .timeline ol li.active {
+  box-shadow: none;
+}
+.timeline-container .timeline ol li.active:before {
+  content: "";
+  display: block;
+  height: 25px;
+  width: 1px;
+  position: absolute;
+  top: -25px;
+  transition: opacity 0.3s ease-in-out;
+}
+.timeline-container .timeline ol li.active:after {
+  content: "";
+  display: block;
+  height: 25px;
+  width: 1px;
+  position: absolute;
+  bottom: -25px;
+  transition: opacity 0.3s ease-in-out;
+}
+.timeline-container .btn-back, .timeline-container .btn-next {
+  display: inline-block;
+  position: absolute;
+  cursor: pointer;
+  margin-top: -2px;
+  z-index: 11;
+  transition: all 0.3s ease;
+}
+.timeline-container .btn-back.hide, .timeline-container .btn-next.hide {
+  display: none;
+}
+.timeline-container .btn-back:hover, .timeline-container .btn-next:hover {
+  border-color: #7f9298;
+}
+.timeline-container .btn-back {
+  left: 1em;
+}
+.timeline-container .btn-next {
+  right: 1em;
 }
 
-.timeline .arrows .arrow__prev {
-  margin-right: 20px;
+.cards-container:before {
+  background-image: linear-gradient(left, #FFF, rgba(248, 248, 248, 0));
+  left: 0;
+  content: "";
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  height: 100%;
+  width: 100px;
 }
-
-.timeline .disabled {
-  opacity: .5;
+.cards-container:after {
+  background-image: linear-gradient(right, #FFF, rgba(248, 248, 248, 0));
+  right: 0;
+  content: "";
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  height: 100%;
+  width: 100px;
 }
-
-.timeline .arrows img {
-  width: 45px;
-  height: 45px;
+.cards-container section {
+  width: 70%;
+  position: absolute;
+  margin-left: 15%;
+  margin-bottom: 2em;
+  border: 1px solid #f5f7f6;
+  padding: 1.5em;
+  box-sizing: border-box;
+  transition: transform 0.3s ease-in-out;
+  top: 0;
+  opacity: 0;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
 }
-
-
-/* GENERAL MEDIA QUERIES
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-@media screen and (max-width: 599px) {
-  .timeline ol,
-  .timeline ol li {
-    width: auto; 
-  }
-  
-  .timeline ol {
-    padding: 0;
-    transform: none !important;
-  }
-  
-  .timeline ol li {
-    display: block;
-    height: auto;
-    background: transparent;
-  }
-  
-  .timeline ol li:first-child {
-    margin-top: 25px;
-  }
-  
-  .timeline ol li:not(:first-child) {
-    margin-left: auto;
-  }
-  
-  .timeline ol li div {
-    width: 94%;
-    height: auto !important;
-    margin: 0 auto 25px;
-    border-radius: 10px;
-  }
-  
-  .timeline ol li div {
-    position: static;
-  }
-  
-  .timeline ol li:nth-child(odd) div {
-    transform: none;
-  }
-  
-  .timeline ol li:nth-child(odd) div::before,
-  .timeline ol li:nth-child(even) div::before {
-    left: 50%;
-    top: 100%;
-    transform: translateX(-50%);
-    border: none;
-    border-left: 1px solid white;
-    height: 25px;
-  }
-  
-  .timeline ol li:last-child,
-  .timeline ol li:nth-last-child(2) div::before,
-  .timeline ol li:not(:last-child)::after,
-  .timeline .arrows {
-    display: none;
-  }
+.cards-container section.active {
+  height: auto;
+  opacity: 1;
+  transform: translateX(0);
+  z-index: 5;
 }
-</style>
+.cards-container section.prev {
+  height: auto;
+  opacity: 0.4;
+  transform: translateX(-105%);
+  z-index: 0;
+}
+.cards-container section.next {
+  height: auto;
+  opacity: 0.4;
+  transform: translateX(105%);
+  z-index: 0;
+}
+.cards-container section .year {
+  text-align: center;
+  font-size: 16px;
+  margin: 0;
+}
+.cards-container section .title {
+  font-weight: 400;
+}
+.cards-container section img {
+  width: 100%;
+}
+  </style>
 
 
-<section class="timeline">
-  <ol>
-    <li>
-      <div>
-        <time>2012</time> Awal berdiri di surabaya (2012) - Akte Notaris No 35 tgl 23 Nov 2012 sebagai perusahaan konstruksi dan renovasi ruang Radiologi dan Kardiologi 
-      </div>
-    </li>
-    <li>
-      <div>
-        <time>2016</time> Project KSO Cathlab pertama
-      </div>
-    </li>
-    <li>
-      <div>
-        <time>2018</time> Perpindahan ke Head Office Jakarta
-      </div>
-    </li>
-    <li>
-      <div>
-        <time>2019</time> Project KSO CT Scan pertama
-      </div>
-    </li>
-    <li>
-      <div>
-        <time>2020</time> Project vyaire, distribusi 1000 ventilator support USAID dan KEMENKES
-      </div>
-    </li>
-    <li>
-      <div>
-        <time>2021</time> Project Invamed
-      </div>
-    </li>
-    <li>
-      <div>
-        <time>2021</time> Samsung
-      </div>
-    </li>
-    <li>
-      <div>
-        <time>2022</time> Elixir
-      </div>
-    </li>
-    <li>
-      <div>
-        <time>2022</time> Yokogawa
-      </div>
-    </li>
-    
-    <li></li>
-  </ol>
+
+
+<div class="body-wrap">
+<!-- # component starts -->
+  <div class="pres-timeline" id="this-timeline">
+<!-- ###   -->
+<!--   <div class="periods-section"> -->
+    <div class="periods-container">
+      <section class="period-single" period="period1">
+        <h4 class="year">181x-181x</h4>
+        <h2 class="title">1 Lorem ipsum dolor sit amet, consectetur adipisicing.</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium doloremque, laboriosam officia facere eligendi quam reiciendis, rem explicabo dolores tenetur libero minus, facilis quibusdam. Consectetur amet beatae fuga, architecto magnam.</p>
+      </section>
+      <section class="period-single" period="period2">
+        <h4 class="year">182x-182x</h4>
+        <h2 class="title">2 Lorem ipsum dolor sit amet, consectetur adipisicing.</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium doloremque, laboriosam officia facere eligendi quam reiciendis, rem explicabo dolores tenetur libero minus, facilis quibusdam. Consectetur amet beatae fuga, architecto magnam.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium doloremque, laboriosam officia facere eligendi quam reiciendis, rem explicabo dolores tenetur libero minus, facilis quibusdam. Consectetur amet beatae fuga, architecto magnam.</p>
+      </section>
+      <section class="period-single" period="period3">
+        <h4 class="year">183x-183x</h4>
+        <h2 class="title">3 Lorem ipsum dolor sit amet, consectetur adipisicing.</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium doloremque, laboriosam officia facere eligendi quam reiciendis, rem explicabo dolores tenetur libero minus, facilis quibusdam. Consectetur amet beatae fuga, architecto magnam.</p>
+      </section>
+      <div class="btn-back"></div>
+      <div class="btn-next"></div>
+    </div>
+<!--   </div> -->
+<!-- ### -->
+<!--   <div class="timeline-section"> -->
+    <div class="timeline-container">
+      <!--     # timeline graphic place holder - fill with js -->
+      <div class="timeline"></div>
   
-  <div class="arrows">
-    <button class="arrow arrow__prev disabled" disabled>
-      <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/162656/arrow_prev.svg" alt="prev timeline arrow">
-    </button>
-    <button class="arrow arrow__next">
-      <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/162656/arrow_next.svg" alt="next timeline arrow">
-    </button>
+      <div class="btn-back"><svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h30v30H0z"/><path fill="#D8D8D8" fill-rule="evenodd" d="M11.828 15l7.89-7.89-2.83-2.828L6.283 14.89l.11.11-.11.11L16.89 25.72l2.828-2.83"/></svg></div>
+      <div class="btn-next"><svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h30v30H0z"/><path fill="#D8D8D8" fill-rule="evenodd" d="M18.172 14.718l-7.89-7.89L13.112 4l10.606 10.607-.11.11.11.11-10.608 10.61-2.828-2.83 7.89-7.89"/></svg></div>
+    </div>
+<!--   </div> -->
+<!-- ### -->
+<!--   <div class="cards-section"> -->
+    <div class="cards-container">
+      <section class="card-single active" period="period1">
+        <h4 class="year">1816</h4>
+        <h2 class="title">Lorem ipsum dolor sit amet.</h2>
+        <div class="content">
+          <img src="https://ununsplash.imgix.net/photo-1421284621639-884f4129b61d?fit=crop&fm=jpg&h=700&q=75&w=1050" alt="" />
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore vitae sint dolore, officia esse! A recusandae nemo illum rem eos iusto repellendus, voluptatibus tempora nulla voluptatem officia inventore ea modi.</p>
+        </div>
+      </section>
+      <section class="card-single" period="period1">
+        <h4 class="year">1816</h4>
+        <h2 class="title">Lorem ipsum dolor sit amet.</h2>
+        <div class="content">
+          <img src="https://ununsplash.imgix.net/photo-1421284621639-884f4129b61d?fit=crop&fm=jpg&h=700&q=75&w=1050" alt="" />
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore vitae sint dolore, officia esse! A recusandae nemo illum rem eos iusto repellendus, voluptatibus tempora nulla voluptatem officia inventore ea modi.</p>
+        </div>
+      </section>
+      <section class="card-single" period="period2">
+        <h4 class="year">1816</h4>
+        <h2 class="title">Lorem ipsum dolor sit amet.</h2>
+        <div class="content">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A tempora blanditiis ut voluptas nisi labore quos iste totam obcaecati modi rerum iusto, voluptate odio commodi ratione amet illum dicta accusamus, ipsum ea vero neque enim, recusandae dignissimos? Quae ea aspernatur dolor atque, ipsum repellendus. Repudiandae culpa magnam, doloribus exercitationem illo impedit quasi officia, veniam vero molestiae sunt dolorem, excepturi ullam dicta sed amet provident ut soluta pariatur magni! Fugiat eveniet suscipit praesentium culpa aperiam ab nulla, exercitationem atque quod, labore, qui quaerat nihil nam laborum aliquam! Nesciunt dignissimos eaque impedit ex, architecto minima ad, temporibus rem possimus consequatur doloremque, fuga?</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore vitae sint dolore, officia esse! A recusandae nemo illum rem eos iusto repellendus, voluptatibus tempora nulla voluptatem officia inventore ea modi.</p>
+        </div>
+      </section>
+      <section class="card-single" period="period1">
+        <h4 class="year">1816</h4>
+        <h2 class="title">Lorem ipsum dolor sit amet.</h2>
+        <div class="content">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore vitae sint dolore, officia esse! A recusandae nemo illum rem eos iusto repellendus, voluptatibus tempora nulla voluptatem officia inventore ea modi.</p>
+        </div>
+      </section>
+      <section class="card-single" period="period3">
+        <h4 class="year">1816</h4>
+        <h2 class="title">Lorem ipsum dolor sit amet.</h2>
+        <div class="content">
+          <img src="https://ununsplash.imgix.net/photo-1421284621639-884f4129b61d?fit=crop&fm=jpg&h=700&q=75&w=1050" alt="" />
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore vitae sint dolore, officia esse! A recusandae nemo illum rem eos iusto repellendus, voluptatibus tempora nulla voluptatem officia inventore ea modi.</p>
+        </div>
+      </section>
+    </div>
+<!--   </div> -->
+<!-- ###   -->
   </div>
-</section>
+<!-- # component ends -->
+</div>
+
+
+
 
 <script>
-(function() {
-
-// VARIABLES
-const timeline = document.querySelector(".timeline ol"),
-  elH = document.querySelectorAll(".timeline li > div"),
-  arrows = document.querySelectorAll(".timeline .arrows .arrow"),
-  arrowPrev = document.querySelector(".timeline .arrows .arrow__prev"),
-  arrowNext = document.querySelector(".timeline .arrows .arrow__next"),
-  firstItem = document.querySelector(".timeline li:first-child"),
-  lastItem = document.querySelector(".timeline li:last-child"),
-  xScrolling = 280,
-  disabledClass = "disabled";
-
-// START
-window.addEventListener("load", init);
-
-function init() {
-  setEqualHeights(elH);
-  animateTl(xScrolling, arrows, timeline);
-  setSwipeFn(timeline, arrowPrev, arrowNext);
-  setKeyboardFn(arrowPrev, arrowNext);
-}
-
-// SET EQUAL HEIGHTS
-function setEqualHeights(el) {
-  let counter = 0;
-  for (let i = 0; i < el.length; i++) {
-    const singleHeight = el[i].offsetHeight;
-
-    if (counter < singleHeight) {
-      counter = singleHeight;
+class PRESTimeline {
+  
+  base: HTMLElement
+  periodContainer: HTMLElement
+  cardContainer: HTMLElement
+  activePeriod: HTMLElement
+  activeCard: HTMLElement
+  activePeriodIndex: number
+  activeCardIndex: number
+  periodData: object[]
+  cardData: object[]
+  color: object
+  timelineNodeContainer: HTMLElement
+  timelineData: object[]
+  
+  constructor(target: HTMLElement, color: object){
+    
+    // this.__process_stylesheet(document.styleSheets[0]);
+    
+    this.base = target
+    this.color = color
+    // console.log(this.color)
+    this.periodContainer = $(this.base).find('.periods-container')
+    this.cardContainer = $(this.base).find('.cards-container')
+    this.timelineNodeContainer = $(this.base).find('.timeline-container .timeline')
+    // this.activePeriod = $(this.base).find('.periods-container section.active')
+    this._parseData()
+    this._initialColor()
+    this._generateTimeline()
+    this._setStateClasses()
+    this._assignBtn()
+    this._adjustPeriodContainer()
+    this._adjustCardContainer()
+    // console.log(this.cardData)
+  }
+  
+  _parseData(){    
+    let base = this.base
+    let periods: object[] = $(base).find('.periods-container section')
+    for (let section of periods) {
+      section.period = $(section).attr('period')
+      section.index = $(section).index()
+    }
+    // console.log(periods)
+    this.periodData = periods
+    let data: object[] = $(base).find('.cards-container section')
+    // console.log(data)
+    for(let section of data) {
+      section.period = $(section).attr('period')
+      section.index = $(section).index()
+    }
+    // console.log(data)
+    this.cardData = data
+    // #assign initial entry point (active items)
+    this.activePeriod = this.periodData[0]
+    this.activePeriodIndex = 0
+    this.activeCard = this.cardData[0]
+    this.activeCardIndex = 0
+  }
+  
+  _setStateClasses(){
+    // # periods
+    $(this.base).find('.periods-container section.active').removeClass('active')
+    $(this.base).find('.periods-container section.prev').removeClass('prev')
+    $(this.base).find('.periods-container section.next').removeClass('next')
+    // console.log("setclass: " + this.activePeriod.index)
+    $(this.activePeriod).addClass('active')
+    // console.log(this.activePeriod.index)
+    // this.activePeriodIndex = this.activePeriod.index
+    if ( $(this.activePeriod).prev().length != 0 ){
+      $(this.activePeriod).prev().addClass('prev')
+      $(this.base).find('.periods-container .btn-back').removeClass('hide')
+    }else{
+      $(this.base).find('.periods-container .btn-back').addClass('hide')
+    }
+    if ( $(this.activePeriod).next().length != 0){
+      $(this.activePeriod).next().addClass('next')
+      $(this.base).find('.periods-container .btn-next').removeClass('hide')
+    }else{
+      $(this.base).find('.periods-container .btn-next').addClass('hide')
+    }
+    
+    // ## cards
+    $(this.base).find('.cards-container section.active').removeClass('active')
+    $(this.base).find('.cards-container section.prev').removeClass('prev')
+    $(this.base).find('.cards-container section.next').removeClass('next')
+    $(this.activeCard).addClass('active')
+    // this.activeCardIndex - this.activeCard.index
+    if( $(this.activeCard).prev().length != 0 ){
+      $(this.activeCard).prev().addClass('prev')
+    }
+    if ($(this.activeCard).next().length != 0 ){
+      $(this.activeCard).next().addClass('next')
+    }
+    
+    // ## timeline 
+    $(this.base).find('.timeline li.active').removeClass('active')
+    // let findNode = $(this.base).find('.timeline ol li')[this.activeCard.index]
+    $(this.timelineData[this.activeCard.index]).addClass('active')
+    
+    let timelineB = $(this.base).find('.timeline-container .btn-back')
+    let timelineN = $(this.base).find('.timeline-container .btn-next')
+    // console.log($(timelineN))
+    if (this.activeCardIndex === 0){
+      timelineB.addClass('hide')
+    }else{
+      timelineB.removeClass('hide')
+    }
+    if (this.activeCardIndex >= this.cardData.length-1) {
+      timelineN.addClass('hide')
+    }else{
+      timelineN.removeClass('hide')
     }
   }
-
-  for (let i = 0; i < el.length; i++) {
-    el[i].style.height = `${counter}px`;
-  }
-}
-
-// CHECK IF AN ELEMENT IS IN VIEWPORT
-// http://stackoverflow.com/questions/123999/how-to-tell-if-a-dom-element-is-visible-in-the-current-viewport
-function isElementInViewport(el) {
-  const rect = el.getBoundingClientRect();
-  return (
-    rect.top >= 0 &&
-    rect.left >= 0 &&
-    rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
-    rect.right <= (window.innerWidth || document.documentElement.clientWidth)
-  );
-}
-
-// SET STATE OF PREV/NEXT ARROWS
-function setBtnState(el, flag = true) {
-  if (flag) {
-    el.classList.add(disabledClass);
-  } else {
-    if (el.classList.contains(disabledClass)) {
-      el.classList.remove(disabledClass);
+  // ## timeline generater
+  _generateTimeline(){
+    // ## create node list
+    let htmlWrap = '<ol></ol>'
+    $(this.timelineNodeContainer).append(htmlWrap)
+    let wrap = $(this.timelineNodeContainer).find('ol')
+    let numNode: number = this.cardData.length
+    for (let i=0; i < numNode; i++) {
+      let c = this.cardData[i].color
+      let el = wrap.append('<li class="' + this.cardData[i].period + '" style="border-color: ' + c + '"></li>')
     }
-    el.disabled = false;
+    // ## width of timeline
+    let nodeW: number = 200
+    wrap.css('width', nodeW * numNode - 16)
+    let nodeList: object[] = $(this.base).find('.timeline ol li')
+    this.timelineData = nodeList
   }
-}
-
-// ANIMATE TIMELINE
-function animateTl(scrolling, el, tl) {
-  let counter = 0;
-  for (let i = 0; i < el.length; i++) {
-    el[i].addEventListener("click", function() {
-      if (!arrowPrev.disabled) {
-        arrowPrev.disabled = true;
+  // ## assign button actions
+  _assignBtn(){
+    let periodPrev = $(this.base).find('.periods-container .btn-back')
+    let periodNext = $(this.base).find('.periods-container .btn-next')
+    periodPrev.click(()=>{
+      if (this.activePeriodIndex > 0){
+        // console.log('prev')
+        this.activePeriodIndex -= 1
+        this.activePeriod = this.periodData[this.activePeriodIndex]
+        this._chainActions('period')
+        this._setStateClasses()
       }
-      if (!arrowNext.disabled) {
-        arrowNext.disabled = true;
+      this._adjustPeriodContainer()
+    })
+    periodNext.click(()=>{
+      if (this.activePeriodIndex < this.periodData.length-1){
+        // console.log('next' + this.activePeriodIndex)
+        this.activePeriodIndex += 1
+        this.activePeriod = this.periodData[this.activePeriodIndex]
+        this._chainActions('period')
+        this._setStateClasses()
       }
-      const sign = (this.classList.contains("arrow__prev")) ? "" : "-";
-      if (counter === 0) {
-        tl.style.transform = `translateX(-${scrolling}px)`;
-      } else {
-        const tlStyle = getComputedStyle(tl);
-        // add more browser prefixes if needed here
-        const tlTransform = tlStyle.getPropertyValue("-webkit-transform") || tlStyle.getPropertyValue("transform");
-        const values = parseInt(tlTransform.split(",")[4]) + parseInt(`${sign}${scrolling}`);
-        tl.style.transform = `translateX(${values}px)`;
+      this._adjustPeriodContainer()
+  
+    })
+    let timelinePrev = $(this.base).find('.timeline-container .btn-back')
+    let timelineNext = $(this.base).find('.timeline-container .btn-next')
+    timelinePrev.click(()=>{
+      if (this.activeCardIndex > 0){
+        this.activeCardIndex -= 1
+        this.activeCard = this.cardData[this.activeCardIndex]
+        this._chainActions('timeline')
+        this._setStateClasses()
       }
-
-      setTimeout(() => {
-        isElementInViewport(firstItem) ? setBtnState(arrowPrev) : setBtnState(arrowPrev, false);
-        isElementInViewport(lastItem) ? setBtnState(arrowNext) : setBtnState(arrowNext, false);
-      }, 1100);
-
-      counter++;
-    });
-  }
-}
-
-// ADD SWIPE SUPPORT FOR TOUCH DEVICES
-function setSwipeFn(tl, prev, next) {
-  const hammer = new Hammer(tl);
-  hammer.on("swipeleft", () => next.click());
-  hammer.on("swiperight", () => prev.click());
-}
-
-// ADD BASIC KEYBOARD FUNCTIONALITY
-function setKeyboardFn(prev, next) {
-  document.addEventListener("keydown", (e) => {
-    if ((e.which === 37) || (e.which === 39)) {
-      const timelineOfTop = timeline.offsetTop;
-      const y = window.pageYOffset;
-      if (timelineOfTop !== y) {
-        window.scrollTo(0, timelineOfTop);
+      this._adjustCardContainer()
+      this._adjustPeriodContainer()
+    })
+    timelineNext.click(()=>{
+      if (this.activeCardIndex < this.cardData.length-1){
+        this.activeCardIndex += 1
+        this.activeCard = this.cardData[this.activeCardIndex]
+        this._chainActions('timeline')
+        this._setStateClasses()
       }
-      if (e.which === 37) {
-        prev.click();
-      } else if (e.which === 39) {
-        next.click();
-      }
+      this._adjustCardContainer()
+      this._adjustPeriodContainer()
+    })
+    
+    // ## assign each timeline li
+    for (let i = 0; i < this.timelineData.length; i++){
+      $(this.timelineData[i]).click(()=>{
+        this.activeCardIndex = this.cardData[i].index
+        this.activeCard = this.cardData[this.activeCardIndex]
+        this._chainActions('timeline')
+        this._setStateClasses()
+        this._adjustCardContainer()
+        this._shiftTimeline()
+      })
     }
-  });
+  }
+  // ## color ##
+  _initialColor(){
+
+    for(let i = 0; i < this.periodData.length; i++){
+      let p = this.periodData[i].period
+      this.periodData[i].color = this.color[p]
+      let temp = this.periodData[i]
+      $(temp).css('border-color', temp.color)
+      $(temp).find('.year').css('color', temp.color)
+      
+      // ## color for timeline items, this part utilize the period name as class which will be add to the li later
+      
+      // ### cross browser bug fix
+      let sbstyle = document.createElement("style")
+      document.head.appendChild(sbstyle)
+      // let sheet = document.styleSheets[0]
+      sbstyle.sheet.insertRule('li.'+p+'.active { background-color: '+this.color[p]+' !important } ', 0)
+      sbstyle.sheet.insertRule('li.'+p+'::before { background-color: '+this.color[p]+' } ', 0)
+      sbstyle.sheet.insertRule('li.'+p+'::after { background-color: '+this.color[p]+' } ', 0)
+      
+    }
+    for(let i = 0; i < this.cardData.length; i++){
+      let p = this.cardData[i].period
+      this.cardData[i].color = this.color[p]
+      let temp = this.cardData[i]
+      $(temp).css('border-color', temp.color)
+      $(temp).find('.year').css('color', temp.color)
+    }
+  }
+  
+  _adjustPeriodContainer(){
+    let activeH = $(this.activePeriod).outerHeight()
+    $(this.periodContainer).height(activeH)
+    console.log('top adjusted')
+  }
+  _adjustCardContainer(){
+    let activeH = $(this.activeCard).outerHeight() + 24
+    $(this.cardContainer).height(activeH)
+    console.log('bot adjusted')
+  }
+  _shiftTimeline(){
+    // #### We need to fix this part if using this component in different sizes ####
+    let timelineW = $(this.base).find('.timeline-container').outerWidth()
+    let timelinePadding = 210
+    let timelineCenter = 300
+    let liWidth = 16
+    let activeNodeX = $(this.timelineData[this.activeCardIndex]).position().left
+    let finalPos =   -activeNodeX + timelinePadding
+    $(this.timelineNodeContainer).css('left', finalPos)
+    console.log(activeNodeX)
+  }
+  _chainActions(state: string){
+    switch (state){
+      case 'period':
+          console.log('period')
+          if (this.activePeriod.period != this.activeCard.period){
+            // ## find the closest li with the active period
+            let ta: object[] = []
+            for (let i = 0; i < this.cardData.length; i++){
+              let temp = this.cardData[i]
+              if (this.activePeriod.period === temp.period) ta.push(temp)
+            }
+            this.activeCard = ta[0]
+            this.activeCardIndex = ta[0].index
+          }
+
+          break
+      case 'timeline':
+          console.log('timeline')
+          if (this.activeCard.period != this.activePeriod.period){
+            let ta: object
+            for (let i = 0; i < this.periodData.length; i++){
+              let temp = this.periodData[i]
+              if (this.activeCard.period === temp.period) ta = temp
+            }
+            this.activePeriod = ta
+            this.activePeriodIndex = ta.index
+            
+          }
+          
+          break
+    }
+    this._shiftTimeline()
+    this._adjustCardContainer()
+  }
+  
+  
 }
 
-})();
 
-</script>
+// ## document load ##
+
+$(document).ready(function(){
+  let colorcode = {
+    'period1':'#fec541',
+    'period2':'#36d484',
+    'period3':'#32ccf4'
+  }
+  let timeline = new PRESTimeline( $('#this-timeline'), colorcode )
+})
+  </script>
