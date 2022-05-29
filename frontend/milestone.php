@@ -232,9 +232,7 @@ body {
 
 <section class="timeline">
   <ol>
-    <li>
-  
-    </li>
+ 
     <li>
       <div>
       <img class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
