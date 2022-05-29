@@ -9,17 +9,17 @@
 					<div class="row text-center">	
 						<div class="col">		
 							
-						<img src="images/icon/rumah.png"  width="120"><BR><br><B>ADDRESS</B><BR><BR>JL. MUNGGANG NO. 86 - 87 BALEKAMBANG,<BR>
+						<img src="images/icon/rumah.png"  width="120"><br><B>ADDRESS</B><BR><BR>JL. MUNGGANG NO. 86 - 87 BALEKAMBANG,<BR>
 						KRAMAT JATI, JAKARTA TIMUR 13530
 
 						</div> 
 						<div class="col">		
 							
-						<i class="fas fa-mobile-alt" style="font-size:60px;"></i><BR><br><B>PHONE</B><BR><BR>HOTLINE: (+62) 21 2204 7248<BR>
+						<img src="images/icon/phone.png"  width="120"><br><B>PHONE</B><BR><BR>HOTLINE: (+62) 21 2204 7248<BR>
 						SERVICE CENTER: (+62) 81 28000 1102						
 						</div> 
 						<div class="col">		
-						<i class="far fa-envelope" style="font-size:60px;"></i><BR><br><B>EMAIL</B><BR><BR>INFO@MEDITRANS.ID<BR>
+						<img src="images/icon/surat.png"  width="120"><br><B>EMAIL</B><BR><BR>INFO@MEDITRANS.ID<BR>
 						CS@MEDITRANS.ID
 														
 						</div> 
