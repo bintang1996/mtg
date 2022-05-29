@@ -1,6 +1,6 @@
 <TABLE width="100%"><tr><td>
 										<!-- SERVICE BOX #1 -->
-										<div class="sbox-3 icon-sm" style="padding-top: 0; padding-left: 0; padding-right: 0;">
+										<div class="sbox-3 icon-sm orange-hover" style="padding-top: 0; padding-left: 0; padding-right: 0;">
 
 										<!-- Icon -->
 			
@@ -19,7 +19,7 @@
 
 
 										<!-- SERVICE BOX #1 -->
-										<div class="sbox-3 icon-sm" style="padding-top: 0; padding-left: 0; padding-right: 0;">
+										<div class="sbox-3 icon-sm orange-hover" style="padding-top: 0; padding-left: 0; padding-right: 0;">
 
                     <!-- Icon -->
 
@@ -38,7 +38,7 @@
 
 
 										<!-- SERVICE BOX #1 -->
-										<div class="sbox-3 icon-sm" style="padding-top: 0; padding-left: 0; padding-right: 0;">
+										<div class="sbox-3 icon-sm orange-hover" style="padding-top: 0; padding-left: 0; padding-right: 0;">
 
 										<!-- Icon -->
 									
@@ -57,7 +57,7 @@
 </td><td>
 
 										<!-- SERVICE BOX #1 -->
-										<div class="sbox-3 icon-sm" style="padding-top: 0; padding-left: 0; padding-right: 0;">
+										<div class="sbox-3 icon-sm orange-hover" style="padding-top: 0; padding-left: 0; padding-right: 0;">
 
                     <!-- Icon -->
 
@@ -76,7 +76,7 @@
 
 </td><td>
 										<!-- SERVICE BOX #1 -->
-										<div class="sbox-3 icon-sm" style="padding-top: 0; padding-left: 0; padding-right: 0;">
+										<div class="sbox-3 icon-sm orange-hover" style="padding-top: 0; padding-left: 0; padding-right: 0;">
 
 										<!-- Icon -->
 								
