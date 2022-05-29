@@ -7,7 +7,14 @@
 
 				<!-- SLIDER -->
 				<div class="slider blue-nav" style="height: 500px;">
-			
+			    	<ul class="slides">
+
+
+				     	<!-- SLIDE #1 -->
+				      	
+
+    	
+                                <li id="slide-1">			
 								<img class="img-fluid" width="100%" height="500px" src="images/head/tangan.jpg" alt="hero-image">
                                 
 							<!-- Image Caption -->
@@ -28,7 +35,9 @@
 													<p class="p-md white-color" >Ini profil Perusahaan
 													</p>						
 												</div>
-											
+												<br>
+									          	<!-- Button -->
+											<br><br>
 
 											</div>
 										</div>
@@ -36,7 +45,15 @@
 								</div>  <!-- End container -->
 					        </div>	<!-- End Image Caption -->
 
+							
+							
+							</li>
+                       
+						
+					    	<!-- END SLIDE #1 -->
 
+
+				    </ul>
 			  	</div>	<!-- END SLIDER -->
 
 
