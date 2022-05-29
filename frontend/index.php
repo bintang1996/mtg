@@ -642,7 +642,7 @@
 								<td width="70%" class="lala"><?php include "lala.php";?></td>
 								<td width="5%"></td>
 								<td style="align:right;">	
-								<h2 style="color: #214068;font-weight:bolder;"><b>TEMUKAN KAMI DI KOTA ANDA!</b></h2><br>
+								<h3 style="color: #214068;font-weight:bolder;"><b>TEMUKAN KAMI DI KOTA ANDA!</b></h3><br>
 											<table>
 											
 											
