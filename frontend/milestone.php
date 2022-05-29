@@ -190,7 +190,7 @@
 							<div class="timeline-panel">
               <img class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
               	<!-- Icon -->
-								
+								<br>
 											
 								<div class="timeline-heading">
                
@@ -206,6 +206,7 @@
 							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
 							<div class="timeline-panel">
               <img class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              <br>
 								<div class="timeline-heading">
 									<h4 class="timeline-title">Mussum ipsum cacilds 2</h4>
 									<p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p>
@@ -232,6 +233,7 @@
 							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
 							<div class="timeline-panel">
               <img class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              <br>
 								<div class="timeline-heading">
 									<h4 class="timeline-title">Mussum ipsum cacilds 4</h4>
 									<p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p>
@@ -245,6 +247,7 @@
 							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
 							<div class="timeline-panel">
               <img class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              <br>
 								<div class="timeline-heading">
 									<h4 class="timeline-title">Mussum ipsum cacilds 5</h4>
 									<p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p>
@@ -258,6 +261,7 @@
 							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
 							<div class="timeline-panel">
                 <img class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">
+               <br>
 								<div class="timeline-heading">
 									<h4 class="timeline-title">Mussum ipsum cacilds 6</h4>
 									<p><small class="text-muted"><i class="fa fa-check"></i> 11 hours ago via Twitter</small></p>
