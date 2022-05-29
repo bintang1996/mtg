@@ -64,10 +64,10 @@
                       
                     <!-- Title -->
                     <div class="text-left orange-hover" style="margin-right: 20px; margin-left: 20px;">
-                    <h5 class="h5-xs steelblue-color">Ibnu Affan</h5>
+                    <h5 class="h5-xs steelblue-color  orange-hover">Ibnu Affan</h5>
 
                     <!-- Text -->
-                    <p>Chief Executive Officer
+                    <p class=" orange-hover">Chief Executive Officer
                     </p>
                     </div>
                    </div>
