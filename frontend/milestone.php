@@ -81,7 +81,18 @@ body {
   margin-left: 14px;
 }
 
-
+.timeline ol li:not(:last-child)::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: calc(100% + 1px);
+  bottom: 0;
+  width: 12px;
+  height: 12px;
+  transform: translateY(-50%);
+  border-radius: 50%;
+  background: #F96845;
+}
 
 .timeline ol li div {
   position: absolute;
