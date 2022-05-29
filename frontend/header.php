@@ -146,7 +146,7 @@ h6
 			    		<!-- Address -->
 			     		<div class="headertopleft">			     			
 			        		
-						<div class="address clearfix"><span style="color: grey;"><img src="images/icon/jam.png"  width="40"  alt="header-logo"> SCHEDULE MONDAY - FRIDAY 08.00 - 17.00 WIB</span> 
+						<div class="address clearfix"><span style="color: grey;"><img src="images/icon/jam.png"  width="30"  alt="header-logo"> SCHEDULE MONDAY - FRIDAY 08.00 - 17.00 WIB</span> 
 			        </div>
 			     		</div>
 
