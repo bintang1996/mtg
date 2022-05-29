@@ -1,29 +1,65 @@
 <?php include "header.php";?>
 
-		<!-- BREADCRUMB
-			============================================= -->
-			<div id="breadcrumb" class="division">
-				<div class="container">
-					<div class="row">						
-						<div class="col">
-							<div class=" breadcrumb-holder">
+	<!-- HERO-2
+			============================================= -->	
+			<section id="hero-2" class="hero-section division">
 
-								<!-- Breadcrumb Nav -->
-								<nav aria-label="breadcrumb">
-								  	<ol class="breadcrumb">
-								    	<li class="breadcrumb-item"><a href="index.html">Home</a></li>
-								    	<li class="breadcrumb-item active" aria-current="page">Company Profile</li>
-								  	</ol>
-								</nav>
 
-								<!-- Title -->
-								<h4 class="h4-sm steelblue-color">Company Profile</h4>
+				<!-- SLIDER -->
+				<div class="slider blue-nav">
+			    	<ul class="slides">
 
-							</div>
-						</div>
-					</div>  <!-- End row -->	
-				</div>	<!-- End container -->		
-			</div>	<!-- END BREADCRUMB -->	
+
+				     	<!-- SLIDE #1 -->
+				      	
+
+    	
+                                <li id="slide-1">			
+								<img class="img-fluid" width="1200px" height="600px" src="images/slider/1650788411.jpeg" alt="hero-image">
+                                
+							<!-- Image Caption -->
+							<div class="caption d-flex align-items-center left-align" style="background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)); ">
+		       					<div class="container">
+		       						<div class="row" >
+		       							<div class="col-md-12 col-lg-10" >
+		       								<div class="caption-txt">
+
+		
+
+						       					<!-- Title -->
+						       					<h2 class="white-color">PROFIL PERUSAHAAN</h2>
+
+						       					<!-- Option Box #1 -->
+												<div class="box-list">							
+													<div class="box-list-icon white-color"></div>
+													<p class="p-md white-color" ><?php echo $d['deskripsi'] ?>
+													</p>						
+												</div>
+												<br>
+									          	<!-- Button -->
+												<!-- <a href="<?php echo $d['link_slider'] ?>" ><p class="p-md white-color"><i class="fas fa-angle-double-right"></i>  More Detail</p></a> -->
+												<br><br>
+
+											</div>
+										</div>
+									</div>  <!-- End row -->
+								</div>  <!-- End container -->
+					        </div>	<!-- End Image Caption -->
+
+							
+							
+							</li>
+                       
+						
+					    	<!-- END SLIDE #1 -->
+
+
+				    </ul>
+			  	</div>	<!-- END SLIDER -->
+
+
+			</section>	<!-- END HERO-2 -->
+
 
 
 			<!-- ABOUT-US-MEDITRANS
