@@ -627,7 +627,7 @@
 
 			<!-- TESTIMONIALS-2
 			============================================= -->
-			<section id="reviews-2" class="bg-lightgrey wide-100 reviews-section division" style="padding-top:50px; padding-bottom:50px;">
+			<section id="reviews-2" class="bg-lightgrey wide-100 reviews-section division" style="padding-top:20px; padding-bottom:20px;">
 				<div class="container">
 
 				<div class="row">	
@@ -644,7 +644,7 @@
 								<td style="align:right;">	
 											<table>
 											
-												<th colspan="5"><h2 style="color: #214068;font-weight:bolder;"><b>TEMUKAN KAMI DI KOTA ANDA!</b></h2></th><br>
+												<th colspan="5"><h2 style="color: #214068;font-weight:bolder;"><b>TEMUKAN KAMI DI KOTA ANDA!</b></h2></th><br><br>
 											
 											
 											<tr>
