@@ -27,7 +27,7 @@
 		
 
 						       					<!-- Title -->
-						       					<h2 class="white-color">PROFIL PERUSAHAAN</h2>
+						       					<h3 class="white-color">PROFIL PERUSAHAAN</h3>
 
 						       					<!-- Option Box #1 -->
 												<div class="box-list">							
