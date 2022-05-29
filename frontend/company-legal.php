@@ -65,7 +65,7 @@ display: none;
 			============================================= -->
 			<section id="info-4" class="wide-100 info-section division" style="background-color: #fff; padding-top: 40px;">
 				<div class="container">
-				<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>COMPANY LEGAL</b></b></h3>
+				<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700; text-align: center;"><b><b>COMPANY LEGAL</b></b></h3>
 <br>
 					<div class="row d-flex align-items-top">
 						<div class="col-lg-12">
