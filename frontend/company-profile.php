@@ -115,7 +115,8 @@
 										<p>Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
 										tempus feugiat dolor lacinia cubilia curae integer congue leo metus
 										</p>
-										</div>																										
+										</div>
+										<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>																										
 										</div>
 	
 </td><td>
@@ -133,6 +134,7 @@
 										tempus feugiat dolor lacinia cubilia curae integer congue leo metus
 										</p>
 										</div>
+										<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>
 																																							
 										</div>
 </td><td style="">
@@ -150,6 +152,7 @@
 										tempus feugiat dolor lacinia cubilia curae integer congue leo metus
 										</p>
 										</div>
+										<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>
 																																							
 										</div>
 
