@@ -57,7 +57,7 @@
 </td><td>
 
 										<!-- SERVICE BOX #1 -->
-										<div class="sbox-3 icon-sm orange-hover" style="padding-top: 0; padding-left: 0; padding-right: 0;">
+										<div class="sbox-3 icon-sm white-color orange-hover" style="padding-top: 0; padding-left: 0; padding-right: 0;">
 
                     <!-- Icon -->
 
