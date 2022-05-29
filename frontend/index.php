@@ -98,7 +98,7 @@
 								<!-- Text -->
 								<p class="mt-20" style="color: black;">Meditrans telah bermitra dengan berbagai rumah sakit dan perusaahan di Indonesia. 
 									Kami berkomitmen untuk selalu dapat bermitra dengan fasilitas layanan kesehatan maupun perusahaan non kesehatan.
-								</p><br>
+								</p>
 								
 								<!-- Button -->
 								<a href="partnership.php"><h6 style="color: #f96845;"><b>LAYANAN KAMI</b></h6></a>
@@ -116,7 +116,7 @@
 								<p class="mt-20" style="color: black;">Kami hanya memberikan produk dan jasa dengan kualitas terbaik untuk pelanggan setia kami. 
 								Meditrans juga memiliki sistem terbaik dalam hal pengembangan layanan kerjasama dengan Rumah Sakit.<br><br>
 
-								</p><br>
+								</p>
 							
 								<!-- Button -->
 								<a href="our-products.php"><h6 style="color: #f96845;"><b>PRODUK KAMI</b></h6></a>
