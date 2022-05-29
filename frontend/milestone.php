@@ -1,288 +1,280 @@
 <style>
-body {
-  margin: 0;
-}
+$primary: #fc5a7d
+$secondary: #7d6dfb
+$dark: #18294f
+$timeline-1: #fec541
+$timeline-2: #36d484
+$timeline-3: #32ccf4
+$timeline-4: #fd9252
+$bg-mild: #f5f7f6
+$bg-reg: #dfe3e6
+$bg-dark: #7f9298
+$text-black: #4A4A4A
 
-.body-wrap {
-  background-color: #fff;
-  width: 600px;
-  min-height: 500px;
-  margin: 0 auto;
-  font-size: 12px;
-}
+body
+  // background-color: $bg-mild
+  margin: 0
 
-.pres-timeline {
-  font-family: roboto, helvetica, sans-serif;
-  font-size: 12px;
-  color: #4A4A4A;
-  width: 100%;
-  margin: 30px 0;
-}
-.pres-timeline > div > div {
-  padding: 1em 0;
-  box-sizing: border-box;
-}
-.pres-timeline .periods-container, .pres-timeline .cards-container {
-  overflow: hidden;
-  box-sizing: border-box;
-  position: relative;
-  min-height: 100px;
-  transition: height 0.5s ease-in-out;
-  background-color: #FFF;
-}
-.periods-container:before {
-  background-image: linear-gradient(left, #FFF, rgba(248, 248, 248, 0));
-  left: 0;
-  content: "";
-  position: absolute;
-  z-index: 2;
-  top: 0;
-  height: 100%;
-  width: 100px;
-}
-.periods-container:after {
-  background-image: linear-gradient(right, #FFF, rgba(248, 248, 248, 0));
-  right: 0;
-  content: "";
-  position: absolute;
-  z-index: 2;
-  top: 0;
-  height: 100%;
-  width: 100px;
-}
-.periods-container .btn-back, .periods-container .btn-next {
-  display: inline-block;
-  width: 15%;
-  height: 100%;
-  position: absolute;
-  cursor: pointer;
-  z-index: 10;
-  transition: 0.3s ease-in-out;
-}
-.periods-container .btn-back:hover, .periods-container .btn-next:hover {
-  background-color: rgba(0, 0, 0, 0.05);
-}
-.periods-container .btn-back.hide, .periods-container .btn-next.hide {
-  display: none;
-}
-.periods-container .btn-back {
-  left: 0;
-}
-.periods-container .btn-next {
-  right: 0;
-}
-.periods-container section {
-  width: 70%;
-  height: 0;
-  position: absolute;
-  margin-left: 15%;
-  border-bottom: 5px solid #dfe3e6;
-  padding: 1.5em;
-  box-sizing: border-box;
-  transition: transform 0.3s ease-in-out, opacity 0.2s ease, height 0.3s ease;
-  bottom: 0;
-  opacity: 0;
-  background-color: #fff;
-}
-.periods-container section.active {
-  height: auto;
-  opacity: 1;
-  transform: translateX(0);
-  z-index: 5;
-}
-.periods-container section.active .title, .periods-container section.active p {
-  display: block;
-}
-.periods-container section.prev {
-  height: auto;
-  opacity: 0.4;
-  transform: translateX(-100%);
-  z-index: 0;
-}
-.periods-container section.prev .year {
-  text-align: right;
-}
-.periods-container section.next {
-  height: auto;
-  opacity: 0.4;
-  transform: translateX(100%);
-  z-index: 0;
-}
-.periods-container section .year {
-  font-size: 20px;
-  font-weight: 400;
-}
-.periods-container section .title {
-  color: #4A4A4A;
-  font-size: 28px;
-  font-weight: 400;
-  display: none;
-}
-.periods-container section p {
-  display: none;
-}
+.body-wrap
+  background-color: #fff
+  width: 600px
+  min-height: 500px
+  margin: 0 auto
+  font-size: 12px
+  
+.pres-timeline
+  font-family: roboto, helvetica, sans-serif
+  font-size: 12px
+  color: $text-black
+  width: 100%
+  margin: 30px 0
+  > div > div 
+    // this is  fixing the padding bug
+    padding: 1em 0
+    box-sizing: border-box
+  
+  .periods-container, .cards-container
+    overflow: hidden
+    box-sizing: border-box
+    position: relative
+    min-height: 100px
+    transition: height .5s ease-in-out
+    background-color: #FFF
+  .timeline-container
+    
+.periods-container
+  &:before
+    background-image: linear-gradient(left, #FFF, rgba(248, 248, 248, 0))
+    left: 0
+    content: ''
+    position: absolute
+    z-index: 2
+    top: 0
+    height: 100%
+    width: 100px
+  &:after
+    background-image: linear-gradient(right, #FFF, rgba(248, 248, 248, 0))
+    right: 0
+    content: ''
+    position: absolute
+    z-index: 2
+    top: 0
+    height: 100%
+    width: 100px
+  .btn-back, .btn-next
+    // background-color: 
+    // border: 2px solid $bg-reg
+    display: inline-block
+    width: 15%
+    height: 100%
+    position: absolute
+    cursor: pointer
+    z-index: 10
+    transition: 0.3s ease-in-out
+    &:hover
+      background-color: rgba(0,0,0,.05)
+    &.hide
+      display: none
+  .btn-back
+    left: 0
+  .btn-next
+    right: 0
+  section
+    width: 70%
+    height: 0
+    position: absolute
+    margin-left: 15%
+    // border: 1px solid $bg-mild
+    border-bottom: 5px solid $bg-reg
+    padding: 1.5em
+    box-sizing: border-box
+    transition: transform .3s ease-in-out, opacity .2s ease, height .3s ease
+    bottom: 0
+    opacity: 0
+    background-color: #fff
+    &.active
+      height: auto
+      opacity: 1
+      transform: translateX(0)
+      z-index: 5
+      .title, p
+        display: block
+    &.prev
+      height: auto
+      opacity: 0.4
+      transform: translateX(-100%)
+      z-index: 0
+      .year
+        text-align: right
+    &.next
+      height: auto
+      opacity: 0.4
+      transform: translateX(100%)
+      z-index: 0
+    .year
+      font-size: 20px
+      font-weight: 400
+    .title
+      color: $text-black
+      font-size: 28px
+      font-weight: 400
+      display: none
+    p
+      display: none
+// Timeline styles
+.timeline-container
+  position: relative
+  width: 100%
+  height: 50px
+  overflow: hidden
+  &:before
+    background-image: linear-gradient(left, #FFF, rgba(248, 248, 248, 0))
+    left: 0
+    content: ''
+    position: absolute
+    z-index: 2
+    top: 0
+    height: 100%
+    width: 100px
+  &:after
+    background-image: linear-gradient(right, #FFF, rgba(248, 248, 248, 0))
+    right: 0
+    content: ''
+    position: absolute
+    z-index: 2
+    top: 0
+    height: 100%
+    width: 100px
+  .timeline
+    position: absolute
+    display: block
+    height: 50px
+    transition: left .3s ease-in-out
+    ol
+      display: block
+      width: 100%
+      height: 2px
+      background-color: $bg-reg
+      list-style: none
+      padding-left: 210px
+      padding-right: 300px
+      li
+        display: inline-block
+        padding: 5px
+        margin-top: -11px
+        margin-left: 80px
+        border-radius: 50%
+        border: 3px solid $bg-dark
+        background-color: #FFF
+        position: relative
+        cursor: pointer
+        box-shadow: 0 2px 5px rgba(0,0,0,.2)
+        &.active
+          box-shadow: none
+        &.active:before
+          content: ""
+          display: block
+          height: 25px
+          width: 1px
+          position: absolute
+          top: -25px
+          transition: opacity .3s ease-in-out
+          // opacity: 0
+        &.active:after
+          content: ""
+          display: block
+          height: 25px
+          width: 1px
+          position: absolute
+          bottom: -25px
+          transition: opacity .3s ease-in-out
+          // opacity: 0
+  .btn-back, .btn-next
+    display: inline-block
+    position: absolute
+    cursor: pointer
+    margin-top: -2px
+    z-index: 11
+    transition: all .3s ease
+    &.hide
+      display: none
+      
+    &:hover
+      border-color: $bg-dark
+  .btn-back
+    left: 1em
+    // background: url('data:image/svg+xml;utf8,<svg width="14" height="22" viewBox="6 4 14 22" xmlns="http://www.w3.org/2000/svg"><path fill="#D8D8D8" fill-rule="evenodd" d="M11.828 15l7.89-7.89-2.83-2.828L6.283 14.89l.11.11-.11.11L16.89 25.72l2.828-2.83"/></svg>') no-repeat
+  .btn-next
+    right: 1em
+    // background: url('data:image/svg+xml;utf8,<svg width="14" height="23" viewBox="10 3 14 23" xmlns="http://www.w3.org/2000/svg"><path fill="#D8D8D8" fill-rule="evenodd" d="M18.172 14.718l-7.89-7.89L13.112 4l10.606 10.607-.11.11.11.11-10.608 10.61-2.828-2.83 7.89-7.89"/></svg>') no-repeat
+    
+// Cards
+.cards-container
+  // &:after
+  //   content: ""
+  //   display: block
+  //   width: 100%
+  //   height: 2em
+  //   background-image: linear-gradient(bottom, #FFF, rgba(248, 248, 248, 0))
+  //   position: absolute
+  //   bottom: 0
+  &:before
+    background-image: linear-gradient(left, #FFF, rgba(248, 248, 248, 0))
+    left: 0
+    content: ''
+    position: absolute
+    z-index: 2
+    top: 0
+    height: 100%
+    width: 100px
+  &:after
+    background-image: linear-gradient(right, #FFF, rgba(248, 248, 248, 0))
+    right: 0
+    content: ''
+    position: absolute
+    z-index: 2
+    top: 0
+    height: 100%
+    width: 100px
+  section
+    width: 70%
+    position: absolute
+    margin-left: 15%
+    margin-bottom: 2em
+    border: 1px solid $bg-mild
+    padding: 1.5em
+    box-sizing: border-box
+    transition: transform .3s ease-in-out
+    top: 0
+    opacity: 0
+    border-radius: 8px
+    background-color: #fff
+    box-shadow: 0 10px 15px rgba(0,0,0,.15)
+    &.active
+      height: auto
+      opacity: 1
+      transform: translateX(0)
+      z-index: 5
+    &.prev
+      height: auto
+      opacity: 0.4
+      transform: translateX(-105%)
+      z-index: 0
+    &.next
+      height: auto
+      opacity: 0.4
+      transform: translateX(105%)
+      z-index: 0
+    .year
+      text-align: center
+      font-size: 16px
+      margin: 0
+    .title
+      font-weight: 400
+    img
+      width: 100%
 
-.timeline-container {
-  position: relative;
-  width: 100%;
-  height: 50px;
-  overflow: hidden;
-}
-.timeline-container:before {
-  background-image: linear-gradient(left, #FFF, rgba(248, 248, 248, 0));
-  left: 0;
-  content: "";
-  position: absolute;
-  z-index: 2;
-  top: 0;
-  height: 100%;
-  width: 100px;
-}
-.timeline-container:after {
-  background-image: linear-gradient(right, #FFF, rgba(248, 248, 248, 0));
-  right: 0;
-  content: "";
-  position: absolute;
-  z-index: 2;
-  top: 0;
-  height: 100%;
-  width: 100px;
-}
-.timeline-container .timeline {
-  position: absolute;
-  display: block;
-  height: 50px;
-  transition: left 0.3s ease-in-out;
-}
-.timeline-container .timeline ol {
-  display: block;
-  width: 100%;
-  height: 2px;
-  background-color: #dfe3e6;
-  list-style: none;
-  padding-left: 210px;
-  padding-right: 300px;
-}
-.timeline-container .timeline ol li {
-  display: inline-block;
-  padding: 5px;
-  margin-top: -11px;
-  margin-left: 80px;
-  border-radius: 50%;
-  border: 3px solid #7f9298;
-  background-color: #FFF;
-  position: relative;
-  cursor: pointer;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-}
-.timeline-container .timeline ol li.active {
-  box-shadow: none;
-}
-.timeline-container .timeline ol li.active:before {
-  content: "";
-  display: block;
-  height: 25px;
-  width: 1px;
-  position: absolute;
-  top: -25px;
-  transition: opacity 0.3s ease-in-out;
-}
-.timeline-container .timeline ol li.active:after {
-  content: "";
-  display: block;
-  height: 25px;
-  width: 1px;
-  position: absolute;
-  bottom: -25px;
-  transition: opacity 0.3s ease-in-out;
-}
-.timeline-container .btn-back, .timeline-container .btn-next {
-  display: inline-block;
-  position: absolute;
-  cursor: pointer;
-  margin-top: -2px;
-  z-index: 11;
-  transition: all 0.3s ease;
-}
-.timeline-container .btn-back.hide, .timeline-container .btn-next.hide {
-  display: none;
-}
-.timeline-container .btn-back:hover, .timeline-container .btn-next:hover {
-  border-color: #7f9298;
-}
-.timeline-container .btn-back {
-  left: 1em;
-}
-.timeline-container .btn-next {
-  right: 1em;
-}
-
-.cards-container:before {
-  background-image: linear-gradient(left, #FFF, rgba(248, 248, 248, 0));
-  left: 0;
-  content: "";
-  position: absolute;
-  z-index: 2;
-  top: 0;
-  height: 100%;
-  width: 100px;
-}
-.cards-container:after {
-  background-image: linear-gradient(right, #FFF, rgba(248, 248, 248, 0));
-  right: 0;
-  content: "";
-  position: absolute;
-  z-index: 2;
-  top: 0;
-  height: 100%;
-  width: 100px;
-}
-.cards-container section {
-  width: 70%;
-  position: absolute;
-  margin-left: 15%;
-  margin-bottom: 2em;
-  border: 1px solid #f5f7f6;
-  padding: 1.5em;
-  box-sizing: border-box;
-  transition: transform 0.3s ease-in-out;
-  top: 0;
-  opacity: 0;
-  border-radius: 8px;
-  background-color: #fff;
-  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
-}
-.cards-container section.active {
-  height: auto;
-  opacity: 1;
-  transform: translateX(0);
-  z-index: 5;
-}
-.cards-container section.prev {
-  height: auto;
-  opacity: 0.4;
-  transform: translateX(-105%);
-  z-index: 0;
-}
-.cards-container section.next {
-  height: auto;
-  opacity: 0.4;
-  transform: translateX(105%);
-  z-index: 0;
-}
-.cards-container section .year {
-  text-align: center;
-  font-size: 16px;
-  margin: 0;
-}
-.cards-container section .title {
-  font-weight: 400;
-}
-.cards-container section img {
-  width: 100%;
-}
-  </style>
-
+      </style>
 
 
 
