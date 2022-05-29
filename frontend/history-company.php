@@ -67,8 +67,8 @@
                     <h5 class="h5-xs steelblue-color">Ibnu Affan</h5>
 
                     <!-- Text -->
-                    <p>Chief Executive Officer
-                    </p>
+                    Chief Executive Officer
+                    
                     </div>
                    </div>
 
