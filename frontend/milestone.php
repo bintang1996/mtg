@@ -187,11 +187,8 @@
 					<ul class="timeline timeline-horizontal">
 						<li class="timeline-item">
 							<div class="timeline-badge primary"><i class="glyphicon glyphicon-check"></i></div>
-							<div class="timeline-panel">
-           	<!-- Icon -->
-								
-											
-             <div class="sbox-3 icon-sm" style="padding-top: 0; padding-left: 0; padding-right: 0;">
+							
+              <div class="sbox-3 icon-sm" style="padding-top: 0; padding-left: 0; padding-right: 0;">
 
 <!-- Icon -->
 <img class="img-fluid" src="images/Ibnu_Affan-photo.png" alt="doctor-foto">	
@@ -206,6 +203,11 @@
 </div>
 <br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>																										
 </div>
+
+
+
+
+
 							</div>
 						</li>
 						<li class="timeline-item">
