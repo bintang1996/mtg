@@ -117,7 +117,7 @@ body {
 .timeline ol li div::before {
   content: '';
   position: absolute;
-  top: 100%;
+  top: 0%;
   left: 0;
   width: 0;
   height: 0;
