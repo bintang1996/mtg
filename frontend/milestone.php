@@ -114,33 +114,20 @@ body {
   background: #214068;
 }
 
-.timeline ol li div::before {
- display: none;
-}
+
 
 .timeline ol li:nth-child(odd) div {
  display: none;
 }
 
-.timeline ol li:nth-child(odd) div::before {
-  display: none;
-}
 
-.timeline ol li:nth-child(odd) div:hover:before{
-  display: none;
-}
 
 .timeline ol li:nth-child(even) div {
   top: calc(100% + 16px);
 }
 
-.timeline ol li:nth-child(even) div::before {
-  display: none;
-}
 
-.timeline ol li:nth-child(even) div:hover:before {
-  display: none;
-}
+
 
 .timeline time {
   display: block;
@@ -215,24 +202,17 @@ body {
     transform: none;
   }
   
-  .timeline ol li:nth-child(odd) div::before,
-  .timeline ol li:nth-child(even) div::before {
-    display: none;
-  }
   
-  .timeline ol li:last-child,
-  .timeline ol li:nth-last-child(2) div::before,
 
-  .timeline .arrows {
-    display: none;
-  }
 }
 </style>
 
 
 <section class="timeline">
   <ol>
- 
+    <li>
+  
+    </li>
     <li>
       <div>
       <img class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
