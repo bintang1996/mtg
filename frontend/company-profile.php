@@ -6,7 +6,7 @@
 
 
 				<!-- SLIDER -->
-				<div class="slider blue-nav">
+				<div class="slider blue-nav" style="height: 500px;">
 			    	<ul class="slides">
 
 
