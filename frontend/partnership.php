@@ -100,7 +100,7 @@ display: none;
 
 			<section id="info-4" class="wide-100 info-section division" style="background-color:#ececec; padding-bottom: 60px;">
 				<div class="container" style="background-color:#ececec;">
-				<h3 class="h3-md steelblue-color">Model Bisnis</h3>
+				<h3 class="h3-md steelblue-color text-center">MODEL BISNIS</h3>
 					<!-- BOTTOM ROW -->
 					<div class="bottom-row" >
 						<!-- Title -->
