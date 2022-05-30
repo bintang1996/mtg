@@ -95,8 +95,7 @@ display: none;
 					</div>
 
 							<!-- Text -->
-							<p>Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis libero at tempus, 
-							   blandit posuere ligula varius congue cursus porta feugiat
+							<p>
 							</p>
 										
 						</div> 
@@ -138,12 +137,12 @@ display: none;
                                         <!-- Judul News -->
 										<div class="review-author">
 											<br>
-											<p style="margin-bottom:1px; font-size:1em;"><?php echo $d['cat_name']; ?></p>
+											<p style="margin-bottom:1px; font-size:1em; color:#007aff;"><?php echo $d['cat_name']; ?></p>
 											<h4 class="h4-md"><?php echo $d1['p_name']; ?></h4>
 										</div>	
 
 										<!-- Testimonial Text -->
-										<p style="font-size: 0.5em;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>... <a style="font-size: 1em; color:blue;" href="article-details.php?id=<?php echo $d1['id']; ?>">Read more.</a></p>
+										<p style="font-size: 0.5em;color:#4d4d4d;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>... <a style="font-size: 1em; color:#e86845;" href="article-details.php?id=<?php echo $d1['id']; ?>">Read more.</a></p>
 														
 																
 									</div>						
