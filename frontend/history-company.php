@@ -10,7 +10,7 @@
 										<h5>AKTE</h5>
 
 										<!-- Text -->
-										NO. 35,<BR>23 November 2012
+										NO. 35,<BR>23 November 2012<br><br><br><br><br>
 										
 										</div>
 								</div>
@@ -29,7 +29,7 @@
                     <h5>TDP</h5>
 
                     <!-- Text -->
-                    13.01.1.51.26643
+                    13.01.1.51.26643<br><br><br><br><br><br>
                    
                     </div>
                   </div>
@@ -48,7 +48,7 @@
 										<h5>SIUP</h5>
 
 										<!-- Text -->
-									503/482.A/436.6.11/2013
+									503/482.A/436.6.11/2013<br><br><br><br><br><br>
 										
 										</div>
 										</div>
@@ -67,7 +67,7 @@
                     <h5>SIJUK</h5>
 
                     <!-- Text -->
-                   188.4/12/436.7.5/2019<br>- Bangunan Kesehatan/Rumah Sakit Pengolahan Limbah
+                   188.4/12/436.7.5/2019<br>- Bangunan Kesehatan/Rumah Sakit Pengolahan Limbah<br><br>
                     
                     </div>
                    </div>
