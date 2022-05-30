@@ -121,7 +121,7 @@
 
 									<!-- Image -->
 									<div class="tab-img">
-										<img class="img-fluid" src="images/portofolio/ct.webp" alt="tab-image" width="60%"/>
+										<img style="border-radius: 20px;" class="img-fluid" src="images/head/cathlab.jpg" alt="tab-image" width="60%"/>
 										</div>
 										<br>
 
@@ -177,7 +177,7 @@
 
 									<!-- Image -->
 									<div class="tab-img">
-										<img class="img-fluid" src="images/portofolio/ct.webp" alt="tab-image" width="60%"/>
+										<img style="border-radius: 20px;" class="img-fluid" src="images/portofolio/ct.webp" alt="tab-image" width="60%"/>
 										</div>
 										<br>
 
@@ -232,7 +232,7 @@
 
 									<!-- Image -->
 									<div class="tab-img">
-										<img class="img-fluid" src="images/Laboratorium.jpg" alt="tab-image" width="60%"/>
+										<img  style="border-radius: 20px;" class="img-fluid" src="images/Laboratorium.jpg" alt="tab-image" width="60%"/>
 										</div>
 										<br>
 
@@ -268,7 +268,7 @@
 
 									<!-- Image -->
 									<div class="tab-img">
-										<img class="img-fluid" src="images/portofolio/kons.webp" alt="tab-image" width="60%"/>
+										<img style="border-radius: 20px;" class="img-fluid" src="images/portofolio/kons.webp" alt="tab-image" width="60%"/>
 										</div>
 										<br>
 
