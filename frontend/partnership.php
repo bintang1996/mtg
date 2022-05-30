@@ -60,7 +60,7 @@ display: none;
 
 <!-- INFO-4
 			============================================= -->
-			<section id="info-4" class="wide-100 info-section division" style="background-color:#FFFFFF;">
+			<section id="info-4" class="wide-100 info-section division" style="background-color:#FFFFFF; padding-bottom: 60px;">
 				<div class="container" style="background-color:#FFFFFF;">
 
 
