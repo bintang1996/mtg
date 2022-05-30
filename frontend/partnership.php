@@ -68,7 +68,7 @@
 						<!-- INFO IMAGE -->
 						<div class="col-lg-6">
 							<div class="info-4-img text-center wow fadeInUp" data-wow-delay="0.6s">
-								<img class="img-fluid" src="images/chief_doctor_700x800.jpg" alt="info-image">
+								<img style="border-radius: 10%;" width="100%" class="img-fluid" src="images/chief_doctor_700x800.jpg" alt="info-image">
 							</div>
 						</div>
 
