@@ -1159,7 +1159,7 @@ display: none;
 									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 46); ?>
-									... </p><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More<a>
+									... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More<a>
 
 								</div>	
 
