@@ -36,7 +36,7 @@
 
 
 				 		<!-- TABS NAVIGATION -->
-				 		<div class="col-lg-4">
+				 		<div class="col-lg-4" style="border-radius: 25px;">
                          <div id="tabs-nav" class="list-group text-center clearfix" style="border-radius: 25px;">
                                 <div id="accordion" style="border-radius: 25px;">
                                 <div class="card" style="border-radius: 25px;">
