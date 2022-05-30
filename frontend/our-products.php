@@ -1164,9 +1164,10 @@ display: none;
 								</div>	
 
 							</div>			
-						<?php }} ?>							
+											
 						</div>	<!-- END DOCTOR #1 -->
-				
+							</div>
+						<?php }} ?>	
 
 									
 								</div>	<!-- END TAB-4 CONTENT -->
