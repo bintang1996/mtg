@@ -114,7 +114,7 @@ display: none;
 
 							<table>
 								<tr>
-									<td><img class="img-fluid" width="50px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
+									<td><img class="img-fluid" width="100px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
 									<td>Kolaborasi BPJS, Funneling, PPP Model, Subdistribution</td>
 								</tr>
 								<tr>
