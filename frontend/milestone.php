@@ -192,12 +192,12 @@
               	<!-- Icon -->
 								<br>	<br>
 											
-								<div class="timeline-heading">
+								<div class="timeline-heading" style="padding: 20px;">
                
 									<h4 class="timeline-title">Mussum ipsum cacilds 1</h4>
 									<p><small class="text-muted"><i class="fa fa-check"></i> 11 hours ago via Twitter</small></p>
 								</div>
-								<div class="timeline-body">
+								<div class="timeline-body" style="padding: 20px;">
 									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis faiz elementum girarzis, nisi eros gostis.</p>
 								</div>
 							</div>
