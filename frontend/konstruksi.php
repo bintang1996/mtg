@@ -65,30 +65,7 @@ display: none;
             <!-- SERVICE DETAILS
 			============================================= -->
 			<div id="service-page" class="wide-100 info-section division" style="background-color:#FFFFFF;">
-				<div class="container" style="background-color:#FFFFFF;">
-
-
-					<!-- TEXT -->
-					<div class="row">
-				 		<div class="col-lg-12">
-				 			<div class="col-lg-12 text-left">
-
-				 				<!-- Title -->
-								<h3 class="h3-xl blue-color">Layanan Konstruksi</h3>
-								
-								<!-- Text -->
-								<p class="p-lg">Layanan konstruksi dan renovasi Meditrans di handle oleh 
-									tim yang berpengalaman dan berkompeten di bidangnya. Antara lain penyediaan 
-									pintu anti radiasi, sandwich panel, pemasangan vinyl, MOT, Kaca Pb, timbalisasi, dan 
-									raised floor. Hingga saat ini, Meditrans melayani jasa konstruksi dan renovasi di 
-									puluhan Rumah Sakit baik RS Pemerintah maupun RS Swasta.
-
-								</p>
-
-				 			</div>
-				 		</div>
-				 	</div>  <!-- End row -->
-                </div>	<!-- End container -->	
+	
 
                 <!-- INFO-4
 			============================================= -->
@@ -113,36 +90,16 @@ display: none;
 						<div class="col-lg-6">
 							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 
-															<!-- Title -->
-								<h3 class="h3-md steelblue-color">Konstruksi</h3>
-
+	<!-- Title -->
+	<h3 class="h3-xl blue-color">Layanan Konstruksi</h3>
+								
 								<!-- Text -->
-								<p><table>
-								<tr>
-								<td valign="top">&#8226; </td> <td> </td>
-								</tr>
-								<tr>
-								<td valign="top">&#8226; </td> <td> </td>
-								</tr>
-								<tr>
-								<td valign="top">&#8226; </td> <td> </td>
-								</tr>
-								<tr>
-								<td valign="top">&#8226; </td> <td> </td>
-								</tr>
-								<tr>
-								<td valign="top">&#8226; </td> <td> </td>
-								</tr>
-								<tr>
-								<td valign="top">&#8226; </td> <td> </td>
-								</tr>
-								<tr>
-								<td valign="top">&#8226; </td> <td> </td>
-								</tr>
-								<tr>
-								<td valign="top">&#8226; </td> <td> </td>
-								</tr>
-</table>
+								<p class="p-lg">Layanan konstruksi dan renovasi Meditrans di handle oleh 
+									tim yang berpengalaman dan berkompeten di bidangnya. Antara lain penyediaan 
+									pintu anti radiasi, sandwich panel, pemasangan vinyl, MOT, Kaca Pb, timbalisasi, dan 
+									raised floor. Hingga saat ini, Meditrans melayani jasa konstruksi dan renovasi di 
+									puluhan Rumah Sakit baik RS Pemerintah maupun RS Swasta.
+
 								</p>
 
 							</div>
