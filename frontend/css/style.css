@@ -537,7 +537,7 @@ ul.content-list li:last-child {
 }
 
 .orange-hover:hover,
-.white-color .orange-hover:hover + h5:hover + p:hover {
+.white-color .orange-hover:hover h5 + p {
   color: #fff!important;
   background-color: #f96845;
   border-color: #f96845;
