@@ -87,8 +87,12 @@ display: none;
 					<div class="row">	
 						<div class="col-lg-10 offset-lg-1 section-title">		
 
+						<div class="row">	
+						<div class="" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
-							<h3 class="h3-md steelblue-color">Latest Post</h3>	
+							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>LATEST POST</b></b></h3>								
+						</div> 
+					</div>
 
 							<!-- Text -->
 							<p>Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis libero at tempus, 
@@ -126,7 +130,7 @@ display: none;
 							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 							while($d2=mysqli_fetch_array($sql2)){
 							?> 
-										<div class="gambar" style="background-image: url('assets/imgs/shop/<?php echo $d2['img_name']; ?>');"></div>
+										<div class="gambar" style="border-radius:20px ;background-image: url('assets/imgs/shop/<?php echo $d2['img_name']; ?>');"></div>
 		<?php } ?>
 
 										</div>
