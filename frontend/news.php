@@ -138,7 +138,7 @@ display: none;
 										<div class="review-author">
 											<br>
 											<p style="margin-bottom:1px; font-size:1em; color:#007aff;"><?php echo $d['cat_name']; ?></p>
-											<h4 style="padding-left:15px;"class="h4-md"><?php echo $d1['p_name']; ?></h4>
+											<h4 style="padding-left:10px;"class="h4-md"><?php echo $d1['p_name']; ?></h4>
 										</div>	
 
 										<!-- Testimonial Text -->
