@@ -1127,7 +1127,7 @@ display: none;
 							?> 
 
 						<!-- DOCTOR #1 -->
-						<div class="col-md-6 col-lg-5">
+						<div class="col-lg-5">
 							<div class="doctor-1" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
 														
 								<!-- Doctor Photo -->
