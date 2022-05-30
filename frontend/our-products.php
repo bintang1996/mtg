@@ -40,9 +40,9 @@
                          <div id="tabs-nav" class="list-group text-center clearfix">
                                 <div id="accordion">
                                 <div class="card">
-                                <div class="card-header">
+                                <div class="card-header" style="background-color: #e86845; color: #fff; border-top-left-radius:20px; border-top-right-radius:20px;">
                                     <a class="card-link" data-toggle="collapse" href="#collapseOne">
-                                    <b>CARDIOVASCULAR</b>
+                                    <b style="color: #fff;">CARDIOVASCULAR</b>
                                     </a>
                                 </div>
                                 <div id="collapseOne" class="collapse show" data-parent="#accordion">
@@ -75,9 +75,9 @@
                                 </div>
                                 </div>
                                 <div class="card">
-                                <div class="card-header">
+                                <div class="card-header" style="background-color: #e86845; color: #fff;">
                                     <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo">
-                                    <b>RADIOLOGI</b>
+                                    <b style="color: #fff;">RADIOLOGI</b>
                                 </a>
                                 </div>
                                 <div id="collapseTwo" class="collapse" data-parent="#accordion">
@@ -124,9 +124,9 @@
                                 </div>
                                 </div>
                                 <div class="card">
-                                <div class="card-header">
+                                <div class="card-header" style="background-color: #e86845;">
                                     <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree">
-                                    <b>HEALTHCARE IT</b>
+                                    <b style="color: #fff;">HEALTHCARE IT</b>
                                     </a>
                                 </div>
                                 <div id="collapseThree" class="collapse" data-parent="#accordion">
@@ -151,9 +151,9 @@
                                 </div>
                                 </div>
                                 <div class="card">
-                                <div class="card-header">
+                                <div class="card-header" style="background-color: #e86845;">
                                     <a class="collapsed card-link" data-toggle="collapse" href="#collapseFour">
-                                    <b>LABORATORIUM</b>
+                                    <b style="color: #fff;">LABORATORIUM</b>
                                 </a>
                                 </div>
                                 <div id="collapseFour" class="collapse" data-parent="#accordion">
@@ -178,9 +178,9 @@
                                 </div>
                                 </div>
                                 <div class="card">
-                                <div class="card-header">
+                                <div class="card-header" style="background-color: #e86845; color: #fff; border-bottom-left-radius:20px; border-bottom-right-radius:20px;">
                                     <a class="collapsed card-link" data-toggle="collapse" href="#collapseFive">
-                                    <b>KONSTRUKSI</b>
+                                    <b style="color: #fff;">KONSTRUKSI</b>
                                 </a>
                                 </div>
                                 <div id="collapseFive" class="collapse" data-parent="#accordion">
