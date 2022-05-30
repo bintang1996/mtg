@@ -188,7 +188,7 @@ display: none;
 								</tr>
 								<tr>
 									<td><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
-									<td>Menyediakan Pintu Timbal atau Anti radiasi dengan berbagai macam tipe dan bahan (Finishing HPL, Stainles Steel baik manual maupun otomatis atau Pintu Harmetic)</td>
+									<td>Menyediakan Pintu Timbal atau Anti radiasi (Finishing HPL, Stainles Steel baik manual maupun otomatis atau Pintu Harmetic)</td>
 								</tr>
 								<tr>
 									<td><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
