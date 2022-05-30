@@ -173,7 +173,7 @@ display: none;
 
 <!-- ABOUT-5
 			============================================= -->
-			<section id="about-5" class="pt-100 about-section division" style="background-color:#FFFFFF; padding-top:70px; padding-buttom:70px;">
+			<section id="about-5" class="pt-100 about-section division" style="background-color:#FFFFFF; padding-top:70px; padding-bottom:70px;">
 				<div class="container" style="background-color:#FFFFFF;">
 
 				
