@@ -183,7 +183,7 @@
     		<div class="row">
 				<div class="col-md-12">
 			
-					<div style="display:inline-block;width:100%;overflow-y:auto;">
+					<div style="display:inline-block;width:100%;overflow-y:auto; overflow: hidden;">
 					<ul class="timeline timeline-horizontal">
 						<li class="timeline-item">
 							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
