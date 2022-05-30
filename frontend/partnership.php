@@ -97,7 +97,7 @@ display: none;
 
 
 					<!-- BOTTOM ROW -->
-					<div class="bottom-row" >
+					<div class="bottom-row" style="background-color:#ececec;" >
 						<div class="row d-flex align-items-center" style="background-color:#ececec;">
 
 
@@ -313,7 +313,7 @@ display: none;
 
         <!-- TABS-1
 			============================================= -->
-			<section id="tabs-1" class="wide-100 tabs-section division" style="background-color:#ececec;"
+			<section id="tabs-1" class="wide-100 tabs-section division" style="background-color:#ececec;">
             
 >
 				<div class="container" style="background-color:#ececec;">	
