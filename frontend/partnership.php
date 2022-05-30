@@ -318,7 +318,7 @@ display: none;
 
         <!-- TABS-1
 			============================================= -->
-			<section id="tabs-1" class="wide-100 tabs-section division" style="background-color:#ececec;">
+			<section id="tabs-1" class="wide-100 tabs-section division" style="background-color:#ececec; padding-bottom: 50px;">
             
 >
 				<div class="container" style="background-color:#ececec;">	
