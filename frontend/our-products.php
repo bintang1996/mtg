@@ -1127,8 +1127,8 @@ display: none;
 							?> 
 
 						<!-- DOCTOR #1 -->
-					
-							<div class="doctor-1" style="width: 300px; border: 1px solid #4d4d4d; border-radius: 16px;">								
+						<div class="col">
+							<div class="doctor-1" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
 														
 								<!-- Doctor Photo -->
 								<div class="hover-overlay text-center"> 
@@ -1163,7 +1163,7 @@ display: none;
 
 								</div>	
 
-														
+							</div>								
 						</div>	<!-- END DOCTOR #1 -->
 						
 						<?php }} ?>
