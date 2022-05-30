@@ -64,7 +64,7 @@
                       
                     <!-- Title -->
                     <div class="text-left">
-                    <b>SIJUK</b>
+                    <b>SIJUK</b><br>
 
                     <!-- Text -->
                    188.4/12/436.7.5/2019<br>- Bangunan Kesehatan/Rumah Sakit Pengolahan Limbah
@@ -83,7 +83,7 @@
 											
 										<!-- Title -->
 										<div class="text-left">
-										<b>IPAK</b>
+										<b>IPAK</b><br>
 
 										<!-- Text -->
 								Elektromedik Radiasi, Elektromedik Non Radiasi, Non Elektronik, Non Steril, Non Elektromedik Steril & Diagnostik In Vitro
