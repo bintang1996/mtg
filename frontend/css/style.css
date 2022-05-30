@@ -2832,8 +2832,8 @@ td.text-right {
 
 .nav-pills .nav-link.active,
 .nav-pills .nav-link.active:hover {
-  background-color: #214068;
-  border-color: #214068;
+  background-color: #e86845;
+  border-color: #e86845;
   color: #fff;
 }
 
@@ -2842,13 +2842,13 @@ td.text-right {
   background-color: #f8f8f8;
   color: #333;
   border: none;
-  border-right: 2px solid #214068;
+  border-right: 2px solid #e86845;
 }
 
 .nav-pills .nav-link:hover {
   background-color: #f5f5f5;
   border: 1px solid #f5f5f5;
-  color: #999;
+  color: #e86845;
 }
 
 #tabs-2 .tab-content h3 {
