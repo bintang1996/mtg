@@ -52,21 +52,21 @@
 							    	<!-- TAB-1 LINK -->
 								  	<li class="nav-item icon-xs">
 								    	<a style="font-weight: bolder;" class="nav-link active" id="tab11-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
-								    		Cathlab
+								    		<b>Cathlab</b>
 								    	</a>
 								  	</li>
 
 								  	<!-- TAB-2 LINK -->
 									<li class="nav-item icon-xs">
 									    <a style="font-weight: bolder;" class="nav-link" id="tab12-list" data-toggle="pill" href="#tab-12" role="tab" aria-controls="tab-12" aria-selected="false">
-									       CT
+									      <b> CT</b>
 									    </a>
 									</li>
 
 									<!-- TAB-3 LINK -->
 									<li class="nav-item icon-xs">
 									    <a style="font-weight: bolder;" class="nav-link" id="tab13-list" data-toggle="pill" href="#tab-13" role="tab" aria-controls="tab-13" aria-selected="false">
-									       PCR
+									       <b>PCR</b>
 									    </a>
 									</li>
 
