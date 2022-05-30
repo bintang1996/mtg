@@ -117,7 +117,12 @@
 								<div class="tab-pane fade show active" id="tab-11" role="tabpanel" aria-labelledby="tab11-list">									
 									<!-- Title -->
 
-									<h3 class="h3-md steelblue-color">Cathlab</h3>
+									<div class="row">	
+						<div class="" style="margin-bottom:30px;">		
+							<!-- Title 	-->	
+							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>Cathlab</b></b></h3>								
+						</div> 
+					</div>
 
 									<!-- Image -->
 									<div class="tab-img">
@@ -173,7 +178,12 @@
 
 									<!-- Title -->
 									
-									<h3 class="h3-md steelblue-color">CT Scan</h3>
+									<div class="row">	
+						<div class="" style="margin-bottom:30px;">		
+							<!-- Title 	-->	
+							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>CT Scan</b></b></h3>								
+						</div> 
+					</div>
 
 									<!-- Image -->
 									<div class="tab-img">
@@ -228,7 +238,12 @@
 
 									<!-- Title -->
 									
-									<h3 class="h3-md steelblue-color">PCR</h3>
+									<div class="row">	
+						<div class="" style="margin-bottom:30px;">		
+							<!-- Title 	-->	
+							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>PCR</b></b></h3>								
+						</div> 
+					</div>
 
 									<!-- Image -->
 									<div class="tab-img">
@@ -264,7 +279,12 @@
 								<div class="tab-pane fade" id="tab-14" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">Konstruksi</h3>
+									<div class="row">	
+						<div class="" style="margin-bottom:30px;">		
+							<!-- Title 	-->	
+							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>Konstruksi</b></b></h3>								
+						</div> 
+					</div>
 
 									<!-- Image -->
 									<div class="tab-img">
@@ -468,7 +488,12 @@
 								<div class="tab-pane fade" id="tab-15" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
-									<h3 class="h3-md steelblue-color">Lain-Lain</h3>
+									<div class="row">	
+						<div class="" style="margin-bottom:30px;">		
+							<!-- Title 	-->	
+							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>Lain-lain</b></b></h3>								
+						</div> 
+					</div>
 
 									<!-- Text -->
 									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
