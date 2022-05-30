@@ -51,21 +51,21 @@
 
 							    	<!-- TAB-1 LINK -->
 								  	<li class="nav-item icon-xs">
-								    	<a class="nav-link active" id="tab11-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
+								    	<a style="font-weight: bolder;" class="nav-link active" id="tab11-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
 								    		Cathlab
 								    	</a>
 								  	</li>
 
 								  	<!-- TAB-2 LINK -->
 									<li class="nav-item icon-xs">
-									    <a class="nav-link" id="tab12-list" data-toggle="pill" href="#tab-12" role="tab" aria-controls="tab-12" aria-selected="false">
+									    <a style="font-weight: bolder;" class="nav-link" id="tab12-list" data-toggle="pill" href="#tab-12" role="tab" aria-controls="tab-12" aria-selected="false">
 									       CT
 									    </a>
 									</li>
 
 									<!-- TAB-3 LINK -->
 									<li class="nav-item icon-xs">
-									    <a class="nav-link" id="tab13-list" data-toggle="pill" href="#tab-13" role="tab" aria-controls="tab-13" aria-selected="false">
+									    <a style="font-weight: bolder;" class="nav-link" id="tab13-list" data-toggle="pill" href="#tab-13" role="tab" aria-controls="tab-13" aria-selected="false">
 									       PCR
 									    </a>
 									</li>
@@ -85,12 +85,12 @@
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab14-list" data-toggle="pill" href="#tab-14" role="tab" aria-controls="tab-14" aria-selected="false">
+                                            <a style="font-weight: bolder;" class="nav-link" id="tab14-list" data-toggle="pill" href="#tab-14" role="tab" aria-controls="tab-14" aria-selected="false">
                                                 Konstruksi
                                             </a>
 										</li>
 										<li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab14-list" data-toggle="pill" href="#tab-14" role="tab" aria-controls="tab-14" aria-selected="false">
+                                            <a style="font-weight: bolder;" class="nav-link" id="tab14-list" data-toggle="pill" href="#tab-14" role="tab" aria-controls="tab-14" aria-selected="false">
                                                 Lain-lain
                                             </a>
 										</li>
