@@ -64,12 +64,12 @@ display: none;
 
             <!-- SERVICE DETAILS
 			============================================= -->
-			<div id="service-page" class="wide-100 info-section division" style="background-color:#FFFFFF;">
+			<div id="service-page" class="wide-100 info-section division" style="background-color:#FFFFFF; padding-top: 0px;">
 	
 
                 <!-- INFO-4
 			============================================= -->
-			<section id="info-4" class="wide-100 info-section division" style="background-color:#FFFFFF; padding-bottom: 0px; border-bottom:1px solid grey;">
+			<section id="info-4" class="wide-100 info-section division" style="background-color:#FFFFFF; padding-bottom: 0px;">
 				<div class="container" style="background-color:#FFFFFF;">
 
 
@@ -90,8 +90,12 @@ display: none;
 						<div class="col-lg-6">
 							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 
-	<!-- Title -->
-	<h3 class="h3-xl blue-color">Layanan Konstruksi</h3>
+							<div class="row">	
+						<div class="col-lg-10 offset-lg-1 section-title" style="margin-bottom:30px;">		
+							<!-- Title 	-->	
+							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>LAYANAN KONSTRUKSI</b></b></h3>								
+						</div> 
+					</div>
 								
 								<!-- Text -->
 								<p class="p-lg">Layanan konstruksi dan renovasi Meditrans di handle oleh 
@@ -120,7 +124,7 @@ display: none;
 				<div class="row">	
 						<div class="col-lg-10 offset-lg-1 section-title" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>MODEL BISNIS</b></b></h3>								
+							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>LAYANAN KONSTRUKSI YANG TERSEDIA</b></b></h3>								
 						</div> 
 					</div>
 					<!-- BOTTOM ROW -->
@@ -203,8 +207,12 @@ display: none;
 						<div class="col-lg-6">
 							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 
-															<!-- Title -->
-								<h3 class="h3-md steelblue-color">Renovasi Ruang Operasi (MOT)</h3>
+							<div class="row">	
+						<div class="col-lg-10 offset-lg-1 section-title" style="margin-bottom:30px;">		
+							<!-- Title 	-->	
+							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>RENOVASI RUANG<BR>OPERASI (MOT)</b></b></h3>								
+						</div> 
+					</div>
 
 								<!-- Text -->
 								<p><table>
