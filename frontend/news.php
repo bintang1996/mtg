@@ -90,7 +90,7 @@ display: none;
 						<div class="row">	
 						<div class="" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>LATEST POST</b></b></h3>								
+							<h3 class="h4-md steelblue-color text-center" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>LATEST POST</b></b></h3>								
 						</div> 
 					</div>
 
