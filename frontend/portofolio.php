@@ -118,7 +118,7 @@
 									<!-- Title -->
 
 									<div class="row">	
-						<div class="" style="margin-bottom:30px;">		
+						<div class="" style="margin-bottom:0px;">		
 							<!-- Title 	-->	
 							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>Cathlab</b></b></h3>								
 						</div> 
@@ -179,7 +179,7 @@
 									<!-- Title -->
 									
 									<div class="row">	
-						<div class="" style="margin-bottom:30px;">		
+						<div class="" style="margin-bottom:0px;">		
 							<!-- Title 	-->	
 							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>CT Scan</b></b></h3>								
 						</div> 
@@ -239,7 +239,7 @@
 									<!-- Title -->
 									
 									<div class="row">	
-						<div class="" style="margin-bottom:30px;">		
+						<div class="" style="margin-bottom:0px;">		
 							<!-- Title 	-->	
 							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>PCR</b></b></h3>								
 						</div> 
@@ -280,7 +280,7 @@
 
 									<!-- Title -->
 									<div class="row">	
-						<div class="" style="margin-bottom:30px;">		
+						<div class="" style="margin-bottom:0px;">		
 							<!-- Title 	-->	
 							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>Konstruksi</b></b></h3>								
 						</div> 
@@ -489,7 +489,7 @@
 
 									<!-- Title -->
 									<div class="row">	
-						<div class="" style="margin-bottom:30px;">		
+						<div class="" style="margin-bottom:0px;">		
 							<!-- Title 	-->	
 							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>Lain-lain</b></b></h3>								
 						</div> 
