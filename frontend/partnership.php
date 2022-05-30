@@ -98,7 +98,7 @@ display: none;
 
 					<!-- BOTTOM ROW -->
 					<div class="bottom-row" >
-						<div class="row d-flex align-items-center">
+						<div class="row d-flex align-items-center" style="background-color:#ececec;">
 
 
 							<!-- INFO TEXT -->	
@@ -168,8 +168,8 @@ display: none;
 
 <!-- ABOUT-5
 			============================================= -->
-			<section id="about-5" class="pt-100 about-section division" style="background-color:#ececec; padding-top:50px;">
-				<div class="container" style="background-color:#ececec;">
+			<section id="about-5" class="pt-100 about-section division" style="background-color:#FFFFFF;" padding-top:50px;">
+				<div class="container" style="background-color:#FFFFFF;">
 
 				
 					<!-- Title 	-->	
@@ -313,10 +313,10 @@ display: none;
 
         <!-- TABS-1
 			============================================= -->
-			<section id="tabs-1" class="wide-100 tabs-section division" style="background-color:#FFFFFF;"
+			<section id="tabs-1" class="wide-100 tabs-section division" style="background-color:#ececec;"
             
 >
-				<div class="container" style="background-color:#FFFFFF;">	
+				<div class="container" style="background-color:#ececec;">	
                     <!-- Title 	-->	
 					<h3 style="padding-bottom:50px;" class="h3-md col-lg-10 offset-lg-1 section-title steelblue-color">Layanan Kerjasama</h3>	
 				 	<div class="row">
