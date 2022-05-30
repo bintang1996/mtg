@@ -43,7 +43,7 @@
             </div>
         </div>
 
-        <div class="wide-100" style="background-color:#f8f9fb;">
+        <div class="wide-100" style="background-color:#f8f9fb; margin-bottom: 20px;">
             <div class="container" style="background-color:#f8f9fb;">
 			<!-- SECTION TITLE -->	
 			<div class="row">	
