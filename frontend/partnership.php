@@ -173,145 +173,17 @@ display: none;
 
 <!-- ABOUT-5
 			============================================= -->
-			<section id="about-5" class="pt-100 about-section division" style="background-color:#FFFFFF;" padding-top:50px;">
+			<section id="about-5" class="pt-100 about-section division" style="background-color:#FFFFFF; padding-top:50px;">
 				<div class="container" style="background-color:#FFFFFF;">
 
 				
 					<!-- Title 	-->	
-					<h3 style="margin-bottom:0;color:#214068;" class="h3-md col-lg-10 offset-lg-1 section-title">Mengapa Public Private Partnership (PPP)</h3>						
+					<h3 style="margin-bottom:0;color:#214068;" class="h3-md col-lg-10 offset-lg-1 text-left">Mengapa Public<br>Private Partnership (PPP)</h3>						
 					<br>
 					<p>PPP merupakan salah satu solusi bagi Rumah Sakit untuk mengembangkan layanannya. PPP juga menjadi solusi untuk meningkatkan okupansi RS dan layanan lain, program pengembangan, rencana pemasaran, optimalisasi BHP, jaminan utilisasi alat, dukungan terhadap alat, akses teknologi baru, serta meningkatkan citra dan reputasi RS.</p>
 					<div class="row d-flex align-items-center text-center">
 
-
-					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#fff; border:none;margin-bottom:0px;padding-bottom:0px;">
-					<!-- Icon -->
-					<div class="sbox-3-icon">
-						<span class="flaticon-060-cardiogram-4"></span>
-					</div>
-					<!-- Title -->
-					<br>
-					<h5 class="h5-xs" style="margin-top:0;color:#214068;padding-top:20px;">Lorem Ipsum</h5>																																		
-					</div>
-					</div>
-
-					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#fff; border:none;margin-bottom:0px;padding-bottom:0px;">
-					<!-- Icon -->
-					<div class="sbox-3-icon">
-						<span class="flaticon-031-scanner"></span>
-					</div>
-					<!-- Title -->
-					<br>
-					<h5 class="h5-xs" style="margin-top:0;color:#214068;padding-top:20px;">Lorem Ipsum</h5>																																		
-					</div>
-					</div>
-
-					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#fff; border:none;margin-bottom:0px;padding-bottom:0px;">
-					<!-- Icon -->
-					<div class="sbox-3-icon">
-						<span class="flaticon-136-monitor"></span>
-					</div>						
-					<!-- Title -->
-					<br>
-					<h5 class="h5-xs" style="margin-top:0;color:#214068;padding-top:20px;">Lorem Ipsum</h5>																																		
-					</div>
-					</div>
-
-					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#fff; border:none;margin-bottom:0px;padding-bottom:0px;">
-					<!-- Icon -->
-					<div class="sbox-3-icon">
-						<span class="flaticon-076-microscope"></span>
-					</div>						
-					<!-- Title -->
-					<br>
-					<h5 class="h5-xs" style="margin-top:0;color:#214068;padding-top:20px;">Lorem Ipsum</h5>																																		
-					</div>
-					</div>
-
-
-
-
-					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#fff; border:none;margin-bottom:0px;padding-bottom:0px;">
-					<!-- Icon -->
-					<div class="sbox-3-icon">
-						<span class="flaticon-129-hospital-1"></span>
-					</div>						
-					<!-- Title -->
-					<br>
-					<h5 class="h5-xs" style="margin-top:0;color:#214068;padding-top:20px;">Lorem Ipsum</h5>																																		
-					</div>
-					</div>
-						
-					</div>
-                    <div class="row d-flex align-items-center text-center">
-
-
-					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#fff; border:none;">
-					<!-- Icon -->
-					<div class="sbox-3-icon">
-						<span class="flaticon-060-cardiogram-4"></span>
-					</div>
-					<!-- Title -->
-					<br>
-					<h5 class="h5-xs" style="margin-top:0;color:#214068;padding-top:20px;">Lorem Ipsum</h5>																																		
-					</div>
-					</div>
-
-					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#fff; border:none;">
-					<!-- Icon -->
-					<div class="sbox-3-icon">
-						<span class="flaticon-031-scanner"></span>
-					</div>
-					<!-- Title -->
-					<br>
-					<h5 class="h5-xs" style="margin-top:0;color:#214068;padding-top:20px;">Lorem Ipsum</h5>																																		
-					</div>
-					</div>
-
-					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#fff; border:none;">
-					<!-- Icon -->
-					<div class="sbox-3-icon">
-						<span class="flaticon-136-monitor"></span>
-					</div>						
-					<!-- Title -->
-					<br>
-					<h5 class="h5-xs" style="margin-top:0;color:#214068;padding-top:20px;">Lorem Ipsum</h5>																																		
-					</div>
-					</div>
-
-					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#fff; border:none;">
-					<!-- Icon -->
-					<div class="sbox-3-icon">
-						<span class="flaticon-076-microscope"></span>
-					</div>						
-					<!-- Title -->
-					<br>
-					<h5 class="h5-xs" style="margin-top:0;color:#214068;padding-top:20px;">Lorem Ipsum</h5>																																		
-					</div>
-					</div>
-
-
-
-
-					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#fff; border:none;">
-					<!-- Icon -->
-					<div class="sbox-3-icon">
-						<span class="flaticon-129-hospital-1"></span>
-					</div>						
-					<!-- Title --><br>
-					<h5 class="h5-xs" style="padding-top:20px; color:#214068;">Lorem Ipsum</h5>																																		
-					</div>
-					</div>		
+	
 					</div>    <!-- End row -->
 				</div>	   <!-- End container -->
 			</section>	<!-- END ABOUT-5 -->
