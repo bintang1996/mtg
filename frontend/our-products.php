@@ -1153,7 +1153,7 @@ display: none;
 								</div>	
 
 								<!-- Doctor Meta -->		
-								<div class="doctor-meta">
+								<div class="doctor-meta" style="padding: 20px;">
 
 									<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
 									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
