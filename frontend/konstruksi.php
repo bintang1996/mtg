@@ -119,28 +119,28 @@ display: none;
 								<!-- Text -->
 								<p><table>
 								<tr>
-								<td valign="top">&#8226; </td> <td> Timbalisasi ruangan Radiologi</td>
+								<td valign="top">&#8226; </td> <td> </td>
 								</tr>
 								<tr>
-								<td valign="top">&#8226; </td> <td> Penyediaan Kaca Pb, Frame Kaca dan Pemasangannya</td>
+								<td valign="top">&#8226; </td> <td> </td>
 								</tr>
 								<tr>
-								<td valign="top">&#8226; </td> <td> Menyediakan Pintu Timbal atau Anti radiasi dengan berbagai macam tipe dan bahan (Finishing HPL, Stainles Steel baik manual maupun otomatis atau Pintu Harmetic)</td>
+								<td valign="top">&#8226; </td> <td> </td>
 								</tr>
 								<tr>
-								<td valign="top">&#8226; </td> <td> Finishing Ruangan dengan berbagai macam bahan (Partisi Gypsum, Kalsiboard maupun Sandwich Panel)</td>
+								<td valign="top">&#8226; </td> <td> </td>
 								</tr>
 								<tr>
-								<td valign="top">&#8226; </td> <td> Penyediaan dan pemasangan lantai vynil</td>
+								<td valign="top">&#8226; </td> <td> </td>
 								</tr>
 								<tr>
-								<td valign="top">&#8226; </td> <td> Pengerjaan penguatan rangka atas untuk penggunaan alat dan penguatan fondasi alat</td>
+								<td valign="top">&#8226; </td> <td> </td>
 								</tr>
 								<tr>
-								<td valign="top">&#8226; </td> <td> Electrical dan Grounding Installation</td>
+								<td valign="top">&#8226; </td> <td> </td>
 								</tr>
 								<tr>
-								<td valign="top">&#8226; </td> <td> Penyediaan dan pemasangan raised floor</td>
+								<td valign="top">&#8226; </td> <td> </td>
 								</tr>
 </table>
 								</p>
@@ -180,19 +180,19 @@ display: none;
 							<table>
 								<tr>
 									<td><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
-									<td>Kolaborasi BPJS, Funneling, PPP Model, Subdistribution</td>
+									<td>Timbalisasi ruangan Radiologi</td>
 								</tr>
 								<tr>
 									<td><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
-									<td>Dedicated Sales and Apps person will give high chance to win</td>
+									<td>Penyediaan Kaca Pb, Frame Kaca dan Pemasangannya</td>
 								</tr>
 								<tr>
 									<td><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
-									<td>Bundle With Modality Offer Bundle package with cathlab</td>
+									<td>Menyediakan Pintu Timbal atau Anti radiasi dengan berbagai macam tipe dan bahan (Finishing HPL, Stainles Steel baik manual maupun otomatis atau Pintu Harmetic)</td>
 								</tr>
 								<tr>
 									<td><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
-									<td></td>
+									<td>Electrical dan Grounding Installation</td>
 								</tr>
 							</table>
 							</div>
@@ -203,19 +203,19 @@ display: none;
 								<table>
 									<tr>
 										<td><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
-										<td>E-catalog listed product Register QFR in Government Ecommerce</td>
+										<td>Finishing Ruangan dengan berbagai macam bahan (Partisi Gypsum, Kalsiboard maupun Sandwich Panel)</td>
 									</tr>
 									<tr>
 									<td><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
-									<td>On-site Support Build confidence on Users/cardiologist</td>
-								</tr>
-								<tr>
-									<td=><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
-									<td></td>
+									<td>Penyediaan dan pemasangan lantai vynil</td>
 								</tr>
 								<tr>
 									<td><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
-									<td></td>
+									<td>Pengerjaan penguatan rangka atas untuk penggunaan alat dan penguatan fondasi alat</td>
+								</tr>
+								<tr>
+									<td><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
+									<td>Penyediaan dan pemasangan raised floor</td>
 								</tr>
 								</table>
 								</div>
