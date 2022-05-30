@@ -1,5 +1,5 @@
 <?php include "header.php";?>
-<!-- BREADCRUMB
+
 <style>
 	.indicators {
 display: none;
