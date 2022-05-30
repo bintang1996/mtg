@@ -26,7 +26,7 @@
                       
                     <!-- Title -->
                     <div class="text-left">
-                    <b>TDP</b><br>
+                    <h5>TDP</h5>
 
                     <!-- Text -->
                     13.01.1.51.26643
@@ -45,7 +45,7 @@
 											
 										<!-- Title -->
 										<div class="text-left">
-										<b>SIUP</b><br>
+										<h5>SIUP</h5>
 
 										<!-- Text -->
 									503/482.A/436.6.11/2013
@@ -64,7 +64,7 @@
                       
                     <!-- Title -->
                     <div class="text-left">
-                    <b>SIJUK</b><br>
+                    <h5>SIJUK</h5>
 
                     <!-- Text -->
                    188.4/12/436.7.5/2019<br>- Bangunan Kesehatan/Rumah Sakit Pengolahan Limbah
@@ -83,7 +83,7 @@
 											
 										<!-- Title -->
 										<div class="text-left">
-										<b>IPAK</b><br>
+										<h5>IPAK</h5>
 
 										<!-- Text -->
 								Elektromedik Radiasi, Elektromedik Non Radiasi, Non Elektronik, Non Steril, Non Elektromedik Steril & Diagnostik In Vitro
