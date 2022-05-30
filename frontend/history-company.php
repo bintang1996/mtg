@@ -10,7 +10,7 @@
 										<h5 style="margin: 5px;">AKTE</h5>
 
 										<!-- Text -->
-										NO. 35,<BR>23 November 2012<br><br><br><br><br>
+										NO. 35,<BR>23 November 2012<br><br><br><br>
 										
 										</div>
 								</div>
@@ -29,7 +29,7 @@
                     <h5 style="margin: 5px;">TDP</h5>
 
                     <!-- Text -->
-                    13.01.1.51.26643<br><br><br><br><br><br>
+                    13.01.1.51.26643<br><br><br><br><br>
                    
                     </div>
                   </div>
@@ -48,7 +48,7 @@
 										<h5 style="margin: 5px;">SIUP</h5>
 
 										<!-- Text -->
-									503/482.A/436.6.11/2013<br><br><br><br><br><br>
+									503/482.A/436.6.11/2013<br><br><br><br><br>
 										
 										</div>
 										</div>
