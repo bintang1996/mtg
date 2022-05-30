@@ -173,8 +173,8 @@
   bottom: 0px;
   left: 43px;
 }
-.orange-hover:hover{
-  backround-color: #e86845;
+.timeline-badge:hover .orange-hover:hover{
+  background-color: #e86845;
 }
 </style>
 
