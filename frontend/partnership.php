@@ -164,7 +164,7 @@ display: none;
 
 				
 				<div class="row">	
-						<div class="" style="margin-bottom:30px;">		
+						<div class="" style="margin-bottom:30px; padding-left: 15px;">		
 							<!-- Title 	-->	
 							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>MENGAPA HARUS PUBLIC<BR>PRIVATE PARTNERSHIP (PPP)?</b></b></h3>								
 						</div> 
