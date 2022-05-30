@@ -190,6 +190,10 @@ display: none;
 									<td><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
 									<td>Bundle With Modality Offer Bundle package with cathlab</td>
 								</tr>
+								<tr>
+									<td=><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
+									<td></td>
+								</tr>
 							</table>
 							</div>
 							
@@ -206,7 +210,11 @@ display: none;
 									<td>On-site Support Build confidence on Users/cardiologist</td>
 								</tr>
 								<tr>
-									<td height="150px"><img class="img-fluid" width="150px" style="border-radius: 15px; display: none;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
+									<td=><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
+									<td></td>
+								</tr>
+								<tr>
+									<td=><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
 									<td></td>
 								</tr>
 								</table>
