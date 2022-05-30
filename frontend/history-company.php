@@ -44,11 +44,11 @@
 									
 											
 										<!-- Title -->
-										<div class="text-left">
+										<div class="text-left"><br><br><br>
 										<h5 style="margin: 5px;">SIUP</h5>
 
 										<!-- Text -->
-									503/482.A/436.6.11/2013<br><br><br><br><br>
+									503/482.A/436.6.11/2013<br><br><br>
 										
 										</div>
 										</div>
@@ -67,7 +67,7 @@
                     <h5 style="margin: 5px;">SIJUK</h5>
 
                     <!-- Text -->
-                   188.4/12/436.7.5/2019<br>- Bangunan Kesehatan/Rumah Sakit Pengolahan Limbah<br><br>
+                   188.4/12/436.7.5/2019<br>- Bangunan Kesehatan/Rumah Sakit Pengolahan Limbah<br><br><br>
                     
                     </div>
                    </div>
