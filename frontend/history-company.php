@@ -83,7 +83,7 @@
 											
 										<!-- Title -->
 										<div class="text-left">
-										<h5 >IPAK</h5>
+										<h5 style="margin: 5px;">IPAK</h5>
 
 										<!-- Text -->
 								Elektromedik Radiasi, Elektromedik Non Radiasi, Non Elektronik, Non Steril, Non Elektromedik Steril & Diagnostik In Vitro
