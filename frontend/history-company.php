@@ -6,11 +6,11 @@
 			
 											
 										<!-- Title -->
-										<div class="text-left"><br><br>
+										<div class="text-left"><br>
 										<h5 style="margin: 5px;">AKTE</h5>
 
 										<!-- Text -->
-										NO. 35,<BR>23 November 2012<br><br><br>
+										NO. 35,<BR>23 November 2012<br><br><br><br>
 										
 										</div>
 								</div>
