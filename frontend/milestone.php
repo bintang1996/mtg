@@ -201,10 +201,9 @@
 											
 								<div class="timeline-heading" style="padding: 20px;">
                
-									<h4 class="timeline-title">Mussum ipsum cacilds 1</h4>
-									<p><small class="text-muted"><i class="fa fa-check"></i> 11 hours ago via Twitter</small></p>
+									<h4 class="timeline-title">2012</h4>
 					
-									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis faiz elementum girarzis, nisi eros gostis.</p>
+									<p>Awal berdiri di surabaya (2012) - Akte Notaris No 35 tgl 23 Nov 2012 sebagai perusahaan konstruksi dan renovasi ruang Radiologi dan Kardiologi</p>
 								</div>
 							</div>
 						</li>
@@ -219,10 +218,9 @@
 											
 								<div class="timeline-heading" style="padding: 20px;">
                
-									<h4 class="timeline-title">Mussum ipsum cacilds 1</h4>
-									<p><small class="text-muted"><i class="fa fa-check"></i> 11 hours ago via Twitter</small></p>
+									<h4 class="timeline-title">2016</h4>
 					
-									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis faiz elementum girarzis, nisi eros gostis.</p>
+									<p>Project KSO Cathlab pertama</p>
 								</div>
 							</div>
 						</li>
@@ -238,10 +236,9 @@
 											
 								<div class="timeline-heading" style="padding: 20px;">
                
-									<h4 class="timeline-title">Mussum ipsum cacilds 1</h4>
-									<p><small class="text-muted"><i class="fa fa-check"></i> 11 hours ago via Twitter</small></p>
+									<h4 class="timeline-title">2019</h4>
 					
-									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis faiz elementum girarzis, nisi eros gostis.</p>
+									<p>Project KSO CT Scan pertama</p>
 								</div>
 							</div>
 						</li>
@@ -257,10 +254,9 @@
 											
 								<div class="timeline-heading" style="padding: 20px;">
                
-									<h4 class="timeline-title">Mussum ipsum cacilds 1</h4>
-									<p><small class="text-muted"><i class="fa fa-check"></i> 11 hours ago via Twitter</small></p>
+									<h4 class="timeline-title">2018</h4>
 					
-									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis faiz elementum girarzis, nisi eros gostis.</p>
+									<p>Perpindahan ke Head Office Jakarta</p>
 								</div>
 							</div>
 						</li>
@@ -277,32 +273,9 @@
 											
 								<div class="timeline-heading" style="padding: 20px;">
                
-									<h4 class="timeline-title">Mussum ipsum cacilds 1</h4>
-									<p><small class="text-muted"><i class="fa fa-check"></i> 11 hours ago via Twitter</small></p>
+									<h4 class="timeline-title">2020</h4>
 					
-									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis faiz elementum girarzis, nisi eros gostis.</p>
-								</div>
-							</div>
-						</li>
-
-
-
-
-
-
-            <li class="timeline-item">
-							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
-							<div class="timeline-panel">
-              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
-              	<!-- Icon -->
-								<br>	<br>
-											
-								<div class="timeline-heading" style="padding: 20px;">
-               
-									<h4 class="timeline-title">Mussum ipsum cacilds 1</h4>
-									<p><small class="text-muted"><i class="fa fa-check"></i> 11 hours ago via Twitter</small></p>
-					
-									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis faiz elementum girarzis, nisi eros gostis.</p>
+									<p>Project vyaire, distribusi 1000 ventilator support USAID dan KEMENKES</p>
 								</div>
 							</div>
 						</li>
@@ -321,10 +294,9 @@
 											
 								<div class="timeline-heading" style="padding: 20px;">
                
-									<h4 class="timeline-title">Mussum ipsum cacilds 1</h4>
-									<p><small class="text-muted"><i class="fa fa-check"></i> 11 hours ago via Twitter</small></p>
+									<h4 class="timeline-title">2021</h4>
 					
-									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis faiz elementum girarzis, nisi eros gostis.</p>
+									<p>Project invamed</p>
 								</div>
 							</div>
 						</li>
@@ -343,10 +315,30 @@
 											
 								<div class="timeline-heading" style="padding: 20px;">
                
-									<h4 class="timeline-title">Mussum ipsum cacilds 1</h4>
-									<p><small class="text-muted"><i class="fa fa-check"></i> 11 hours ago via Twitter</small></p>
+									<h4 class="timeline-title">2021</h4>
 					
-									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis faiz elementum girarzis, nisi eros gostis.</p>
+									<p>Samsung</p>
+								</div>
+							</div>
+						</li>
+
+
+
+
+
+
+            <li class="timeline-item">
+							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
+							<div class="timeline-panel">
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              	<!-- Icon -->
+								<br>	<br>
+											
+								<div class="timeline-heading" style="padding: 20px;">
+               
+									<h4 class="timeline-title">2022</h4>
+					
+									<p>Elixir</p>
 								</div>
 							</div>
 						</li>
@@ -363,10 +355,9 @@
 											
 								<div class="timeline-heading" style="padding: 20px;">
                
-									<h4 class="timeline-title">Mussum ipsum cacilds 1</h4>
-									<p><small class="text-muted"><i class="fa fa-check"></i> 11 hours ago via Twitter</small></p>
+									<h4 class="timeline-title">2022</h4>
 					
-									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis faiz elementum girarzis, nisi eros gostis.</p>
+									<p>Yokogawa</p>
 								</div>
 							</div>
 						</li>
