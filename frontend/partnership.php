@@ -440,7 +440,7 @@ display: none;
 												</div>	<!-- End Options List -->
 
 												<!-- Button -->
-												<a href="service-1.html" class="btn btn-blue blue-hover mt-30">Lebih Lanjut</a>
+												<a href="service-1.html" class="btn btn-blue orange-hover mt-30">Lebih Lanjut</a>
 
 											</div>	
 										</div>	<!-- END TAB-1 TEXT -->
@@ -525,7 +525,7 @@ display: none;
 												</div>	<!-- End Options List -->
 
 												<!-- Button -->
-												<a href="service-2.html" class="btn btn-blue blue-hover mt-30">Lebih Lanjut</a>
+												<a href="service-2.html" class="btn btn-blue orange-hover mt-30">Lebih Lanjut</a>
 
 											</div>	
 										</div>	<!-- END TAB-2 TEXT -->
@@ -613,7 +613,7 @@ display: none;
 												</div>	<!-- End Options List -->
 
 												<!-- Button -->
-												<a href="service-1.html" class="btn btn-blue blue-hover mt-30">Lebih Lanjut</a>
+												<a href="service-1.html" class="btn btn-blue orange-hover mt-30">Lebih Lanjut</a>
 
 											</div>	
 										</div>	<!-- END TAB-3 TEXT -->
@@ -701,7 +701,7 @@ display: none;
 												</div>	<!-- End Options List -->
 
 												<!-- Button -->
-												<a href="service-2.html" class="btn btn-blue blue-hover mt-30">Lebih Lanjut</a>
+												<a href="service-2.html" class="btn btn-blue orange-hover mt-30">Lebih Lanjut</a>
 
 											</div>	
 										</div>	<!-- END TAB-4 TEXT -->
