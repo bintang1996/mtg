@@ -36,7 +36,7 @@
 							
 						
                             </p><br>
-							<img class="img-fluid" width="70%" src="images/Career.jpg" alt="doctor-foto">	
+							<img class="img-fluid" style="border-radius: 7%;" width="70%" src="images/Career.jpg" alt="doctor-foto">	
                         </div>
                     </div>
                 </div>
