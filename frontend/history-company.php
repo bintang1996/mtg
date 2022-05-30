@@ -1,4 +1,4 @@
-<TABLE width="100%"><tr><td>
+<TABLE width="100%"><tr><td width="19%">
 										<!-- SERVICE BOX #1 -->
 										<div class="sbox-3 icon-sm orange-hover" >
 
@@ -14,7 +14,7 @@
 										</p>
 										</div>
 								</div>
-</td><td>
+</td><td width="19%">
 
 
 
@@ -34,7 +34,7 @@
                     </div>
                   </div>
 
-</td><td>
+</td><td width="19%">
 
 
 										<!-- SERVICE BOX #1 -->
@@ -54,7 +54,7 @@
 										</div>
 
 
-</td><td>
+</td><td width="19%">
 
 										<!-- SERVICE BOX #1 -->
 										<div class="sbox-3 icon-sm white-color orange-hover">
@@ -74,7 +74,7 @@
 
 
 
-</td><td>
+</td><td width="20%">
 										<!-- SERVICE BOX #1 -->
 										<div class="sbox-3 icon-sm orange-hover">
 
