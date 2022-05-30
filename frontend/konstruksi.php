@@ -104,7 +104,7 @@ display: none;
 						<!-- INFO IMAGE -->
 						<div class="col-lg-6">
 							<div class="info-4-img text-center wow fadeInUp" data-wow-delay="0.6s">
-								<img class="img-fluid" src="images/chief_doctor_700x800.jpg" alt="info-image">
+								<img class="img-fluid" src="images/head/konstruksi.jpg" alt="info-image">
 							</div>
 						</div>
 
@@ -151,6 +151,84 @@ display: none;
 						
 						</div>    <!-- End row -->
 					</div>	<!-- END TOP ROW -->
+					</div>	   <!-- End container -->
+			</section>	<!-- END INFO-4 -->
+
+
+
+
+
+			<section id="info-4" class="wide-100 info-section division" style="background-color:#ececec; padding-bottom: 60px;">
+				<div class="container" style="background-color:#ececec;">
+				<div class="row">	
+						<div class="col-lg-10 offset-lg-1 section-title" style="margin-bottom:30px;">		
+							<!-- Title 	-->	
+							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>MODEL BISNIS</b></b></h3>								
+						</div> 
+					</div>
+					<!-- BOTTOM ROW -->
+					<div class="bottom-row" >
+						<!-- Title -->
+
+						<div class="row d-flex align-items-center" >
+
+	
+
+							<!-- INFO TEXT -->	
+							<div class="col-lg-6">
+
+							<table>
+								<tr>
+									<td><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
+									<td>Kolaborasi BPJS, Funneling, PPP Model, Subdistribution</td>
+								</tr>
+								<tr>
+									<td><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
+									<td>Dedicated Sales and Apps person will give high chance to win</td>
+								</tr>
+								<tr>
+									<td><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
+									<td>Bundle With Modality Offer Bundle package with cathlab</td>
+								</tr>
+							</table>
+							</div>
+							
+								<!-- INFO TEXT -->	
+								<div class="col-lg-6">
+
+								<table>
+									<tr>
+										<td><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
+										<td>E-catalog listed product Register QFR in Government Ecommerce</td>
+									</tr>
+									<tr>
+									<td><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
+									<td>On-site Support Build confidence on Users/cardiologist</td>
+								</tr>
+								<tr>
+									<td height="150px"><img class="img-fluid" width="150px" style="border-radius: 15px; display: none;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
+									<td></td>
+								</tr>
+								</table>
+								</div>
+												
+						</div>    <!-- End row -->
+					</div>	<!-- END BOTTOM ROW -->
+				</div>	   <!-- End container -->
+			</section>	<!-- END INFO-4 -->
+
+
+
+
+
+
+
+
+
+
+			<section id="info-4" class="wide-100 info-section division" style="background-color:#FFFFFF; padding-bottom: 0px; border-bottom:1px solid grey;">
+				<div class="container" style="background-color:#FFFFFF;">
+
 						<!-- SECOND ROW -->
 						<div class="top-row mb-80">
 						<div class="row d-flex align-items-center">
