@@ -1,5 +1,9 @@
 <?php include "header.php";?>
-
+<style>
+	.indicators {
+display: none;
+	}
+</style>
 <!-- HERO-2
 			============================================= -->	
 			<section id="hero-2" class="hero-section division">
