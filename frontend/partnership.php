@@ -95,10 +95,15 @@ display: none;
 						</div>    <!-- End row -->
 					</div>	<!-- END TOP ROW -->
 
+					</div>	   <!-- End container -->
+			</section>	<!-- END INFO-4 -->
+
+			<section id="info-4" class="wide-100 info-section division" style="background-color:#ececec;">
+				<div class="container" style="background-color:#ececec;">
 
 					<!-- BOTTOM ROW -->
-					<div class="bottom-row" style="background-color:#ececec;" >
-						<div class="row d-flex align-items-center" style="background-color:#ececec;">
+					<div class="bottom-row" >
+						<div class="row d-flex align-items-center" >
 
 
 							<!-- INFO TEXT -->	
