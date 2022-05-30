@@ -40,7 +40,7 @@
                          <div id="tabs-nav" class="list-group text-center clearfix" style="">
                                 <div id="accordion" >
                                 <div class="card" >
-                                <div class="card-header" style="background-color: #e86845; color: #fff;">
+                                <div class="card-header" style="background-color: #e86845; color: #fff; border-radius:20px;">
                                     <a class="card-link" data-toggle="collapse" href="#collapseOne">
                                     <b style="color: #fff; font-weight: bolder;">KERJASAMA</b>
                                     </a>
