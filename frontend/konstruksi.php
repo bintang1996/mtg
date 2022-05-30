@@ -205,7 +205,7 @@ display: none;
 										<td><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
 										<td>Finishing Ruangan dengan berbagai macam bahan (Partisi Gypsum, Kalsiboard maupun Sandwich Panel)</td>
 									</tr>
-									<tr>
+								<tr>
 									<td><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
 									<td>Penyediaan dan pemasangan lantai vynil</td>
 								</tr>
@@ -218,6 +218,8 @@ display: none;
 									<td>Penyediaan dan pemasangan raised floor</td>
 								</tr>
 								</table>
+
+
 								</div>
 												
 						</div>    <!-- End row -->
