@@ -39,8 +39,8 @@
 				 		<div class="col-lg-4" style="">
                          <div id="tabs-nav" class="list-group text-center clearfix" style="">
                                 <div id="accordion" >
-                                <div class="card" style="background-color: #e86845; color: #fff;">
-                                <div class="card-header">
+                                <div class="card" >
+                                <div class="card-header" style="background-color: #e86845; color: #fff;">
                                     <a class="card-link" data-toggle="collapse" href="#collapseOne">
                                     <b>KERJASAMA</b>
                                     </a>
