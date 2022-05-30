@@ -217,7 +217,7 @@ display: none;
 								<!-- Text -->
 								<p><table>
 								<tr>
-								<td valign="top"><span STYLE="COLOR: #e86845">&#8226;</span> &nbsp;&nbsp;</td> <td>Hepa Filter</td>
+								<td valign="top"><span STYLE="COLOR: #e86845">&#8226;</span> &nbsp;&nbsp;</td> <td valign="top">Hepa Filter</td>
 								</tr>
 								<tr>
 								<td valign="top"><span STYLE="COLOR: #e86845">&#8226;</span> &nbsp;&nbsp;</td> <td>Instrument Ruang Operasi: Meja operasi, pass box, film viewer, display information, pendant, vynil lantai, dll</td>
@@ -226,7 +226,7 @@ display: none;
 								<td valign="top"><span STYLE="COLOR: #e86845">&#8226;</span> &nbsp;&nbsp;</td> <td>Finishing dinding ruang operasi dengan material lokal maupun import</td>
 								</tr>
 								<tr>
-								<td valign="top"><span STYLE="COLOR: #e86845">&#8226;</span> &nbsp;&nbsp;</td> <td>Pintu hermatic dnegan mesin China, Jepang, maupun Eropa</td>
+								<td valign="top"><span STYLE="COLOR: #e86845">&#8226;</span> &nbsp;&nbsp;</td> <td valign="top">Pintu hermatic dnegan mesin China, Jepang, maupun Eropa</td>
 								</tr>
 </table></p>
 							</div>
