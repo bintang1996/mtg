@@ -342,16 +342,11 @@ display: none;
 								  	<!-- TAB-2 LINK -->
 									<li class="nav-item icon-xs">
 									    <a class="nav-link" id="tab2-list" data-toggle="pill" href="#tab-2" role="tab" aria-controls="tab-2" aria-selected="false">
-									       <span class="flaticon-005-blood-donation-3"></span> Kerjasama CT-Scan
+									       <span class="flaticon-005-blood-donation-3"></span> Kerjasama CT-Scan/MRI
 									    </a>
 									</li>
 
-									<!-- TAB-3 LINK -->
-									<li class="nav-item icon-xs">
-									    <a class="nav-link" id="tab3-list" data-toggle="pill" href="#tab-3" role="tab" aria-controls="tab-3" aria-selected="false">
-									       <span class="flaticon-031-scanner"></span> Kerjasama MRI
-									    </a>
-									</li>
+								
 
 									<!-- TAB-4 LINK -->
 									<li class="nav-item icon-xs">
