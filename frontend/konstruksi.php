@@ -91,7 +91,7 @@ display: none;
 							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 
 							<div class="row">	
-						<div class=" section-title" style="margin-bottom:30px;">		
+						<div class="" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
 							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>LAYANAN KONSTRUKSI</b></b></h3>								
 						</div> 
