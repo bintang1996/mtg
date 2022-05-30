@@ -86,12 +86,12 @@
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
                                             <a style="font-weight: bolder;" class="nav-link" id="tab14-list" data-toggle="pill" href="#tab-14" role="tab" aria-controls="tab-14" aria-selected="false">
-                                                Konstruksi
+                                               <b> Konstruksi </b>
                                             </a>
 										</li>
 										<li class="nav-item icon-xs">
                                             <a style="font-weight: bolder;" class="nav-link" id="tab14-list" data-toggle="pill" href="#tab-14" role="tab" aria-controls="tab-14" aria-selected="false">
-                                                Lain-lain
+                                              <b>  Lain-lain </b>
                                             </a>
 										</li>
 
