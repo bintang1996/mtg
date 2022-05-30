@@ -184,7 +184,14 @@
 				<div class="col-md-12">
 			
 					<div style="display:inline-block;width:100%;overflow-y: hidden;">
+
+
+
+
 					<ul class="timeline timeline-horizontal">
+
+
+
 						<li class="timeline-item">
 							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
 							<div class="timeline-panel">
@@ -201,76 +208,174 @@
 								</div>
 							</div>
 						</li>
+
+
 						<li class="timeline-item">
 							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
 							<div class="timeline-panel">
-              <img class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
-              <br>	<br>
-								<div class="timeline-heading">
-									<h4 class="timeline-title">Mussum ipsum cacilds 2</h4>
-									<p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p>
-								</div>
-								<div class="timeline-body">
-									<p>Mussum ipsum cacilds, vidis faiz elementum girarzis, nisi eros gostis.</p>
-								</div>
-							</div>
-						</li>
-						<li class="timeline-item">
-							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
-							<div class="timeline-panel">
-              <img class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
-              <br>	<br>
-								<div class="timeline-heading">
-									<h4 class="timeline-title">Mussum ipsum cacilds 3</h4>
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              	<!-- Icon -->
+								<br>	<br>
+											
+								<div class="timeline-heading" style="padding: 20px;">
+               
+									<h4 class="timeline-title">Mussum ipsum cacilds 1</h4>
 									<p><small class="text-muted"><i class="fa fa-check"></i> 11 hours ago via Twitter</small></p>
-								</div>
-								<div class="timeline-body">
-									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipisci. Mé faiz elementum girarzis, nisi eros gostis.</p>
-								</div>
-							</div>
-						</li>
-						<li class="timeline-item">
-							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
-							<div class="timeline-panel">
-              <img class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
-              <br>	<br>
-								<div class="timeline-heading">
-									<h4 class="timeline-title">Mussum ipsum cacilds 4</h4>
-									<p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p>
-								</div>
-								<div class="timeline-body">
-									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis.</p>
+					
+									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis faiz elementum girarzis, nisi eros gostis.</p>
 								</div>
 							</div>
 						</li>
-						<li class="timeline-item">
+
+
+
+            <li class="timeline-item">
 							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
 							<div class="timeline-panel">
-              <img class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
-              <br>	<br>
-								<div class="timeline-heading">
-									<h4 class="timeline-title">Mussum ipsum cacilds 5</h4>
-									<p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p>
-								</div>
-								<div class="timeline-body">
-									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis.</p>
-								</div>
-							</div>
-						</li>
-						<li class="timeline-item">
-							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
-							<div class="timeline-panel">
-                <img class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">
-               <br>	<br>
-								<div class="timeline-heading">
-									<h4 class="timeline-title">Mussum ipsum cacilds 6</h4>
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              	<!-- Icon -->
+								<br>	<br>
+											
+								<div class="timeline-heading" style="padding: 20px;">
+               
+									<h4 class="timeline-title">Mussum ipsum cacilds 1</h4>
 									<p><small class="text-muted"><i class="fa fa-check"></i> 11 hours ago via Twitter</small></p>
-								</div>
-								<div class="timeline-body">
-									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis.</p>
+					
+									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis faiz elementum girarzis, nisi eros gostis.</p>
 								</div>
 							</div>
 						</li>
+
+
+
+            <li class="timeline-item">
+							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
+							<div class="timeline-panel">
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              	<!-- Icon -->
+								<br>	<br>
+											
+								<div class="timeline-heading" style="padding: 20px;">
+               
+									<h4 class="timeline-title">Mussum ipsum cacilds 1</h4>
+									<p><small class="text-muted"><i class="fa fa-check"></i> 11 hours ago via Twitter</small></p>
+					
+									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis faiz elementum girarzis, nisi eros gostis.</p>
+								</div>
+							</div>
+						</li>
+
+
+
+
+            <li class="timeline-item">
+							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
+							<div class="timeline-panel">
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              	<!-- Icon -->
+								<br>	<br>
+											
+								<div class="timeline-heading" style="padding: 20px;">
+               
+									<h4 class="timeline-title">Mussum ipsum cacilds 1</h4>
+									<p><small class="text-muted"><i class="fa fa-check"></i> 11 hours ago via Twitter</small></p>
+					
+									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis faiz elementum girarzis, nisi eros gostis.</p>
+								</div>
+							</div>
+						</li>
+
+
+
+
+
+
+            <li class="timeline-item">
+							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
+							<div class="timeline-panel">
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              	<!-- Icon -->
+								<br>	<br>
+											
+								<div class="timeline-heading" style="padding: 20px;">
+               
+									<h4 class="timeline-title">Mussum ipsum cacilds 1</h4>
+									<p><small class="text-muted"><i class="fa fa-check"></i> 11 hours ago via Twitter</small></p>
+					
+									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis faiz elementum girarzis, nisi eros gostis.</p>
+								</div>
+							</div>
+						</li>
+
+
+
+
+
+
+            <li class="timeline-item">
+							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
+							<div class="timeline-panel">
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              	<!-- Icon -->
+								<br>	<br>
+											
+								<div class="timeline-heading" style="padding: 20px;">
+               
+									<h4 class="timeline-title">Mussum ipsum cacilds 1</h4>
+									<p><small class="text-muted"><i class="fa fa-check"></i> 11 hours ago via Twitter</small></p>
+					
+									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis faiz elementum girarzis, nisi eros gostis.</p>
+								</div>
+							</div>
+						</li>
+
+
+
+
+
+
+            <li class="timeline-item">
+							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
+							<div class="timeline-panel">
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              	<!-- Icon -->
+								<br>	<br>
+											
+								<div class="timeline-heading" style="padding: 20px;">
+               
+									<h4 class="timeline-title">Mussum ipsum cacilds 1</h4>
+									<p><small class="text-muted"><i class="fa fa-check"></i> 11 hours ago via Twitter</small></p>
+					
+									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis faiz elementum girarzis, nisi eros gostis.</p>
+								</div>
+							</div>
+						</li>
+
+
+
+
+            <li class="timeline-item">
+							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
+							<div class="timeline-panel">
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              	<!-- Icon -->
+								<br>	<br>
+											
+								<div class="timeline-heading" style="padding: 20px;">
+               
+									<h4 class="timeline-title">Mussum ipsum cacilds 1</h4>
+									<p><small class="text-muted"><i class="fa fa-check"></i> 11 hours ago via Twitter</small></p>
+					
+									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis faiz elementum girarzis, nisi eros gostis.</p>
+								</div>
+							</div>
+						</li>
+
+
+
+
+
+            
 					</ul>
 				</div>
 				</div>
