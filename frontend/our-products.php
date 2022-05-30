@@ -1117,9 +1117,24 @@ display: none;
 
 										MOBILE WIFUS merupakan solusi penyedia Layanan Kesehatan untuk memanfaatkan dan menghubungkan pasien dengan Dokter dengan Telediagnostik, Telemedicine, pemesanan online, dan penyedia layanan Rumah
 									</p><br>
-							<div class="row">
+							
+							
+							
+							
+							
+
+
+
+
+
+
+
+
+	<!-- PRODUK NI BOS -->									
+							
+									<div class="row">
 									<?php
-                    $r=$_GET['id'];
+                   			 $r=$_GET['id'];
 							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Wifus'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
                                 $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
@@ -1139,7 +1154,7 @@ display: none;
 							while($d2=mysqli_fetch_array($sql2)){
 							?> 
 									<img class="img-fluid" width="100%" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
-<?php } ?>
+							<?php } ?>
 
 
 
@@ -1169,6 +1184,21 @@ display: none;
 						
 						<?php }} ?>	
 							</div>
+
+<!-- PRODUK NI BOS -->	
+
+
+
+
+
+
+
+
+
+
+
+
+
 									
 								</div>	<!-- END TAB-4 CONTENT -->
 
