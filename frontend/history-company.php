@@ -57,7 +57,7 @@
 </td><td width="19%">
 
 										<!-- SERVICE BOX #1 -->
-										<div class="sbox-3 icon-sm white-color orange-hover">
+										<div class="sbox-3 icon-sm orange-hover">
 
                     <!-- Icon -->
 
