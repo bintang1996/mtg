@@ -35,7 +35,7 @@
   width: 54px;
   height: 54px;
   line-height: 52px;
-  font-size: 18px;
+  font-size: 14px;
   text-align: center;
   position: absolute;
   top: 18px;
@@ -193,7 +193,7 @@
 
 
 						<li class="timeline-item">
-							<div class="timeline-badge primary">2012</div>
+							<div class="timeline-badge primary orange-hover">2012</div>
 							<div class="timeline-panel">
               <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
               	<!-- Icon -->
@@ -210,7 +210,7 @@
 
 
 						<li class="timeline-item">
-							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
+							<div class="timeline-badge primary orange-hover">2016</div>
 							<div class="timeline-panel">
               <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
               	<!-- Icon -->
@@ -225,28 +225,8 @@
 							</div>
 						</li>
 
-
-
             <li class="timeline-item">
-							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
-							<div class="timeline-panel">
-              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
-              	<!-- Icon -->
-								<br>	<br>
-											
-								<div class="timeline-heading" style="padding: 20px;">
-               
-									<h4 class="timeline-title">2019</h4>
-					
-									<p>Project KSO CT Scan pertama</p><br><br><br><br>
-								</div>
-							</div>
-						</li>
-
-
-
-            <li class="timeline-item">
-							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
+							<div class="timeline-badge primary orange-hover">2018</div>
 							<div class="timeline-panel">
               <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
               	<!-- Icon -->
@@ -265,7 +245,25 @@
 
 
             <li class="timeline-item">
-							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
+							<div class="timeline-badge primary orange-hover">2019</div>
+							<div class="timeline-panel">
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              	<!-- Icon -->
+								<br>	<br>
+											
+								<div class="timeline-heading" style="padding: 20px;">
+               
+									<h4 class="timeline-title">2019</h4>
+					
+									<p>Project KSO CT Scan pertama</p><br><br><br><br>
+								</div>
+							</div>
+						</li>
+
+
+
+            <li class="timeline-item">
+							<div class="timeline-badge primary orange-hover"><i class="fa fa-check"></i></div>
 							<div class="timeline-panel">
               <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
               	<!-- Icon -->
@@ -281,12 +279,8 @@
 						</li>
 
 
-
-
-
-
             <li class="timeline-item">
-							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
+							<div class="timeline-badge primary orange-hover">2021</div>
 							<div class="timeline-panel">
               <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
               	<!-- Icon -->
@@ -307,7 +301,7 @@
 
 
             <li class="timeline-item">
-							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
+							<div class="timeline-badge primary orange-hover">2021</div>
 							<div class="timeline-panel">
               <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
               	<!-- Icon -->
@@ -328,7 +322,7 @@
 
 
             <li class="timeline-item">
-							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
+							<div class="timeline-badge primary orange-hover">2022</div>
 							<div class="timeline-panel">
               <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
               	<!-- Icon -->
@@ -347,7 +341,7 @@
 
 
             <li class="timeline-item">
-							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
+							<div class="timeline-badge primary orange-hover">2022</div>
 							<div class="timeline-panel">
               <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
               	<!-- Icon -->
