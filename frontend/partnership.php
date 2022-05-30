@@ -185,7 +185,7 @@ display: none;
 
 
 					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#ececec; border:none;margin-bottom:0px;padding-bottom:0px;">
+					<div class="sbox-3 icon-sm" style="background-color:#fff; border:none;margin-bottom:0px;padding-bottom:0px;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
 						<span class="flaticon-060-cardiogram-4"></span>
@@ -197,7 +197,7 @@ display: none;
 					</div>
 
 					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#ececec; border:none;margin-bottom:0px;padding-bottom:0px;">
+					<div class="sbox-3 icon-sm" style="background-color:#fff; border:none;margin-bottom:0px;padding-bottom:0px;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
 						<span class="flaticon-031-scanner"></span>
@@ -209,7 +209,7 @@ display: none;
 					</div>
 
 					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#ececec; border:none;margin-bottom:0px;padding-bottom:0px;">
+					<div class="sbox-3 icon-sm" style="background-color:#fff; border:none;margin-bottom:0px;padding-bottom:0px;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
 						<span class="flaticon-136-monitor"></span>
@@ -221,7 +221,7 @@ display: none;
 					</div>
 
 					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#ececec; border:none;margin-bottom:0px;padding-bottom:0px;">
+					<div class="sbox-3 icon-sm" style="background-color:#fff; border:none;margin-bottom:0px;padding-bottom:0px;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
 						<span class="flaticon-076-microscope"></span>
@@ -236,7 +236,7 @@ display: none;
 
 
 					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#ececec; border:none;margin-bottom:0px;padding-bottom:0px;">
+					<div class="sbox-3 icon-sm" style="background-color:#fff; border:none;margin-bottom:0px;padding-bottom:0px;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
 						<span class="flaticon-129-hospital-1"></span>
@@ -252,7 +252,7 @@ display: none;
 
 
 					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#ececec; border:none;">
+					<div class="sbox-3 icon-sm" style="background-color:#fff; border:none;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
 						<span class="flaticon-060-cardiogram-4"></span>
@@ -264,7 +264,7 @@ display: none;
 					</div>
 
 					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#ececec; border:none;">
+					<div class="sbox-3 icon-sm" style="background-color:#fff; border:none;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
 						<span class="flaticon-031-scanner"></span>
@@ -276,7 +276,7 @@ display: none;
 					</div>
 
 					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#ececec; border:none;">
+					<div class="sbox-3 icon-sm" style="background-color:#fff; border:none;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
 						<span class="flaticon-136-monitor"></span>
@@ -288,7 +288,7 @@ display: none;
 					</div>
 
 					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#ececec; border:none;">
+					<div class="sbox-3 icon-sm" style="background-color:#fff; border:none;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
 						<span class="flaticon-076-microscope"></span>
@@ -303,7 +303,7 @@ display: none;
 
 
 					<div class="col">
-					<div class="sbox-3 icon-sm" style="background-color:#ececec; border:none;">
+					<div class="sbox-3 icon-sm" style="background-color:#fff; border:none;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
 						<span class="flaticon-129-hospital-1"></span>
