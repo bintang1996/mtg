@@ -372,7 +372,7 @@ display: none;
 										<!-- TAB-1 IMAGE -->
 										<div class="col-lg-6">
 											<div class="tab-img">
-												<img class="img-fluid" src="images/MRI.jpg" alt="tab-image" />
+												<img class="img-fluid" style="border-radius: 20px;" src="images/MRI.jpg" alt="tab-image" />
 											</div>
 										</div>
 
@@ -458,7 +458,7 @@ display: none;
 										<!-- TAB-2 IMAGE -->
 										<div class="col-lg-6">
 											<div class="tab-imgs">
-												<img class="img-fluid" src="images/CT Scan.jpg" alt="tab-image" />
+												<img class="img-fluid" style="border-radius: 20px;" src="images/CT Scan.jpg" alt="tab-image" />
 											</div>
 										</div>
 
@@ -543,7 +543,7 @@ display: none;
 										<!-- TAB-3 IMAGE -->
 										<div class="col-lg-6">
 											<div class="tab-img">
-												<img class="img-fluid" src="images/MRI.jpg" alt="tab-image" />
+												<img class="img-fluid" style="border-radius: 20px;" src="images/MRI.jpg" alt="tab-image" />
 											</div>
 										</div>
 
@@ -631,7 +631,7 @@ display: none;
 										<!-- TAB-4 IMAGE -->
 										<div class="col-lg-6">
 											<div class="tab-img">
-												<img class="img-fluid" src="images/Laboratorium.jpg" alt="tab-image" />
+												<img class="img-fluid" style="border-radius: 20px;"  src="images/Laboratorium.jpg" alt="tab-image" />
 											</div>
 										</div>
 
