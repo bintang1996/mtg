@@ -220,7 +220,7 @@
                
 									<h4 class="timeline-title">2016</h4>
 					
-									<p>Project KSO Cathlab pertama</p>
+									<p>Project KSO Cathlab pertama</p><br><br><br><br>
 								</div>
 							</div>
 						</li>
@@ -238,7 +238,7 @@
                
 									<h4 class="timeline-title">2019</h4>
 					
-									<p>Project KSO CT Scan pertama</p>
+									<p>Project KSO CT Scan pertama</p><br><br><br><br>
 								</div>
 							</div>
 						</li>
@@ -256,7 +256,7 @@
                
 									<h4 class="timeline-title">2018</h4>
 					
-									<p>Perpindahan ke Head Office Jakarta</p>
+									<p>Perpindahan ke Head Office Jakarta</p><br><br><br><br>
 								</div>
 							</div>
 						</li>
@@ -275,7 +275,7 @@
                
 									<h4 class="timeline-title">2020</h4>
 					
-									<p>Project vyaire, distribusi 1000 ventilator support USAID dan KEMENKES</p>
+									<p>Project vyaire, distribusi 1000 ventilator support USAID dan KEMENKES</p><br><br>
 								</div>
 							</div>
 						</li>
@@ -296,7 +296,7 @@
                
 									<h4 class="timeline-title">2021</h4>
 					
-									<p>Project invamed</p>
+									<p>Project invamed</p><br><br><br><br>
 								</div>
 							</div>
 						</li>
@@ -317,7 +317,7 @@
                
 									<h4 class="timeline-title">2021</h4>
 					
-									<p>Samsung</p>
+									<p>Samsung</p><br><br><br><br>
 								</div>
 							</div>
 						</li>
@@ -338,7 +338,7 @@
                
 									<h4 class="timeline-title">2022</h4>
 					
-									<p>Elixir</p>
+									<p>Elixir</p><br><br><br><br>
 								</div>
 							</div>
 						</li>
@@ -357,7 +357,7 @@
                
 									<h4 class="timeline-title">2022</h4>
 					
-									<p>Yokogawa</p>
+									<p>Yokogawa</p><br><br><br><br>
 								</div>
 							</div>
 						</li>
