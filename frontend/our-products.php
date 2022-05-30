@@ -1166,7 +1166,7 @@ display: none;
 							</div>			
 											
 						</div>	<!-- END DOCTOR #1 -->
-							</div>
+						
 						<?php }} ?>	
 
 									
