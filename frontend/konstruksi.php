@@ -217,7 +217,7 @@ display: none;
 								<!-- Text -->
 								<p><table>
 								<tr>
-								<td><span STYLE="COLOR: #e86845">&#8226;</span> &nbsp;&nbsp;</td> <td>Hepa Filter</td>
+								<td valign="bottom"><span STYLE="COLOR: #e86845">&#8226;</span> &nbsp;&nbsp;</td> <td>Hepa Filter</td>
 								</tr>
 								<tr>
 								<td valign="top"><span STYLE="COLOR: #e86845">&#8226;</span> &nbsp;&nbsp;</td> <td>Instrument Ruang Operasi: Meja operasi, pass box, film viewer, display information, pendant, vynil lantai, dll</td>
