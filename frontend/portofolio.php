@@ -51,7 +51,7 @@
 
 							    	<!-- TAB-1 LINK -->
 								  	<li class="nav-item icon-xs">
-								    	<a style="font-weight: bolder; color:#214608;" class="nav-link active" id="tab11-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
+								    	<a style="font-weight: bolder;" class="nav-link active" id="tab11-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
 								    		<b>Cathlab</b>
 								    	</a>
 								  	</li>
