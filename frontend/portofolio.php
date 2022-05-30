@@ -37,7 +37,7 @@
 
 				 		<!-- TABS NAVIGATION -->
 				 		<div class="col-lg-4">
-                         <div id="tabs-nav" class="list-group text-center clearfix">
+                         <div id="tabs-nav" class="list-group text-center clearfix" style="border-radius: 25px;">
                                 <div id="accordion">
                                 <div class="card">
                                 <div class="card-header">
