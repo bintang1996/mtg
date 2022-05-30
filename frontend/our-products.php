@@ -1,30 +1,62 @@
 <?php include "header.php";?>
+<style>
+	.indicators {
+display: none;
+	}
+</style>
+	<!-- HERO-2
+			============================================= -->	
+			<section id="hero-2" class="hero-section division">
 
-			<!-- BREADCRUMB
-			============================================= -->
-			<div id="breadcrumb" class="division" >
-				<div class="container">
-					<div class="row">						
-						<div class="col">
-							<div class=" breadcrumb-holder">
 
-								<!-- Breadcrumb Nav -->
-								<nav aria-label="breadcrumb">
-								  	<ol class="breadcrumb">
-								    	<li class="breadcrumb-item"><a href="index.html">Home</a></li>
-								    	<li class="breadcrumb-item active" aria-current="page">Our Products</li>
-								  	</ol>
-								</nav>
+				<!-- SLIDER -->
+				<div class="slider" style="height: 500px;">
+			    	<ul class="slides">
 
-								<!-- Title -->
-								<h4 class="h4-sm steelblue-color">Our Products</h4>
 
-							</div>
-						</div>
-					</div>  <!-- End row -->	
-				</div>	<!-- End container -->		
-			</div>	<!-- END BREADCRUMB -->	
+				     	<!-- SLIDE #1 -->
+				      	
 
+    	
+                                <li style="height: 500px;">			
+								<img class="img-fluid" width="100%" height="500px" src="images/head/konstruksiheader.jpg" alt="hero-image">
+                                
+							<!-- Image Caption -->
+							<div class="caption d-flex align-items-center left-align" style="background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)); ">
+		       					<div class="container">
+		       						<div class="row" >
+		       							<div class="col-md-12 col-lg-10" >
+		       								<div class="caption-txt">
+						       					<!-- Title -->
+						       					<h3 class="white-color">Our Products</h3>
+
+						       					<!-- Option Box #1 -->
+												<div class="box-list">							
+													<div class="box-list-icon white-color"></div>
+													<p class="p-md white-color" >Ini produk Perusahaan
+													</p>						
+												</div>
+									
+									    
+											</div>
+										</div>
+									</div>  <!-- End row -->
+								</div>  <!-- End container -->
+					        </div>	<!-- End Image Caption -->
+
+							
+							
+							</li>
+                       
+						
+					    	<!-- END SLIDE #1 -->
+
+
+				    </ul>
+			  	</div>	<!-- END SLIDER -->
+
+
+			</section>	<!-- END HERO-2 -->
 
 
 
@@ -52,21 +84,21 @@
 							    	<!-- TAB-1 LINK -->
 								  	<li class="nav-item icon-xs">
 								    	<a class="nav-link active" id="tab11-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
-								    		Medis
+								    		<b>Medis</b>
 								    	</a>
 								  	</li>
 
 								  	<!-- TAB-2 LINK -->
 									<li class="nav-item icon-xs">
 									    <a class="nav-link" id="tab12-list" data-toggle="pill" href="#tab-12" role="tab" aria-controls="tab-12" aria-selected="false">
-									       Elixir
+									       <b>Elixir</b>
 									    </a>
 									</li>
 
 									<!-- TAB-3 LINK -->
 									<li class="nav-item icon-xs">
 									    <a class="nav-link" id="tab13-list" data-toggle="pill" href="#tab-13" role="tab" aria-controls="tab-13" aria-selected="false">
-										Invamed
+										<b>Invamed</b>
 									    </a>
 									</li>
 
@@ -86,37 +118,37 @@
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab16-list" data-toggle="pill" href="#tab-14" role="tab" aria-controls="tab-11" aria-selected="true">
-                                                Samsung Healthcare
+                                                <b>Samsung Healthcare</b>
                                             </a>
                                         </li>
 
                                         <!-- TAB-2 LINK -->
                                         <li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab17-list" data-toggle="pill" href="#tab-15" role="tab" aria-controls="tab-12" aria-selected="false">
-                                           Vyaire
+											<b>Vyaire</b>
                                             </a>
                                         </li>
 
                                         <!-- TAB-3 LINK -->
                                         <li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-16" role="tab" aria-controls="tab-13" aria-selected="false">
-                                            GE Healthcare
+                                            <b>GE Healthcare</b>
                                             </a>
                                         </li>
 
                                         <li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-17" role="tab" aria-controls="tab-13" aria-selected="false">
-                                            Fujifilm
+                                            <b>Fujifilm</b>
                                             </a>
                                         </li>
 										<li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-18" role="tab" aria-controls="tab-13" aria-selected="false">
-                                            Floor Wall or Floor Ceiling Digital Radiography System
+                                            <b>Floor Wall or Floor Ceiling Digital Radiography System</b>
                                             </a>
                                         </li>
 										<li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-19" role="tab" aria-controls="tab-13" aria-selected="false">
-                                            PT. Satya Abadi Vesmed
+											<b> PT. Satya Abadi Vesmed</b>
                                             </a>
                                         </li>
                                         </ul>
@@ -135,14 +167,14 @@
                                         <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab19-list" data-toggle="pill" href="#tab-20" role="tab" aria-controls="tab-11" aria-selected="true">
-                                                Kesia
+											<b>Kesia</b>
                                             </a>
                                         </li>
 
                                         <!-- TAB-2 LINK -->
                                         <li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab20-list" data-toggle="pill" href="#tab-21" role="tab" aria-controls="tab-12" aria-selected="false">
-                                            Wifus
+                                            <b>Wifus</b>
                                             </a>
                                         </li>
 
@@ -162,14 +194,14 @@
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab21-list" data-toggle="pill" href="#tab-22" role="tab" aria-controls="tab-11" aria-selected="true">
-                                               REI
+											<b>REI</b>
                                             </a>
                                         </li>
 
                                         <!-- TAB-2 LINK -->
                                         <li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab22-list" data-toggle="pill" href="#tab-23" role="tab" aria-controls="tab-12" aria-selected="false">
-                                           Yokogawa
+											<b>Yokogawa</b>
                                             </a>
                                         </li>                                       
 
@@ -189,7 +221,7 @@
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab23-list" data-toggle="pill" href="#tab-24" role="tab" aria-controls="tab-11" aria-selected="true">
-                                                Konstruksi
+											<b>Konstruksi</b>
                                             </a>
                                         </li>                                      
 
