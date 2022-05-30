@@ -39,7 +39,7 @@
 				 		<div class="col-lg-4">
                          <div id="tabs-nav" class="list-group text-center clearfix" style="border-radius: 25px;">
                                 <div id="accordion" style="border-radius: 25px;">
-                                <div class="card">
+                                <div class="card" style="border-radius: 25px;">
                                 <div class="card-header">
                                     <a class="card-link" data-toggle="collapse" href="#collapseOne">
                                     <b>KERJASAMA</b>
