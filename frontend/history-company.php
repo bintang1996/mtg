@@ -7,7 +7,7 @@
 											
 										<!-- Title -->
 										<div class="text-left">
-										<b>AKTE</b><br>
+										<h5>AKTE</h5><br>
 
 										<!-- Text -->
 										NO. 35,<BR>23 November 2012
