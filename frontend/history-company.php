@@ -1,6 +1,6 @@
 <TABLE width="100%"><tr><td width="19%">
 										<!-- SERVICE BOX #1 -->
-										<div class="sbox-3 icon-sm orange-hover" style="padding: 10px;" >
+										<div class="sbox-3 icon-sm orange-hover" style="padding: 15px;" >
 
 										<!-- Icon -->
 			
@@ -19,7 +19,7 @@
 
 
 										<!-- SERVICE BOX #1 -->
-										<div class="sbox-3 icon-sm orange-hover" style="padding: 10px;">
+										<div class="sbox-3 icon-sm orange-hover" style="padding: 15px;">
 
                     <!-- Icon -->
 
@@ -38,7 +38,7 @@
 
 
 										<!-- SERVICE BOX #1 -->
-										<div class="sbox-3 icon-sm orange-hover" style="padding: 10px;">
+										<div class="sbox-3 icon-sm orange-hover" style="padding: 15px;">
 
 										<!-- Icon -->
 									
@@ -57,7 +57,7 @@
 </td><td width="19%">
 
 										<!-- SERVICE BOX #1 -->
-										<div class="sbox-3 icon-sm orange-hover" style="padding: 10px;">
+										<div class="sbox-3 icon-sm orange-hover" style="padding: 15px;">
 
                     <!-- Icon -->
 
@@ -76,14 +76,14 @@
 
 </td><td width="20%">
 										<!-- SERVICE BOX #1 -->
-										<div class="sbox-3 icon-sm orange-hover" style="padding: 10px;">
+										<div class="sbox-3 icon-sm orange-hover" style="padding: 15px;">
 
 										<!-- Icon -->
 								
 											
 										<!-- Title -->
 										<div class="text-left">
-										<h5 style="margin: 5px;">IPAK</h5>
+										<h5 >IPAK</h5>
 
 										<!-- Text -->
 								Elektromedik Radiasi, Elektromedik Non Radiasi, Non Elektronik, Non Steril, Non Elektromedik Steril & Diagnostik In Vitro
