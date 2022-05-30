@@ -124,11 +124,11 @@ display: none;
 								</tr>
 								<tr>
 									<td><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
-									<td></td>
+									<td>Dedicated Sales and Apps person will give high chance to win</td>
 								</tr>
 								<tr>
 									<td><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
-									<td></td>
+									<td>Bundle With Modality Offer Bundle package with cathlab</td>
 								</tr>
 							</table>
 							</div>
@@ -139,11 +139,11 @@ display: none;
 								<table>
 									<tr>
 										<td><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
-										<td></td>
+										<td>E-catalog listed product Register QFR in Government Ecommerce</td>
 									</tr>
 									<tr>
 									<td><img class="img-fluid" width="150px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
-									<td></td>
+									<td>On-site Support Build confidence on Users/cardiologist</td>
 								</tr>
 								<tr>
 									<td height="150px"><img class="img-fluid" width="150px" style="border-radius: 15px; display: none;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>

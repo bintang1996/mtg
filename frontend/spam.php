@@ -167,7 +167,7 @@
 											<!-- Option #3 -->
 											<div class="box-list">	
 												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p class="p-sm">Bundle With Modality<br>Offer Bundle package with cathlab</p>				
+												<p class="p-sm">Bundle With Modality Offer Bundle package with cathlab</p>				
 											</div>
 
 										</div>
@@ -177,13 +177,13 @@
 											<!-- Option #4 -->
 											<div class="box-list">	
 												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p class="p-sm">E-catalog listed product<br>Register QFR in Government Ecommerce</p>				
+												<p class="p-sm">E-catalog listed product Register QFR in Government Ecommerce</p>				
 											</div>
 
 											<!-- Option #5 -->
 											<div class="box-list">							
 												<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-												<p class="p-sm">On-site Support<br>Build confidence on Users/cardiologist</p>							
+												<p class="p-sm">On-site Support Build confidence on Users/cardiologist</p>							
 											</div>
 										</div>
 									</div>	<!-- End Options List -->
