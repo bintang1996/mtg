@@ -100,7 +100,12 @@ display: none;
 
 			<section id="info-4" class="wide-100 info-section division" style="background-color:#ececec; padding-bottom: 60px;">
 				<div class="container" style="background-color:#ececec;">
-				<h3 style="margin-bottom:0;color:#214068;" class="h3-md steelblue-color text-center">MODEL BISNIS</h3>
+				<div class="row">	
+						<div class="col-lg-10 offset-lg-1 section-title" style="margin-bottom:30px;">		
+							<!-- Title 	-->	
+							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>MODEL BISNIS</b></b></h3>								
+						</div> 
+					</div>
 					<!-- BOTTOM ROW -->
 					<div class="bottom-row" >
 						<!-- Title -->
