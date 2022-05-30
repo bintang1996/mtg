@@ -35,7 +35,7 @@
   width: 54px;
   height: 54px;
   line-height: 52px;
-  font-size: 22px;
+  font-size: 18px;
   text-align: center;
   position: absolute;
   top: 18px;
@@ -56,7 +56,7 @@
   left: 0px;
 }
 .timeline .timeline-item .timeline-badge.primary {
-  background-color: #1f9eba;
+  background-color: #214068;
 }
 .timeline .timeline-item .timeline-badge.info {
   background-color: #5bc0de;
@@ -193,7 +193,7 @@
 
 
 						<li class="timeline-item">
-							<div class="timeline-badge primary"><i class="fa fa-check"></i></div>
+							<div class="timeline-badge primary">2012</div>
 							<div class="timeline-panel">
               <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
               	<!-- Icon -->
