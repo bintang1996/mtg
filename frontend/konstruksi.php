@@ -217,16 +217,16 @@ display: none;
 								<!-- Text -->
 								<p><table>
 								<tr>
-								<td valign="top"><span STYLE="COLOR: #e86845">&#8226;</span> </td> <td> &nbsp;&nbsp;Hepa Filter</td>
+								<td valign="top"><span STYLE="COLOR: #e86845">&#8226;</span> &nbsp;&nbsp;</td> <td>Hepa Filter</td>
 								</tr>
 								<tr>
-								<td valign="top"><span STYLE="COLOR: #e86845">&#8226;</span> </td> <td> &nbsp;&nbsp;Instrument Ruang Operasi: Meja operasi, pass box, film viewer, display information, pendant, vynil lantai, dll</td>
+								<td valign="top"><span STYLE="COLOR: #e86845">&#8226;</span> &nbsp;&nbsp;</td> <td>Instrument Ruang Operasi: Meja operasi, pass box, film viewer, display information, pendant, vynil lantai, dll</td>
 								</tr>
 								<tr>
-								<td valign="top"><span STYLE="COLOR: #e86845">&#8226;</span> </td> <td> &nbsp;&nbsp;Finishing dinding ruang operasi dengan material lokal maupun import</td>
+								<td valign="top"><span STYLE="COLOR: #e86845">&#8226;</span> &nbsp;&nbsp;</td> <td>Finishing dinding ruang operasi dengan material lokal maupun import</td>
 								</tr>
 								<tr>
-								<td valign="top"><span STYLE="COLOR: #e86845">&#8226;</span> </td> <td> &nbsp;&nbsp;pintu hermatic dnegan mesin China, Jepang, maupun Eropa</td>
+								<td valign="top"><span STYLE="COLOR: #e86845">&#8226;</span> &nbsp;&nbsp;</td> <td>Pintu hermatic dnegan mesin China, Jepang, maupun Eropa</td>
 								</tr>
 </table></p>
 							</div>
