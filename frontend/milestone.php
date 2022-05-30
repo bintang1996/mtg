@@ -173,6 +173,9 @@
   bottom: 0px;
   left: 43px;
 }
+.orange-hover:hover{
+  backround-color: #e86845;
+}
 </style>
 
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
