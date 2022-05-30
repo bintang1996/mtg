@@ -40,7 +40,7 @@
                          <div id="tabs-nav" class="list-group text-center clearfix" style="">
                                 <div id="accordion" >
                                 <div class="card" >
-                                <div class="card-header" style="background-color: #e86845; color: #fff; border-radius:20px;">
+                                <div class="card-header" style="background-color: #e86845; color: #fff; border-top-left-radius:20px; border-top-right-radius:20px;">
                                     <a class="card-link" data-toggle="collapse" href="#collapseOne">
                                     <b style="color: #fff; font-weight: bolder;">KERJASAMA</b>
                                     </a>
@@ -75,7 +75,7 @@
                                 </div>
                                 </div>
                                 <div class="card">
-                                <div class="card-header" style="background-color: #e86845; color: #fff;">
+                                <div class="card-header" style="background-color: #e86845; color: #fff; border-bottom-left-radius:20px; border-bottom-right-radius:20px;">
                                     <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo">
                                     <b style="color: #fff; font-weight: bolder;" >KONSTRUKSI</b>
                                 </a>
