@@ -179,19 +179,19 @@ display: none;
 
 							<table>
 								<tr>
-									<td><img class="img-fluid" width="250px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
+									<td><img class="img-fluid" width="200px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
 									<td>Timbalisasi ruangan Radiologi</td>
 								</tr>
 								<tr>
-									<td><img class="img-fluid" width="250px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
+									<td><img class="img-fluid" width="200px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
 									<td>Penyediaan Kaca Pb, Frame Kaca dan Pemasangannya</td>
 								</tr>
 								<tr>
-									<td><img class="img-fluid" width="250px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
+									<td><img class="img-fluid" width="200px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
 									<td>Menyediakan Pintu Timbal atau Anti radiasi (Finishing HPL, Stainles Steel baik manual maupun otomatis atau Pintu Harmetic)</td>
 								</tr>
 								<tr>
-									<td><img class="img-fluid" width="250px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
+									<td><img class="img-fluid" width="200px" style="border-radius: 15px;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
 									<td>Electrical dan Grounding Installation</td>
 								</tr>
 							</table>
