@@ -263,7 +263,7 @@
 
 
             <li class="timeline-item">
-							<div class="timeline-badge primary orange-hover"><i class="fa fa-check"></i></div>
+							<div class="timeline-badge primary orange-hover">2020</div>
 							<div class="timeline-panel">
               <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
               	<!-- Icon -->
