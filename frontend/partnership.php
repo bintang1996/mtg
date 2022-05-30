@@ -141,7 +141,7 @@ display: none;
 									<td></td>
 								</tr>
 								<tr>
-									<td><img class="img-fluid" width="150px" style="border-radius: 15px; display: none;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
+									<td height="150px"><img class="img-fluid" width="150px" style="border-radius: 15px; display: none;" src="images/partnership/centangbiru.png" alt="tab-image" /></td>
 									<td></td>
 								</tr>
 								</table>
