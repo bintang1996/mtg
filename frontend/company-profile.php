@@ -117,7 +117,7 @@ display: none;
 					<div class="row">	
 					<div class="col-lg-12 text-center" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>OUR LEADERS</b></b></h3>								
+							<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>PIMPINAN KAMI</b></b></h3>								
 	
 							<!-- Text -->
 							<p>Direksi Meditrans mendorong peningkatan kinerja tim sehingga mampu memberikan pelayanan
