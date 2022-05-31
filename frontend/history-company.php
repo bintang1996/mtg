@@ -82,7 +82,7 @@
 								
 											
 										<!-- Title -->
-										<div class="text-left">
+										<div class="text-left"><br><br>
 										<h5 style="margin: 5px;">IPAK</h5>
 
                     <!-- Text -->
