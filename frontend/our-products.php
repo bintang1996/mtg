@@ -109,7 +109,7 @@ display: none;
                                 <div class="card">
                                 <div class="card-header" style="background-color: #fff; color: #fff;">
                                     <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo">
-                                    <b style="color: #fff;">RADIOLOGI</b>
+                                    <b style="color: #214068;">RADIOLOGI</b>
                                 </a>
                                 </div>
                                 <div id="collapseTwo" class="collapse" data-parent="#accordion">
