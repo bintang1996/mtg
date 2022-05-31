@@ -63,11 +63,11 @@
 
                       
                     <!-- Title -->
-                    <div class="text-left"><br>
+                    <div class="text-left"><br><br>
                     <h5 style="margin: 5px;">SIJUK</h5>
 
                     <!-- Text -->
-                   188.4/12/436.7.5/2019<br>- Bangunan Kesehatan/Rumah Sakit Pengolahan Limbah<br><br>
+                   188.4/12/436.7.5/2019<br><br><br><br>
                     
                     </div>
                    </div>
