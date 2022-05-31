@@ -71,7 +71,7 @@ display: none;
 				 		<div class="col-lg-4">
                          <div id="tabs-nav" class="list-group text-center clearfix">
                                 <div id="accordion">
-                                <div class="card">
+                                <div class="card" style="border:1px solid #4d4d4d;">
                                 <div class="card-header" style="background-color: #fff; color: #fff; border-top-left-radius:20px; border-top-right-radius:20px;">
                                     <a class="card-link" data-toggle="collapse" href="#collapseOne">
                                     <b style="color: #214068;">CARDIOVASCULAR</b>
