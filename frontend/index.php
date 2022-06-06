@@ -481,7 +481,7 @@
 <!-- INFO TEXT -->	
 <div class="col-lg-6">
 	
-	<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
+	<div class="txt-block pc-30" >
 
 <!-- Title 	-->	
 <h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>RECENT UPDATE</b></b></h3>
@@ -565,7 +565,7 @@
 
 							<?php
                     $r=$_GET['id'];
-							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a limit 9") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
                                 $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
                                 while($d1=mysqli_fetch_array($sql1)){ 
