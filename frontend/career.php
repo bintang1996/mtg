@@ -179,17 +179,10 @@ display: none;
 					                	<input type="text" name="current_position" class="form-control phone" placeholder="Posisi Sebelumnya*" required> 
 					                </div>
 
-                                    <!-- Form Select -->
-					                <div id="input-Posisi" class="col-md-12 col-lg-6 input-patient">
-					                    <select id="inlineFormCustomSelect3" name="desired_position" class="custom-select patient" required>
-					                        <option value="">Posisi Yang Ingin Dilamar*</option>
-											<option>Posisi 1</option>
-											<option>Posisi 2</option>
-											<option>Posisi 3</option>
-                                            <option>Posisi 4</option>
-                                            <option>Posisi 5</option>
-					                    </select>
+									<div id="input-Posisi" class="col-md-12 col-lg-6 input-patient">
+					                	<input type="text" name="desired_position" class="form-control phone" placeholder="Posisi Yang Ingin Dilamar*" required> 
 					                </div>
+
 
                                     <div id="input-message" class="col-lg-12 input-message">
 					                	<textarea class="form-control message" name="ket" rows="6" placeholder="Alasan Memilih Posisi Tersebut" required></textarea>

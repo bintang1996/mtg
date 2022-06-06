@@ -93,12 +93,12 @@ display: none;
 							<div class="row">	
 						<div class="" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>LAYANAN KONSTRUKSI</b></b></h3>								
+							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>JASA KONSTRUKSI</b></b></h3>								
 						</div> 
 					</div>
 								
 								<!-- Text -->
-								<p class="p-lg">Layanan konstruksi dan renovasi Meditrans di handle oleh 
+								<p class="p-lg">Jasa konstruksi dan renovasi Meditrans di handle oleh 
 									tim yang berpengalaman dan berkompeten di bidangnya. Antara lain penyediaan 
 									pintu anti radiasi, sandwich panel, pemasangan vinyl, MOT, Kaca Pb, timbalisasi, dan 
 									raised floor. Hingga saat ini, Meditrans melayani jasa konstruksi dan renovasi di 
@@ -124,7 +124,7 @@ display: none;
 				<div class="row">	
 						<div class="col-lg-10 offset-lg-1 section-title" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>LAYANAN KONSTRUKSI YANG TERSEDIA</b></b></h3>								
+							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>JASA KONSTRUKSI YANG TERSEDIA</b></b></h3>								
 						</div> 
 					</div>
 					<!-- BOTTOM ROW -->

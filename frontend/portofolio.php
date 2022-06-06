@@ -1,28 +1,62 @@
 <?php include "header.php";?>
-<!-- BREADCRUMB
-			============================================= -->
-			<div id="breadcrumb" class="division">
-				<div class="container">
-					<div class="row">						
-						<div class="col">
-							<div class=" breadcrumb-holder">
+<style>
+	.indicators {
+display: none;
+	}
+</style>
+<!-- HERO-2
+			============================================= -->	
+			<section id="hero-2" class="hero-section division">
 
-								<!-- Breadcrumb Nav -->
-								<nav aria-label="breadcrumb">
-								  	<ol class="breadcrumb">
-								    	<li class="breadcrumb-item"><a href="index.php">Home</a></li>
-								    	<li class="breadcrumb-item active" aria-current="page">Portofolio</li>
-								  	</ol>
-								</nav>
 
-								<!-- Title -->
-								<h4 class="h4-sm steelblue-color">Portofolio</h4>
+				<!-- SLIDER -->
+				<div class="slider" style="height: 500px;">
+			    	<ul class="slides">
 
-							</div>
-						</div>
-					</div>  <!-- End row -->	
-				</div>	<!-- End container -->		
-			</div>	<!-- END BREADCRUMB -->	
+
+				     	<!-- SLIDE #1 -->
+				      	
+
+    	
+                                <li style="height: 500px;">			
+								<img class="img-fluid" width="100%" height="500px" src="images/head/portoheader.jpg" alt="hero-image">
+                                
+							<!-- Image Caption -->
+							<div class="caption d-flex align-items-center left-align" style="background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)); ">
+		       					<div class="container">
+		       						<div class="row" >
+		       							<div class="col-md-12 col-lg-10" >
+		       								<div class="caption-txt">
+						       					<!-- Title -->
+						       					<h3 class="white-color">PORTOFOLIO</h3>
+
+						       					<!-- Option Box #1 -->
+												<div class="box-list">							
+													<div class="box-list-icon white-color"></div>
+													<p class="p-md white-color" >Ini PORTOFOLIO Perusahaan
+													</p>						
+												</div>
+									
+									    
+											</div>
+										</div>
+									</div>  <!-- End row -->
+								</div>  <!-- End container -->
+					        </div>	<!-- End Image Caption -->
+
+							
+							
+							</li>
+                       
+						
+					    	<!-- END SLIDE #1 -->
+
+
+				    </ul>
+			  	</div>	<!-- END SLIDER -->
+
+
+			</section>	<!-- END HERO-2 -->
 
 
 
