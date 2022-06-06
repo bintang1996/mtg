@@ -70,7 +70,7 @@
                     $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where p_name like '%".$cari."%'");
                     $total = mysqli_num_rows($result);
                     $pages = ceil($total/$halaman); 
-                    $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where p_name like '%".$cari."%' LIMIT $mulai, $halaman") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                    $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where p_name like '%".$cari."%' order by id DESC LIMIT $mulai, $halaman") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
                         }else{
 
                             $halaman = 10;
