@@ -7,7 +7,12 @@
 			background-repeat: no-repeat;
 			background-size: cover;
   background-position: center;
+
 			
+
+			}
+			img{
+				border-radius: 20px;
 			}
     </style>
 
