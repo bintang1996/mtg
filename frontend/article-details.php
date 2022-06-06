@@ -13,6 +13,8 @@
 			}
 			img{
 				border-radius: 20px;
+				width: 680px;
+				padding: 15px;
 			}
     </style>
 
