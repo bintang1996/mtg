@@ -1167,7 +1167,7 @@ display: none;
 							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 							while($d2=mysqli_fetch_array($sql2)){
 							?> 
-									<img class="img-fluid" width="350" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+									<img class="img-fluid" width="100%" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
 <?php } ?>
 
 
@@ -1189,7 +1189,7 @@ display: none;
 
 									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>
 									</p>
-									<br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More<a>
+									<br><a href="product-details.php?id=<?php echo $x;?>" >Read More<a>
 								</div>	
 
 							</div>								
