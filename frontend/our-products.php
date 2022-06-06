@@ -79,7 +79,7 @@ display: none;
                                 </div>
                                 <div id="collapseOne" class="collapse show" data-parent="#accordion">
                                 
-							    <ul class="nav nav-pills" id="pills-tab" role="tablist">
+							    <ul class="nav nav-pills" id="pills-tab" role="tablist" style="border: none;">
 
 							    	<!-- TAB-1 LINK -->
 								  	<li class="nav-item icon-xs">
