@@ -1146,9 +1146,8 @@ display: none;
 
 	<!-- PRODUK NI BOS -->									
 							
-						<div class="row">
-						<?php
-                   			 $r=$_GET['id'];
+	<?php
+                    $r=$_GET['id'];
 							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Wifus'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
                                 $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
@@ -1156,44 +1155,46 @@ display: none;
 							?> 
 
 						<!-- DOCTOR #1 -->
-						<div class="col">
-							<div class="" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
+						<div class="col-md-6">
+							<div class="doctor-1">								
 														
 								<!-- Doctor Photo -->
-						
+								<div class="hover-overlay text-center"> 
 
 									<!-- Photo -->
                                     <?php
-									$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-									while($d2=mysqli_fetch_array($sql2)){
-									?> 
-									<img class="img-fluid" width="100%" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
-									<?php } ?>
+							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+							while($d2=mysqli_fetch_array($sql2)){
+							?> 
+									<img class="img-fluid" width="210" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+<?php } ?>
 
 
 
-								
+									<div class="item-overlay"></div>
 
-						
+									<!-- Profile Link -->		
+									<div class="profile-link">
+										<a class="btn btn-sm btn-tra-white black-hover" href="product-details.php?id=<?php echo $x;?>" title="">View More Info</a>
+									</div> 
+
+								</div>	
 
 								<!-- Doctor Meta -->		
-								<div class="" style="padding: 20px;">
+								<div class="doctor-meta">
 
 									<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
 									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
-									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 60); ?>
-									... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More<a>
+									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>
+									</p>
 
 								</div>	
 
-							</div>	
-								
-											
+							</div>								
 						</div>	<!-- END DOCTOR #1 -->
 						
-						
-							</div><?php }} ?>	
+						<?php }} ?>
 
 <!-- PRODUK NI BOS -->	
 
