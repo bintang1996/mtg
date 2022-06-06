@@ -1146,7 +1146,7 @@ display: none;
 
 	<!-- PRODUK NI BOS -->									
 							
-						
+						<div class="row">
 						<?php
                    			 $r=$_GET['id'];
 							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Wifus'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
@@ -1160,7 +1160,7 @@ display: none;
 							<div class="doctor-1" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
 														
 								<!-- Doctor Photo -->
-								<div class="hover-overlay text-center"> 
+						
 
 									<!-- Photo -->
                                     <?php
@@ -1172,14 +1172,9 @@ display: none;
 
 
 
-									<div class="item-overlay"></div>
+								
 
-									<!-- Profile Link -->		
-									<div class="profile-link">
-										<a class="btn btn-sm btn-tra-white black-hover" href="product-details.php?id=<?php echo $x;?>" title="">View More Info</a>
-									</div> 
-
-								</div>	
+						
 
 								<!-- Doctor Meta -->		
 								<div class="doctor-meta" style="padding: 20px;">
@@ -1198,7 +1193,7 @@ display: none;
 						</div>	<!-- END DOCTOR #1 -->
 						
 						<?php }} ?>	
-							
+							</div>
 
 <!-- PRODUK NI BOS -->	
 
