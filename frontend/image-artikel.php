@@ -32,7 +32,7 @@
 			<div class="mySlides">
 
 			<div class="gallery-item pediatric">
-				<div class="gambar hover-overlay" style="background-image: url('assets/imgs/shop/<?php echo $d['img_name']; ?>');">
+				<div class="gambar hover-overlay" style="border-radius: 20px; background-image: url('assets/imgs/shop/<?php echo $d['img_name']; ?>');">
 					<div class="item-overlay"></div>				
 												
 												<!-- Image Zoom -->		
