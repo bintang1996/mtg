@@ -487,7 +487,7 @@
 <h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>RECENT UPDATE</b></b></h3>
 	<br>
 
-<h5 class="h4-md" style="color: #4d4d4d;font-family:'Lato black'; font-weight:bolder;"><B><?php echo $d1['p_name']; ?></B></h5><BR>
+<h5 class="h4-md" style="color: #4d4d4d;font-family:'Lato black'; font-weight:bolder;"><B><?php echo $d1['p_name']; ?></B></h5>
 <p style="text-align: justify; text-justify: inter-word;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 450); ?> ....</p>
 	<br><a href="article-details.php?id=<?php echo $d1['id']; ?>" class="btn btn-md btn-blue orange-hover">Selengkapnya</a>
 	</div>    <!-- End row -->
