@@ -60,7 +60,7 @@ display: none;
 
 <style>
 	.card-header{
-		border:1px solid #4d4d4d; background-color: #fff; color: #fff; border-top-left-radius:20px; border-top-right-radius:20px;
+		border:1px solid #4d4d4d; background-color: #fff; color: #fff;
 	}
 </style>
 
@@ -76,7 +76,8 @@ display: none;
                          <div id="tabs-nav" class="list-group text-center clearfix">
                                 <div id="accordion">
                                 <div class="card">
-                                <div class="card-header" style="">
+                                <div class="card-header" style="border-top-left-radius:20px; border-top-right-radius:20px;
+	">
                                     <a class="card-link" data-toggle="collapse" href="#collapseOne">
                                     <b style="color: #214068;">CARDIOVASCULAR</b>
                                     </a>
