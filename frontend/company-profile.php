@@ -153,6 +153,7 @@ display: none;
 										</div>
 	
 </td><td>
+	<td style="width: 2%;"></td>
 										<div class="sbox-3 icon-sm" style="padding-top: 0; padding-left: 0; padding-right: 0;">
 
 										<!-- Icon -->
@@ -169,7 +170,8 @@ display: none;
 										<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>
 																																							
 										</div>
-</td><td style="">
+</td><td>
+<td style="width: 2%;"></td>
 										<div class="sbox-3 icon-sm" style="padding-top: 0; padding-left: 0; padding-right: 0;">
 
 										<!-- Icon -->
