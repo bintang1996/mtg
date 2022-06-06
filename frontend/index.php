@@ -254,7 +254,7 @@
 			}
 			.gambar1{
 			width: 90%;
-			height: 500px;
+			height: 400px;
 			border-radius: 50px;
 			background-repeat: no-repeat;
 			background-size: cover;
