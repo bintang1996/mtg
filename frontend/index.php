@@ -473,7 +473,7 @@
 							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$gk' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 							while($d2=mysqli_fetch_array($sql2)){
 							?> 
-							<div class="gambar1" style="padding-right 25px;background-image: url('assets/imgs/shop/<?php echo $d2['img_name']; ?>');"></div>
+							<div class="gambar1" style="padding-left: 25px;background-image: url('assets/imgs/shop/<?php echo $d2['img_name']; ?>');"></div>
 		<?php } ?>
 		</div>
 
