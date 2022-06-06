@@ -1192,8 +1192,8 @@ display: none;
 
 								</div>	
 
-							</div>
-							</div>			
+						
+								
 											
 						</div>	<!-- END DOCTOR #1 -->
 						
