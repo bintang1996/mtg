@@ -229,7 +229,11 @@ display: none;
 											<b>Konstruksi</b>
                                             </a>
                                         </li>                                      
-
+										<li class="nav-item icon-xs">
+                                            <a class="nav-link" id="tab23-list" data-toggle="pill" href="#tab-24" role="tab" aria-controls="tab-11" aria-selected="true">
+											<b>Lainnya</b>
+                                            </a>
+                                        </li>   
                                         </ul>
                                     </div>
                                 </div>
