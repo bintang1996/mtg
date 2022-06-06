@@ -16,6 +16,9 @@
 				width: 680px;
 				padding: 15px;
 			}
+			a{
+				color: blue;
+			}
     </style>
 
 	<!-- BREADCRUMB
