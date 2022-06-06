@@ -18,7 +18,7 @@
 			
 			}
 			</style>
-		<div class="w3-content w3-display-container" style="max-width:100%; background-color:#fff; padding-top:25px; padding-bottom:5px;">
+		<div class="w3-content w3-display-container" style="max-width:100%; background-color:#fff; padding-top:25px; padding-bottom:5px; border-radius: 20px;">
 
 
 			
