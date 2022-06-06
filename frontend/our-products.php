@@ -1157,7 +1157,7 @@ display: none;
 
 						<!-- DOCTOR #1 -->
 						<div class="col">
-							<div class="" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
+							<div class="doctor-1" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
 														
 								<!-- Doctor Photo -->
 						
@@ -1177,12 +1177,12 @@ display: none;
 						
 
 								<!-- Doctor Meta -->		
-								<div class="" style="padding: 20px;">
+								<div class="col-md-6" style="padding: 20px;">
 
 									<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
 									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
-									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 60); ?>
+									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
 									... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
 
 								</div>	
