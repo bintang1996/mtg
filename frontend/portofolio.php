@@ -81,7 +81,7 @@ display: none;
                                 <div class="card" >
                                 <div class="card-header" style="border-top-left-radius:20px; border-top-right-radius:20px;">
                                     <a class="card-link" data-toggle="collapse" href="#collapseOne">
-                                    <b style="color: #fff; font-weight: bolder;">KERJASAMA</b>
+                                    <b style="color: #214068; font-weight: bolder;">KERJASAMA</b>
                                     </a>
                                 </div>
                                 <div id="collapseOne" class="collapse show" data-parent="#accordion">
@@ -116,7 +116,7 @@ display: none;
                                 <div class="card">
                                 <div class="card-header" style="border-bottom-left-radius:20px; border-bottom-right-radius:20px;">
                                     <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo">
-                                    <b style="color: #fff; font-weight: bolder;" >KONSTRUKSI</b>
+                                    <b style="color: #214068; font-weight: bolder;" >KONSTRUKSI</b>
                                 </a>
                                 </div>
                                 <div id="collapseTwo" class="collapse" data-parent="#accordion">
