@@ -1177,7 +1177,7 @@ display: none;
 						
 
 								<!-- Doctor Meta -->		
-								<div class="col-md-6" style="padding: 20px;">
+								<div class="" style="padding: 20px;">
 
 									<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
 									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
