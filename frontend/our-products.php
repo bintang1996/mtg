@@ -1192,8 +1192,8 @@ display: none;
 											
 						</div>	<!-- END DOCTOR #1 -->
 						
-						<?php }} ?>	
-							</div>
+						
+							</div><?php }} ?>	
 
 <!-- PRODUK NI BOS -->	
 
