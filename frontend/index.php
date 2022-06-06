@@ -253,7 +253,7 @@
 
 			}
 			.gambar1{
-			width: 90%;
+			width: 400px;
 			height: 400px;
 			border-radius: 50px;
 			background-repeat: no-repeat;
