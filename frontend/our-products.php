@@ -59,7 +59,7 @@ display: none;
 			</section>	<!-- END HERO-2 -->
 
 <style>
-	card-header{
+	.card-header{
 		border:1px solid #4d4d4d; background-color: #fff; color: #fff; border-top-left-radius:20px; border-top-right-radius:20px;
 	}
 </style>
