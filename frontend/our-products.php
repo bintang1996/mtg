@@ -1157,7 +1157,7 @@ display: none;
 
 						<!-- DOCTOR #1 -->
 						<div class="col-md-6">
-							<div class="" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
+							<div class="doctor-1" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
 														
 								<!-- Doctor Photo -->
 						
@@ -1177,7 +1177,7 @@ display: none;
 						
 
 								<!-- Doctor Meta -->		
-								<div class="doctor-meta" style="padding: 20px;">
+								<div class="" style="padding: 20px;">
 
 									<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
 									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
