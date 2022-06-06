@@ -90,7 +90,7 @@ display: none;
 
 																			Berlatar belakang pendiri perusahaan yang memiliki pengalaman di bidang peralatan penunjang kesehatan, saat ini Meditrans fokus dalam pengembangan perusahaan dalam hal pelayanan Barang dan Jasa penunjang kesehatan.<br>
 
-																			Di dukung dengan tim yang solid dan berpengalaman, Meditrans bekerjasama dengan Rumah Sakit serta perusahaan penyedia peralatan kesehatan, baik principal ataupun pihak Kerjasama Operasional (KSO) dalam memberikan konsultasi dan pelaksanaan pekerjaan. Yakni meliputi Pra Instalasi peralatan kesehatan seperti instalasi X-Ray, CT-Scan, MRI dan Cathlab.<br>
+																			Di dukung dengan tim yang solid dan berpengalaman, Meditrans bekerjasama dengan Rumah Sakit serta perusahaan penyedia peralatan kesehatan, baik principal ataupun pihak Public Private Partnership (PPP) dalam memberikan konsultasi dan pelaksanaan pekerjaan. Yakni meliputi Pra Instalasi peralatan kesehatan seperti instalasi X-Ray, CT-Scan, MRI dan Cathlab.<br>
 
 																			Meditrans juga berpengalaman dalam hal Konstruksi dan Renovasi untuk ruangan Operasi, ruang radiologi yang membutuhkan instalasi anti radiasi (Timbal Pb) maupun struktur penguat lantai dan rangka atas.<br>
 
