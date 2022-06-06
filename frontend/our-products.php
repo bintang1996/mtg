@@ -58,7 +58,11 @@ display: none;
 
 			</section>	<!-- END HERO-2 -->
 
-
+<style>
+	.card-header{
+		border:1px solid #4d4d4d; background-color: #fff; color: #fff;
+	}
+</style>
 
 			<!-- TABS-2
 			============================================= -->
@@ -71,13 +75,14 @@ display: none;
 				 		<div class="col-lg-4">
                          <div id="tabs-nav" class="list-group text-center clearfix">
                                 <div id="accordion">
-                                <div class="card" style="">
-                                <div class="card-header" style="border:1px solid #4d4d4d; background-color: #fff; color: #fff; border-top-left-radius:20px; border-top-right-radius:20px;">
+                                <div class="card">
+                                <div class="card-header" style="border-top-left-radius:20px; border-top-right-radius:20px;
+	">
                                     <a class="card-link" data-toggle="collapse" href="#collapseOne">
                                     <b style="color: #214068;">CARDIOVASCULAR</b>
                                     </a>
                                 </div>
-                                <div id="collapseOne" class="collapse show" data-parent="#accordion">
+                                <div id="collapseOne" class="collapse show" data-parent="#accordion" >
                                 
 							    <ul class="nav nav-pills" id="pills-tab" role="tablist">
 
@@ -209,8 +214,8 @@ display: none;
                                     </div>
                                 </div>
                                 </div>
-                                <div class="card">
-                                <div class="card-header" style="background-color: #fff; color: #fff; border-bottom-left-radius:20px; border-bottom-right-radius:20px;">
+                                <div class="card" style="border: none;">
+                                <div class="card-header" style="border-bottom-right-radius:20px;">
                                     <a class="collapsed card-link" data-toggle="collapse" href="#collapseFive">
                                     <b style="color: #214068;">KONSTRUKSI</b>
                                 </a>

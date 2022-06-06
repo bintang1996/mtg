@@ -253,8 +253,8 @@
 
 			}
 			.gambar1{
-			width: 90%;
-			height: 500px;
+			width: 400px;
+			height: 400px;
 			border-radius: 50px;
 			background-repeat: no-repeat;
 			background-size: cover;
@@ -450,9 +450,9 @@
 
 							<?php
                     			$r=$_GET['id']; $gi=0;
-								$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a where cat_name = 'Default News Page' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+								$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a where cat_name = 'RECENT UPDATE' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 								while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
-                                $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel limit 3") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                                $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel limit 3 ORDER BY ID desc") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
                                 while($d1=mysqli_fetch_array($sql1)){  $gi++; $gk=$d1['id'];
 							?> 
 
@@ -468,12 +468,12 @@
 
 
 						<!-- INFO IMAGE -->
-						<div class="col-lg-6">
+						<div class="col-lg-6 text-right" STYLE="ALIGN: right; VALIGN: right;">
 <?php
 							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$gk' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 							while($d2=mysqli_fetch_array($sql2)){
 							?> 
-							<div class="gambar1" style="background-image: url('assets/imgs/shop/<?php echo $d2['img_name']; ?>');"></div>
+							<div class="gambar1" style="margin-left: 40px;background-image: url('assets/imgs/shop/<?php echo $d2['img_name']; ?>');"></div>
 		<?php } ?>
 		</div>
 
@@ -487,8 +487,8 @@
 <h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>RECENT UPDATE</b></b></h3>
 	<br>
 
-<h5 class="h4-md" style="color: #4d4d4d;font-family:'Lato black'; font-weight:bolder;"><B><?php echo $d1['p_name']; ?></B></h5><BR>
-<p style="text-align: justify; text-justify: inter-word;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 650); ?> ....</p>
+<h5 class="h4-md" style="color: #4d4d4d;font-family:'Lato black'; font-weight:bolder;"><B><?php echo $d1['p_name']; ?></B></h5>
+<p style="text-align: justify; text-justify: inter-word;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 450); ?> ....</p>
 	<br><a href="article-details.php?id=<?php echo $d1['id']; ?>" class="btn btn-md btn-blue orange-hover">Selengkapnya</a>
 	</div>    <!-- End row -->
 				</div>	<!-- END SECOND ROW -->
