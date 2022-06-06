@@ -229,7 +229,7 @@ display: none;
                                             </a>
                                         </li>                                      
 										<li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab25-list" data-toggle="pill" href="#tab-24" role="tab" aria-controls="tab-25" aria-selected="true">
+                                            <a class="nav-link" id="tab25-list" data-toggle="pill" href="#tab-25" role="tab" aria-controls="tab-25" aria-selected="true">
 											<b>Lainnya</b>
                                             </a>
                                         </li>   
