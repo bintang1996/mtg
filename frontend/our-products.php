@@ -77,7 +77,7 @@ display: none;
                                     <b style="color: #214068;">CARDIOVASCULAR</b>
                                     </a>
                                 </div>
-                                <div id="collapseOne" class="collapse show" data-parent="#accordion">
+                                <div id="collapseOne" class="collapse show" data-parent="#accordion" style="border: none;">
                                 
 							    <ul class="nav nav-pills" id="pills-tab" role="tablist" style="border: none;">
 
