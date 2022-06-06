@@ -1189,7 +1189,7 @@ display: none;
 
 									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>
 									</p>
-									
+									<a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More<a>
 								</div>	
 
 							</div>								
