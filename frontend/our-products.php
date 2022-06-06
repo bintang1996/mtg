@@ -1146,7 +1146,7 @@ display: none;
 
 	<!-- PRODUK NI BOS -->									
 							
-						<div class="row">
+						
 						<?php
                    			 $r=$_GET['id'];
 							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Wifus'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
@@ -1198,7 +1198,7 @@ display: none;
 						</div>	<!-- END DOCTOR #1 -->
 						
 						<?php }} ?>	
-							</div>
+							
 
 <!-- PRODUK NI BOS -->	
 
