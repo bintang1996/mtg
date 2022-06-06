@@ -1144,7 +1144,8 @@ display: none;
 
 
 
-	<!-- PRODUK NI BOS -->									
+	<!-- PRODUK NI BOS -->			
+	<div class="row">						
 							
 	<?php
                     $r=$_GET['id'];
@@ -1194,7 +1195,7 @@ display: none;
 							</div>								
 						</div>	<!-- END DOCTOR #1 -->
 						
-						<?php }} ?>
+						<?php }} ?></div>
 
 <!-- PRODUK NI BOS -->	
 
