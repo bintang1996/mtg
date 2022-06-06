@@ -1182,7 +1182,7 @@ display: none;
 									<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
 									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
-									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
+									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 70); ?>
 									... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
 
 								</div>	
