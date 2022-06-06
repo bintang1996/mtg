@@ -450,7 +450,7 @@
 
 							<?php
                     			$r=$_GET['id']; $gi=0;
-								$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a where cat_name = 'Default News Page' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+								$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a where cat_name = 'RECENT UPDATE' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 								while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
                                 $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel limit 3") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
                                 while($d1=mysqli_fetch_array($sql1)){  $gi++; $gk=$d1['id'];
