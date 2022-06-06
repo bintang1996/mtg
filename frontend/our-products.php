@@ -76,8 +76,7 @@ display: none;
                          <div id="tabs-nav" class="list-group text-center clearfix">
                                 <div id="accordion">
                                 <div class="card">
-                                <div class="card-header" style="border-top-left-radius:20px; border-top-right-radius:20px;
-	">
+                                <div class="card-header" style="border-top-left-radius:20px; border-top-right-radius:20px;">
                                     <a class="card-link" data-toggle="collapse" href="#collapseOne">
                                     <b style="color: #214068;">CARDIOVASCULAR</b>
                                     </a>
@@ -122,37 +121,37 @@ display: none;
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab16-list" data-toggle="pill" href="#tab-14" role="tab" aria-controls="tab-11" aria-selected="true">
+                                            <a class="nav-link" id="tab14-list" data-toggle="pill" href="#tab-14" role="tab" aria-controls="tab-14" aria-selected="true">
                                                 <b>Samsung Healthcare</b>
                                             </a>
                                         </li>
 
                                         <!-- TAB-2 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab17-list" data-toggle="pill" href="#tab-15" role="tab" aria-controls="tab-12" aria-selected="false">
+                                            <a class="nav-link" id="tab15-list" data-toggle="pill" href="#tab-15" role="tab" aria-controls="tab-15" aria-selected="false">
 											<b>Vyaire</b>
                                             </a>
                                         </li>
 
                                         <!-- TAB-3 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-16" role="tab" aria-controls="tab-13" aria-selected="false">
+                                            <a class="nav-link" id="tab16-list" data-toggle="pill" href="#tab-16" role="tab" aria-controls="tab-16" aria-selected="false">
                                             <b>GE Healthcare</b>
                                             </a>
                                         </li>
 
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-17" role="tab" aria-controls="tab-13" aria-selected="false">
+                                            <a class="nav-link" id="tab17-list" data-toggle="pill" href="#tab-17" role="tab" aria-controls="tab-17" aria-selected="false">
                                             <b>Fujifilm</b>
                                             </a>
                                         </li>
 										<li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-18" role="tab" aria-controls="tab-13" aria-selected="false">
+                                            <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-18" role="tab" aria-controls="tab-18" aria-selected="false">
                                             <b>Floor Wall or Floor Ceiling Digital Radiography System</b>
                                             </a>
                                         </li>
 										<li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-19" role="tab" aria-controls="tab-13" aria-selected="false">
+                                            <a class="nav-link" id="tab19-list" data-toggle="pill" href="#tab-19" role="tab" aria-controls="tab-19" aria-selected="false">
 											<b> PT. Satya Abadi Vesmed</b>
                                             </a>
                                         </li>
@@ -171,14 +170,14 @@ display: none;
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                         <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab19-list" data-toggle="pill" href="#tab-20" role="tab" aria-controls="tab-11" aria-selected="true">
+                                            <a class="nav-link" id="tab20-list" data-toggle="pill" href="#tab-20" role="tab" aria-controls="tab-20" aria-selected="true">
 											<b>Kesia</b>
                                             </a>
                                         </li>
 
                                         <!-- TAB-2 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab20-list" data-toggle="pill" href="#tab-21" role="tab" aria-controls="tab-12" aria-selected="false">
+                                            <a class="nav-link" id="tab21-list" data-toggle="pill" href="#tab-21" role="tab" aria-controls="tab-21" aria-selected="false">
                                             <b>Wifus</b>
                                             </a>
                                         </li>
@@ -198,14 +197,14 @@ display: none;
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab21-list" data-toggle="pill" href="#tab-22" role="tab" aria-controls="tab-11" aria-selected="true">
+                                            <a class="nav-link" id="tab22-list" data-toggle="pill" href="#tab-22" role="tab" aria-controls="tab-22" aria-selected="true">
 											<b>REI</b>
                                             </a>
                                         </li>
 
                                         <!-- TAB-2 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab22-list" data-toggle="pill" href="#tab-23" role="tab" aria-controls="tab-12" aria-selected="false">
+                                            <a class="nav-link" id="tab23-list" data-toggle="pill" href="#tab-23" role="tab" aria-controls="tab-23" aria-selected="false">
 											<b>Yokogawa</b>
                                             </a>
                                         </li>                                       
@@ -215,7 +214,7 @@ display: none;
                                 </div>
                                 </div>
                                 <div class="card">
-                                <div class="card-header" style="border-bottom-left-radius:20px; border-bottom-right-radius:20px;">
+                                <div class="card-header" style="border-bottom-left-radius:20px; border-bottom-right-radius:20px;" >
                                     <a class="collapsed card-link" data-toggle="collapse" href="#collapseFive">
                                     <b style="color: #214068;">KONSTRUKSI</b>
                                 </a>
@@ -225,12 +224,12 @@ display: none;
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab23-list" data-toggle="pill" href="#tab-24" role="tab" aria-controls="tab-11" aria-selected="true">
+                                            <a class="nav-link" id="tab24-list" data-toggle="pill" href="#tab-24" role="tab" aria-controls="tab-24" aria-selected="true">
 											<b>Konstruksi</b>
                                             </a>
                                         </li>                                      
 										<li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab23-list" data-toggle="pill" href="#tab-24" role="tab" aria-controls="tab-11" aria-selected="true">
+                                            <a class="nav-link" id="tab25-list" data-toggle="pill" href="#tab-24" role="tab" aria-controls="tab-25" aria-selected="true">
 											<b>Lainnya</b>
                                             </a>
                                         </li>   

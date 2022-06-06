@@ -1,5 +1,18 @@
 
-					<div class="col">
+		<style>
+	.card-header{
+		border:1px solid #4d4d4d; background-color: #fff; color: #fff;
+	}
+</style>	
+			
+			
+			
+			
+			
+			
+			
+			
+			<div class="col">
 					<div class="sbox-3 icon-sm" style="background-color:#fff; border:none;margin-bottom:0px;padding-bottom:0px;">
 					<!-- Icon -->
 					<div class="sbox-3-icon">
