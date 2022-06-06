@@ -1195,11 +1195,11 @@ display: none;
 								</div>	
 								
 											
-						
+						</div>	<!-- END DOCTOR #1 -->
 						
 						<?php }} ?>	
-							</div>
-							</div>	<!-- END DOCTOR #1 -->
+							</div></div>
+
 <!-- PRODUK NI BOS -->	
 
 
