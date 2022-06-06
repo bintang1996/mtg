@@ -131,7 +131,7 @@ display: none;
 
 
 		 		
-						<table style="border:none;"><tbody style="border:none;"><tr style="border:none;"><td>
+						<table style="border:none;"><tbody style="border:none;"><tr style="border:none;"><td width="23%">
 							
 						
 
@@ -155,12 +155,12 @@ display: none;
 </td>
 <td style="width: 4%;"></td>
 
-<td>
+<td td width="23%">
 	
 										<div class="sbox-3 icon-sm" style="padding-top: 0; padding-left: 0; padding-right: 0;">
 
 										<!-- Icon -->
-										<img class="img-fluid" src="images/pimpinan/02.png" alt="doctor-foto" style="border-top-left-radius:20px; border-top-right-radius:20px; width: 98%;">	
+										<img class="img-fluid" src="images/pimpinan/02.png" alt="doctor-foto" style="border-top-left-radius:20px; border-top-right-radius:20px; width: 100%;">	
 											
 										<!-- Title -->
 										<div  class="text-left" style="margin-right: 20px; margin-left: 20px;">
@@ -176,7 +176,7 @@ display: none;
 </td>
 <td style="width: 4%;"></td>
 
-<td>
+<td td width="23%">
 
 										<div class="sbox-3 icon-sm" style="padding-top: 0; padding-left: 0; padding-right: 0;">
 
