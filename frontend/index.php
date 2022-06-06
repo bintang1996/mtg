@@ -468,7 +468,7 @@
 
 
 						<!-- INFO IMAGE -->
-						<div class="col-lg-6" STYLE="ALIGN: right;">
+						<div class="col-lg-6" STYLE="ALIGN: right; VALIGN: right;">
 <?php
 							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$gk' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 							while($d2=mysqli_fetch_array($sql2)){
