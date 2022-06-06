@@ -16,7 +16,7 @@
 				
 				
 			}
-			a{
+			p a{
 				color: blue;
 			}
     </style>
