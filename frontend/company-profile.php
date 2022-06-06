@@ -153,7 +153,7 @@ display: none;
 										</div>
 	
 </td>
-<td style="width: 3%;"></td>
+<td style="width: 4%;"></td>
 
 <td>
 	
@@ -174,7 +174,7 @@ display: none;
 																																							
 										</div>
 </td>
-<td style="width: 3%;"></td>
+<td style="width: 4%;"></td>
 
 <td>
 
