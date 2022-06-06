@@ -277,7 +277,7 @@
 						<!-- INFO IMAGE -->
 						<div class="col-lg-6">
 				
-			<img  style="border-radius: 10%;" width="100%" src="images/meditrans-office-ps3.png" >
+			<img  style="border-radius: 10%;" width="100%" src="images/cathlab2.jpg" >
 			
 						</div>
 
@@ -289,7 +289,7 @@
 			<h3 class="h4-md" style="color: #214068; font-family:'Lato black'; font-weight:bold;"><B>SELAMAT DATANG DI MEDITRANS</B></h3><BR>
 			<p style="text-align:justify;">"Selamat datang di Meditrans. Sebuah perusahaan kesehatan yang kami dirikan sejak 2012 di Surabaya yang sampai saat ini masih terus mengembangkan dirinya. Bersama tim yang berpengalaman di bidangnya, sejak awal dikembangkan, Meditrans telah melayani banyak rumah sakit dalam hal kebutuhan layanan kesehatan.</p>
 
-			<p style="text-align:justify;">Kami tidak hanya membantu rumah sakit untuk memenuhi kebutuhan peralatan kesehatan, perusahaan kami juga bergerak di bidang kerjasama operasional (KSO). Yakni berupa KSO CT Scan dan KSO Cathlab. Kami juga melayani kebutuhan renovasi dan pekerjaan konstruksi rumah sakit.</p>
+			<p style="text-align:justify;">Kami tidak hanya membantu rumah sakit untuk memenuhi kebutuhan peralatan kesehatan, perusahaan kami juga bergerak di bidang Public Private Partnership (PPP). Yakni berupa PPP CT Scan dan PPP Cathlab. Kami juga melayani kebutuhan renovasi dan pekerjaan konstruksi rumah sakit.</p>
 
 			<p style="text-align:justify;">Dengan banyak pengalaman yang kami miliki, Anda tidak perlu ragu untuk bermitra dan bekerjasama dengan kami. Kami selalu siap memberikan yang terbaik untuk Anda."</p>
 
