@@ -223,7 +223,7 @@
                
 									<h4 class="timeline-title">2016</h4>
 					
-									<p>Project KSO pertama diganti -> Proyek Kemitraan Layanan Cathlab Pertama</p><br><br><br>
+									<p>Project KSO pertama diganti -> Proyek Kemitraan Layanan Cathlab Pertama</p><br>
 								</div>
 							</div>
 						</li>
@@ -239,7 +239,7 @@
                
 									<h4 class="timeline-title">2018</h4>
 					
-									<p>Perpindahkan Kantor Pusat Jakarta </p><br><br><br><br>
+									<p>Perpindahkan Kantor Pusat Jakarta </p><br><br><br>
 								</div>
 							</div>
 						</li>
@@ -258,7 +258,7 @@
                
 									<h4 class="timeline-title">2019</h4>
 					
-									<p>Project CT Scan Pertama diganti -> Proyek Kemitraan Layanan CT Scan Pertama </p><br><br><br><br>
+									<p>Project CT Scan Pertama diganti -> Proyek Kemitraan Layanan CT Scan Pertama </p><br>
 								</div>
 							</div>
 						</li>
@@ -293,7 +293,7 @@
                
 									<h4 class="timeline-title">2021</h4>
 					
-									<p>Kerjasama distribusi dengan Invamed dan Samsung Healthcare  </p><br><br><br><br>
+									<p>Kerjasama distribusi dengan Invamed dan Samsung Healthcare  </p><br><br>
 								</div>
 							</div>
 						</li>
@@ -317,7 +317,7 @@
                
 									<h4 class="timeline-title">2022</h4>
 					
-									<p>Kerjasama disribusi dengan Elixir Medical dan Yokogawa</p><br><br><br><br>
+									<p>Kerjasama disribusi dengan Elixir Medical dan Yokogawa</p><br><br>
 								</div>
 							</div>
 						</li>
