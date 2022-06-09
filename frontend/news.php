@@ -22,7 +22,7 @@ display: none;
 </style>
 	<!-- HERO-2
 			============================================= -->	
-			<section id="hero-2" class="hero-section division">
+			<section id="hero-2" class="hero-section division" style="height: 700px;">
 
 
 				<!-- SLIDER -->
