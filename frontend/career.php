@@ -35,8 +35,7 @@ display: none;
 						       					<!-- Option Box #1 -->
 												<div class="box-list">							
 													<div class="box-list-icon white-color"></div>
-													<p class="p-md white-color" >Ini karir Perusahaan
-													</p>						
+																			
 												</div>
 									
 									    
