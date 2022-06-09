@@ -276,8 +276,7 @@
                
 									<h4 class="timeline-title">2020</h4>
 					
-									<p>Proyek Vyaire : distribusi 1000 ventilator donasi USAID untuk KEMENKES</p><br><br>
-								</div>
+									<p>Proyek Vyaire : distribusi 1000 ventilator donasi USAID untuk KEMENKES</p><br>
 							</div>
 						</li>
 
