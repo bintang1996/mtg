@@ -322,8 +322,7 @@ display: none;
 												<h5 class="h5-sm steelblue-color">TERPERCAYA</h5>
 												<!-- Text -->
 												
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor
+												<p class="p-sm">
 												</p>
 
 											</div>
