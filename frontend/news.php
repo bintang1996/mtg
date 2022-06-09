@@ -21,9 +21,7 @@ display: none;
 	}
 </style>
 	<!-- HERO-2
-			============================================= -->	
-			<section id="hero-2" class="hero-section division" style="height: 700px;">
-
+		
 
 				<!-- SLIDER -->
 				<div class="slider" style="height: 500px;">
@@ -159,6 +157,6 @@ display: none;
 							
 						
 				</div>	   <!-- End container -->
-			</section>	 <!-- END LATEST-POST -->
+		
 
 <?php include "footer.php";?>
