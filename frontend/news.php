@@ -42,13 +42,12 @@ display: none;
 		       							<div class="col-md-12 col-lg-10" >
 		       								<div class="caption-txt">
 						       					<!-- Title -->
-						       					<h3 class="white-color">NEWS</h3>
+						       					<h2 class="white-color">NEWS</h2>
 
 						       					<!-- Option Box #1 -->
 												<div class="box-list">							
 													<div class="box-list-icon white-color"></div>
-													<p class="p-md white-color" >Ini news Perusahaan
-													</p>						
+																			
 												</div>
 									
 									    
