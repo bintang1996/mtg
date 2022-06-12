@@ -76,7 +76,7 @@ display: none;
 						</div> -->
 		<div class="col-lg-6">
 				
-		<img class="img-fluid" src="images/meditrans-office-ps3.png" alt="info-image">
+		<img class="img-fluid" style="border-radius: 10%;" src="images/meditrans-office-ps3.png" alt="info-image">
 			
 						</div>
 
