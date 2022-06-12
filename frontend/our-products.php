@@ -69,7 +69,7 @@ display: none;
   -webkit-box-shadow: -1px -1px 1px 1px rgba(0,0,0,0.5);
   -moz-box-shadow: -1px -1px 30px 1px rgba(0,0,0,0.425);
   box-shadow: -1px -1px 1px 1px rgba(0,0,0,0.35);
-
+  border: 0px;
 	}
 </style>
 
@@ -246,7 +246,7 @@ display: none;
                                 </div>
                                 </div>
                                 <div class="card">
-                                <div class="card-header" style="border: none; border-bottom-left-radius:20px; border-bottom-right-radius:20px;" >
+                                <div class="card-header" style="border-bottom-left-radius:20px; border-bottom-right-radius:20px;" >
                                     <a class="collapsed card-link" data-toggle="collapse" href="#collapseFive">
                                     <b style="color: #214068;">KONSTRUKSI</b>
                                 </a>
