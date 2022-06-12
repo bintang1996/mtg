@@ -42,7 +42,7 @@ display: none;
 		       							<div class="col-md-12 col-lg-10" >
 		       								<div class="caption-txt">
 						       					<!-- Title -->
-						       					<h2 class="white-color">NEWS</h2>
+						       					<h2 class="white-color judul1">NEWS</h2>
 
 						       					<!-- Option Box #1 -->
 												<div class="box-list">							

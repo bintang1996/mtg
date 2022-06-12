@@ -28,13 +28,12 @@ display: none;
 		       							<div class="col-md-12 col-lg-10" >
 		       								<div class="caption-txt">
 						       					<!-- Title -->
-						       					<h3 class="white-color">PARTNERSHIP</h3>
+						       					<h3 class="white-color judul1">PARTNERSHIP</h3>
 
 						       					<!-- Option Box #1 -->
 												<div class="box-list">							
 													<div class="box-list-icon white-color"></div>
-													<p class="p-md white-color" >Ini partnership Perusahaan
-													</p>						
+																			
 												</div>
 									
 									    
