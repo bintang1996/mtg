@@ -86,14 +86,14 @@ display: none;
 
 								<!-- TAB-2 LINK -->
 								<li class="nav-item icon-xs">
-									    <a class="nav-link" id="tab12-list" data-toggle="pill" href="#tab-12" role="tab" aria-controls="tab-12" aria-selected="true">
+									    <a class="nav-link active" id="tab12-list" data-toggle="pill" href="#tab-12" role="tab" aria-controls="tab-12" aria-selected="true">
 									       <b>Elixir</b>
 									    </a>
 									</li>
 
 							    	<!-- TAB-1 LINK -->
 								  	<li class="nav-item icon-xs">
-								    	<a class="nav-link active" id="tab11-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="false">
+								    	<a class="nav-link" id="tab11-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="false">
 								    		<b>Medis</b>
 								    	</a>
 								  	</li>
