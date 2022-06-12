@@ -433,7 +433,7 @@
 
 
 
-<section id="services-3" class="bg-lightgrey wide-100 services-section division" style="background-color:#fff; padding-top:50px;">
+<section id="services-3" class="bg-lightgrey wide-100 services-section division" style="background-color:#f8f9fb; padding-top:50px;">
 				<div class="container">
 
 
