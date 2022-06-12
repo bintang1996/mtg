@@ -246,7 +246,7 @@ display: none;
                                 </div>
                                 </div>
                                 <div class="card">
-                                <div class="card-header" style="border-bottom-left-radius:20px; border-bottom-right-radius:20px;" >
+                                <div class="card-header" style="border: none; border-bottom-left-radius:20px; border-bottom-right-radius:20px;" >
                                     <a class="collapsed card-link" data-toggle="collapse" href="#collapseFive">
                                     <b style="color: #214068;">KONSTRUKSI</b>
                                 </a>
