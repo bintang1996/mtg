@@ -1216,7 +1216,7 @@ display: none;
 										<td style="text-align: right; align:right;">
 
 										<?php
-										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='REI'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Zybio'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
