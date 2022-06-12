@@ -469,6 +469,18 @@ display: none;
 
 					<div class="row col-md-12 text-center align-center">
 
+					<div class="panel-body" style="text-align: center; overflow: hidden;">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture27.png">
+  					</div>
+
+					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/br-5.png">
+  					</div>
+
+					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/br-6.png">
+  					</div>
+
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
     				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture1.png">
   					</div>
@@ -587,17 +599,7 @@ display: none;
   					</div>
 
 
-					<div class="panel-body" style="text-align: center; overflow: hidden;">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture27.png">
-  					</div>
-
-					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/br-5.png">
-  					</div>
-
-					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/br-6.png">
-  					</div>
+					
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
     				<img style="max-height: 30px; margin:20px;" src="images/networks/Picture28.png">
