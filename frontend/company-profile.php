@@ -65,13 +65,20 @@ display: none;
 				<div class="container">
 					<div class="row d-flex align-items-center">
 
-						<!-- IMAGE BLOCK -->
+						<!-- IMAGE BLOCK
 						<div class="col-lg-6">
+
 							<div class="info-1-img text-center mb-40 wow fadeInUp" data-wow-delay="0.6s">
 								<img class="img-fluid" src="images/meditrans-office-ps3.png" alt="info-image">
 							</div>
-						</div>
 
+
+						</div> -->
+		<div class="col-lg-6">
+				
+		<img class="img-fluid" src="images/meditrans-office-ps3.png" alt="info-image">
+			
+						</div>
 
 						<!-- TEXT BLOCK -->	
 						<div class="col-lg-6">
