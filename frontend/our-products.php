@@ -251,8 +251,8 @@ display: none;
                                     <b style="color: #214068;">KONSTRUKSI</b>
                                 </a>
                                 </div>
-                                <div id="collapseFive" class="collapse" data-parent="#accordion">
-                                    <div class="card-body" style="border-bottom: 0px;">
+                                <div id="collapseFive" class="collapse" data-parent="#accordion" style="border-bottom: 0px;">
+                                    <div class="card-body" >
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
