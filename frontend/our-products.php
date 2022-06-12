@@ -132,17 +132,29 @@ display: none;
                                             </a>
                                         </li>
 
-                                        <!-- TAB-2 LINK -->
-                                        <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab15-list" data-toggle="pill" href="#tab-15" role="tab" aria-controls="tab-15" aria-selected="false">
-											<b>Vyaire</b>
-                                            </a>
-                                        </li>
-
-                                        <!-- TAB-3 LINK -->
+										<!-- TAB-3 LINK -->
                                         <li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab16-list" data-toggle="pill" href="#tab-16" role="tab" aria-controls="tab-16" aria-selected="false">
                                             <b>GE Healthcare</b>
+                                            </a>
+                                        </li>
+
+                                        <!-- TAB-2 LINK -->
+                                        <li class="nav-item icon-xs">
+                                            <a class="nav-link" id="tab15-list" data-toggle="pill" href="#tab-15" role="tab" aria-controls="tab-15" aria-selected="false">
+											<b>Vyaire Medical</b>
+                                            </a>
+                                        </li>
+
+                                        <li class="nav-item icon-xs">
+                                            <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-18" role="tab" aria-controls="tab-18" aria-selected="false">
+                                            <b>Del Medical</b>
+                                            </a>
+                                        </li>
+
+										<li class="nav-item icon-xs">
+                                            <a class="nav-link" id="tab19-list" data-toggle="pill" href="#tab-19" role="tab" aria-controls="tab-19" aria-selected="false">
+											<b> AGFA</b>
                                             </a>
                                         </li>
 
@@ -151,16 +163,8 @@ display: none;
                                             <b>Fujifilm</b>
                                             </a>
                                         </li>
-										<li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab18-list" data-toggle="pill" href="#tab-18" role="tab" aria-controls="tab-18" aria-selected="false">
-                                            <b>Floor Wall or Floor Ceiling Digital Radiography System</b>
-                                            </a>
-                                        </li>
-										<li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab19-list" data-toggle="pill" href="#tab-19" role="tab" aria-controls="tab-19" aria-selected="false">
-											<b> PT. Satya Abadi Vesmed</b>
-                                            </a>
-                                        </li>
+										
+										
                                         </ul>
                                     </div>
                                 </div>
