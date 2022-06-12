@@ -178,9 +178,18 @@ display: none;
                                 <div id="collapseThree" class="collapse" data-parent="#accordion">
                                     <div class="card-body">
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
+
+									<!-- TAB-1 LINK -->
+									<li class="nav-item icon-xs">
+                                            <a class="nav-link" id="tab26-list" data-toggle="pill" href="#tab-26" role="tab" aria-controls="tab-26" aria-selected="true">
+											<b>QFR</b>
+                                            </a>
+                                        </li>
+
+
                                         <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab20-list" data-toggle="pill" href="#tab-20" role="tab" aria-controls="tab-20" aria-selected="true">
+                                            <a class="nav-link" id="tab20-list" data-toggle="pill" href="#tab-20" role="tab" aria-controls="tab-20" aria-selected="false">
 											<b>Kesia</b>
                                             </a>
                                         </li>
@@ -189,6 +198,13 @@ display: none;
                                         <li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab21-list" data-toggle="pill" href="#tab-21" role="tab" aria-controls="tab-21" aria-selected="false">
                                             <b>Wifus</b>
+                                            </a>
+                                        </li>
+
+										<!-- TAB-1 LINK -->
+                                        <li class="nav-item icon-xs">
+                                            <a class="nav-link" id="tab27-list" data-toggle="pill" href="#tab-27" role="tab" aria-controls="tab-27" aria-selected="false">
+											<b>Osirix PACS</b>
                                             </a>
                                         </li>
 
@@ -205,19 +221,20 @@ display: none;
                                 <div id="collapseFour" class="collapse" data-parent="#accordion">
                                     <div class="card-body">
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
-                                       <!-- TAB-1 LINK -->
-                                        <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab22-list" data-toggle="pill" href="#tab-22" role="tab" aria-controls="tab-22" aria-selected="true">
-											<b>REI</b>
-                                            </a>
-                                        </li>
 
-                                        <!-- TAB-2 LINK -->
-                                        <li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab23-list" data-toggle="pill" href="#tab-23" role="tab" aria-controls="tab-23" aria-selected="false">
+
+									<li class="nav-item icon-xs">
+                                            <a class="nav-link" id="tab23-list" data-toggle="pill" href="#tab-23" role="tab" aria-controls="tab-23" aria-selected="TRUE">
 											<b>Yokogawa</b>
                                             </a>
-                                        </li>                                       
+                                        </li>   
+                                       <!-- TAB-1 LINK -->
+                                        <li class="nav-item icon-xs">
+                                            <a class="nav-link" id="tab22-list" data-toggle="pill" href="#tab-22" role="tab" aria-controls="tab-22" aria-selected="FALSE">
+											<b>ZYBIO</b>
+                                            </a>
+                                        </li>
+                                    
 
                                         </ul>
                                     </div>
@@ -235,14 +252,20 @@ display: none;
                                        <!-- TAB-1 LINK -->
                                         <li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab24-list" data-toggle="pill" href="#tab-24" role="tab" aria-controls="tab-24" aria-selected="true">
-											<b>Konstruksi</b>
+											<b>Proteksi Radiasi</b>
                                             </a>
                                         </li>                                      
 										<li class="nav-item icon-xs">
-                                            <a class="nav-link" id="tab25-list" data-toggle="pill" href="#tab-25" role="tab" aria-controls="tab-25" aria-selected="true">
-											<b>Lainnya</b>
+                                            <a class="nav-link" id="tab28-list" data-toggle="pill" href="#tab-28" role="tab" aria-controls="tab-28" aria-selected="true">
+											<b>Konstruksi Ruangan</b>
                                             </a>
                                         </li>   
+
+										<li class="nav-item icon-xs">
+                                            <a class="nav-link" id="tab25-list" data-toggle="pill" href="#tab-25" role="tab" aria-controls="tab-25" aria-selected="true">
+											<b>Layanan Lainnya</b>
+                                            </a>
+                                        </li> 
                                         </ul>
                                     </div>
                                 </div>
@@ -282,56 +305,54 @@ display: none;
 									</p><br>
 								
 
+<!-- PRODUK NI BOS -->									
 
-									<?php
-                 			   $r=$_GET['id'];
-							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Medis'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
-                                $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-                                while($d1=mysqli_fetch_array($sql1)){ 
-							?> 
+<div class="row">
+				<?php
+				$r=$_GET['id'];
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Medis'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
+				$sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d1=mysqli_fetch_array($sql1)){ 
+				?> 
 
-						<!-- DOCTOR #1 -->
-						<div class="col-md-6 col-lg-3">
-							<div class="doctor-1" style="border: 1px solid #4d4d4d;">								
-														
-								<!-- Doctor Photo -->
-								<div class="hover-overlay text-center"> 
-
-									<!-- Photo -->
-                                    <?php
-							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d2=mysqli_fetch_array($sql2)){
-							?> 
-									<img class="img-fluid" width="210" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
-							<?php } ?>
+				<!-- DOCTOR #1 -->
+				<div class="col-md-6">
+				<div class="doctor-1" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
+									
+				<!-- Doctor Photo -->
 
 
+				<!-- Photo -->
+				<?php
+				$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d2=mysqli_fetch_array($sql2)){
+				?> 
+				<img class="img-fluid" width="100%" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+				<?php } ?>
 
-									<div class="item-overlay"></div>
 
-									<!-- Profile Link -->		
-									<div class="profile-link">
-										<a class="btn btn-sm btn-tra-white black-hover" href="product-details.php?id=<?php echo $x;?>" title="">View More Info</a>
-									</div> 
 
-								</div>	
+				<!-- Doctor Meta -->		
+				<div class="doctor-meta" style="padding: 20px;">
 
-								<!-- Doctor Meta -->		
-								<div class="doctor-meta">
+				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
-									<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
-									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
+				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
 
-									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>
-									</p>
+				</div>	
 
-								</div>	
+				</div>	
 
-							</div>								
-						</div>	<!-- END DOCTOR #1 -->
 						
-						<?php }} ?>
+				</div>	<!-- END DOCTOR #1 -->
+
+				<?php }} ?>	
+				</div>
+
+				<!-- PRODUK NI BOS -->	
 
 
 
@@ -364,57 +385,54 @@ display: none;
 									</p><br>
 								
 
+<!-- PRODUK NI BOS -->									
 
-									<?php
-                    $r=$_GET['id'];
-							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Elixir'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
-                                $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-                                while($d1=mysqli_fetch_array($sql1)){ 
-							?> 
+<div class="row">
+				<?php
+				$r=$_GET['id'];
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Elixir'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
+				$sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d1=mysqli_fetch_array($sql1)){ 
+				?> 
 
-						<!-- DOCTOR #1 -->
-						<div class="col-md-6 col-lg-3">
-							<div class="doctor-1">								
-														
-								<!-- Doctor Photo -->
-								<div class="hover-overlay text-center"> 
-
-									<!-- Photo -->
-                                    <?php
-							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d2=mysqli_fetch_array($sql2)){
-							?> 
-									<img class="img-fluid " width="210" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
-<?php } ?>
+				<!-- DOCTOR #1 -->
+				<div class="col-md-6">
+				<div class="doctor-1" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
+									
+				<!-- Doctor Photo -->
 
 
+				<!-- Photo -->
+				<?php
+				$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d2=mysqli_fetch_array($sql2)){
+				?> 
+				<img class="img-fluid" width="100%" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+				<?php } ?>
 
-									<div class="item-overlay"></div>
 
-									<!-- Profile Link -->		
-									<div class="profile-link">
-										<a class="btn btn-sm btn-tra-white black-hover" href="product-details.php?id=<?php echo $x;?>" title="">View More Info</a>
-									</div> 
 
-								</div>	
+				<!-- Doctor Meta -->		
+				<div class="doctor-meta" style="padding: 20px;">
 
-								<!-- Doctor Meta -->		
-								<div class="doctor-meta">
+				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
-									<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
-									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
+				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
 
-									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>
-									</p>
+				</div>	
 
-								</div>	
+				</div>	
 
-							</div>								
-						</div>	<!-- END DOCTOR #1 -->
 						
-						<?php }} ?>
+				</div>	<!-- END DOCTOR #1 -->
 
+				<?php }} ?>	
+				</div>
+
+				<!-- PRODUK NI BOS -->	
 
 
 
@@ -448,62 +466,54 @@ display: none;
 
 									</p><br>
 									
+									<!-- PRODUK NI BOS -->									
+
+				<div class="row">
+				<?php
+				$r=$_GET['id'];
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Invamed'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
+				$sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d1=mysqli_fetch_array($sql1)){ 
+				?> 
+
+				<!-- DOCTOR #1 -->
+				<div class="col-md-6">
+				<div class="doctor-1" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
 									
-									<?php
-                    $r=$_GET['id'];
-							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Invamed'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
-                                $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-                                while($d1=mysqli_fetch_array($sql1)){ 
-							?> 
+				<!-- Doctor Photo -->
 
-						<!-- DOCTOR #1 -->
-						<div class="col-md-6 col-lg-3">
-							<div class="doctor-1">								
-														
-								<!-- Doctor Photo -->
-								<div class="hover-overlay text-center"> 
 
-									<!-- Photo -->
-                                    <?php
-							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d2=mysqli_fetch_array($sql2)){
-							?> 
-									<img class="img-fluid" width="210" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
-<?php } ?>
+				<!-- Photo -->
+				<?php
+				$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d2=mysqli_fetch_array($sql2)){
+				?> 
+				<img class="img-fluid" width="100%" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+				<?php } ?>
 
 
 
-									<div class="item-overlay"></div>
+				<!-- Doctor Meta -->		
+				<div class="doctor-meta" style="padding: 20px;">
 
-									<!-- Profile Link -->		
-									<div class="profile-link">
-										<a class="btn btn-sm btn-tra-white black-hover" href="product-details.php?id=<?php echo $x;?>" title="">View More Info</a>
-									</div> 
+				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
-								</div>	
+				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
 
-								<!-- Doctor Meta -->		
-								<div class="doctor-meta">
+				</div>	
 
-									<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
-									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
+				</div>	
 
-									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>
-									</p>
-
-								</div>	
-
-							</div>								
-						</div>	<!-- END DOCTOR #1 -->
 						
-						<?php }} ?>
+				</div>	<!-- END DOCTOR #1 -->
 
+				<?php }} ?>	
+				</div>
 
-
-
-
-
+				<!-- PRODUK NI BOS -->	
 
 
 
@@ -539,64 +549,54 @@ display: none;
 									</p><br>
 									
 
-									<?php
-                    $r=$_GET['id'];
-							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Samsung Healthcare'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
-                                $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-                                while($d1=mysqli_fetch_array($sql1)){ 
-							?> 
+									<!-- PRODUK NI BOS -->									
 
-						<!-- DOCTOR #1 -->
-						<div class="col-md-6 col-lg-3">
-							<div class="doctor-1">								
-														
-								<!-- Doctor Photo -->
-								<div class="hover-overlay text-center"> 
+				<div class="row">
+				<?php
+				$r=$_GET['id'];
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Samsung Healthcare'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
+				$sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d1=mysqli_fetch_array($sql1)){ 
+				?> 
 
-									<!-- Photo -->
-                                    <?php
-							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d2=mysqli_fetch_array($sql2)){
-							?> 
-									<img class="img-fluid" width="210" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
-<?php } ?>
+				<!-- DOCTOR #1 -->
+				<div class="col-md-6">
+				<div class="doctor-1" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
+									
+				<!-- Doctor Photo -->
 
 
+				<!-- Photo -->
+				<?php
+				$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d2=mysqli_fetch_array($sql2)){
+				?> 
+				<img class="img-fluid" width="100%" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+				<?php } ?>
 
-									<div class="item-overlay"></div>
 
-									<!-- Profile Link -->		
-									<div class="profile-link">
-										<a class="btn btn-sm btn-tra-white black-hover" href="product-details.php?id=<?php echo $x;?>" title="">View More Info</a>
-									</div> 
 
-								</div>	
+				<!-- Doctor Meta -->		
+				<div class="doctor-meta" style="padding: 20px;">
 
-								<!-- Doctor Meta -->		
-								<div class="doctor-meta">
+				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
-									<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
-									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
+				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
 
-									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>
-									</p>
+				</div>	
 
-								</div>	
+				</div>	
 
-							</div>								
-						</div>	<!-- END DOCTOR #1 -->
 						
-						<?php }} ?>
+				</div>	<!-- END DOCTOR #1 -->
 
+				<?php }} ?>	
+				</div>
 
-
-
-
-
-
-
-
+				<!-- PRODUK NI BOS -->	
 
 									
 								</div>	<!-- END TAB-4 CONTENT -->
@@ -606,7 +606,7 @@ display: none;
 
 									<!-- Title -->
 									<table style="border: none;" width="100%"><tr><td>
-									<h3 class="h3-md steelblue-color">Vyaire</h3>
+									<h3 class="h3-md steelblue-color">Vyaire Medical</h3>
 									</td>
 									<td style="text-align: right; align:right;">
 									<?php
@@ -621,62 +621,61 @@ display: none;
 									</table>
 
 									<!-- Text -->
-									<p>Vyaire merupakan perusahaan produsen ventilator dari USA. Meditrans ditunjuk sebagai produsen tunggal Ventilators Vyaire LTV 2200.
+									<p>Vyaire Medical merupakan perusahaan produsen ventilator dari USA. Meditrans ditunjuk sebagai produsen tunggal Ventilators Vyaire LTV 2200.
 
 										Produk dari vyaire antara lain Adult Circuit Without PEEP SPU, pediatric Circuit Without PEEP SPU, aksesoris ventilator: battery charger, Transport Bag, Assy, Floor Stand, Sprint Pack Mount, Filter, Inlet, Foam, Protective Boot, etc
 
 									</p><br>
 									
 									
-									<?php
-                    $r=$_GET['id'];
-							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Vyaire'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
-                                $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-                                while($d1=mysqli_fetch_array($sql1)){ 
-							?> 
+									<!-- PRODUK NI BOS -->									
 
-						<!-- DOCTOR #1 -->
-						<div class="col-md-6 col-lg-3">
-							<div class="doctor-1">								
-														
-								<!-- Doctor Photo -->
-								<div class="hover-overlay text-center"> 
+				<div class="row">
+				<?php
+				$r=$_GET['id'];
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Vyaire Medical'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
+				$sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d1=mysqli_fetch_array($sql1)){ 
+				?> 
 
-									<!-- Photo -->
-                                    <?php
-							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d2=mysqli_fetch_array($sql2)){
-							?> 
-									<img class="img-fluid" width="210" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
-<?php } ?>
+				<!-- DOCTOR #1 -->
+				<div class="col-md-6">
+				<div class="doctor-1" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
+									
+				<!-- Doctor Photo -->
 
 
+				<!-- Photo -->
+				<?php
+				$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d2=mysqli_fetch_array($sql2)){
+				?> 
+				<img class="img-fluid" width="100%" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+				<?php } ?>
 
-									<div class="item-overlay"></div>
 
-									<!-- Profile Link -->		
-									<div class="profile-link">
-										<a class="btn btn-sm btn-tra-white black-hover" href="product-details.php?id=<?php echo $x;?>" title="">View More Info</a>
-									</div> 
 
-								</div>	
+				<!-- Doctor Meta -->		
+				<div class="doctor-meta" style="padding: 20px;">
 
-								<!-- Doctor Meta -->		
-								<div class="doctor-meta">
+				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
-									<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
-									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
+				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
 
-									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>
-									</p>
+				</div>	
 
-								</div>	
+				</div>	
 
-							</div>								
-						</div>	<!-- END DOCTOR #1 -->
 						
-						<?php }} ?>
+				</div>	<!-- END DOCTOR #1 -->
+
+				<?php }} ?>	
+				</div>
+
+				<!-- PRODUK NI BOS -->	
 
 
 
@@ -714,55 +713,54 @@ display: none;
 									</p><br>
 									
 
-									<?php
-                    $r=$_GET['id'];
-							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='GE Healthcare'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
-                                $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-                                while($d1=mysqli_fetch_array($sql1)){ 
-							?> 
+									<!-- PRODUK NI BOS -->									
 
-						<!-- DOCTOR #1 -->
-						<div class="col-md-6 col-lg-3">
-							<div class="doctor-1">								
-														
-								<!-- Doctor Photo -->
-								<div class="hover-overlay text-center"> 
+				<div class="row">
+				<?php
+				$r=$_GET['id'];
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='GE Healthcare'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
+				$sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d1=mysqli_fetch_array($sql1)){ 
+				?> 
 
-									<!-- Photo -->
-                                    <?php
-							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d2=mysqli_fetch_array($sql2)){
-							?> 
-									<img class="img-fluid" width="210" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
-<?php } ?>
+				<!-- DOCTOR #1 -->
+				<div class="col-md-6">
+				<div class="doctor-1" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
+									
+				<!-- Doctor Photo -->
 
 
+				<!-- Photo -->
+				<?php
+				$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d2=mysqli_fetch_array($sql2)){
+				?> 
+				<img class="img-fluid" width="100%" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+				<?php } ?>
 
-									<div class="item-overlay"></div>
 
-									<!-- Profile Link -->		
-									<div class="profile-link">
-										<a class="btn btn-sm btn-tra-white black-hover" href="product-details.php?id=<?php echo $x;?>" title="">View More Info</a>
-									</div> 
 
-								</div>	
+				<!-- Doctor Meta -->		
+				<div class="doctor-meta" style="padding: 20px;">
 
-								<!-- Doctor Meta -->		
-								<div class="doctor-meta">
+				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
-									<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
-									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
+				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
 
-									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>
-									</p>
+				</div>	
 
-								</div>	
+				</div>	
 
-							</div>								
-						</div>	<!-- END DOCTOR #1 -->
 						
-						<?php }} ?>
+				</div>	<!-- END DOCTOR #1 -->
+
+				<?php }} ?>	
+				</div>
+
+				<!-- PRODUK NI BOS -->	
 
 
 
@@ -777,7 +775,7 @@ display: none;
 
 									<!-- Title -->
 									<table style="border: none;" width="100%"><tr><td>
-									<h3 class="h3-md steelblue-color">Fujifilm FCR PRIMA T2</h3>
+									<h3 class="h3-md steelblue-color">FUJIFILM</h3>
 									</td>
 									<td style="text-align: right; align:right;">
 									<?php
@@ -801,58 +799,54 @@ display: none;
 									</p><br>
 									
 									
-									<?php
-                    $r=$_GET['id'];
-							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='FUJIFILM'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
-                                $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-                                while($d1=mysqli_fetch_array($sql1)){ 
-							?> 
+									<!-- PRODUK NI BOS -->									
 
-						<!-- DOCTOR #1 -->
-						<div class="col-md-6 col-lg-3">
-							<div class="doctor-1">								
-														
-								<!-- Doctor Photo -->
-								<div class="hover-overlay text-center"> 
+				<div class="row">
+				<?php
+				$r=$_GET['id'];
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='FUJIFILM'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
+				$sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d1=mysqli_fetch_array($sql1)){ 
+				?> 
 
-									<!-- Photo -->
-                                    <?php
-							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d2=mysqli_fetch_array($sql2)){
-							?> 
-									<img class="img-fluid" width="210" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
-<?php } ?>
+				<!-- DOCTOR #1 -->
+				<div class="col-md-6">
+				<div class="doctor-1" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
+									
+				<!-- Doctor Photo -->
 
 
+				<!-- Photo -->
+				<?php
+				$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d2=mysqli_fetch_array($sql2)){
+				?> 
+				<img class="img-fluid" width="100%" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+				<?php } ?>
 
-									<div class="item-overlay"></div>
 
-									<!-- Profile Link -->		
-									<div class="profile-link">
-										<a class="btn btn-sm btn-tra-white black-hover" href="product-details.php?id=<?php echo $x;?>" title="">View More Info</a>
-									</div> 
 
-								</div>	
+				<!-- Doctor Meta -->		
+				<div class="doctor-meta" style="padding: 20px;">
 
-								<!-- Doctor Meta -->		
-								<div class="doctor-meta">
+				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
-									<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
-									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
+				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
 
-									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>
-									</p>
+				</div>	
 
-								</div>	
+				</div>	
 
-							</div>								
-						</div>	<!-- END DOCTOR #1 -->
 						
-						<?php }} ?>
+				</div>	<!-- END DOCTOR #1 -->
 
+				<?php }} ?>	
+				</div>
 
-
+				<!-- PRODUK NI BOS -->	
 
 
 
@@ -890,55 +884,56 @@ display: none;
 
 									</p><br>
 
-									<?php
-                    $r=$_GET['id'];
-							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Del Medical'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
-                                $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-                                while($d1=mysqli_fetch_array($sql1)){ 
-							?> 
+									
+									<!-- PRODUK NI BOS -->									
 
-						<!-- DOCTOR #1 -->
-						<div class="col-md-6 col-lg-3">
-							<div class="doctor-1">								
-														
-								<!-- Doctor Photo -->
-								<div class="hover-overlay text-center"> 
+				<div class="row">
+				<?php
+				$r=$_GET['id'];
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Del Medical'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
+				$sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d1=mysqli_fetch_array($sql1)){ 
+				?> 
 
-									<!-- Photo -->
-                                    <?php
-							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d2=mysqli_fetch_array($sql2)){
-							?> 
-									<img class="img-fluid" width="210" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
-<?php } ?>
+				<!-- DOCTOR #1 -->
+				<div class="col-md-6">
+				<div class="doctor-1" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
+									
+				<!-- Doctor Photo -->
 
 
+				<!-- Photo -->
+				<?php
+				$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d2=mysqli_fetch_array($sql2)){
+				?> 
+				<img class="img-fluid" width="100%" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+				<?php } ?>
 
-									<div class="item-overlay"></div>
 
-									<!-- Profile Link -->		
-									<div class="profile-link">
-										<a class="btn btn-sm btn-tra-white black-hover" href="product-details.php?id=<?php echo $x;?>" title="">View More Info</a>
-									</div> 
 
-								</div>	
+				<!-- Doctor Meta -->		
+				<div class="doctor-meta" style="padding: 20px;">
 
-								<!-- Doctor Meta -->		
-								<div class="doctor-meta">
+				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
-									<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
-									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
+				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
 
-									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>
-									</p>
+				</div>	
 
-								</div>	
+				</div>	
 
-							</div>								
-						</div>	<!-- END DOCTOR #1 -->
 						
-						<?php }} ?>
+				</div>	<!-- END DOCTOR #1 -->
+
+				<?php }} ?>	
+				</div>
+
+				<!-- PRODUK NI BOS -->	
+
 
 
 
@@ -956,7 +951,7 @@ display: none;
 
 									<!-- Title -->
 									<table style="border: none;" width="100%"><tr><td>
-									<h3 class="h3-md steelblue-color">PT. Satya Abadi Vesmed</h3>
+									<h3 class="h3-md steelblue-color">AGFA</h3>
 									</td>
 									<td style="text-align: right; align:right;">
 									<?php
@@ -971,60 +966,59 @@ display: none;
 									</table>
 
 									<!-- Text -->
-									<p>HIS "KESIA" adalah platform solusi lengkap "Sistem Informasi Rumah Sakit", dari Back office, 
-										BI, PACS, LIS dan TELEMEDICINE AND TELEDIAGNOSTIC 
+									<p>AGFA adalah platform """solusi lengkap "Sistem Informasi Rumah Sakit", dari Back office, 
+										BI, PACS, LIS dan TELEMEDICINE AND TELEDIAGNOSTIC ""
 									</p><br>
 
 
-									<?php
-                    $r=$_GET['id'];
-							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='SAV'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
-                                $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-                                while($d1=mysqli_fetch_array($sql1)){ 
-							?> 
+									<!-- PRODUK NI BOS -->									
 
-						<!-- DOCTOR #1 -->
-						<div class="col-md-6 col-lg-3">
-							<div class="doctor-1">								
-														
-								<!-- Doctor Photo -->
-								<div class="hover-overlay text-center"> 
+				<div class="row">
+				<?php
+				$r=$_GET['id'];
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='AGFA'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
+				$sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d1=mysqli_fetch_array($sql1)){ 
+				?> 
 
-									<!-- Photo -->
-                                    <?php
-							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d2=mysqli_fetch_array($sql2)){
-							?> 
-									<img class="img-fluid" width="210" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
-<?php } ?>
+				<!-- DOCTOR #1 -->
+				<div class="col-md-6">
+				<div class="doctor-1" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
+									
+				<!-- Doctor Photo -->
 
 
+				<!-- Photo -->
+				<?php
+				$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d2=mysqli_fetch_array($sql2)){
+				?> 
+				<img class="img-fluid" width="100%" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+				<?php } ?>
 
-									<div class="item-overlay"></div>
 
-									<!-- Profile Link -->		
-									<div class="profile-link">
-										<a class="btn btn-sm btn-tra-white black-hover" href="product-details.php?id=<?php echo $x;?>" title="">View More Info</a>
-									</div> 
 
-								</div>	
+				<!-- Doctor Meta -->		
+				<div class="doctor-meta" style="padding: 20px;">
 
-								<!-- Doctor Meta -->		
-								<div class="doctor-meta">
+				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
-									<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
-									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
+				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
 
-									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>
-									</p>
+				</div>	
 
-								</div>	
+				</div>	
 
-							</div>								
-						</div>	<!-- END DOCTOR #1 -->
 						
-						<?php }} ?>
+				</div>	<!-- END DOCTOR #1 -->
+
+				<?php }} ?>	
+				</div>
+
+				<!-- PRODUK NI BOS -->	
 
 								
 									
@@ -1056,55 +1050,56 @@ display: none;
 									</p><br>
 								
 
-									<?php
-                    $r=$_GET['id'];
-							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Kesia'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
-                                $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-                                while($d1=mysqli_fetch_array($sql1)){ 
-							?> 
 
-						<!-- DOCTOR #1 -->
-						<div class="col-md-6">
-							<div class="doctor-1">								
-														
-								<!-- Doctor Photo -->
-								<div class="hover-overlay text-center"> 
+									<!-- PRODUK NI BOS -->									
 
-									<!-- Photo -->
-                                    <?php
-							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d2=mysqli_fetch_array($sql2)){
-							?> 
-									<img class="img-fluid" width="210" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
-<?php } ?>
+				<div class="row">
+				<?php
+				$r=$_GET['id'];
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='KESIA'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
+				$sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d1=mysqli_fetch_array($sql1)){ 
+				?> 
+
+				<!-- DOCTOR #1 -->
+				<div class="col-md-6">
+				<div class="doctor-1" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
+									
+				<!-- Doctor Photo -->
 
 
+				<!-- Photo -->
+				<?php
+				$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d2=mysqli_fetch_array($sql2)){
+				?> 
+				<img class="img-fluid" width="100%" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+				<?php } ?>
 
-									<div class="item-overlay"></div>
 
-									<!-- Profile Link -->		
-									<div class="profile-link">
-										<a class="btn btn-sm btn-tra-white black-hover" href="product-details.php?id=<?php echo $x;?>" title="">View More Info</a>
-									</div> 
 
-								</div>	
+				<!-- Doctor Meta -->		
+				<div class="doctor-meta" style="padding: 20px;">
 
-								<!-- Doctor Meta -->		
-								<div class="doctor-meta">
+				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
-									<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
-									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
+				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
 
-									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>
-									</p>
+				</div>	
 
-								</div>	
+				</div>	
 
-							</div>								
-						</div>	<!-- END DOCTOR #1 -->
 						
-						<?php }} ?>
+				</div>	<!-- END DOCTOR #1 -->
+
+				<?php }} ?>	
+				</div>
+
+				<!-- PRODUK NI BOS -->	
+
 
 									
 								</div>	<!-- END TAB-4 CONTENT -->
@@ -1216,7 +1211,7 @@ display: none;
 
 									<!-- Title -->
 									<table style="border: none;" width="100%"><tr><td>
-									<h3 class="h3-md steelblue-color">REI</h3>
+									<h3 class="h3-md steelblue-color">ZYBIO</h3>
 									</td>
 										<td style="text-align: right; align:right;">
 
@@ -1236,55 +1231,55 @@ display: none;
 									   integer congue magna at pretium  purus pretium 
 									</p><br>
 									
-									<?php
-                    $r=$_GET['id'];
-							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='REI'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
-                                $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-                                while($d1=mysqli_fetch_array($sql1)){ 
-							?> 
+									
+									<!-- PRODUK NI BOS -->									
 
-						<!-- DOCTOR #1 -->
-						<div class="col-md-6 col-lg-3">
-							<div class="doctor-1">								
-														
-								<!-- Doctor Photo -->
-								<div class="hover-overlay text-center"> 
+				<div class="row">
+				<?php
+				$r=$_GET['id'];
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='ZYBIO'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
+				$sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d1=mysqli_fetch_array($sql1)){ 
+				?> 
 
-									<!-- Photo -->
-                                    <?php
-							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d2=mysqli_fetch_array($sql2)){
-							?> 
-									<img class="img-fluid" width="210" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
-<?php } ?>
+				<!-- DOCTOR #1 -->
+				<div class="col-md-6">
+				<div class="doctor-1" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
+									
+				<!-- Doctor Photo -->
 
 
+				<!-- Photo -->
+				<?php
+				$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d2=mysqli_fetch_array($sql2)){
+				?> 
+				<img class="img-fluid" width="100%" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+				<?php } ?>
 
-									<div class="item-overlay"></div>
 
-									<!-- Profile Link -->		
-									<div class="profile-link">
-										<a class="btn btn-sm btn-tra-white black-hover" href="product-details.php?id=<?php echo $x;?>" title="">View More Info</a>
-									</div> 
 
-								</div>	
+				<!-- Doctor Meta -->		
+				<div class="doctor-meta" style="padding: 20px;">
 
-								<!-- Doctor Meta -->		
-								<div class="doctor-meta">
+				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
-									<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
-									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
+				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
 
-									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>
-									</p>
+				</div>	
 
-								</div>	
+				</div>	
 
-							</div>								
-						</div>	<!-- END DOCTOR #1 -->
 						
-						<?php }} ?>
+				</div>	<!-- END DOCTOR #1 -->
+
+				<?php }} ?>	
+				</div>
+
+				<!-- PRODUK NI BOS -->	
 
 									
 								</div>	<!-- END TAB-4 CONTENT -->
@@ -1319,55 +1314,56 @@ display: none;
 
 									</p><br>
 
-									<?php
-                    $r=$_GET['id'];
-							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='YOKOGAWA'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
-                                $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-                                while($d1=mysqli_fetch_array($sql1)){ 
-							?> 
 
-						<!-- DOCTOR #1 -->
-						<div class="col-md-6 col-lg-3">
-							<div class="doctor-1">								
-														
-								<!-- Doctor Photo -->
-								<div class="hover-overlay text-center"> 
+									<!-- PRODUK NI BOS -->									
 
-									<!-- Photo -->
-                                    <?php
-							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-							while($d2=mysqli_fetch_array($sql2)){
-							?> 
-									<img class="img-fluid" width="210" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
-<?php } ?>
+				<div class="row">
+				<?php
+				$r=$_GET['id'];
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='YOKOGAWA'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
+				$sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d1=mysqli_fetch_array($sql1)){ 
+				?> 
+
+				<!-- DOCTOR #1 -->
+				<div class="col-md-6">
+				<div class="doctor-1" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
+									
+				<!-- Doctor Photo -->
 
 
+				<!-- Photo -->
+				<?php
+				$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d2=mysqli_fetch_array($sql2)){
+				?> 
+				<img class="img-fluid" width="100%" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+				<?php } ?>
 
-									<div class="item-overlay"></div>
 
-									<!-- Profile Link -->		
-									<div class="profile-link">
-										<a class="btn btn-sm btn-tra-white black-hover" href="product-details.php?id=<?php echo $x;?>" title="">View More Info</a>
-									</div> 
 
-								</div>	
+				<!-- Doctor Meta -->		
+				<div class="doctor-meta" style="padding: 20px;">
 
-								<!-- Doctor Meta -->		
-								<div class="doctor-meta">
+				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
-									<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
-									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
+				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
 
-									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>
-									</p>
+				</div>	
 
-								</div>	
+				</div>	
 
-							</div>								
-						</div>	<!-- END DOCTOR #1 -->
 						
-						<?php }} ?>
+				</div>	<!-- END DOCTOR #1 -->
+
+				<?php }} ?>	
+				</div>
+
+				<!-- PRODUK NI BOS -->	
+
 
 								
 									
@@ -1377,7 +1373,7 @@ display: none;
 								<div class="tab-pane fade" id="tab-24" role="tabpanel" aria-labelledby="tab14-list">
 
 								<!-- Title -->
-								<h3 class="h3-md steelblue-color">Konstruksi</h3>
+								<h3 class="h3-md steelblue-color">Proteksi Radiasi</h3>
 
 								<!-- Text -->
 								<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
@@ -1393,6 +1389,369 @@ display: none;
 								<?php }?>
 
 								</div>	<!-- END TAB-4 CONTENT -->
+							
+
+
+
+
+<!-- TAB-4 CONTENT -->
+								<div class="tab-pane fade" id="tab-26" role="tabpanel" aria-labelledby="tab14-list">
+
+									<!-- Title -->
+									<table style="border: none;" width="100%"><tr><td>
+									<h3 class="h3-md steelblue-color">QFR</h3>
+										</td>
+										<td style="text-align: right; align:right;">
+
+
+										<?php
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='QFR'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										while($d=mysqli_fetch_array($sql)){
+										?> 
+										
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid lugi" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+									
+									<?php }?>
+									</td></tr>
+									</table>
+
+									<!-- Text -->
+									<p>QFR ===> GANTI DONG CIS merupakan sistem informasi untuk klinik yang telah terhubung dengan BPJS. Sistem informasi ini mudah digunakan dengan alur yang sederhana.
+
+										MOBILE WIFUS merupakan solusi penyedia Layanan Kesehatan untuk memanfaatkan dan menghubungkan pasien dengan Dokter dengan Telediagnostik, Telemedicine, pemesanan online, dan penyedia layanan Rumah
+									</p><br>
+							
+							
+			
+
+		<!-- PRODUK NI BOS -->									
+							
+		<div class="row">
+						<?php
+                   			 $r=$_GET['id'];
+							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='QFR'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
+                                $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                                while($d1=mysqli_fetch_array($sql1)){ 
+							?> 
+
+						<!-- DOCTOR #1 -->
+						<div class="col-md-6">
+							<div class="doctor-1" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
+														
+								<!-- Doctor Photo -->
+						
+
+									<!-- Photo -->
+                                    <?php
+									$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+									while($d2=mysqli_fetch_array($sql2)){
+									?> 
+									<img class="img-fluid" width="100%" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+									<?php } ?>
+
+
+
+								
+
+						
+
+								<!-- Doctor Meta -->		
+								<div class="doctor-meta" style="padding: 20px;">
+
+									<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
+
+									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
+									... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+
+								</div>	
+
+							</div>	
+								
+											
+						</div>	<!-- END DOCTOR #1 -->
+						
+						<?php }} ?>	
+							</div>
+
+	<!-- PRODUK NI BOS -->	
+
+
+									
+								</div>	<!-- END TAB-4 CONTENT -->
+
+
+
+								<!-- TAB-4 CONTENT -->
+								<div class="tab-pane fade" id="tab-27" role="tabpanel" aria-labelledby="tab14-list">
+
+				<!-- Title -->
+				<table style="border: none;" width="100%"><tr><td>
+				<h3 class="h3-md steelblue-color">Osirix PACS</h3>
+					</td>
+					<td style="text-align: right; align:right;">
+
+
+					<?php
+					$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Osirix PACS'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+					while($d=mysqli_fetch_array($sql)){
+					?> 
+					
+					<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid lugi" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+
+				<?php }?>
+				</td></tr>
+				</table>
+
+				<!-- Text -->
+				<p>Osirix PACS merupakan => PLEASE PROVIDE WORDING sistem informasi untuk klinik yang telah terhubung dengan BPJS. Sistem informasi ini mudah digunakan dengan alur yang sederhana.
+
+					MOBILE WIFUS merupakan solusi penyedia Layanan Kesehatan untuk memanfaatkan dan menghubungkan pasien dengan Dokter dengan Telediagnostik, Telemedicine, pemesanan online, dan penyedia layanan Rumah
+				</p><br>
+
+
+
+
+				<!-- PRODUK NI BOS -->									
+
+				<div class="row">
+				<?php
+				$r=$_GET['id'];
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Osirix PACS'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
+				$sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d1=mysqli_fetch_array($sql1)){ 
+				?> 
+
+				<!-- DOCTOR #1 -->
+				<div class="col-md-6">
+				<div class="doctor-1" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
+									
+				<!-- Doctor Photo -->
+
+
+				<!-- Photo -->
+				<?php
+				$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d2=mysqli_fetch_array($sql2)){
+				?> 
+				<img class="img-fluid" width="100%" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+				<?php } ?>
+
+
+
+				<!-- Doctor Meta -->		
+				<div class="doctor-meta" style="padding: 20px;">
+
+				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
+
+				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+
+				</div>	
+
+				</div>	
+
+						
+				</div>	<!-- END DOCTOR #1 -->
+
+				<?php }} ?>	
+				</div>
+
+				<!-- PRODUK NI BOS -->	
+
+
+
+				</div>	<!-- END TAB-4 CONTENT -->
+
+
+
+
+
+
+
+								<!-- TAB-4 CONTENT -->
+								<div class="tab-pane fade" id="tab-28" role="tabpanel" aria-labelledby="tab14-list">
+
+				<!-- Title -->
+				<table style="border: none;" width="100%"><tr><td>
+				<h3 class="h3-md steelblue-color">Konstruksi Ruangan</h3>
+					</td>
+					<td style="text-align: right; align:right;">
+
+
+					<?php
+					$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Konstruksi Ruangan'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+					while($d=mysqli_fetch_array($sql)){
+					?> 
+					
+					<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid lugi" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+
+				<?php }?>
+				</td></tr>
+				</table>
+
+				<!-- Text -->
+				<p>Konstruksi Ruangan merupakan => PLEASE PROVIDE WORDING sistem informasi untuk klinik yang telah terhubung dengan BPJS. Sistem informasi ini mudah digunakan dengan alur yang sederhana.
+
+					MOBILE WIFUS merupakan solusi penyedia Layanan Kesehatan untuk memanfaatkan dan menghubungkan pasien dengan Dokter dengan Telediagnostik, Telemedicine, pemesanan online, dan penyedia layanan Rumah
+				</p><br>
+
+
+
+
+				<!-- PRODUK NI BOS -->									
+
+				<div class="row">
+				<?php
+				$r=$_GET['id'];
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Osirix PACS'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
+				$sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d1=mysqli_fetch_array($sql1)){ 
+				?> 
+
+				<!-- DOCTOR #1 -->
+				<div class="col-md-6">
+				<div class="doctor-1" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
+									
+				<!-- Doctor Photo -->
+
+
+				<!-- Photo -->
+				<?php
+				$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d2=mysqli_fetch_array($sql2)){
+				?> 
+				<img class="img-fluid" width="100%" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+				<?php } ?>
+
+
+
+				<!-- Doctor Meta -->		
+				<div class="doctor-meta" style="padding: 20px;">
+
+				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
+
+				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+
+				</div>	
+
+				</div>	
+
+						
+				</div>	<!-- END DOCTOR #1 -->
+
+				<?php }} ?>	
+				</div>
+
+				<!-- PRODUK NI BOS -->	
+
+
+
+				</div>	<!-- END TAB-4 CONTENT -->
+
+
+
+
+						<!-- TAB-4 CONTENT -->
+						<div class="tab-pane fade" id="tab-25" role="tabpanel" aria-labelledby="tab14-list">
+
+<!-- Title -->
+<table style="border: none;" width="100%"><tr><td>
+<h3 class="h3-md steelblue-color">Layanan Lainnya</h3>
+	</td>
+	<td style="text-align: right; align:right;">
+
+
+	<?php
+	$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='Layanan Lainnya'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+	while($d=mysqli_fetch_array($sql)){
+	?> 
+	
+	<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid lugi" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+
+<?php }?>
+</td></tr>
+</table>
+
+<!-- Text -->
+<p>Layanan Lainnya merupakan => PLEASE PROVIDE WORDING sistem informasi untuk klinik yang telah terhubung dengan BPJS. Sistem informasi ini mudah digunakan dengan alur yang sederhana.
+
+	MOBILE WIFUS merupakan solusi penyedia Layanan Kesehatan untuk memanfaatkan dan menghubungkan pasien dengan Dokter dengan Telediagnostik, Telemedicine, pemesanan online, dan penyedia layanan Rumah
+</p><br>
+
+
+
+
+<!-- PRODUK NI BOS -->									
+
+<div class="row">
+<?php
+$r=$_GET['id'];
+$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Osirix PACS'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
+$sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+while($d1=mysqli_fetch_array($sql1)){ 
+?> 
+
+<!-- DOCTOR #1 -->
+<div class="col-md-6">
+<div class="doctor-1" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
+					
+<!-- Doctor Photo -->
+
+
+<!-- Photo -->
+<?php
+$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+while($d2=mysqli_fetch_array($sql2)){
+?> 
+<img class="img-fluid" width="100%" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+<?php } ?>
+
+
+
+<!-- Doctor Meta -->		
+<div class="doctor-meta" style="padding: 20px;">
+
+<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+<span class="blue-color"><?php echo $d['cat_name']; ?></span>
+
+<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
+... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+
+</div>	
+
+</div>	
+
+		
+</div>	<!-- END DOCTOR #1 -->
+
+<?php }} ?>	
+</div>
+
+<!-- PRODUK NI BOS -->	
+
+
+
+</div>	<!-- END TAB-4 CONTENT -->
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 							</div>	<!-- END TABS CONTENT -->
