@@ -4,9 +4,19 @@
 display: none;
 	}
 </style>
+
 <style>
+	#accordion{
+		-webkit-box-shadow: -1px -1px 1px 1px rgba(0,0,0,0.5);
+  -moz-box-shadow: -1px -1px 1px 1px rgba(0,0,0,0.425);
+  box-shadow: -1px -1px 1px 1px rgba(0,0,0,0.35);
+  border-radius: 20px;
+	}
 	.card-header{
-		border:1px solid #4d4d4d; background-color: #fff; color: #fff;
+		
+  /* offset-x | offset-y | blur-radius | spread-radius | color */
+
+  background-color: #fff;
 	}
 </style>
 <!-- HERO-2
