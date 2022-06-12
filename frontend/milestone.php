@@ -292,7 +292,7 @@
                
 									<h4 class="timeline-title">2021</h4>
 					
-									<p>Kerjasama distribusi dengan Invamed dan Samsung Healthcare  </p><br><br><br><br>
+									<p>Kerjasama distribusi dengan Invamed dan Samsung Healthcare  </p><br><br>
 								</div>
 							</div>
 						</li>
@@ -316,7 +316,7 @@
                
 									<h4 class="timeline-title">2022</h4>
 					
-									<p>Kerjasama disribusi dengan Elixir Medical dan Yokogawa</p><br><br><br>
+									<p>Kerjasama disribusi dengan Elixir Medical dan Yokogawa</p><br><br>
 								</div>
 							</div>
 						</li>
