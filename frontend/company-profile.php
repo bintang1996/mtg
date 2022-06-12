@@ -169,7 +169,7 @@ display: none;
 										<p>Operation and Marketing Director
 										</p>
 										</div>
-										<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>
+										<br><a href="https://www.linkedin.com/in/tari-pristiyanti-266057162/" class="btn btn-sm btn-orange">READ MORE</a>
 																																							
 										</div>
 </td>
