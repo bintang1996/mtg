@@ -77,7 +77,7 @@ display: none;
                                 <div class="card">
                                 <div class="card-header" style="border-top-left-radius:20px; border-top-right-radius:20px;">
                                     <a class="card-link" data-toggle="collapse" href="#collapseOne">
-                                    <b style="color: #214068;">CARDIOVASCULAR</b>
+                                    <b style="color: #214068;">KARDIOVASKULER</b>
                                     </a>
                                 </div>
                                 <div id="collapseOne" class="collapse show" data-parent="#accordion" >
