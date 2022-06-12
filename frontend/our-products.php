@@ -6,6 +6,7 @@ display: none;
 
 	.lugi{
 		height: 100px;
+		width: auto;
 	}
 </style>
 	<!-- HERO-2
