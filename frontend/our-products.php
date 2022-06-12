@@ -775,7 +775,7 @@ display: none;
 
 									<!-- Title -->
 									<table style="border: none;" width="100%"><tr><td>
-									<h3 class="h3-md steelblue-color">FUJIFILM</h3>
+									<h3 class="h3-md steelblue-color">Fujifilm</h3>
 									</td>
 									<td style="text-align: right; align:right;">
 									<?php
