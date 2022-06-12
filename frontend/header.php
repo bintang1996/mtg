@@ -101,6 +101,9 @@ h6
 }
 
 				}
+				.judul1{
+					font-size: 2.3rem;
+				}
 
 		</style>
 	
