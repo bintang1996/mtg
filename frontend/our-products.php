@@ -1298,7 +1298,7 @@ display: none;
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
-										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid lugi" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid lugi" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px; width: 150px;"></a>
 									
 									<?php }?>
 									</td></tr>
