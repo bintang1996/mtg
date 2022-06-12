@@ -84,19 +84,21 @@ display: none;
                                 
 							    <ul class="nav nav-pills" id="pills-tab" role="tablist">
 
+								<!-- TAB-2 LINK -->
+								<li class="nav-item icon-xs">
+									    <a class="nav-link" id="tab12-list" data-toggle="pill" href="#tab-12" role="tab" aria-controls="tab-12" aria-selected="true">
+									       <b>Elixir</b>
+									    </a>
+									</li>
+
 							    	<!-- TAB-1 LINK -->
 								  	<li class="nav-item icon-xs">
-								    	<a class="nav-link active" id="tab11-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
+								    	<a class="nav-link active" id="tab11-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="false">
 								    		<b>Medis</b>
 								    	</a>
 								  	</li>
 
-								  	<!-- TAB-2 LINK -->
-									<li class="nav-item icon-xs">
-									    <a class="nav-link" id="tab12-list" data-toggle="pill" href="#tab-12" role="tab" aria-controls="tab-12" aria-selected="false">
-									       <b>Elixir</b>
-									    </a>
-									</li>
+								  	
 
 									<!-- TAB-3 LINK -->
 									<li class="nav-item icon-xs">
