@@ -494,9 +494,7 @@ display: none;
     				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture3.png">
   					</div>
 
-					  <div class="panel-body" style="text-align: center; overflow: hidden;">
-    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture4.png">
-  					</div>
+					
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
     				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture5.png">
@@ -616,7 +614,9 @@ display: none;
     				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture20.png">
   					</div>
 
-					
+					  <div class="panel-body" style="text-align: center; overflow: hidden;">
+    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture4.png">
+  					</div>
 
 					</div>	    <!-- End row2 -->
 
