@@ -63,12 +63,16 @@ display: none;
 			</section>	<!-- END HERO-2 -->
 
 <style>
+	.accordion{
+		-webkit-box-shadow: -1px -1px 1px 1px rgba(0,0,0,0.5);
+  -moz-box-shadow: -1px -1px 1px 1px rgba(0,0,0,0.425);
+  box-shadow: -1px -1px 1px 1px rgba(0,0,0,0.35);
+  border-radius: 20px;
+	}
 	.card-header{
 		
   /* offset-x | offset-y | blur-radius | spread-radius | color */
-  -webkit-box-shadow: -1px -1px 1px 1px rgba(0,0,0,0.5);
-  -moz-box-shadow: -1px -1px 1px 1px rgba(0,0,0,0.425);
-  box-shadow: -1px -1px 1px 1px rgba(0,0,0,0.35);
+
   background-color: #fff;
 	}
 </style>
