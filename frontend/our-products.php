@@ -3,6 +3,10 @@
 	.indicators {
 display: none;
 	}
+
+	.lugi{
+		height: 100px;
+	}
 </style>
 	<!-- HERO-2
 			============================================= -->	
@@ -261,7 +265,7 @@ display: none;
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
-										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid lugi" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
 									</td></tr>
@@ -343,7 +347,7 @@ display: none;
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
-										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid lugi" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
 									</td></tr>
@@ -376,7 +380,7 @@ display: none;
 							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 							while($d2=mysqli_fetch_array($sql2)){
 							?> 
-									<img class="img-fluid" width="210" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+									<img class="img-fluid " width="210" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
 <?php } ?>
 
 
@@ -427,7 +431,7 @@ display: none;
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
-										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid lugi" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
 									</td></tr>
@@ -518,7 +522,7 @@ display: none;
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
-										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid lugi" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
 									</td></tr>
@@ -605,7 +609,7 @@ display: none;
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
-										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid lugi" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
 									</td></tr>
@@ -691,7 +695,7 @@ display: none;
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
-										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid lugi" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
 									</td></tr>
@@ -776,7 +780,7 @@ display: none;
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
-										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid lugi" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
 									</td></tr>
@@ -867,7 +871,7 @@ display: none;
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
-										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid lugi" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
 									</td></tr>
@@ -955,7 +959,7 @@ display: none;
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
-										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid lugi" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
 									</td></tr>
@@ -1036,7 +1040,7 @@ display: none;
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
-										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid lugi" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
 									</td></tr>
@@ -1115,7 +1119,7 @@ display: none;
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
-										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid lugi" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
 									</td></tr>
@@ -1216,7 +1220,7 @@ display: none;
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
-										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid lugi" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
 									</td></tr>
@@ -1294,7 +1298,7 @@ display: none;
 										while($d=mysqli_fetch_array($sql)){
 										?> 
 										
-										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid lugi" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 									
 									<?php }?>
 									</td></tr>
@@ -1379,7 +1383,7 @@ display: none;
 									while($d=mysqli_fetch_array($sql)){
 									?> 
 									
-									<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+									<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid lugi" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
 
 								<?php }?>
 
