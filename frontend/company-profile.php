@@ -593,7 +593,7 @@ display: none;
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden;">
-    				<img style="max-height: 50px; margin:20px;" src="images/networks/Picture26.png">
+    				<img style="max-height: 50px; margin:20px;" src="images/networks/Picture6.png">
   					</div>
 
 
@@ -603,7 +603,7 @@ display: none;
     				<img style="max-height: 30px; margin:20px;" src="images/networks/Picture28.png">
   					</div>
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture6.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture26.png">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
