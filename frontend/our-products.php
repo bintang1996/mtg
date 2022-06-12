@@ -67,8 +67,8 @@ display: none;
 		.
   /* offset-x | offset-y | blur-radius | spread-radius | color */
   -webkit-box-shadow: -1px -1px 1px 1px rgba(0,0,0,0.5);
-  -moz-box-shadow: -1px -1px 30px 1px rgba(0,0,0,0.425);
-
+  -moz-box-shadow: -1px -1px 1px 1px rgba(0,0,0,0.425);
+  box-shadow: -1px -1px 1px 1px rgba(0,0,0,0.35);
   border: 0px;
 	}
 </style>
