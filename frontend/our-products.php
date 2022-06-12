@@ -250,7 +250,7 @@ display: none;
 
 
 								<!-- TAB-1 CONTENT -->
-								<div class="tab-pane fade show active" id="tab-11" role="tabpanel" aria-labelledby="tab11-list">									
+								<div class="tab-pane fade" id="tab-11" role="tabpanel" aria-labelledby="tab11-list">									
 									<!-- Title -->
 									<table style="border: none;" width="100%"><tr><td>
 									<h3 class="h3-md steelblue-color">Medis</h3>
@@ -331,7 +331,7 @@ display: none;
 
 
 								<!-- TAB-2 CONTENT -->
-								<div class="tab-pane fade" id="tab-12" role="tabpanel" aria-labelledby="tab12-list">
+								<div class="tab-pane fade show active" id="tab-12" role="tabpanel" aria-labelledby="tab12-list">
 
 									<!-- Title -->
 									<table style="border: none;" width="100%"><tr><td>
