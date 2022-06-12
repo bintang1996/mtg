@@ -66,9 +66,9 @@ display: none;
 	.card-header{
 		.
   /* offset-x | offset-y | blur-radius | spread-radius | color */
-  -webkit-box-shadow: -2px -1px 15px 7px rgba(0,0,0,0.5);
-  -moz-box-shadow: -3px -2px 30px 14px rgba(0,0,0,0.425);
-  box-shadow: -4px -3px 45px 21px rgba(0,0,0,0.35);
+  -webkit-box-shadow: -1px -1px 1px 1px rgba(0,0,0,0.5);
+  -moz-box-shadow: -1px -1px 30px 1px rgba(0,0,0,0.425);
+  box-shadow: -1px -1px 1px 1px rgba(0,0,0,0.35);
 
 	}
 </style>
