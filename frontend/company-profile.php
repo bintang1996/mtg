@@ -446,7 +446,7 @@ display: none;
 
 			 		<!-- SECTION TITLE -->	
 					<div class="row" >	
-						<div class="col-lg-12 offset-lg-1 section-title">		
+						<div class="col-lg-12 section-title">		
 
 							<!-- Title 	-->	
 							<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>REKANAN KAMI</b></b></h3>								
