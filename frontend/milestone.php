@@ -198,7 +198,7 @@
 						<li class="timeline-item">
 							<div class="timeline-badge primary orange-hover">2012</div>
 							<div class="timeline-panel">
-              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/Milestone/2012.JPG" alt="doctor-foto">	
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; height: 186.25px;" class="img-fluid" src="images/Milestone/2012.JPG" alt="doctor-foto">	
               	<!-- Icon -->
 								<br>	<br>
 											
@@ -215,7 +215,7 @@
 						<li class="timeline-item">
 							<div class="timeline-badge primary orange-hover">2016</div>
 							<div class="timeline-panel">
-              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/Milestone/2016.webp" alt="doctor-foto">	
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; height: 186.25px;" class="img-fluid" src="images/Milestone/2016.webp" alt="doctor-foto">	
               	<!-- Icon -->
 								<br>	<br>
 											
@@ -231,7 +231,7 @@
             <li class="timeline-item">
 							<div class="timeline-badge primary orange-hover">2018</div>
 							<div class="timeline-panel">
-              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/Milestone/2018.JPG" alt="doctor-foto">	
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; height: 186.25px;" class="img-fluid" src="images/Milestone/2018.JPG" alt="doctor-foto">	
               	<!-- Icon -->
 								<br>	<br>
 											
@@ -250,7 +250,7 @@
             <li class="timeline-item">
 							<div class="timeline-badge primary orange-hover">2019</div>
 							<div class="timeline-panel">
-              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/Milestone/2019.webp" alt="doctor-foto">	
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; height: 186.25px;" class="img-fluid" src="images/Milestone/2019.webp" alt="doctor-foto">	
               	<!-- Icon -->
 								<br>	<br>
 											
@@ -268,7 +268,7 @@
             <li class="timeline-item">
 							<div class="timeline-badge primary orange-hover">2020</div>
 							<div class="timeline-panel">
-              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/Milestone/2020.webp" alt="doctor-foto">	
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; height: 186.25px;" class="img-fluid" src="images/Milestone/2020.webp" alt="doctor-foto">	
               	<!-- Icon -->
 								<br>	<br>
 											
@@ -284,7 +284,7 @@
             <li class="timeline-item">
 							<div class="timeline-badge primary orange-hover">2021</div>
 							<div class="timeline-panel">
-              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; height: 186.25px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
               	<!-- Icon -->
 								<br>	<br>
 											
@@ -308,7 +308,7 @@
             <li class="timeline-item">
 							<div class="timeline-badge primary orange-hover">2022</div>
 							<div class="timeline-panel">
-              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/Milestone/2022.jpg" alt="doctor-foto">	
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; height: 186.25px;" class="img-fluid" src="images/Milestone/2022.jpg" alt="doctor-foto">	
               	<!-- Icon -->
 								<br>	<br>
 											
