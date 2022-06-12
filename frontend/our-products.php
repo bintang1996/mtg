@@ -65,8 +65,8 @@ display: none;
 <style>
 	.card-header{
 
-  box-shadow: 2px 2px;
-
+  box-shadow: 1px 1px;
+background-color: #fff;
 	}
 </style>
 
