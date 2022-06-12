@@ -223,7 +223,7 @@
                
 									<h4 class="timeline-title">2016</h4>
 					
-									<p>Project KSO pertama diganti -> Proyek Kemitraan Layanan Cathlab Pertama</p><br>
+									<p>Proyek Kemitraan Layanan Cathlab Pertama</p><br>
 								</div>
 							</div>
 						</li>
@@ -258,7 +258,7 @@
                
 									<h4 class="timeline-title">2019</h4>
 					
-									<p>Project CT Scan Pertama diganti -> Proyek Kemitraan Layanan CT Scan Pertama </p><br>
+									<p>Proyek Kemitraan Layanan CT Scan Pertama </p><br>
 								</div>
 							</div>
 						</li>
