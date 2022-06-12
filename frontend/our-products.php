@@ -64,11 +64,9 @@ display: none;
 
 <style>
 	.card-header{
-		.
-  /* offset-x | offset-y | blur-radius | spread-radius | color */
 
   box-shadow: 2px 2px;
-  border: 0px;
+
 	}
 </style>
 
