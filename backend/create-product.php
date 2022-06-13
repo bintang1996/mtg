@@ -6,7 +6,7 @@ $a = $_GET['id'];
             
             $b=$a+1;
            
-            $query1="INSERT INTO product (p_name, inven) values ('Untitled Product', 'alert-warning')";
+            $query1="INSERT INTO product (id, p_name, inven) values ('$b', 'Untitled Product', 'alert-warning')";
             $result1 = mysqli_query($GLOBALS["___mysqli_ston"], $query1);	
              
             if($result1)
