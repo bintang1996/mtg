@@ -29,13 +29,12 @@ display: none;
 		       							<div class="col-md-12 col-lg-10" >
 		       								<div class="caption-txt">
 						       					<!-- Title -->
-						       					<h3 class="white-color">LEGALITAS PERUSAHAAN</h3>
+						       					<h3 class="white-color judul1">LEGALITAS & PENCAPAIAN</h3>
 
 						       					<!-- Option Box #1 -->
 												<div class="box-list">							
 													<div class="box-list-icon white-color"></div>
-													<p class="p-md white-color" >Ini profil Perusahaan
-													</p>						
+																	
 												</div>
 									
 									    

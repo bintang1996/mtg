@@ -21,11 +21,9 @@ display: none;
 	}
 </style>
 	<!-- HERO-2
-			============================================= -->	
-			<section id="hero-2" class="hero-section division">
+		
 
-
-				<!-- SLIDER -->
+				 SLIDER -->
 				<div class="slider" style="height: 500px;">
 			    	<ul class="slides">
 
@@ -44,13 +42,12 @@ display: none;
 		       							<div class="col-md-12 col-lg-10" >
 		       								<div class="caption-txt">
 						       					<!-- Title -->
-						       					<h3 class="white-color">NEWS</h3>
+						       					<h2 class="white-color judul1">NEWS</h2>
 
 						       					<!-- Option Box #1 -->
 												<div class="box-list">							
 													<div class="box-list-icon white-color"></div>
-													<p class="p-md white-color" >Ini news Perusahaan
-													</p>						
+																			
 												</div>
 									
 									    
@@ -109,9 +106,9 @@ display: none;
 
 							<?php
                     $r=$_GET['id'];
-							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a ") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+							$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a where cat_name = 'NEWS' OR cat_name = 'EDUCATION' OR cat_name = 'OUR STORIES' limit 9 ") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 							while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
-                                $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                                $sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where id='$x' ") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
                                 while($d1=mysqli_fetch_array($sql1)){ 
 							?> 
 						
@@ -159,6 +156,6 @@ display: none;
 							
 						
 				</div>	   <!-- End container -->
-			</section>	 <!-- END LATEST-POST -->
+		
 
 <?php include "footer.php";?>

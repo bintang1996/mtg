@@ -1,3 +1,152 @@
+<!-- TOP-NEWS
+			============================================= -->
+		
+
+
+
+
+
+
+
+
+
+
+		
+			
+			<div class="w3-content w3-display-container" style="max-width:100%; background-color:#f8f9fa; padding-bottom: 50px; padding-top: 50px; ">
+
+<div class="row">	
+	<div class="col-lg-10 offset-lg-1 section-title" style="margin-bottom: 30px;">		
+										
+	</div> 
+</div>
+
+		<?php
+			$r=$_GET['id']; $gi=0;
+			$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections_a where cat_name = 'RECENT UPDATE' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+			while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
+			$sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel order by id desc limit 3") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+			while($d1=mysqli_fetch_array($sql1)){  $gi++; $gk=$d1['id'];
+		?> 
+
+<div class="mySlides1">
+
+<section id="info-4" class="wide-100 info-section division" style="background-color: #f8f9fa; padding-bottom: 0px; padding-top:0px; ">
+<div class="container" style="background-color:#f8f9fa;">
+
+
+<!-- TOP ROW -->
+<div class="top-row mb-80">
+	<div class="row d-flex align-items-center">
+
+
+	<!-- INFO IMAGE -->
+	<div class="col-lg-6 text-right" STYLE="ALIGN: right; VALIGN: right;">
+<?php
+		$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$gk' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+		while($d2=mysqli_fetch_array($sql2)){
+		?> 
+		<div class="gambar1" style="margin-left: 40px;background-image: url('assets/imgs/shop/<?php echo $d2['img_name']; ?>');"></div>
+<?php } ?>
+</div>
+
+
+<!-- INFO TEXT -->	
+<div class="col-lg-6">
+
+<div class="txt-block pc-30" >
+
+<!-- Title 	-->	
+<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>RECENT UPDATE</b></b></h3>
+<br>
+
+<h5 class="h4-md" style="color: #4d4d4d;font-family:'Lato black'; font-weight:bolder;"><B><?php echo $d1['p_name']; ?></B></h5>
+<p style="text-align: justify; text-justify: inter-word;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 210); ?> ....</p>
+<br><a href="article-details.php?id=<?php echo $d1['id']; ?>" class="btn btn-md btn-blue orange-hover">Selengkapnya</a>
+</div>    <!-- End row -->
+</div>	<!-- END SECOND ROW -->
+	
+
+</div>	   <!-- End container -->
+</section>	<!-- END INFO-4 -->
+</div>
+
+<?php }} ?>
+<button class="w3-button w3-display-left w3-hover-red" onclick="plusDivs1(-1)" style= "color: #f44336; font-size: 50px;">&#10094;</button>
+<button class="w3-button w3-display-right w3-hover-red" onclick="plusDivs1(1)" style= "color: #f44336; font-size: 50px;">&#10095;</button>
+<div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
+
+<span class="w3-badge demo1 w3-border w3-red w3-hover-red" onclick="currentDiv1(1)"></span>
+<span class="w3-badge demo1 w3-border w3-red w3-hover-red" onclick="currentDiv1(2)"></span>
+<span class="w3-badge demo1 w3-border w3-red w3-hover-red" onclick="currentDiv1(3)"></span>
+
+
+
+</div>
+</div>
+
+<script>
+var slideIndex1 = 1;
+showDivs1(slideIndex1);
+
+function plusDivs1(n) {
+showDivs1(slideIndex1 += n);
+}
+
+function currentDiv1(n) {
+showDivs1(slideIndex1 = n);
+}
+
+function showDivs1(n) {
+var i;
+var x = document.getElementsByClassName("mySlides1");
+var dots = document.getElementsByClassName("demo1");
+if (n > x.length) {slideIndex1 = 1}
+if (n < 1) {slideIndex1 = x.length}
+for (i = 0; i < x.length; i++) {
+x[i].style.display = "none";  
+}
+for (i = 0; i < dots.length; i++) {
+dots[i].className = dots[i].className.replace(" w3-white", "");
+}
+x[slideIndex1-1].style.display = "block";  
+dots[slideIndex1-1].className += " w3-white";
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 	<!-- PRODUK NI BOS -->									

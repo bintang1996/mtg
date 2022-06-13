@@ -13,6 +13,11 @@
 			}
 			img{
 				border-radius: 20px;
+				
+				
+			}
+			p a{
+				color: blue;
 			}
     </style>
 

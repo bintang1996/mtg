@@ -28,13 +28,12 @@ display: none;
 		       							<div class="col-md-12 col-lg-10" >
 		       								<div class="caption-txt">
 						       					<!-- Title -->
-						       					<h3 class="white-color">PROFIL PERUSAHAAN</h3>
+						       					<h3 class="white-color judul1" >PROFIL PERUSAHAAN</h3>
 
 						       					<!-- Option Box #1 -->
 												<div class="box-list">							
 													<div class="box-list-icon white-color"></div>
-													<p class="p-md white-color" >Ini profil Perusahaan
-													</p>						
+																	
 												</div>
 									
 									    
@@ -66,13 +65,20 @@ display: none;
 				<div class="container">
 					<div class="row d-flex align-items-center">
 
-						<!-- IMAGE BLOCK -->
+						<!-- IMAGE BLOCK
 						<div class="col-lg-6">
+
 							<div class="info-1-img text-center mb-40 wow fadeInUp" data-wow-delay="0.6s">
 								<img class="img-fluid" src="images/meditrans-office-ps3.png" alt="info-image">
 							</div>
-						</div>
 
+
+						</div> -->
+		<div class="col-lg-6">
+				
+		<img class="img-fluid" style="border-radius: 10%;" src="images/meditrans-office-ps3.png" alt="info-image">
+			
+						</div>
 
 						<!-- TEXT BLOCK -->	
 						<div class="col-lg-6">
@@ -90,7 +96,7 @@ display: none;
 
 																			Berlatar belakang pendiri perusahaan yang memiliki pengalaman di bidang peralatan penunjang kesehatan, saat ini Meditrans fokus dalam pengembangan perusahaan dalam hal pelayanan Barang dan Jasa penunjang kesehatan.<br>
 
-																			Di dukung dengan tim yang solid dan berpengalaman, Meditrans bekerjasama dengan Rumah Sakit serta perusahaan penyedia peralatan kesehatan, baik principal ataupun pihak Kerjasama Operasional (KSO) dalam memberikan konsultasi dan pelaksanaan pekerjaan. Yakni meliputi Pra Instalasi peralatan kesehatan seperti instalasi X-Ray, CT-Scan, MRI dan Cathlab.<br>
+																			Di dukung dengan tim yang solid dan berpengalaman, Meditrans bekerjasama dengan Rumah Sakit serta perusahaan penyedia peralatan kesehatan, baik principal ataupun pihak Public Private Partnership (PPP) dalam memberikan konsultasi dan pelaksanaan pekerjaan. Yakni meliputi Pra Instalasi peralatan kesehatan seperti instalasi X-Ray, CT-Scan, MRI dan Cathlab.<br>
 
 																			Meditrans juga berpengalaman dalam hal Konstruksi dan Renovasi untuk ruangan Operasi, ruang radiologi yang membutuhkan instalasi anti radiasi (Timbal Pb) maupun struktur penguat lantai dan rangka atas.<br>
 
@@ -170,7 +176,7 @@ display: none;
 										<p>Operation and Marketing Director
 										</p>
 										</div>
-										<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>
+										<br><a href="https://www.linkedin.com/in/tari-pristiyanti-266057162/" class="btn btn-sm btn-orange">READ MORE</a>
 																																							
 										</div>
 </td>
@@ -323,8 +329,7 @@ display: none;
 												<h5 class="h5-sm steelblue-color">TERPERCAYA</h5>
 												<!-- Text -->
 												
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor
+												<p class="p-sm">
 												</p>
 
 											</div>
@@ -448,10 +453,10 @@ display: none;
 
 			 		<!-- SECTION TITLE -->	
 					<div class="row" >	
-						<div class="col-lg-10 offset-lg-1 section-title">		
+						<div class="col-lg-12 section-title">		
 
 							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>OUR NETWORK</b></b></h3>								
+							<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>REKANAN KAMI</b></b></h3>								
 						
 
 							<!-- Text -->
@@ -463,6 +468,18 @@ display: none;
 
 
 					<div class="row col-md-12 text-center align-center">
+
+					<div class="panel-body" style="text-align: center; overflow: hidden;">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture27.png">
+  					</div>
+
+					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/br-5.png">
+  					</div>
+
+					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/br-6.png">
+  					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
     				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture1.png">
@@ -477,18 +494,14 @@ display: none;
     				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture3.png">
   					</div>
 
-					  <div class="panel-body" style="text-align: center; overflow: hidden;">
-    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture4.png">
-  					</div>
+					
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
     				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture5.png">
   					</div>
 
 
-					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture6.png">
-  					</div>
+					
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
     				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture7.png">
@@ -524,6 +537,13 @@ display: none;
     				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture14.png">
   					</div>
 
+					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/br-1.png">
+  					</div>
+
+					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/br-2.png">
+  					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
     				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture15.png">
@@ -544,19 +564,16 @@ display: none;
   					</div>
 
 
-					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture19.png">
-  					</div>
-
-					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture20.png">
-  					</div>
-
+		
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
     				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture21.png">
   					</div>
 						
+					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/br-4.png">
+  					</div>
+
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
     				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture22.png">
   					</div>
@@ -576,19 +593,30 @@ display: none;
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden;">
-    				<img style="max-height: 50px; margin:20px;" src="images/networks/Picture26.png">
+    				<img style="max-height: 50px; margin:20px;" src="images/networks/Picture6.png">
   					</div>
 
 
-					<div class="panel-body" style="text-align: center; overflow: hidden;">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture27.png">
-  					</div>
+					
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
     				<img style="max-height: 30px; margin:20px;" src="images/networks/Picture28.png">
   					</div>
+					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture26.png">
+  					</div>
 
-					
+					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture19.png">
+  					</div>
+
+					<div class="panel-body" style="text-align: center; overflow: hidden; ">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture20.png">
+  					</div>
+
+					  <div class="panel-body" style="text-align: center; overflow: hidden;">
+    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture4.png">
+  					</div>
 
 					</div>	    <!-- End row2 -->
 

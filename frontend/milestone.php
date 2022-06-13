@@ -198,16 +198,16 @@
 						<li class="timeline-item">
 							<div class="timeline-badge primary orange-hover">2012</div>
 							<div class="timeline-panel">
-              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; width: 298px; height: 186.25px;" class="img-fluid" src="images/Milestone/2012.JPG" alt="doctor-foto">	
               	<!-- Icon -->
 								<br>	<br>
 											
 								<div class="timeline-heading" style="padding: 20px;">
                
 									<h4 class="timeline-title">2012</h4>
+                  <p>Meditrans berdiri di Surabaya sebagai perusahaan  jasa konstruksi dan renovasi ruang Radiologi dan Kardiologi</p>
 					
-									<p>Awal berdiri di surabaya (2012) - Akte Notaris No 35 tgl 23 Nov 2012 sebagai perusahaan konstruksi dan renovasi ruang Radiologi dan Kardiologi</p>
-								</div>
+</div>
 							</div>
 						</li>
 
@@ -215,7 +215,7 @@
 						<li class="timeline-item">
 							<div class="timeline-badge primary orange-hover">2016</div>
 							<div class="timeline-panel">
-              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; width: 298px; height: 186.25px;" class="img-fluid" src="images/Milestone/2016.webp" alt="doctor-foto">	
               	<!-- Icon -->
 								<br>	<br>
 											
@@ -223,7 +223,7 @@
                
 									<h4 class="timeline-title">2016</h4>
 					
-									<p>Project KSO Cathlab pertama</p><br><br><br><br>
+									<p>Proyek Kemitraan Layanan Cathlab Pertama</p><br><br>
 								</div>
 							</div>
 						</li>
@@ -231,7 +231,7 @@
             <li class="timeline-item">
 							<div class="timeline-badge primary orange-hover">2018</div>
 							<div class="timeline-panel">
-              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; width: 298px; height: 186.25px;" class="img-fluid" src="images/Milestone/2018.JPG" alt="doctor-foto">	
               	<!-- Icon -->
 								<br>	<br>
 											
@@ -239,7 +239,7 @@
                
 									<h4 class="timeline-title">2018</h4>
 					
-									<p>Perpindahan ke Head Office Jakarta</p><br><br><br><br>
+									<p>Perpindahkan Kantor Pusat Jakarta </p><br><br><br>
 								</div>
 							</div>
 						</li>
@@ -250,7 +250,7 @@
             <li class="timeline-item">
 							<div class="timeline-badge primary orange-hover">2019</div>
 							<div class="timeline-panel">
-              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; width: 298px; height: 186.25px;" class="img-fluid" src="images/Milestone/2019.webp" alt="doctor-foto">	
               	<!-- Icon -->
 								<br>	<br>
 											
@@ -258,7 +258,7 @@
                
 									<h4 class="timeline-title">2019</h4>
 					
-									<p>Project KSO CT Scan pertama</p><br><br><br><br>
+									<p>Proyek Kemitraan Layanan CT Scan Pertama </p><br><br>
 								</div>
 							</div>
 						</li>
@@ -268,7 +268,7 @@
             <li class="timeline-item">
 							<div class="timeline-badge primary orange-hover">2020</div>
 							<div class="timeline-panel">
-              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; width: 298px; height: 186.25px;" class="img-fluid" src="images/Milestone/2020.webp" alt="doctor-foto">	
               	<!-- Icon -->
 								<br>	<br>
 											
@@ -276,8 +276,7 @@
                
 									<h4 class="timeline-title">2020</h4>
 					
-									<p>Project vyaire, distribusi 1000 ventilator support USAID dan KEMENKES</p><br><br>
-								</div>
+									<p>Proyek Vyaire : distribusi 1000 ventilator donasi USAID untuk KEMENKES</p><br>
 							</div>
 						</li>
 
@@ -285,7 +284,7 @@
             <li class="timeline-item">
 							<div class="timeline-badge primary orange-hover">2021</div>
 							<div class="timeline-panel">
-              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; width: 298px;  height: 186.25px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
               	<!-- Icon -->
 								<br>	<br>
 											
@@ -293,31 +292,13 @@
                
 									<h4 class="timeline-title">2021</h4>
 					
-									<p>Project invamed</p><br><br><br><br>
+									<p>Kerjasama distribusi dengan Invamed dan Samsung Healthcare  </p><br><br>
 								</div>
 							</div>
 						</li>
 
 
 
-
-
-
-            <li class="timeline-item">
-							<div class="timeline-badge primary orange-hover">2021</div>
-							<div class="timeline-panel">
-              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
-              	<!-- Icon -->
-								<br>	<br>
-											
-								<div class="timeline-heading" style="padding: 20px;">
-               
-									<h4 class="timeline-title">2021</h4>
-					
-									<p>Samsung</p><br><br><br><br>
-								</div>
-							</div>
-						</li>
 
 
 
@@ -327,7 +308,7 @@
             <li class="timeline-item">
 							<div class="timeline-badge primary orange-hover">2022</div>
 							<div class="timeline-panel">
-              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; width: 298px; height: 186.25px;" class="img-fluid" src="images/Milestone/2022.jpg" alt="doctor-foto">	
               	<!-- Icon -->
 								<br>	<br>
 											
@@ -335,29 +316,11 @@
                
 									<h4 class="timeline-title">2022</h4>
 					
-									<p>Elixir</p><br><br><br><br>
+									<p>Kerjasama disribusi dengan Elixir Medical dan Yokogawa</p><br><br>
 								</div>
 							</div>
 						</li>
 
-
-
-
-            <li class="timeline-item">
-							<div class="timeline-badge primary orange-hover">2022</div>
-							<div class="timeline-panel">
-              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
-              	<!-- Icon -->
-								<br>	<br>
-											
-								<div class="timeline-heading" style="padding: 20px;">
-               
-									<h4 class="timeline-title">2022</h4>
-					
-									<p>Yokogawa</p><br><br><br><br>
-								</div>
-							</div>
-						</li>
 
 
 

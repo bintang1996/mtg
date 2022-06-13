@@ -4,6 +4,21 @@
 display: none;
 	}
 </style>
+
+<style>
+	#accordion{
+		-webkit-box-shadow: -1px -1px 1px 1px rgba(0,0,0,0.5);
+  -moz-box-shadow: -1px -1px 1px 1px rgba(0,0,0,0.425);
+  box-shadow: -1px -1px 1px 1px rgba(0,0,0,0.35);
+  border-radius: 20px;
+	}
+	.card-header{
+		
+  /* offset-x | offset-y | blur-radius | spread-radius | color */
+
+  background-color: #fff;
+	}
+</style>
 <!-- HERO-2
 			============================================= -->	
 			<section id="hero-2" class="hero-section division">
@@ -28,13 +43,12 @@ display: none;
 		       							<div class="col-md-12 col-lg-10" >
 		       								<div class="caption-txt">
 						       					<!-- Title -->
-						       					<h3 class="white-color">PORTOFOLIO</h3>
+						       					<h3 class="white-color judul1">PORTOFOLIO</h3>
 
 						       					<!-- Option Box #1 -->
 												<div class="box-list">							
 													<div class="box-list-icon white-color"></div>
-													<p class="p-md white-color" >Ini PORTOFOLIO Perusahaan
-													</p>						
+																		
 												</div>
 									
 									    
@@ -74,9 +88,9 @@ display: none;
                          <div id="tabs-nav" class="list-group text-center clearfix" style="">
                                 <div id="accordion" >
                                 <div class="card" >
-                                <div class="card-header" style="background-color: #e86845; color: #fff; border-top-left-radius:20px; border-top-right-radius:20px;">
+                                <div class="card-header" style="border-top-left-radius:20px; border-top-right-radius:20px;">
                                     <a class="card-link" data-toggle="collapse" href="#collapseOne">
-                                    <b style="color: #fff; font-weight: bolder;">KERJASAMA</b>
+                                    <b style="color: #214068; font-weight: bolder;">KERJASAMA</b>
                                     </a>
                                 </div>
                                 <div id="collapseOne" class="collapse show" data-parent="#accordion">
@@ -109,9 +123,9 @@ display: none;
                                 </div>
                                 </div>
                                 <div class="card">
-                                <div class="card-header" style="background-color: #e86845; color: #fff; border-bottom-left-radius:20px; border-bottom-right-radius:20px;">
+                                <div class="card-header" style="border-bottom-left-radius:20px; border-bottom-right-radius:20px;">
                                     <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo">
-                                    <b style="color: #fff; font-weight: bolder;" >KONSTRUKSI</b>
+                                    <b style="color: #214068; font-weight: bolder;" >KONSTRUKSI</b>
                                 </a>
                                 </div>
                                 <div id="collapseTwo" class="collapse" data-parent="#accordion">
