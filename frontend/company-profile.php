@@ -348,7 +348,7 @@ Nilai-nilai dan budaya yang diterapkan di Meditrans Global itulah yang menjadi l
 												<!-- Title -->
 												<h5 class="h5-sm steelblue-color">INOVASI</h5>
 												<!-- Text -->
-												<p class="p-sm">Senantiasa mengupayakan peningkatan inovasi yang lebih baik dari sebelumnya<br>
+												<p class="p-sm">Senantiasa mengupayakan peningkatan inovasi yang lebih baik dari sebelumnya<br><br><br>
 												</p>
 
 											</div>
@@ -372,8 +372,8 @@ Nilai-nilai dan budaya yang diterapkan di Meditrans Global itulah yang menjadi l
 												<!-- Title -->
 												<h5 class="h5-sm steelblue-color">JUJUR</h5>
 												<!-- Text -->
-												<p class="p-sm">"Mengedepankan kejujuran, intelektual, dan
-citra perusahaan yang konsisten dalam menjalankan bisnis dan seluruh aktifitas perusahaan"
+												<p class="p-sm">Mengedepankan kejujuran, intelektual, dan
+citra perusahaan yang konsisten dalam menjalankan bisnis dan seluruh aktifitas perusahaan
 												</p>
 
 											</div>
