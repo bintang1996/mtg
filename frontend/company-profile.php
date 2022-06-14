@@ -324,7 +324,7 @@ Nilai-nilai dan budaya yang diterapkan di Meditrans Global itulah yang menjadi l
 												<h5 class="h5-sm steelblue-color">TERPERCAYA</h5>
 												<!-- Text -->
 												
-												<p class="p-sm">Mempertahankan standard yang tinggi dalam setiap aktifitas kerja sebagai perusahaan yang terpercaya<br>
+												<p class="p-sm">Mempertahankan standard yang tinggi dalam setiap aktifitas kerja sebagai perusahaan yang terpercaya<br><br>
 												</p>
 
 											</div>
