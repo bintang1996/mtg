@@ -275,7 +275,7 @@ display: none;
 							<p>Di Meditrans Global, kami percaya bahwa profesionalitas dan nilai-nilai pribadi yang kuat menjadi kunci utama untuk mencapai tujuan perusahaan serta kesuksesan dalam industri kesehatan.<BR><br>
 
 Nilai-nilai dan budaya yang diterapkan di Meditrans Global itulah yang menjadi landasan perusahaan dalam menyediakan kebutuhan bagi fasilitas kesehatan yang berpusat pada pasien dengan keunggulan dalam kualitas, layanan, dan akses.
-												</p><br>
+												</p>
 
 							</div>	
 
