@@ -4,7 +4,7 @@
 display: none;
 	}
 	.p-smm{
-		font-size: 10px;
+		font-size: 12px;
 	}
 </style>
 	<!-- HERO-2
