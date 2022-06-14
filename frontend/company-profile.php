@@ -324,7 +324,7 @@ Nilai-nilai dan budaya yang diterapkan di Meditrans Global itulah yang menjadi l
 												<h5 class="h5-sm steelblue-color">TERPERCAYA</h5>
 												<!-- Text -->
 												
-												<p class="p-sm">
+												<p class="p-sm">Mempertahankan standard yang tinggi dalam setiap aktifitas kerja sebagai perusahaan yang terpercaya
 												</p>
 
 											</div>
@@ -372,8 +372,8 @@ Nilai-nilai dan budaya yang diterapkan di Meditrans Global itulah yang menjadi l
 												<!-- Title -->
 												<h5 class="h5-sm steelblue-color">JUJUR</h5>
 												<!-- Text -->
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor
+												<p class="p-sm">"Mengedepankan kejujuran, intelektual, dan
+citra perusahaan yang konsisten dalam menjalankan bisnis dan seluruh aktifitas perusahaan"
 												</p>
 
 											</div>
@@ -397,8 +397,7 @@ Nilai-nilai dan budaya yang diterapkan di Meditrans Global itulah yang menjadi l
 												<!-- Title -->
 												<h5 class="h5-sm steelblue-color">BERINTEGRITAS</h5>
 												<!-- Text -->
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor
+												<p class="p-sm">Membangun hubungan yang berintegritas diantara sesama rekan kerja, pelanggan dan masyarakat industri
 												</p>
 
 											</div>
@@ -422,8 +421,8 @@ Nilai-nilai dan budaya yang diterapkan di Meditrans Global itulah yang menjadi l
 												<!-- Title -->
 												<h5 class="h5-sm steelblue-color">BERKUALITAS</h5>
 												<!-- Text -->
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor
+												<p class="p-sm">Mempertahankan kualitas yang tinggi dalam
+setiap aktifitas kerja serta produk jasa pada pelanggan dan rekanan
 												</p>
 
 											</div>
