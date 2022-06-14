@@ -269,13 +269,13 @@ display: none;
 							<div class="services-7-table blue-table mb-30 wow fadeInUp" data-wow-delay="0.6s"style="margin-top:0px; text-align: left;">
 
 								<!-- Title -->
-								<h4 class="h4-xs" >COMPANY<br> VALUES</h4><br><br>
+								<h4 class="h4-xs" >COMPANY<br> VALUES</h4><br>
 
 								<!-- Text -->
 							<p>Di Meditrans Global, kami percaya bahwa profesionalitas dan nilai-nilai pribadi yang kuat menjadi kunci utama untuk mencapai tujuan perusahaan serta kesuksesan dalam industri kesehatan.<BR><br>
 
 Nilai-nilai dan budaya yang diterapkan di Meditrans Global itulah yang menjadi landasan perusahaan dalam menyediakan kebutuhan bagi fasilitas kesehatan yang berpusat pada pasien dengan keunggulan dalam kualitas, layanan, dan akses.
-												</p><br><br><br>
+												</p><br>
 
 							</div>	
 
