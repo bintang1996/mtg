@@ -313,22 +313,21 @@ Nilai-nilai dan budaya yang diterapkan di Meditrans Global itulah yang menjadi l
 			 					<div class="col-md-6">
 			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.6s">
 			 							
+										<!-- Icon -->
+										<span class="flaticon-016-doctor-1 blue-color"></span>
 
-				 							<!-- Icon -->
-											<span class="flaticon-080-shield blue-color"></span>
+										<!-- Text -->
+										<div class="sbox-7-txt">
 
+											<!-- Title -->
+											<h5 class="h5-sm steelblue-color">JUJUR</h5>
 											<!-- Text -->
-											<div class="sbox-7-txt">
-				
-												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">TERPERCAYA</h5>
-												<!-- Text -->
-												
-												<p class="p-sm">Mempertahankan standard yang tinggi dalam setiap aktifitas kerja sebagai perusahaan yang terpercaya<br><br>
-												</p>
+											<p class="p-sm">Mengedepankan kejujuran, intelektual, dan
+										citra perusahaan yang konsisten dalam menjalankan bisnis dan seluruh aktifitas perusahaan
+											</p>
 
-											</div>
-
+										</div>
+				 							
 				 						
 			 						</div>
 			 					</div>  <!-- END SERVICE BOX #2 -->
@@ -363,17 +362,17 @@ Nilai-nilai dan budaya yang diterapkan di Meditrans Global itulah yang menjadi l
 			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="1s">
 			 							
 
-				 							<!-- Icon -->
-											<span class="flaticon-016-doctor-1 blue-color"></span>
+											<!-- Icon -->
+											<span class="flaticon-080-shield blue-color"></span>
 
 											<!-- Text -->
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">JUJUR</h5>
+												<h5 class="h5-sm steelblue-color">TERPERCAYA</h5>
 												<!-- Text -->
-												<p class="p-sm">Mengedepankan kejujuran, intelektual, dan
-citra perusahaan yang konsisten dalam menjalankan bisnis dan seluruh aktifitas perusahaan
+												
+												<p class="p-sm">Mempertahankan standard yang tinggi dalam setiap aktifitas kerja sebagai perusahaan yang terpercaya<br><br>
 												</p>
 
 											</div>
