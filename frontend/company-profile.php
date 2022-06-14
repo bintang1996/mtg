@@ -299,7 +299,7 @@ Nilai-nilai dan budaya yang diterapkan di Meditrans Global itulah yang menjadi l
 												<h5 class="h5-sm steelblue-color">KOMITMEN PADA PELANGGAN</h5>
 												
 												<!-- Text -->
-												<p class="p-sm">"Selalu berpegang teguh pada Komitmen layanan pada pelanggan dalam setiap  aktivitas perusahaan."
+												<p class="p-sm">Selalu berpegang teguh pada Komitmen layanan pada pelanggan dalam setiap  aktivitas perusahaan
 												</p>
 
 											</div>
