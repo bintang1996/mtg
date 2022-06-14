@@ -269,7 +269,7 @@ display: none;
 								<h4 class="h4-xs" >COMPANY<br> VALUES</h4>
 
 								<!-- Text -->
-							<p class="p-sm">Di Meditrans Global, kami percaya bahwa profesionalitas dan nilai-nilai pribadi yang kuat menjadi kunci utama untuk mencapai tujuan perusahaan serta kesuksesan dalam industri kesehatan.<BR>
+							<p class="p-sm">Di Meditrans Global, kami percaya bahwa profesionalitas dan nilai-nilai pribadi yang kuat menjadi kunci utama untuk mencapai tujuan perusahaan serta kesuksesan dalam industri kesehatan.<BR><br>
 
 Nilai-nilai dan budaya yang diterapkan di Meditrans Global itulah yang menjadi landasan perusahaan dalam menyediakan kebutuhan bagi fasilitas kesehatan yang berpusat pada pasien dengan keunggulan dalam kualitas, layanan, dan akses.
 												</p>
@@ -296,10 +296,10 @@ Nilai-nilai dan budaya yang diterapkan di Meditrans Global itulah yang menjadi l
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">KOMITMEN PADA CUSTOMER</h5>
+												<h5 class="h5-sm steelblue-color">KOMITMEN PADA PELANGGAN</h5>
 												
 												<!-- Text -->
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice
+												<p class="p-sm">"Selalu berpegang teguh pada Komitmen layanan pada pelanggan dalam setiap  aktivitas perusahaan."
 												</p>
 
 											</div>
