@@ -348,8 +348,7 @@ Nilai-nilai dan budaya yang diterapkan di Meditrans Global itulah yang menjadi l
 												<!-- Title -->
 												<h5 class="h5-sm steelblue-color">INOVASI</h5>
 												<!-- Text -->
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor
+												<p class="p-sm">Senantiasa mengupayakan peningkatan inovasi yang lebih baik dari sebelumnya
 												</p>
 
 											</div>
