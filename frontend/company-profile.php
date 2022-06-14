@@ -3,6 +3,9 @@
 	.indicators {
 display: none;
 	}
+	.p-sm{
+		font-size: 10px;
+	}
 </style>
 	<!-- HERO-2
 			============================================= -->	
