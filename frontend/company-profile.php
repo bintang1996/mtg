@@ -455,7 +455,7 @@ setiap aktifitas kerja serta produk jasa pada pelanggan dan rekanan
 						
 
 							<!-- Text -->
-							<p>Adapun Rumah Sakit serta perusahaan yang telah bekerjasama dengan Meditrans Global dalam penyediaan kebutuhan layanan kesehatan adalah sebagai berikut
+							<p>Adapun Rumah Sakit serta perusahaan yang telah bekerjasama dengan Meditrans Global dalam penyediaan kebutuhan layanan kesehatan sebagai berikut
 
 							</p>
 										
