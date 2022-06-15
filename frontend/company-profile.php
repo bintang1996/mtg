@@ -455,7 +455,8 @@ setiap aktifitas kerja serta produk jasa pada pelanggan dan rekanan
 						
 
 							<!-- Text -->
-							<p>We are trusted to distributed and providing the right solution for clients is our focus and priority.
+							<p>Adapun Rumah Sakit serta perusahaan yang telah bekerjasama dengan Meditrans Global dalam penyediaan kebutuhan layanan kesehatan adalah sebagai berikut
+
 							</p>
 										
 						</div> 
