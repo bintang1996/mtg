@@ -448,7 +448,7 @@ setiap aktifitas kerja serta produk jasa pada pelanggan dan rekanan
 
 			 		<!-- SECTION TITLE -->	
 					<div class="row" >	
-						<div class="col-lg-12 section-title">		
+						<div class="col-lg-12 text-center">		
 
 							<!-- Title 	-->	
 							<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>REKANAN KAMI</b></b></h3>								
@@ -461,6 +461,7 @@ setiap aktifitas kerja serta produk jasa pada pelanggan dan rekanan
 										
 						</div> 
 					</div>	 <!-- END SECTION TITLE -->	
+
 
 
 					<div class="row col-md-12 text-center align-center">
