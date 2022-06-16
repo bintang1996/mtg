@@ -264,11 +264,11 @@ display: none;
 											<b>Proteksi Radiasi</b>
                                             </a>
                                         </li>                                      
-										<li class="nav-item icon-xs">
+										<!-- <li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab28-list" data-toggle="pill" href="#tab-28" role="tab" aria-controls="tab-28" aria-selected="true">
 											<b>Konstruksi Ruangan</b>
                                             </a>
-                                        </li>   
+                                        </li>   -->
 
 										<li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab25-list" data-toggle="pill" href="#tab-25" role="tab" aria-controls="tab-25" aria-selected="true">
