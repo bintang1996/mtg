@@ -244,61 +244,14 @@ display: none;
 
 												<!-- Title -->
 
-												<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>CATHLAB</b></b></h3>	
+												<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>CATHLAB</b></b></h3><BR>	
 
 												<!-- Text -->
 												<p class="mb-30">Meditrans adalah partner Kerjasama yang terpercaya dan pengalaman di bidang CATHLAB,
 																hingga 2022, telah ada 6 lokasi cathlab terdiri dari RS pemerintah dan RS swasta.
 												</p>
 
-												<!-- Options List -->
-												<div class="row">
-
-													<div class="col-xl-6">
-
-														<!-- Option #1 -->
-														<div class="box-list">							
-															<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-															<p class="p-sm">Nemo ipsam egestas volute and turpis dolores quaerat</p>							
-														</div>
-
-														<!-- Option #2 -->
-														<div class="box-list">	
-															<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-															<p class="p-sm">Magna luctus tempor</p>				
-														</div>
-
-														<!-- Option  #3 -->
-														<div class="box-list">	
-															<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-															<p class="p-sm">An enim nullam tempor at pretium purus blandit</p>				
-														</div>
-
-													</div>
-
-													<div class="col-xl-6">
-
-														<!-- Option #4 -->
-														<div class="box-list">	
-															<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-															<p class="p-sm">Magna luctus tempor blandit a vitae suscipit mollis</p>				
-														</div>
-
-														<!-- Option #5 -->
-														<div class="box-list">							
-															<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-															<p class="p-sm">Nemo ipsam egestas volute turpis dolores quaerat</p>							
-														</div>
-
-														<!-- Option #6 -->
-														<div class="box-list">	
-															<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-															<p class="p-sm">An enim nullam tempor</p>				
-														</div>
-
-													</div>
-
-												</div>	<!-- End Options List -->
+												
 
 												<!-- Button -->
 												<a href="service-1.html" class="btn btn-blue orange-hover mt-30">Lebih Lanjut</a>
@@ -329,61 +282,13 @@ display: none;
 											<div class="txt-block pc-30">
 
 												<!-- Title -->
-												<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>CT-SCAN</b></b></h3>	
+												<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>CT-SCAN</b></b></h3><BR>	
 
 												<!-- Text -->
 												<p class="mb-30">Meditrans adalah Kerjasama provider terbesar di Indonesia dengan 14 CT scan dan terus tumbuh. 
 													Kami dipercaya di beberapa RS Pemerintah ataupun Swasta, diantaranya MRI dan CT Scan.
 												</p>
 
-												<!-- Options List -->
-												<div class="row">
-
-													<div class="col-xl-6">
-
-														<!-- Option #1 -->
-														<div class="box-list">							
-															<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-															<p class="p-sm">Nemo ipsam egestas volute and turpis dolores quaerat</p>							
-														</div>
-
-														<!-- Option #2 -->
-														<div class="box-list">	
-															<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-															<p class="p-sm">Magna luctus tempor</p>				
-														</div>
-
-														<!-- Option #3 -->
-														<div class="box-list">	
-															<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-															<p class="p-sm">An enim nullam tempor at pretium purus blandit</p>				
-														</div>
-
-													</div>
-
-													<div class="col-xl-6">
-
-														<!-- Option #4 -->
-														<div class="box-list">	
-															<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-															<p class="p-sm">Magna luctus tempor blandit a vitae suscipit mollis</p>				
-														</div>
-
-														<!-- Option #5 -->
-														<div class="box-list">							
-															<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-															<p class="p-sm">Nemo ipsam egestas volute turpis dolores quaerat</p>							
-														</div>
-
-														<!-- Option #6 -->
-														<div class="box-list">	
-															<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-															<p class="p-sm">An enim nullam tempor</p>				
-														</div>
-
-													</div>
-
-												</div>	<!-- End Options List -->
 
 												<!-- Button -->
 												<a href="service-2.html" class="btn btn-blue orange-hover mt-30">Lebih Lanjut</a>
@@ -502,7 +407,7 @@ display: none;
 											<div class="txt-block pc-30">
 
 												<!-- Title -->
-												<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>LAYANAN LAINNYA</b></b></h3>	
+												<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>LAYANAN LAINNYA</b></b></h3><BR>	
 
 												<!-- Text -->
 												<p class="mb-30">An enim nullam tempor sapien gravida donec enim ipsum blandit
