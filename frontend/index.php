@@ -472,7 +472,7 @@
 							while($d2=mysqli_fetch_array($sql2)){
 								
 							?>
-							<div class="mySlides">
+						
 							<div class="gallery-item pediatric">
 								<div class="gambar hover-overlay text-center" style="background-image: url('assets/imgs/shop/<?php echo $d2['img_name']; ?>'); border-radius: 25px;">
 								<div class="item-overlay">		
@@ -480,13 +480,13 @@
 						
 							<!-- Profile Link -->		
 							<div class="profile-link">
-							<p style="margin-bottom:0px; font-size:1em; color:#007aff;"><?php echo $d['cat_name']; ?></p>
+							
 							<h4 class="h5-md" style="margin-top:0px; padding-left:8px;"><?php echo $d1['p_name']; ?></h4>
-							<p style="font-size: 0.5em; margin:0px;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>... </p>
+						
 							
 							<a style="font-size: 1em; color: #e86845;" href="article-details.php?id=<?php echo $d1['id']; ?>">Read more.</a>
 							</div> 
-							</div>	</div></div>
+							</div>	</div>
 							<?php } ?>
 
 							
