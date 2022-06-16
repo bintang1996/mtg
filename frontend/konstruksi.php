@@ -244,7 +244,7 @@ display: none;
 						<!-- INFO IMAGE -->
 						<div class="col-lg-6">
 							<div class="info-4-img text-center wow fadeInUp" data-wow-delay="0.6s">
-								<img style="border-radius: 20px;" class="img-fluid" src="images/head/konstruksi.jpg" alt="info-image">
+								<img style="border-radius: 20px;" class="img-fluid" src="images/cathlab.jpeg" alt="info-image">
 							</div>
 						</div>
 
@@ -256,16 +256,12 @@ display: none;
 							<div class="row">	
 						<div class="" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>JASA KONSTRUKSI</b></b></h3>								
+							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>JASA KONSTRUKSI <br>RUANG CATH LAB</b></b></h3>								
 						</div> 
 					</div>
 								
 								<!-- Text -->
-								<p>Jasa konstruksi dan renovasi Meditrans di handle oleh 
-									tim yang berpengalaman dan berkompeten di bidangnya. Antara lain penyediaan 
-									pintu anti radiasi, sandwich panel, pemasangan vinyl, MOT, Kaca Pb, timbalisasi, dan 
-									raised floor. Hingga saat ini, Meditrans melayani jasa konstruksi dan renovasi di 
-									puluhan Rumah Sakit baik RS Pemerintah maupun RS Swasta.
+								<p>Meditrans menyediakan jasa konstruksi dan renovasi ruang Cath lab. Cath lab adalah ruangan dilakukannya prosedur kateterisasi sebagai langkah awal untuk melihat dan melakukan diagnosa apakah terdapat penyumbatan, penyempitan, ataupun pelebaran pembuluh darah. 
 
 								</p>
 
@@ -297,20 +293,22 @@ display: none;
 							<div class="row">	
 						<div class="" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>JASA KONSTRUKSI <BR>RUANG HYBRID OR</b></b></h3>								
+							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>JASA KONSTRUKSI RUANG <BR>CT-SCAN </b></b></h3>								
 						</div> 
 					</div>
 
 								<!-- Text -->
 								<p>
-								Kami melayani pengerjaan ruang operasi hybrid. Ruang operasi hybrid adalah ruang operasi yang memungkinkan dilakukannya beberapa tindakan dalam satu ruang dan saat yang bersamaan. Yakni mulai dari diagnostik, intervensi dan pembedahan.  Kami siap membantu mewujudkan ruang operasi hybrid untuk rumah sakit anda. 
+								
+								Meditrans berpengalaman di bidang radiologi, salah satunya CT Scan. Ruang CT Scan merupakan ruangan dilakukannya prosedur pemeriksaan menggunakan kombinasi teknologi foto Rontgen atau sinar-X dan sistem komputer khusus. Prosedur ini dilakukan untuk melihat kondisi dalam tubuh dari berbagai sudut, baik untuk keperluan diagnosis, tindakan medis, atau evaluasi pengobatan. 
+							
 								</p>
 							</div>
 						</div>	<!-- END TEXT BLOCK -->	
 								<!-- INFO IMAGE -->
 						<div class="col-lg-6">
 							<div class="info-4-img text-center wow fadeInUp" data-wow-delay="0.6s">
-								<img style="border-radius: 20px;" class="img-fluid" src="images/OR.jpg" alt="info-image">
+								<img style="border-radius: 20px;" class="img-fluid" src="images/CT.png" alt="info-image">
 							</div>
 						</div>
 					</div>    <!-- End row -->
@@ -351,16 +349,12 @@ display: none;
 							<div class="row">	
 						<div class="" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>JASA KONSTRUKSI</b></b></h3>								
+							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>JASA KONSTRUKSI <br>RUANG MRI </b></b></h3>								
 						</div> 
 					</div>
 								
 								<!-- Text -->
-								<p>Jasa konstruksi dan renovasi Meditrans di handle oleh 
-									tim yang berpengalaman dan berkompeten di bidangnya. Antara lain penyediaan 
-									pintu anti radiasi, sandwich panel, pemasangan vinyl, MOT, Kaca Pb, timbalisasi, dan 
-									raised floor. Hingga saat ini, Meditrans melayani jasa konstruksi dan renovasi di 
-									puluhan Rumah Sakit baik RS Pemerintah maupun RS Swasta.
+								<p>Meditrans siap bekerja sama dengan rumah sakit dalam hal menyediakan layanan MRI. Ruang MRI merupakan ruangan dilakukannya prosedur pemindaian radiologi dengan memakai gelombang radio, magnet, serta komputer untuk hasilkan gambar dari struktur tubuh dari pasien. Selain itu, di ruang MRI juga dapat dipakai untuk jadi penentu langkah penyembuhan atau pengobatan serta untuk evaluasi efektivitas terapi. 
 
 								</p>
 
@@ -375,11 +369,11 @@ display: none;
 
 
 
-			<section id="info-4" class="wide-100 info-section division" style="background-color:#ececec; padding-bottom: 0px; ">
+			<section id="info-4" class="wide-100 info-section division" style="background-color:#ececec; padding-bottom: 80px; padding-top:80px;">
 				<div class="container" >
 
 						<!-- SECOND ROW -->
-						<div class="top-row mb-80">
+						<div>
 						<div class="row d-flex align-items-center">
 							<!-- INFO TEXT -->	
 						<div class="col-lg-6">
@@ -388,12 +382,17 @@ display: none;
 							<div class="row">	
 						<div class="" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>RENOVASI RUANG<BR>OPERASI (MOT)</b></b></h3>								
+							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>JASA RENOVASI MODULAR<BR>OPERASI (MOT)</b></b></h3>								
 						</div> 
 					</div>
 
 								<!-- Text -->
-								<p><table>
+								<p>
+									
+								Kami juga melayani pengerjaan MOT untuk ruangan operasi, Spesifikasi Modular Operating Theatre memakai bermacam sistem yang membuat ruangan operasi rumah sakit Anda sesuai dengan standar dari Kemenkes. Modular Operating Theatre (MOT) merupakan sistem ruang operasi yang terintegrasi oleh satu kontrol panel. MOT mencakup pintu hermetic, lampu ruangan serta sistem tata udara ruangan yang bisa di atur dalam satu kontrol panel. 
+
+								</p>
+								<!--p><table>
 								<tr>
 								<td valign="bottom"><span STYLE="COLOR: #e86845">&#8226;</span> </td> <td>Hepa Filter</td>
 								</tr>
@@ -406,7 +405,7 @@ display: none;
 								<tr>
 								<td valign="top"><span STYLE="COLOR: #e86845">&#8226;</span> &nbsp;&nbsp;</td> <td valign="top">Pintu hermatic dnegan mesin China, Jepang, maupun Eropa</td>
 								</tr>
-					</table></p>
+					</table></p-->
 							</div>
 						</div>	<!-- END TEXT BLOCK -->	
 								<!-- INFO IMAGE -->
