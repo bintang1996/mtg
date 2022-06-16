@@ -3,6 +3,9 @@
 	.indicators {
 display: none;
 	}
+	.p-smm{
+		font-size: 12px;
+	}
 </style>
 	<!-- HERO-2
 			============================================= -->	
@@ -266,17 +269,12 @@ display: none;
 							<div class="services-7-table blue-table mb-30 wow fadeInUp" data-wow-delay="0.6s"style="margin-top:0px; text-align: left;">
 
 								<!-- Title -->
-								<h4 class="h4-xs" >COMPANY<br> VALUES</h4>
+								<h4 class="h4-xs" >COMPANY<br> VALUES</h4><br>
 
 								<!-- Text -->
-							<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor, Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor.
+							<p>Di Meditrans Global, kami percaya bahwa profesionalitas dan nilai-nilai pribadi yang kuat menjadi kunci utama untuk mencapai tujuan perusahaan serta kesuksesan dalam industri kesehatan.<BR><br>
+
+Nilai-nilai dan budaya yang diterapkan di Meditrans Global itulah yang menjadi landasan perusahaan dalam menyediakan kebutuhan bagi fasilitas kesehatan yang berpusat pada pasien dengan keunggulan dalam kualitas, layanan, dan akses.
 												</p>
 
 							</div>	
@@ -301,10 +299,10 @@ display: none;
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">KOMITMEN PADA CUSTOMER</h5>
+												<h5 class="h5-sm steelblue-color">KOMITMEN PADA PELANGGAN</h5>
 												
 												<!-- Text -->
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice
+												<p class="p-smm">Selalu berpegang teguh pada Komitmen layanan pada pelanggan dalam setiap  aktivitas perusahaan
 												</p>
 
 											</div>
@@ -318,22 +316,21 @@ display: none;
 			 					<div class="col-md-6">
 			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="0.6s">
 			 							
+										<!-- Icon -->
+										<span class="flaticon-016-doctor-1 blue-color"></span>
 
-				 							<!-- Icon -->
-											<span class="flaticon-080-shield blue-color"></span>
+										<!-- Text -->
+										<div class="sbox-7-txt">
 
+											<!-- Title -->
+											<h5 class="h5-sm steelblue-color">JUJUR</h5>
 											<!-- Text -->
-											<div class="sbox-7-txt">
-				
-												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">TERPERCAYA</h5>
-												<!-- Text -->
-												
-												<p class="p-sm">
-												</p>
+											<p class="p-smm">Mengedepankan kejujuran, intelektual, dan
+										citra perusahaan yang konsisten dalam menjalankan bisnis dan seluruh aktifitas perusahaan
+											</p>
 
-											</div>
-
+										</div>
+				 							
 				 						
 			 						</div>
 			 					</div>  <!-- END SERVICE BOX #2 -->
@@ -353,8 +350,7 @@ display: none;
 												<!-- Title -->
 												<h5 class="h5-sm steelblue-color">INOVASI</h5>
 												<!-- Text -->
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor
+												<p class="p-smm">Senantiasa mengupayakan peningkatan inovasi yang lebih baik dari sebelumnya<br><br>
 												</p>
 
 											</div>
@@ -369,17 +365,17 @@ display: none;
 			 						<div class="sbox-7 icon-xs wow fadeInUp" data-wow-delay="1s">
 			 							
 
-				 							<!-- Icon -->
-											<span class="flaticon-016-doctor-1 blue-color"></span>
+											<!-- Icon -->
+											<span class="flaticon-080-shield blue-color"></span>
 
 											<!-- Text -->
 											<div class="sbox-7-txt">
 				
 												<!-- Title -->
-												<h5 class="h5-sm steelblue-color">JUJUR</h5>
+												<h5 class="h5-sm steelblue-color">TERPERCAYA</h5>
 												<!-- Text -->
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor
+												
+												<p class="p-smm">Mempertahankan standard yang tinggi dalam setiap aktifitas kerja sebagai perusahaan yang terpercaya
 												</p>
 
 											</div>
@@ -403,8 +399,7 @@ display: none;
 												<!-- Title -->
 												<h5 class="h5-sm steelblue-color">BERINTEGRITAS</h5>
 												<!-- Text -->
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor
+												<p class="p-smm">Membangun hubungan yang berintegritas diantara sesama rekan kerja, pelanggan dan masyarakat industri
 												</p>
 
 											</div>
@@ -428,8 +423,8 @@ display: none;
 												<!-- Title -->
 												<h5 class="h5-sm steelblue-color">BERKUALITAS</h5>
 												<!-- Text -->
-												<p class="p-sm">Porta semper lacus at cursus primis ultrice in ligula risus an
-												   auctor tempus feugiat dolor
+												<p class="p-smm">Mempertahankan kualitas yang tinggi dalam
+setiap aktifitas kerja serta produk jasa pada pelanggan dan rekanan
 												</p>
 
 											</div>
@@ -453,18 +448,20 @@ display: none;
 
 			 		<!-- SECTION TITLE -->	
 					<div class="row" >	
-						<div class="col-lg-12 section-title">		
+						<div class="col-lg-12 text-center">		
 
 							<!-- Title 	-->	
 							<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>REKANAN KAMI</b></b></h3>								
 						
 
 							<!-- Text -->
-							<p>We are trusted to distributed and providing the right solution for clients is our focus and priority.
+							<p>Adapun Rumah Sakit serta perusahaan yang telah bekerjasama dengan Meditrans Global dalam penyediaan kebutuhan layanan kesehatan sebagai berikut
+
 							</p>
 										
 						</div> 
 					</div>	 <!-- END SECTION TITLE -->	
+
 
 
 					<div class="row col-md-12 text-center align-center">
