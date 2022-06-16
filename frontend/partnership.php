@@ -63,8 +63,7 @@ display: none;
 				<div class="container" style="background-color:#FFFFFF;">
 
 
-					<!-- TOP ROW -->
-					<div class="top-row mb-80">
+
 						<div class="row d-flex align-items-center">
 
 
@@ -91,7 +90,7 @@ display: none;
 						</div>	<!-- END TEXT BLOCK -->	
 
 						
-						</div>    <!-- End row -->
+						
 					</div>	<!-- END TOP ROW -->
 
 					</div>	   <!-- End container -->
