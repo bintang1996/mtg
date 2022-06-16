@@ -66,17 +66,10 @@ display: none;
 
 					<!-- SECTION TITLE -->	
 					<div class="row">	
-						<div class="col-lg-10 offset-lg-1 section-title">	
-
+						<div class="col-lg-10 offset-lg-1 section-title" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
-							<h3 class="h3-md steelblue-color">Hubungi Kami</h3>	
-
-							<!-- Text -->
-							<p>Have a question? Want to book an appointment for yourself or your children? Give us a call
-							   or send an email to contact the MedService.
-							</p>
-								
-						</div>
+							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>HUBUNGI KAMI</b></b></h3>								
+						</div> 
 					</div>
 
 						
