@@ -81,7 +81,9 @@ display: none;
 							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 
 															<!-- Title -->
-								<h3 class="h3-md steelblue-color">Latar belakang Public Private Partnership (PPP)</h3>
+
+								<!-- Title -->
+								<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>PUBLIC PRIVATE PARTNERSHIP (PPP)</b></b></h3>		
 
 								<!-- Text -->
 								<p>Public Private Partnership (PPP)  merupakan kerjasama antara Rumah Sakit Umum dan Perusahaan Swasta.
