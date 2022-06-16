@@ -888,10 +888,9 @@ display: none;
 									</table>
 
 									<!-- Text -->
-									<p>Sistem FWFC DEL MEDICAL menawarkan solusi fleksibel untuk Fasilitas Kesehatan yang ingin memaksimalkan ruang dan meminimalkan modifikasi ruangan. Ini memiliki rel di lantai dan bagian atas rel yang dapat dipasang di dinding atau langit-langit untuk fleksibilitas pemasangan dan 
+									<p>
 
-										Sistem FWFC merupakan Alat Radiografi yang paling terjangkau di produk DEL MEDICAL ini, tetapi memiliki qualitas pencintraan yang sangat tinggi. FWFC ini di produksi langsung di USA dengan kualitas standar
-
+									Del Medical merupakan perusahaan penyedia beragam produk radiografi. Del Medical menghadirkan berbagai konfigurasi sistem dan komponen mandiri yang dirancang untuk memenuhi kebutuhan ekonomis dan kinerja Anda
 
 									</p><br>
 
