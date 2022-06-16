@@ -60,7 +60,7 @@ display: none;
 
 			<!-- CONTACTS-1
 			============================================= -->
-			<section id="contacts-1" class="wide-60 contacts-section division" style="background-color:white; border-bottom:1px solid #ececec;">				
+			<section id="contacts-1" class="wide-60 contacts-section division" style="background-color:white; border-bottom:1px solid #ececec; padding-top:80px;">				
 				<div class="container">
 
 
