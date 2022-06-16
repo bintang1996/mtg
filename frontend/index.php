@@ -481,10 +481,10 @@
 							<!-- Profile Link -->		
 							<div class="profile-link">
 							
-							<h4  style="color: white"><?php echo $d1['p_name']; ?></h4>
+							
 						
 							
-							<a style="font-size: 1em; color: #e86845;" href="article-details.php?id=<?php echo $d1['id']; ?>">Read more.</a>
+							<a style="font-size: 1em; color: #fff;" href="article-details.php?id=<?php echo $d1['id']; ?>"><h4><?php echo $d1['p_name']; ?></h4></a>
 							</div> 
 							</div>	</div>
 							<?php } ?>
