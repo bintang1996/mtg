@@ -455,7 +455,7 @@ setiap aktifitas kerja serta produk jasa pada pelanggan dan rekanan
 						
 
 							<!-- Text -->
-							<p>Meditrans Global dipercaya dalam bekerjasama dengan berbagai Rumah Sakit Pemerintah dan Swasta, serta perusahaan sebagai mitra dalam penyediaan kebutuhan layanan kesehatan.
+							<p>Meditrans Global dipercaya dalam bekerjasama dengan berbagai Rumah Sakit Pemerintah dan Swasta, serta perusahaan sebagai rekanan dalam penyediaan kebutuhan layanan kesehatan.
 
 							</p>
 										
