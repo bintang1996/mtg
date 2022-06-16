@@ -481,7 +481,7 @@
 							<!-- Profile Link -->		
 							<div class="profile-link">
 							
-							<h4 class="h5-md" style="margin-top:0px; padding-left:8px;"><?php echo $d1['p_name']; ?></h4>
+							<h4  style="color: white"><?php echo $d1['p_name']; ?></h4>
 						
 							
 							<a style="font-size: 1em; color: #e86845;" href="article-details.php?id=<?php echo $d1['id']; ?>">Read more.</a>
