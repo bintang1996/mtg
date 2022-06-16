@@ -1515,9 +1515,10 @@ display: none;
 				</table>
 
 				<!-- Text -->
-				<p>Osirix PACS merupakan => PLEASE PROVIDE WORDING sistem informasi untuk klinik yang telah terhubung dengan BPJS. Sistem informasi ini mudah digunakan dengan alur yang sederhana.
-
-					MOBILE WIFUS merupakan solusi penyedia Layanan Kesehatan untuk memanfaatkan dan menghubungkan pasien dengan Dokter dengan Telediagnostik, Telemedicine, pemesanan online, dan penyedia layanan Rumah
+				<p>
+				Server PACS (Picture Archiving and Communication System) adalah
+komputer untuk penyimpanan jangka pendek dan panjang, pengambilan, pengelolaan, distribusi, dan penyajian gambar medis. Peralatan medis dapat secara otomatis menyimpan gambar medis di server PACS. Komputer lain, yang dilengkapi dengan OsiriX, dapat menyimpan dan mengambil gambar langsung dari server PACS.
+				
 				</p><br>
 
 
