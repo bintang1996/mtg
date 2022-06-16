@@ -337,7 +337,7 @@ display: none;
 						<!-- INFO IMAGE -->
 						<div class="col-lg-6">
 							<div class="info-4-img text-center wow fadeInUp" data-wow-delay="0.6s">
-								<img style="border-radius: 20px;" class="img-fluid" src="images/head/konstruksi.jpg" alt="info-image">
+								<img style="border-radius: 20px;" class="img-fluid" src="images/MRI.png" alt="info-image">
 							</div>
 						</div>
 
