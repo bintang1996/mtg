@@ -97,7 +97,7 @@ display: none;
 					</div>
 								
 								<!-- Text -->
-								<p class="p-lg">Jasa konstruksi dan renovasi Meditrans di handle oleh 
+								<p>Jasa konstruksi dan renovasi Meditrans di handle oleh 
 									tim yang berpengalaman dan berkompeten di bidangnya. Antara lain penyediaan 
 									pintu anti radiasi, sandwich panel, pemasangan vinyl, MOT, Kaca Pb, timbalisasi, dan 
 									raised floor. Hingga saat ini, Meditrans melayani jasa konstruksi dan renovasi di 
