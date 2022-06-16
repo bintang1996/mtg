@@ -470,154 +470,161 @@ display: none;
 					<div class="row col-md-12 text-center align-center">
 
 					<div class="panel-body" style="text-align: center; overflow: hidden;">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture27.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide1.JPG">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/br-5.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide2.JPG">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/br-6.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide3.JPG">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture1.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide4.JPG">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture2.png">
+    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide5.JPG">
   					</div>
 
 
 					<div class="panel-body" style="text-align: center; overflow: hidden;">
-    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture3.png">
+    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide6.JPG">
   					</div>
 
 					
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture5.png">
+    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide7.JPG">
   					</div>
 
 
 					
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture7.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide8.JPG">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture8.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide9.JPG">
   					</div>
 
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture9.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide10.JPG">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture10.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide11.JPG">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture11.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide12.JPG">
   					</div>
 
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture12.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide13.JPG">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture13.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide14.JPG">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture14.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide15.JPG">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/br-1.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide16.JPG">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/br-2.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide17.JPG">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture15.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide18.JPG">
   					</div>
 
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture16.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide19.JPG">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture17.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide20.JPG">
   					</div>
 
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture18.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide21.JPG">
   					</div>
 
 
 		
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture21.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide22.JPG">
   					</div>
 						
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/br-4.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide23.JPG">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture22.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide24.JPG">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture23.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide25.JPG">
   					</div>
 
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture24.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide26.JPG">
   					</div>
 					  
 					  
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture25.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide27.JPG">
   					</div>
 
-					<div class="panel-body" style="text-align: center; overflow: hidden;">
-    				<img style="max-height: 50px; margin:20px;" src="images/networks/Picture6.png">
-  					</div>
-
-
-					
-
+				
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 30px; margin:20px;" src="images/networks/Picture28.png">
-  					</div>
-					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture26.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide28.JPG">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture19.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide29.JPG">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture20.png">
+    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide30.JPG">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden;">
-    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/networks/Picture4.png">
+    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide31.JPG">
   					</div>
 
+					  <div class="panel-body" style="text-align: center; overflow: hidden;">
+    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide32.JPG">
+  					</div>
+
+
+					  <div class="panel-body" style="text-align: center; overflow: hidden;">
+    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide33.JPG">
+  					</div>
+
+					  <div class="panel-body" style="text-align: center; overflow: hidden;">
+    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide34.JPG">
+  					</div>
+
+					  <div class="panel-body" style="text-align: center; overflow: hidden;">
+    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide35.JPG">
+  					</div>
 					</div>	    <!-- End row2 -->
 
 				</div>	   <!-- End container -->
