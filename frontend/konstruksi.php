@@ -187,7 +187,7 @@ display: none;
 
 
 
-			<section id="info-4" class="wide-100 info-section division" style="background-color:#ececec; padding-bottom: 0px;">
+			<section id="info-4" class="wide-100 info-section division" style="background-color:#ececec;  padding-top: 80px; padding-bottom: 80px;">
 				<div class="container">
 
 						<!-- SECOND ROW -->
