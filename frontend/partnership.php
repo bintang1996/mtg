@@ -254,7 +254,7 @@ display: none;
 												
 
 												<!-- Button -->
-												<a href="service-1.html" class="btn btn-blue orange-hover mt-30">Lebih Lanjut</a>
+												<a href="service-1.html" class="btn btn-blue orange-hover mt-30">Hubungi Kami</a>
 
 											</div>	
 										</div>	<!-- END TAB-1 TEXT -->
@@ -291,7 +291,7 @@ display: none;
 
 
 												<!-- Button -->
-												<a href="service-2.html" class="btn btn-blue orange-hover mt-30">Lebih Lanjut</a>
+												<a href="service-2.html" class="btn btn-blue orange-hover mt-30">Hubungi Kami</a>
 
 											</div>	
 										</div>	<!-- END TAB-2 TEXT -->
@@ -467,7 +467,7 @@ display: none;
 												</div>	<!-- End Options List -->
 
 												<!-- Button -->
-												<a href="service-2.html" class="btn btn-blue orange-hover mt-30">Lebih Lanjut</a>
+												<a href="service-2.html" class="btn btn-blue orange-hover mt-30">Hubungi Kami</a>
 
 											</div>	
 										</div>	<!-- END TAB-4 TEXT -->
