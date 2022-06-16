@@ -130,7 +130,7 @@ display: none;
             </div>
         </div>
 
-        <div class="wide-100" style="background-color:#FFFFFF; border-bottom:1px solid grey">
+        <div class="wide-100" style="background-color:#FFFFFF; border-bottom:1px solid grey; padding-top:80px;">
             <div class="container" style="background-color:#FFFFFF; ">
 			<!-- SECTION TITLE -->	
 			<div class="row">	
@@ -139,7 +139,7 @@ display: none;
 							<!-- Title 	-->		
 							<!-- Title 	-->	
 							<h3 class="h4-md steelblue-color text-center" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>BERGABUNG DENGAN KAMI</b></b></h3>								
-						
+
 							
 								
 						</div>
