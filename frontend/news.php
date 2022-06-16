@@ -131,11 +131,13 @@ display: none;
 
 										</div>
 										
-                                        <!-- Judul News -->
+
+
+										<!-- Judul News -->
 										<div class="review-author">
 											<br>
-											<p style="margin-bottom:1px; font-size:1em; color:#007aff;"><?php echo $d['cat_name']; ?></p>
-											<h4 style="padding-left:10px;"class="h4-md"><?php echo $d1['p_name']; ?></h4>
+											<p style="margin-bottom:0px; font-size:1em; color:#007aff;"><?php echo $d['cat_name']; ?></p>
+											<h4 class="h5-md" style="margin-top:0px; padding-left:8px;"><?php echo $d1['p_name']; ?></h4>
 										</div>	
 
 										<!-- Testimonial Text -->
