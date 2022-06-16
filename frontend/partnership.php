@@ -410,15 +410,15 @@ display: none;
 												<!-- Text -->
 												<p class="mb-30">Selain sebagai untuk layanan Cathlab dan CT-Scan, Meditrans juga ikut berpartipasi untuk layanan lainnya, diantaranya yaitu</p>  
 
-												<p>a. Healthcare IT </p>
+												a. Healthcare IT <br>
 
-												<p>b. Laboratorium  </p>
+												b. Laboratorium  <br>
 
-												<p>c. QFR Medis , Software dedicated Jantung </p>
+												c. QFR Medis , Software dedicated Jantung <br>
 
-												<p>d. PACS </p>
+												d. PACS <br>
 
-												<p>e. HEMODIALISA </p>
+												e. HEMODIALISA </p>
 												
 
 
