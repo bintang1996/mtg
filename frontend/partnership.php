@@ -59,7 +59,7 @@ display: none;
 
 <!-- INFO-4
 			============================================= -->
-			<section id="info-4" class="wide-100 info-section division" style="background-color:#FFFFFF; padding-bottom: 60px;">
+			<section id="info-4" class="wide-100 info-section division" style="background-color:#FFFFFF; padding-bottom: 80px; padding-top: 80px;">
 				<div class="container" style="background-color:#FFFFFF;">
 
 
