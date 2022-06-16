@@ -76,7 +76,7 @@ display: none;
 
             <!-- LATEST-POST
 			============================================= -->
-			<section id="reviews-2" class="bg-lightgrey wide-100 reviews-section division">
+			<section id="reviews-2" class="bg-lightgrey wide-100 reviews-section division" style="padding-top:80px; padding-bottom:80px;">
 				<div class="container">
 
 
