@@ -81,21 +81,15 @@ display: none;
 
 
 					<!-- SECTION TITLE -->	
-					<div class="row">	
-						<div class="col-lg-10 offset-lg-1 section-title">		
-
+			
 						<div class="row">	
 						<div class="col-lg-10 offset-lg-1 section-title" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
 							<h3 class="h4-md steelblue-color text-center" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>LATEST POST</b></b></h3>								
 						</div> 
-					</div>
-
-							<!-- Text -->
-							<p>
-							</p>
+				
 										
-						</div> 
+						
 					</div>	 <!-- END SECTION TITLE -->
 				
 					
