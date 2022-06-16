@@ -82,7 +82,7 @@ display: none;
 															<!-- Title -->
 
 								<!-- Title -->
-								<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>PUBLIC PRIVATE PARTNERSHIP (PPP)</b></b></h3>		
+								<h3 class="h4-md steelblue-color text-center" style="color: #214068; font-weight: 700;"><b><b>PUBLIC PRIVATE PARTNERSHIP (PPP)</b></b></h3>		
 
 								<!-- Text -->
 								<p>Public Private Partnership (PPP) merupakan kerjasama antara Rumah Sakit Umum dan Perusahaan Swasta sebagai salah satu solusi yang dilakukan oleh pihak swasta untuk membantu dan bekerjasama dengan Rumah Sakit membuka layanan baru, serta mendapatkan akses teknologi baru, dan transfer ilmu.  </p>
