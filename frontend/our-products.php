@@ -308,8 +308,7 @@ display: none;
 									</td></tr>
 									</table>
 									<!-- Text -->
-									<p>Merupakan Software untuk menghitung flow pembuluh darah jantung. Software Quantitative Flow Ratio (QFR) ini merupakan product dari Medis Medical Imaging System by Netherland, dimana Software ini merupakan Software penunjang Cathlab dengan terobosan terbaru dalam melakukan Fisiology Analysis. Software ini kami perkenalkan dengan Slogan
-										"No Wire, No Adenosine"
+									<p>Medis Medical Imaging adalah penyedia perangkat lunak pasca-pemrosesan yang inovatif untuk kuantifikasi gambar kardiovaskular yang memungkinkan dokter, teknisi, dan peneliti melakukan pengukuran dalam gambar medis secara akurat. Solusi Medis membantu meningkatkan kualitas diagnosis, perencanaan perawatan, dan tindak lanjut pasien. Solusi pencitraan medis membantu memulai inovasi dalam penelitian dan menilai efektivitas perawatan dan perangkat baru.
 
 									</p><br>
 								
