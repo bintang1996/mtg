@@ -1386,8 +1386,10 @@ Pengujian dan Pengukuran. Menggabungkan teknologi unggul dengan layanan teknik, 
 								<h3 class="h3-md steelblue-color">Proteksi Radiasi</h3>
 
 								<!-- Text -->
-								<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-								integer congue magna at pretium  purus pretium 
+								<p>
+								Kami hadir memberi solusi Proteksi Radiasi untuk instalasi
+Ruang Cathlab, Ruang MRI, Ruang CT-Scan dan Ruang Hybrid OR.
+
 								</p><br>
 								<?php
 									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
@@ -1691,9 +1693,9 @@ komputer untuk penyimpanan jangka pendek dan panjang, pengambilan, pengelolaan, 
 </table>
 
 <!-- Text -->
-<p>Layanan Lainnya merupakan => PLEASE PROVIDE WORDING sistem informasi untuk klinik yang telah terhubung dengan BPJS. Sistem informasi ini mudah digunakan dengan alur yang sederhana.
+<p>
+Kami juga melayani pengerjaan Modular Operating Theater (MOT), Raised Floor, Hospital Vynil dan Polymer.
 
-	MOBILE WIFUS merupakan solusi penyedia Layanan Kesehatan untuk memanfaatkan dan menghubungkan pasien dengan Dokter dengan Telediagnostik, Telemedicine, pemesanan online, dan penyedia layanan Rumah
 </p><br>
 
 
