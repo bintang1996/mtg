@@ -552,7 +552,10 @@ display: none;
 									</table>
 
 									<!-- Text -->
-									<p>Produk-produk Samsung Healthcare: Radiografi Digital, Sistem Ultrasound, Monitor Tinjauan Diagnostik & Klinis
+									<p>
+									Samsung berkomitmen untuk menciptakan masa depan baru bagi para profesional medis dan pasien dengan misi untuk menghadirkan kesehatan dan kesejahteraan bagi kehidupan masyarakat. Mengintegrasikan keahlian terdepannya di bidang tampilan, TI, seluler, dan elektronik, visi Samsung adalah menghadirkan diagnosis yang meyakinkan, solusi hemat biaya, dan alur kerja yang lebih baik kepada pelanggan.</p>
+
+									<p>Mengkhususkan diri dalam perangkat pencitraan diagnostik, inovasi Samsung dalam perawatan kesehatan dipimpin oleh Bisnis Peralatan Kesehatan & Medis Samsung Electronics dan Samsung Medison.
 
 									</p><br>
 									
