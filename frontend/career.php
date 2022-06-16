@@ -87,8 +87,10 @@ display: none;
 						<div class="col-lg-10 offset-lg-1 section-title">	
 
 							<!-- Title 	-->	
-							<h3 class="h3-md steelblue-color">Lowongan Pekerjaan Terbaru</h3>	
-
+							<div style="margin-bottom:30px;">		
+							<!-- Title 	-->	
+							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>LOWONGAN PEKERJAAN TERBARU</b></b></h3>								
+							</div> 
 							<!-- Text -->
 							<p>Berikut Lowongan Pekerjaan di Meditrans. 
 							</p>
