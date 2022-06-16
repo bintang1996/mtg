@@ -191,7 +191,7 @@ display: none;
 				<div class="container">
 
 						<!-- SECOND ROW -->
-						<div class="top-row mb-80">
+					
 						<div class="row d-flex align-items-center">
 							<!-- INFO TEXT -->	
 						<div class="col-lg-6">
@@ -217,7 +217,7 @@ display: none;
 							</div>
 						</div>
 					</div>    <!-- End row -->
-				</div>	<!-- END SECOND ROW -->
+			
 						
 
                 </div>	   <!-- End container -->
