@@ -717,9 +717,9 @@ display: none;
 									</table>
 
 									<!-- Text -->
-									<p>GE Healthcare menyediakan teknologi dan layanan medis transformasional yang membentuk era baru perawatan pasien. GE Healthcare memiliki keahlian yang luas dalam pencitraan medis dan teknologi informasi, diagnostik medis, hingga sistem pemantauan pasien.
-
-										Berkantor pusat di Inggris Raya, GE Healthcare adalah unit dari General Electric Company (NYSE: GE). Di seluruh dunia, karyawan GE Healthcare berkomitmen untuk melayani profesional perawatan kesehatan dan pasien mereka di lebih dari 100 negara
+									<p>
+									GE Healthcare menyediakan solusi pencitraan inovatif dan agen pencitraan diagnostik farmasi untuk kebutuhan radiologi. Termasuk Computed Tomography, Magnetic Resonance Imaging, Ultrasound, Molecular Imaging, X-Ray, Mammography, Interventional Image Guided Systems, Surgical Imaging dan Radiologi IT.
+									Produk dan solusi cerdas kami membantu mencapai alur kerja ujian yang lebih cepat dan mudah, hasil klinis yang lebih baik, dan mendorong operasi pencitraan yang efisien.
 
 									</p><br>
 									
