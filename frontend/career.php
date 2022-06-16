@@ -196,7 +196,7 @@ display: none;
 					                                            
 					                <!-- Contact Form Button -->
 					                <div class="col-lg-12 mt-15">  
-					                	<button type="submit" class="btn btn-blue blue-hover">Kirim Lamaran</button> 
+					                	<button type="submit" class="btn btn-blue orange-hover">Kirim Lamaran</button> 
 					                </div>
 					                                                              
 				</div>
