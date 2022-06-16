@@ -349,9 +349,9 @@ display: none;
 										<thead>
 										<tr>
 										<th class="tg-7btt">No</th>
-										<th class="tg-amwm">Hospital</th>
-										<th class="tg-amwm">Description</th>
-										<th class="tg-amwm">Years</th>
+										<th class="tg-amwm">Rumah Sakit</th>
+										<th class="tg-amwm">Deskripsi</th>
+										<th class="tg-amwm">Tahun</th>
 										</tr>
 										</thead>
 										<tbody>
