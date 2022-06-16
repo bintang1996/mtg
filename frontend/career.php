@@ -94,8 +94,8 @@ display: none;
 							<!-- Text -->
 							<p>Berikut Lowongan Pekerjaan di Meditrans. 
 							</p>
-
-							<p><i>Tidak ada lowongan pekerjaan saat ini</i></p>
+							<br>
+							<p><i>Belum ada lowongan pekerjaan saat ini</i></p>
 								
 						</div>
 			</div>
