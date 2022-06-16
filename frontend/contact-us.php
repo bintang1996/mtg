@@ -70,7 +70,7 @@ display: none;
 							<!-- Title 	-->	
 							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>HUBUNGI KAMI</b></b></h3>								
 						</div> 
-					</div>
+					</div><BR>
 
 						
 					<div class="row">	
