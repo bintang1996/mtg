@@ -442,7 +442,7 @@ setiap aktifitas kerja serta produk jasa pada pelanggan dan rekanan
 			<!-- OUR-NETWORK
 			============================================= -->
 			
-			<section id="doctors-1" class="wide-40 doctors-section division"style="background-color:white; border-bottom:1px solid grey; padding-top: 60px; ">
+			<section id="doctors-1" class="wide-40 doctors-section division"style="background-color:white; border-bottom:1px solid grey; ">
 				<div class="container">
 
 
@@ -451,11 +451,11 @@ setiap aktifitas kerja serta produk jasa pada pelanggan dan rekanan
 						<div class="col-lg-12 text-center">		
 
 							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>REKANAN KAMI</b></b></h3>	<br>							
+							<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>REKANAN KAMI</b></b></h3>								
 						
 
 							<!-- Text -->
-							<p>Adapun Rumah Sakit serta perusahaan yang telah bekerjasama dengan Meditrans Global dalam penyediaan kebutuhan layanan kesehatan sebagai berikut
+							<p>Meditrans Global dipercaya dalam bekerjasama dengan berbagai Rumah Sakit Pemerintah dan Swasta, serta perusahaan sebagai mitra dalam penyediaan kebutuhan layanan kesehatan.
 
 							</p>
 										
