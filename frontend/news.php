@@ -141,7 +141,7 @@ display: none;
 										</div>	
 
 										<!-- Testimonial Text -->
-										<p style="font-size: 0.5em;color:#4d4d4d;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>... <a style="font-size: 1em; color:#e86845;" href="article-details.php?id=<?php echo $d1['id']; ?>">Read more.</a></p>
+										<?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>... <a style="font-size: 1em; color:#e86845;" href="article-details.php?id=<?php echo $d1['id']; ?>">Read more.</a>
 														
 																
 									</div>						
