@@ -96,7 +96,7 @@ display: none;
 					</div>	   <!-- End container -->
 			</section>	<!-- END INFO-4 -->
 
-			<section id="info-4" class="wide-100 info-section division" style="background-color:#ececec; padding-bottom: 60px;">
+			<section id="info-4" class="wide-100 info-section division" style="background-color:#ececec; padding-bottom: 80px; padding-top:80px;">
 				<div class="container" style="background-color:#ececec;">
 				<div class="row">	
 						<div class="col-lg-12 text-center" style="margin-bottom:30px;">		
