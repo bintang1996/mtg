@@ -62,8 +62,8 @@ display: none;
         <div class="wide-100" style="background-color:#FFFFFF; padding-bottom: 50px;">
             <div class="container" style="background-color:#FFFFFF;">
                 <div class="row">
-                    <div class="col-lg-12">
-                        <div class="col-lg-12 text-left">
+                    <div >
+                        <div>
                             <!-- Title -->
 							<div style="margin-bottom:30px;">		
 							<!-- Title 	-->	
