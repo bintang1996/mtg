@@ -247,8 +247,7 @@ display: none;
 												<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>CATHLAB</b></b></h3><BR>	
 
 												<!-- Text -->
-												<p class="mb-30">Meditrans adalah partner Kerjasama yang terpercaya dan pengalaman di bidang CATHLAB,
-																hingga 2022, telah ada 6 lokasi cathlab terdiri dari RS pemerintah dan RS swasta.
+												<p class="mb-30">Meditrans pengalaman dan telah dipercaya sebagai mitra untuk layanan cathlab CATHLAB sejak tahun 2016 dan sampai saat ini sudah memiliki 6 lokasi Cath-Lab.  
 												</p>
 
 												
@@ -282,11 +281,10 @@ display: none;
 											<div class="txt-block pc-30">
 
 												<!-- Title -->
-												<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>CT-SCAN</b></b></h3><BR>	
+												<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>CT-SCAN & MRI</b></b></h3><BR>	
 
 												<!-- Text -->
-												<p class="mb-30">Meditrans adalah Kerjasama provider terbesar di Indonesia dengan 14 CT scan dan terus tumbuh. 
-													Kami dipercaya di beberapa RS Pemerintah ataupun Swasta, diantaranya MRI dan CT Scan.
+												<p class="mb-30">Meditrans adalah mitra  kerjsama terbesar di Indonesia dengan 14 CT Scan dan terus tumbuh di beberapa RS Pemerintah ataupun Swasta , diantaranya MRI dan CT Scan. 
 												</p>
 
 
@@ -410,12 +408,18 @@ display: none;
 												<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>LAYANAN LAINNYA</b></b></h3><BR>	
 
 												<!-- Text -->
-												<p class="mb-30">An enim nullam tempor sapien gravida donec enim ipsum blandit
-												   porta justo integer odio velna vitae auctor integer congue magna at pretium 
-												   purus pretium ligula rutrum itae laoreet augue in cubilia laoreet an augue 
-												   egestas ipsum vitae emo ligula vitae arcu mollis blandit ultrice ligula egestas 
-												   magna suscipit
-												</p>
+												<p class="mb-30">Selain sebagai untuk layanan Cathlab dan CT-Scan, Meditrans juga ikut berpartipasi untuk layanan lainnya, diantaranya yaitu</p>  
+
+												<p>a. Healthcare IT </p>
+
+												<p>b. Laboratorium  </p>
+
+												<p>c. QFR Medis , Software dedicated Jantung </p>
+
+												<p>d. PACS </p>
+
+												<p>e. HEMODIALISA </p>
+												
 
 
 												<!-- Button -->
