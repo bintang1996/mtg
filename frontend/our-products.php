@@ -1237,8 +1237,11 @@ display: none;
 									</table>
 
 									<!-- Text -->
-									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-									   integer congue magna at pretium  purus pretium 
+									<p>
+
+									Zybio Inc. adalah perusahaan teknologi tinggi yang mengkhususkan
+diri dalam R&D, manufaktur, penjualan, dan layanan teknis reagen dan peralatan diagnostik in vitro, dengan kantor pusat dan pusat manufaktur yang berlokasi di Distrik Dadukou, Chongqing.
+
 									</p><br>
 									
 									
