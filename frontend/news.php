@@ -131,7 +131,7 @@ display: none;
 										<div class="review-author">
 											<br>
 											<p style="margin-bottom:0px; font-size:1em; color:#007aff;"><?php echo $d['cat_name']; ?></p>
-											<h4 class="h5-md" style="font-size:20px; font-weight:400; margin-top:0px; padding-left:8px;"><?php $rt88=$d1['p_name']; echo substr("$rt88", 0, 65); ?>...</h4>
+											<h4 class="h5-md" style="font-size:20px; font-weight:400; margin-top:0px; padding-left:8px;"><?php $rt88=$d1['p_name']; echo substr("$rt88", 0, 60); ?>...</h4>
 										</div>	
 
 										<!-- Testimonial Text -->
