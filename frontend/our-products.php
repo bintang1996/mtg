@@ -1136,9 +1136,9 @@ display: none;
 									</table>
 
 									<!-- Text -->
-									<p>WIFUS CIS merupakan sistem informasi untuk klinik yang telah terhubung dengan BPJS. Sistem informasi ini mudah digunakan dengan alur yang sederhana.
-
-										MOBILE WIFUS merupakan solusi penyedia Layanan Kesehatan untuk memanfaatkan dan menghubungkan pasien dengan Dokter dengan Telediagnostik, Telemedicine, pemesanan online, dan penyedia layanan Rumah
+									<p>
+									Sistem lnformasi  Manajemen Klinik berbasis Software as a  Service (SaaS) yang menginte-grasikan berbagai layanan di Klinik mulai dari bagian pendaftaran sampai dengan pembayaran, yang berbasis Cloud dengan arsitektur yang modular dan dinamis.  
+									
 									</p><br>
 							
 							
