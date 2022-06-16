@@ -70,7 +70,7 @@ display: none;
 							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>BERGABUNGLAH BERSAMA MEDITRANS</b></b></h3>								
 							</div> 
                             <!-- Text -->
-                            <p class="p-lg">Jika Anda adalah orang dengan minat dalam industri kesehatan, Meditrans adalah perusahaan yang tepat bagi Anda untuk mengembangkan karir. Anda akan bertemu begitu banyak orang yang memiliki passion seperti Anda di dunia healthcare. Pemimpin dan tim kami menghargai bakat dan kontribusi Anda untuk memberi dampak pada industri healthcare dan lainnya.
+                            <p>Jika Anda adalah orang dengan minat dalam industri kesehatan, Meditrans adalah perusahaan yang tepat bagi Anda untuk mengembangkan karir. Anda akan bertemu begitu banyak orang yang memiliki passion seperti Anda di dunia healthcare. Pemimpin dan tim kami menghargai bakat dan kontribusi Anda untuk memberi dampak pada industri healthcare dan lainnya.
 							
 						
                             </p><br>
