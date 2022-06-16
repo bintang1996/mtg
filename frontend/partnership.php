@@ -244,7 +244,7 @@ display: none;
 
 												<!-- Title -->
 
-												<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>Cathlab</b></b></h3>	
+												<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>CATHLAB</b></b></h3>	
 
 												<!-- Text -->
 												<p class="mb-30">Meditrans adalah partner Kerjasama yang terpercaya dan pengalaman di bidang CATHLAB,
@@ -329,7 +329,7 @@ display: none;
 											<div class="txt-block pc-30">
 
 												<!-- Title -->
-												<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>CT-Scan</b></b></h3>	
+												<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>CT-SCAN</b></b></h3>	
 
 												<!-- Text -->
 												<p class="mb-30">Meditrans adalah Kerjasama provider terbesar di Indonesia dengan 14 CT scan dan terus tumbuh. 
@@ -502,7 +502,7 @@ display: none;
 											<div class="txt-block pc-30">
 
 												<!-- Title -->
-												<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>Layanan Lainnya</b></b></h3>	
+												<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>LAYANAN LAINNYA</b></b></h3>	
 
 												<!-- Text -->
 												<p class="mb-30">An enim nullam tempor sapien gravida donec enim ipsum blandit
