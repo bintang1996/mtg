@@ -68,12 +68,11 @@ display: none;
 
                 <!-- INFO-4
 			============================================= -->
-			<section id="info-4" class="wide-100 info-section division" style="background-color:#FFFFFF; padding-bottom: 0px;">
+			<section id="info-4" class="wide-100 info-section division" style="background-color:#FFFFFF; padding-bottom: 80px; padding-top: 80px;">
 				<div class="container" style="background-color:#FFFFFF;">
 
 
-					<!-- TOP ROW -->
-					<div class="top-row mb-80">
+					
 						<div class="row d-flex align-items-center">
 
 
@@ -110,7 +109,7 @@ display: none;
 
 						
 						</div>    <!-- End row -->
-					</div>	<!-- END TOP ROW -->
+			
 					</div>	   <!-- End container -->
 			</section>	<!-- END INFO-4 -->
 
