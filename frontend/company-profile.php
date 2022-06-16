@@ -467,160 +467,160 @@ setiap aktifitas kerja serta produk jasa pada pelanggan dan rekanan
 					<div class="row col-md-12 text-center align-center">
 
 					<div class="panel-body" style="text-align: center; overflow: hidden;">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide1.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide1.JPG">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide2.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide2.JPG">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide3.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide3.JPG">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide4.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide4.JPG">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide5.JPG">
+    				<img  style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide5.JPG">
   					</div>
 
 
 					<div class="panel-body" style="text-align: center; overflow: hidden;">
-    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide6.JPG">
+    				<img  style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide6.JPG">
   					</div>
 
 					
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide7.JPG">
+    				<img  style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide7.JPG">
   					</div>
 
 
 					
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide8.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide8.JPG">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide9.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide9.JPG">
   					</div>
 
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide10.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide10.JPG">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide11.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide11.JPG">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide12.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide12.JPG">
   					</div>
 
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide13.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide13.JPG">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide14.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide14.JPG">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide15.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide15.JPG">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide16.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide16.JPG">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide17.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide17.JPG">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide18.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide18.JPG">
   					</div>
 
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide19.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide19.JPG">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide20.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide20.JPG">
   					</div>
 
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide21.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide21.JPG">
   					</div>
 
 
 		
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide22.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide22.JPG">
   					</div>
 						
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide23.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide23.JPG">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide24.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide24.JPG">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide25.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide25.JPG">
   					</div>
 
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide26.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide26.JPG">
   					</div>
 					  
 					  
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide27.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide27.JPG">
   					</div>
 
 				
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide28.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide28.JPG">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide29.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide29.JPG">
   					</div>
 
 					<div class="panel-body" style="text-align: center; overflow: hidden; ">
-    				<img style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide30.JPG">
+    				<img style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide30.JPG">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden;">
-    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide31.JPG">
+    				<img  style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide31.JPG">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden;">
-    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide32.JPG">
+    				<img  style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide32.JPG">
   					</div>
 
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden;">
-    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide33.JPG">
+    				<img  style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide33.JPG">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden;">
-    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide34.JPG">
+    				<img  style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide34.JPG">
   					</div>
 
 					  <div class="panel-body" style="text-align: center; overflow: hidden;">
-    				<img  style="max-height: 50px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide35.JPG">
+    				<img  style="max-height: 100px; margin-top:20px; margin-bottom:20px; margin-right:20px; margin-left:0;" src="images/rekanankami/Slide35.JPG">
   					</div>
 					</div>	    <!-- End row2 -->
 
