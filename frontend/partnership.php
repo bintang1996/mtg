@@ -417,54 +417,6 @@ display: none;
 												   magna suscipit
 												</p>
 
-												<!-- Options List -->
-												<div class="row">
-
-													<div class="col-xl-6">
-
-														<!-- Option #1 -->
-														<div class="box-list">							
-															<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-															<p class="p-sm">Nemo ipsam egestas volute and turpis dolores quaerat</p>							
-														</div>
-
-														<!-- Option #2 -->
-														<div class="box-list">	
-															<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-															<p class="p-sm">Magna luctus tempor</p>				
-														</div>
-
-														<!-- Option #3 -->
-														<div class="box-list">	
-															<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-															<p class="p-sm">An enim nullam tempor at pretium purus blandit</p>				
-														</div>
-
-													</div>
-
-													<div class="col-xl-6">
-
-														<!-- Option #4 -->
-														<div class="box-list">	
-															<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-															<p class="p-sm">Magna luctus tempor blandit a vitae suscipit mollis</p>				
-														</div>
-
-														<!-- Option #5 -->
-														<div class="box-list">							
-															<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-															<p class="p-sm">Nemo ipsam egestas volute turpis dolores quaerat</p>							
-														</div>
-
-														<!-- Option #6 -->
-														<div class="box-list">	
-															<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-															<p class="p-sm">An enim nullam tempor</p>				
-														</div>
-
-													</div>
-
-												</div>	<!-- End Options List -->
 
 												<!-- Button -->
 												<a href="https://wa.me/+6281280001102" class="btn btn-blue orange-hover mt-30">Hubungi Kami</a>
