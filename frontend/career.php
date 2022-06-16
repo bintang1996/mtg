@@ -65,7 +65,7 @@ display: none;
                     <div class="col-lg-12">
                         <div class="col-lg-12 text-left">
                             <!-- Title -->
-							<div class="col-lg-10 offset-lg-1 section-title" style="margin-bottom:30px;">		
+							<div style="margin-bottom:30px;">		
 							<!-- Title 	-->	
 							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>BERGABUNGLAH BERSAMA MEDITRANS</b></b></h3>								
 							</div> 
