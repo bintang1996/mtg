@@ -104,7 +104,7 @@ display: none;
 				<div class="row">	
 						<div class="col-lg-10 offset-lg-1 section-title" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>MODEL BISNIS</b></b></h3>								
+							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>MENGAPA PPP?</b></b></h3>								
 						</div> 
 					</div>
 					<!-- BOTTOM ROW -->
@@ -166,7 +166,7 @@ display: none;
 				<div class="row">	
 						<div class="" style="margin-bottom:30px; padding-left: 15px;">		
 								
-							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>MENGAPA HARUS PUBLIC<BR>PRIVATE PARTNERSHIP (PPP)?</b></b></h3>								
+							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>MENGAPA HARUS PUBLIC PRIVATE PARTNERSHIP (PPP)?</b></b></h3>								
 						</div> 
 					</div>
 					<p>PPP merupakan salah satu solusi bagi Rumah Sakit untuk mengembangkan layanannya. PPP juga menjadi solusi untuk meningkatkan okupansi RS dan layanan lain, program pengembangan, rencana pemasaran, optimalisasi BHP, jaminan utilisasi alat, dukungan terhadap alat, akses teknologi baru, serta meningkatkan citra dan reputasi RS.</p>
