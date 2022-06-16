@@ -158,26 +158,25 @@ display: none;
 				</div>	   <!-- End container -->
 			</section>	<!-- END INFO-4 -->
 
-<!-- ABOUT-5
-			============================================= -->
+<!-- 
 			<section id="about-5" class="pt-100 about-section division" style="background-color:#FFFFFF; padding-top:70px; padding-bottom:70px;">
 				<div class="container" style="background-color:#FFFFFF;">
 
 				
 				<div class="row">	
 						<div class="" style="margin-bottom:30px; padding-left: 15px;">		
-							<!-- Title 	-->	
+								
 							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>MENGAPA HARUS PUBLIC<BR>PRIVATE PARTNERSHIP (PPP)?</b></b></h3>								
 						</div> 
 					</div>
 					<p>PPP merupakan salah satu solusi bagi Rumah Sakit untuk mengembangkan layanannya. PPP juga menjadi solusi untuk meningkatkan okupansi RS dan layanan lain, program pengembangan, rencana pemasaran, optimalisasi BHP, jaminan utilisasi alat, dukungan terhadap alat, akses teknologi baru, serta meningkatkan citra dan reputasi RS.</p>
 			
-				</div>	   <!-- End container -->
-			</section>	<!-- END ABOUT-5 -->
+				</div>	  
+			</section>	 -->
 
         <!-- TABS-1
 			============================================= -->
-			<section id="tabs-1" class="wide-100 tabs-section division" style="background-color:#ececec; padding-bottom: 50px;">
+			<section id="tabs-1" class="wide-100 tabs-section division" style="background-color:#fff; padding-bottom: 50px;">
             
 >
 				<div class="container" style="background-color:#ececec;">	
