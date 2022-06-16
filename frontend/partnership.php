@@ -190,7 +190,7 @@ display: none;
 					<div class="col-lg-12 text-center" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
 							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>LAYANAN KERJASAMA</b></b></h3>								
-						</div> 
+						</div> <BR>
 
 					<div class="row">
 				 		<div class="col-md-12">
