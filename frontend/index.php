@@ -465,22 +465,22 @@
 										<div class="quote"></div>	
 
 										<!-- Author Avatar -->
-										<div class="hover-overlay text-center">
+									
 
                                                                 <?php
 							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 							while($d2=mysqli_fetch_array($sql2)){
 							?> 
-								<img /><div class="gambar" style="background-image: url('assets/imgs/shop/<?php echo $d2['img_name']; ?>'); border-radius: 25px;"></div>
+								<div class="gambar hover-overlay text-center" style="background-image: url('assets/imgs/shop/<?php echo $d2['img_name']; ?>'); border-radius: 25px;"></div>
 	
 							<?php } ?>
 
 							<div class="item-overlay">		
-							<p style="margin-bottom:0px; font-size:1em; color:#007aff;"><?php echo $d['cat_name']; ?></p>
+								</div>
+								<p style="margin-bottom:0px; font-size:1em; color:#007aff;"><?php echo $d['cat_name']; ?></p>
 							<h4 class="h5-md" style="margin-top:0px; padding-left:8px;"><?php echo $d1['p_name']; ?></h4>
 							<p style="font-size: 0.5em; margin:0px;"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 100); ?>... </p>
-									</div>
-
+							
 							<!-- Profile Link -->		
 							<div class="profile-link">
 							<a style="font-size: 1em; color: #e86845;" href="article-details.php?id=<?php echo $d1['id']; ?>">Read more.</a>
