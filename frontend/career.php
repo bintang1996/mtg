@@ -136,13 +136,11 @@ display: none;
 			<div class="row">	
 						<div class="col-lg-10 offset-lg-1 section-title">	
 
+							<!-- Title 	-->		
 							<!-- Title 	-->	
-							<h3 class="h3-md steelblue-color">Bergabung dengan Kami</h3>	
-
-							<!-- Text -->
-							<p>Come join us? Want to book an appointment for yourself or your children? Give us a call
-							   or send an email to contact the MedService.
-							</p>
+							<h3 class="h4-md steelblue-color text-center" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>BERGABUNG DENGAN KAMI</b></b></h3>								
+						
+							
 								
 						</div>
 			</div>
