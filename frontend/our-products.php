@@ -975,11 +975,11 @@ display: none;
 									</table>
 
 									<!-- Text -->
-									<p>Grup Agfa-Gevaert mengembangkan, memproduksi dan mendistribusikan berbagai sistem pencitraan dan solusi TI, terutama untuk industri percetakan dan sektor kesehatan, serta untuk aplikasi industri tertentu.<br>
+									<p>Grup Agfa-Gevaert mengembangkan, memproduksi dan mendistribusikan berbagai sistem pencitraan dan solusi TI, terutama untuk industri percetakan dan sektor kesehatan, serta untuk aplikasi industri tertentu.</p>
 
-Kantor pusat dan perusahaan induk Agfa berlokasi di Mortsel, Belgia. Kegiatan operasional Grup dibagi dalam empat divisi: Offset Solutions, Digital Print & Chemicals, Radiology Solutions, dan HealthCare IT. Semua divisi memiliki posisi pasar yang kuat dan strategi yang terdefinisi dengan baik.<br>
+									<p>Kantor pusat dan perusahaan induk Agfa berlokasi di Mortsel, Belgia. Kegiatan operasional Grup dibagi dalam empat divisi: Offset Solutions, Digital Print & Chemicals, Radiology Solutions, dan HealthCare IT. Semua divisi memiliki posisi pasar yang kuat dan strategi yang terdefinisi dengan baik.</p>
 
-Pusat produksi dan penelitian terbesar Agfa berlokasi di Belgia, Amerika Serikat, Kanada, Jerman, Austria, Cina, dan Brasil. Agfa aktif secara komersial di seluruh dunia melalui organisasi penjualan yang dimiliki sepenuhnya di lebih dari 40 negara. Di negara-negara di mana Agfa tidak memiliki organisasi penjualan sendiri, pasar dilayani oleh jaringan agen dan perwakilan.
+									<p>Pusat produksi dan penelitian terbesar Agfa berlokasi di Belgia, Amerika Serikat, Kanada, Jerman, Austria, Cina, dan Brasil. Agfa aktif secara komersial di seluruh dunia melalui organisasi penjualan yang dimiliki sepenuhnya di lebih dari 40 negara. Di negara-negara di mana Agfa tidak memiliki organisasi penjualan sendiri, pasar dilayani oleh jaringan agen dan perwakilan.
 									</p><br>
 
 
