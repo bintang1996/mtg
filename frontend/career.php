@@ -132,7 +132,7 @@ display: none;
             <div class="container" style="background-color:#FFFFFF; ">
 			<!-- SECTION TITLE -->	
 			<div class="row">	
-						<div class="col-lg-10 offset-lg-1 section-title">	
+						<div class="col-lg-12">	
 
 							<!-- Title 	-->		
 							<!-- Title 	-->	
