@@ -143,7 +143,7 @@ display: none;
 					                                            
 					                <!-- Contact Form Button -->
 					                <div class="col-lg-12 mt-15 form-btn">  
-					                	<button type="submit" class="btn btn-blue blue-hover 
+					                	<button type="submit" class="btn btn-blue orange-hover 
                                         submit">Kirim</button> 
 					                </div>
 					                                                              
