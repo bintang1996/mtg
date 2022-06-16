@@ -84,7 +84,7 @@ display: none;
             <div class="container" style="background-color:#f8f9fb;">
 			<!-- SECTION TITLE -->	
 			<div class="row">	
-						<div class="col-lg-10 offset-lg-1 section-title">	
+						<div>	
 
 							<!-- Title 	-->	
 							<div style="margin-bottom:30px;">		
