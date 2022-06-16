@@ -801,11 +801,8 @@ display: none;
 									</table>
 
 									<!-- Text -->
-									<p>FCR PRIMA T2 adalah FCR yang dirancang secara ringkas dengan resolusi tinggi dan pemrosesan cepat yang hanya dapat disediakan oleh Fuji Film.
-
-										FCR PRIMA T2 adalah unit pembaca meja yang menawarkan kecepatan pemrosesan tinggi kelas dunia 73 IP/jam. Dalam mode kecepatan tinggi (5 piksel/mm).
-
-										Meskipun ini adalah mesin yang ringkas, kualitas gambarnya yang luar biasa sama dengan yang dihasilkan oleh rentang FCR lainnya. Image Intelligence™, teknologi pemrosesan gambar milik Fujifilm, meningkatkan kontras dan ketajaman gambar, tanpa penurunan detail. FCR PRIMA T2 mendukung diagnosis yang akurat dengan menawarkan kualitas gambar yang stabil dan optimal
+									<p>
+									FUJIFILM Corporation merupakan penyedia produk dan layanan Kesehatan (Sistem Medis, Layanan Kesehatan Konsumen, Farmasi, Bio CDMO, dan Obat Regeneratif), Material (Material Lanjutan, Sistem Grafis & Inkjet, dan Media Perekaman), dan Pencitraan (Pencitraan Foto dan Perangkat Optik dan Elektronik Pencitraan)
 
 									</p><br>
 									
