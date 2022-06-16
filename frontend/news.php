@@ -69,8 +69,6 @@ display: none;
 			  	</div>	<!-- END SLIDER -->
 
 
-			</section>	<!-- END HERO-2 -->
-
 
             
 
@@ -153,5 +151,7 @@ display: none;
 						
 				</div>	   <!-- End container -->
 		
+				</section>	<!-- END HERO-2 -->
+
 
 <?php include "footer.php";?>
