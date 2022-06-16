@@ -117,19 +117,19 @@ display: none;
 
 							<table>
 								<tr>
-									<td><img width="50px" style="border-radius: 15px;" src="images/partnership/centangbiru1.png" alt="tab-image" /></td>
+									<td><img width="50px" style="border-radius: 15px;padding: 15px;" src="images/partnership/centangbiru1.png" alt="tab-image" /></td>
 									<td>Pengembangan layanan rumah sakit</td>
 								</tr>
 								<tr>
-									<td><img  width="50px" style="border-radius: 15px;" src="images/partnership/centangbiru1.png" alt="tab-image" /></td>
+									<td><img  width="50px" style="border-radius: 15px;padding: 15px;" src="images/partnership/centangbiru1.png" alt="tab-image" /></td>
 									<td>Meningkatkan citra dan reputasi rumah sakit</td>
 								</tr>
 								<tr>
-									<td><img  width="50px" style="border-radius: 15px;" src="images/partnership/centangbiru1.png" alt="tab-image" /></td>
+									<td><img  width="50px" style="border-radius: 15px;padding: 15px;" src="images/partnership/centangbiru1.png" alt="tab-image" /></td>
 									<td>Meningkatkan okupansi rumah sakit dan layanan lainnya</td>
 								</tr>
 								<tr>
-									<td><img  width="50px" style="border-radius: 15px;" src="images/partnership/centangbiru1.png" alt="tab-image" /></td>
+									<td><img  width="50px" style="border-radius: 15px;padding: 15px;" src="images/partnership/centangbiru1.png" alt="tab-image" /></td>
 									<td>Mendapatkan akses teknologi terbaru dan transfer ilmu</td>
 								</tr>
 							</table>
@@ -140,19 +140,19 @@ display: none;
 
 								<table>
 									<tr>
-										<td><img  width="50px" style="border-radius: 15px;" src="images/partnership/centangbiru1.png" alt="tab-image" /></td>
+										<td><img  width="50px" style="border-radius: 15px;padding: 15px;" src="images/partnership/centangbiru1.png" alt="tab-image" /></td>
 										<td>Dukungan terhadap alat dan jaminan utilisasi alat</td>
 									</tr>
 									<tr>
-									<td><img  width="50px" style="border-radius: 15px;" src="images/partnership/centangbiru1.png" alt="tab-image" /></td>
+									<td><img  width="50px" style="border-radius: 15px;padding: 15px;" src="images/partnership/centangbiru1.png" alt="tab-image" /></td>
 									<td>Optimalisasi bahan habis pakai</td>
 								</tr>
 								<tr>
-									<td><img  width="50px" style="border-radius: 15px;" src="images/partnership/centangbiru1.png" alt="tab-image" /></td>
+									<td><img  width="50px" style="border-radius: 15px;padding: 15px;" src="images/partnership/centangbiru1.png" alt="tab-image" /></td>
 									<td>Rencana pemasaran</td>
 								</tr>
 								<tr>
-									<td><img  width="50px" style="border-radius: 15px;" src="images/partnership/centangbiru1.png" alt="tab-image" /></td>
+									<td><img  width="50px" style="border-radius: 15px;padding: 15px;" src="images/partnership/centangbiru1.png" alt="tab-image" /></td>
 									<td>Tim yang berpengalaman dan terpercaya</td>
 								</tr>
 								</table>
