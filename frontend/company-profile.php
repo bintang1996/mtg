@@ -462,7 +462,7 @@ setiap aktifitas kerja serta produk jasa pada pelanggan dan rekanan
 						</div> 
 					</div>	 <!-- END SECTION TITLE -->	
 
-
+					<br><br>
 
 					<div class="row col-md-12 text-center align-center">
 
