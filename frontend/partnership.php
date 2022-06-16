@@ -152,7 +152,7 @@ display: none;
 									<td>Rencana pemasaran</td>
 								</tr>
 								<tr>
-									<td><img  width="50px" style="border-radius: 15px;padding: 15px;" src="images/partnership/centangbiru1.png" alt="tab-image" /></td>
+									<td><img  width="50px" style="border-radius: 15px;margin: 15px;" src="images/partnership/centangbiru1.png" alt="tab-image" /></td>
 									<td>Tim yang berpengalaman dan terpercaya</td>
 								</tr>
 								</table>
