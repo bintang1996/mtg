@@ -484,7 +484,7 @@
 							
 						
 							
-							<a style="font-size: 1em; color: #fff;" href="article-details.php?id=<?php echo $d1['id']; ?>"><h4><?php echo $d1['p_name']; ?></h4></a>
+							<a  href="article-details.php?id=<?php echo $d1['id']; ?>"><h3 style="color: #fff;"><?php echo $d1['p_name']; ?></h3></a>
 							</div> 
 							</div>	</div>
 							<?php } ?>
