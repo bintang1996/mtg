@@ -229,8 +229,154 @@ display: none;
 
 
 
-			<section id="info-4" class="wide-100 info-section division" style="background-color:#FFFFFF; padding-bottom: 0px; border-bottom:1px solid grey;">
+
+
+
+
+			<section id="info-4" class="wide-100 info-section division" style="background-color:#FFFFFF; padding-bottom: 80px; padding-top: 80px;">
 				<div class="container" style="background-color:#FFFFFF;">
+
+
+					
+						<div class="row d-flex align-items-center">
+
+
+						<!-- INFO IMAGE -->
+						<div class="col-lg-6">
+							<div class="info-4-img text-center wow fadeInUp" data-wow-delay="0.6s">
+								<img style="border-radius: 20px;" class="img-fluid" src="images/head/konstruksi.jpg" alt="info-image">
+							</div>
+						</div>
+
+
+						<!-- INFO TEXT -->	
+						<div class="col-lg-6">
+							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
+
+							<div class="row">	
+						<div class="" style="margin-bottom:30px;">		
+							<!-- Title 	-->	
+							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>JASA KONSTRUKSI</b></b></h3>								
+						</div> 
+					</div>
+								
+								<!-- Text -->
+								<p>Jasa konstruksi dan renovasi Meditrans di handle oleh 
+									tim yang berpengalaman dan berkompeten di bidangnya. Antara lain penyediaan 
+									pintu anti radiasi, sandwich panel, pemasangan vinyl, MOT, Kaca Pb, timbalisasi, dan 
+									raised floor. Hingga saat ini, Meditrans melayani jasa konstruksi dan renovasi di 
+									puluhan Rumah Sakit baik RS Pemerintah maupun RS Swasta.
+
+								</p>
+
+							</div>
+						</div>	<!-- END TEXT BLOCK -->	
+
+						
+						</div>    <!-- End row -->
+			
+					</div>	   <!-- End container -->
+			</section>	<!-- END INFO-4 -->
+
+
+
+
+
+
+
+			<section id="info-4" class="wide-100 info-section division" style="background-color:#ececec;  padding-top: 80px; padding-bottom: 80px;">
+				<div class="container">
+
+						<!-- SECOND ROW -->
+					
+						<div class="row d-flex align-items-center">
+							<!-- INFO TEXT -->	
+						<div class="col-lg-6">
+							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
+
+							<div class="row">	
+						<div class="" style="margin-bottom:30px;">		
+							<!-- Title 	-->	
+							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>JASA KONSTRUKSI <BR>RUANG HYBRID OR</b></b></h3>								
+						</div> 
+					</div>
+
+								<!-- Text -->
+								<p>
+								Kami melayani pengerjaan ruang operasi hybrid. Ruang operasi hybrid adalah ruang operasi yang memungkinkan dilakukannya beberapa tindakan dalam satu ruang dan saat yang bersamaan. Yakni mulai dari diagnostik, intervensi dan pembedahan.  Kami siap membantu mewujudkan ruang operasi hybrid untuk rumah sakit anda. 
+								</p>
+							</div>
+						</div>	<!-- END TEXT BLOCK -->	
+								<!-- INFO IMAGE -->
+						<div class="col-lg-6">
+							<div class="info-4-img text-center wow fadeInUp" data-wow-delay="0.6s">
+								<img style="border-radius: 20px;" class="img-fluid" src="images/OR.jpg" alt="info-image">
+							</div>
+						</div>
+					</div>    <!-- End row -->
+			
+						
+
+                </div>	   <!-- End container -->
+			</section>	<!-- END INFO-4 -->
+
+
+
+
+
+
+
+			                <!-- INFO-4
+			============================================= -->
+			<section id="info-4" class="wide-100 info-section division" style="background-color:#FFFFFF; padding-bottom: 80px; padding-top: 80px;">
+				<div class="container" style="background-color:#FFFFFF;">
+
+
+					
+						<div class="row d-flex align-items-center">
+
+
+						<!-- INFO IMAGE -->
+						<div class="col-lg-6">
+							<div class="info-4-img text-center wow fadeInUp" data-wow-delay="0.6s">
+								<img style="border-radius: 20px;" class="img-fluid" src="images/head/konstruksi.jpg" alt="info-image">
+							</div>
+						</div>
+
+
+						<!-- INFO TEXT -->	
+						<div class="col-lg-6">
+							<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
+
+							<div class="row">	
+						<div class="" style="margin-bottom:30px;">		
+							<!-- Title 	-->	
+							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>JASA KONSTRUKSI</b></b></h3>								
+						</div> 
+					</div>
+								
+								<!-- Text -->
+								<p>Jasa konstruksi dan renovasi Meditrans di handle oleh 
+									tim yang berpengalaman dan berkompeten di bidangnya. Antara lain penyediaan 
+									pintu anti radiasi, sandwich panel, pemasangan vinyl, MOT, Kaca Pb, timbalisasi, dan 
+									raised floor. Hingga saat ini, Meditrans melayani jasa konstruksi dan renovasi di 
+									puluhan Rumah Sakit baik RS Pemerintah maupun RS Swasta.
+
+								</p>
+
+							</div>
+						</div>	<!-- END TEXT BLOCK -->	
+
+						
+						</div>    <!-- End row -->
+			
+					</div>	   <!-- End container -->
+			</section>	<!-- END INFO-4 -->
+
+
+
+			<section id="info-4" class="wide-100 info-section division" style="background-color:#ececec; padding-bottom: 0px; ">
+				<div class="container" >
 
 						<!-- SECOND ROW -->
 						<div class="top-row mb-80">
