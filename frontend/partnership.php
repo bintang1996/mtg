@@ -183,11 +183,16 @@ display: none;
 			============================================= -->
 			<section id="tabs-1" class="wide-100 tabs-section division" style="background-color:#fff; padding-bottom: 80px; padding-top:80px;border-bottom:1px solid #ececec;">
             
->
+
 				<div class="container" style="background-color:#fff;">	
                     <!-- Title 	-->	
-					<h3 style="padding-bottom:50px;" class="h3-md col-lg-10 offset-lg-1 section-title steelblue-color">Layanan Kerjasama</h3>	
-				 	<div class="row">
+					
+					<div class="col-lg-12 text-center" style="margin-bottom:30px;">		
+							<!-- Title 	-->	
+							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>LAYANAN KERJASAMA</b></b></h3>								
+						</div> 
+
+					<div class="row">
 				 		<div class="col-md-12">
 				 			
 
