@@ -470,7 +470,7 @@
                                                                 <?php
 							$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where a_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 							while($d2=mysqli_fetch_array($sql2)){
-							?> 
+							?> <div class="gallery-item pediatric">
 								<div class="gambar hover-overlay text-center" style="background-image: url('assets/imgs/shop/<?php echo $d2['img_name']; ?>'); border-radius: 25px;">
 								<div class="item-overlay">		
 								</div>
@@ -482,11 +482,11 @@
 							<div class="profile-link">
 							<a style="font-size: 1em; color: #e86845;" href="article-details.php?id=<?php echo $d1['id']; ?>">Read more.</a>
 							</div> 
-								</div>
+							</div>	</div>
 							<?php } ?>
 
 							
-							
+						
 
 									
 										
