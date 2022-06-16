@@ -82,7 +82,7 @@ display: none;
 															<!-- Title -->
 
 								<!-- Title -->
-								<h3 class="h4-md steelblue-color text-center" style="color: #214068; font-weight: 700;"><b><b>PUBLIC PRIVATE PARTNERSHIP (PPP)</b></b></h3>		
+								<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>PUBLIC PRIVATE PARTNERSHIP (PPP)</b></b></h3>		
 
 								<!-- Text -->
 								<p>Public Private Partnership (PPP) merupakan kerjasama antara Rumah Sakit Umum dan Perusahaan Swasta sebagai salah satu solusi yang dilakukan oleh pihak swasta untuk membantu dan bekerjasama dengan Rumah Sakit membuka layanan baru, serta mendapatkan akses teknologi baru, dan transfer ilmu.  </p>
@@ -99,7 +99,7 @@ display: none;
 			<section id="info-4" class="wide-100 info-section division" style="background-color:#ececec; padding-bottom: 60px;">
 				<div class="container" style="background-color:#ececec;">
 				<div class="row">	
-						<div class="col-lg-10" style="margin-bottom:30px;">		
+						<div class="col-lg-10 text-center" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
 							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>MENGAPA PPP?</b></b></h3>								
 						</div> 
@@ -152,7 +152,7 @@ display: none;
 									<td>Rencana pemasaran</td>
 								</tr>
 								<tr>
-									<td><img  width="50px" style="border-radius: 15px;margin: 15px;" src="images/partnership/centangbiru1.png" alt="tab-image" /></td>
+									<td><img  width="50px" style="border-radius: 15px;padding: 15px;" src="images/partnership/centangbiru1.png" alt="tab-image" /></td>
 									<td>Tim yang berpengalaman dan terpercaya</td>
 								</tr>
 								</table>
