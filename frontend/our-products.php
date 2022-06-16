@@ -1315,12 +1315,9 @@ display: none;
 									</table>
 
 									<!-- Text -->
-									<p>FlowCam 8000 Imaging Particle Analysis System merupakan sistem analisis partikel pencitraan yang menggunakan mikroskop aliran untuk menggambar dan menganalisis partikel yang tidak terlihat dengan diameter mulai dari 2 m hingga 1 mm. Secara bersamaan menentukan bentuk partikel, jenis, dan distribusi ukuran dari semua partikel yang terdeteksi dalam solusi Anda.
-									<br>-Volume sampel minimum = 100 l
-									<br>-Kemampuan ambang batas tingkat lanjut memungkinkan analisis partikel tembus pandang yang akurat
-									<br>-Siklus pembilasan dan pembersihan otomatis mencegah kontaminasi silang
-									<br>-Laju analisis tipikal = 250 l/min
-									<br>-Kompatibel dengan sistem Penanganan Cairan Otomatis FlowCam
+									<p>
+									Yokogawa adalah penyedia terkemuka solusi Otomasi Industri dan
+Pengujian dan Pengukuran. Menggabungkan teknologi unggul dengan layanan teknik, manajemen proyek, dan pemeliharaan, Yokogawa memberikan efisiensi, keamanan, kualitas, dan keandalan operasional yang terbukti di lapangan.
 
 									</p><br>
 
