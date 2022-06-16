@@ -194,14 +194,15 @@ display: none;
 							    	<!-- TAB-1 LINK -->
 								  	<li class="nav-item icon-xs">
 								    	<a class="nav-link active" id="tab1-list" data-toggle="pill" href="#tab-1" role="tab" aria-controls="tab-1" aria-selected="true">
-								    		<span class="flaticon-083-stethoscope"></span> Kerjasama Cathlab
+								    		<span class="flaticon-083-stethoscope"></span> Cathlab
+
 								    	</a>
 								  	</li>
 
 								  	<!-- TAB-2 LINK -->
 									<li class="nav-item icon-xs">
 									    <a class="nav-link" id="tab2-list" data-toggle="pill" href="#tab-2" role="tab" aria-controls="tab-2" aria-selected="false">
-									       <span class="flaticon-005-blood-donation-3"></span> Kerjasama CT-Scan/MRI
+									       <span class="flaticon-005-blood-donation-3"></span> CT-Scan/MRI
 									    </a>
 									</li>
 
@@ -210,7 +211,7 @@ display: none;
 									<!-- TAB-4 LINK -->
 									<li class="nav-item icon-xs">
 									    <a class="nav-link" id="tab4-list" data-toggle="pill" href="#tab-4" role="tab" aria-controls="tab-4" aria-selected="false">
-									       <span class="flaticon-048-lungs"></span> Kerjasama Lab-PCR
+									       <span class="flaticon-048-lungs"></span> Layanan Lainnya
 									    </a>
 									</li>
 
@@ -242,7 +243,8 @@ display: none;
 											<div class="txt-block pc-30">
 
 												<!-- Title -->
-												<h3 class="h3-md steelblue-color">Kerjasama Cathlab</h3>
+
+												<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>Cathlab</b></b></h3>	
 
 												<!-- Text -->
 												<p class="mb-30">Meditrans adalah partner Kerjasama yang terpercaya dan pengalaman di bidang CATHLAB,
@@ -327,7 +329,7 @@ display: none;
 											<div class="txt-block pc-30">
 
 												<!-- Title -->
-												<h3 class="h3-md steelblue-color">Kerjasama CT-Scan</h3>
+												<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>CT-Scan</b></b></h3>	
 
 												<!-- Text -->
 												<p class="mb-30">Meditrans adalah Kerjasama provider terbesar di Indonesia dengan 14 CT scan dan terus tumbuh. 
@@ -500,7 +502,7 @@ display: none;
 											<div class="txt-block pc-30">
 
 												<!-- Title -->
-												<h3 class="h3-md steelblue-color">Kerjasama Lab PCR</h3>
+												<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>Layanan Lainnya</b></b></h3>	
 
 												<!-- Text -->
 												<p class="mb-30">An enim nullam tempor sapien gravida donec enim ipsum blandit
