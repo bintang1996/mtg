@@ -182,6 +182,58 @@ display: none;
 									<p>Adapun Rumah Sakit yang telah bekerjasama dengan kami untuk Penyediaan Layanan Kateterisasi Jantung (Cathlab) adalah sebagai berikut.
 									</p>
 
+
+									<!-- PRODUK NI BOS -->									
+
+				<div class="row">
+				<?php
+				$r=$_GET['id'];
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Samsung Healthcare'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
+				$sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d1=mysqli_fetch_array($sql1)){ 
+				?> 
+
+				<!-- DOCTOR #1 -->
+				<div class="col-md-6">
+				<div class="doctor-1" style="border: 1px solid #4d4d4d; border-radius: 16px;">								
+									
+				<!-- Doctor Photo -->
+
+
+				<!-- Photo -->
+				<?php
+				$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				while($d2=mysqli_fetch_array($sql2)){
+				?> 
+				<img class="img-fluid" width="100%" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+				<?php } ?>
+
+
+
+				<!-- Doctor Meta -->		
+				<div class="doctor-meta" style="padding: 20px;">
+
+				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
+
+				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+
+				</div>	
+
+				</div>	
+
+						
+				</div>	<!-- END DOCTOR #1 -->
+
+				<?php }} ?>	
+				</div>
+
+				<!-- PRODUK NI BOS -->	
+
+									
+
 									
 									
 								<table class="table table-striped">
