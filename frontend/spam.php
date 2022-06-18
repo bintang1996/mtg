@@ -488,3 +488,100 @@ dots[slideIndex1-1].className += " w3-white";
 									<img style="border-radius: 10%;" width="100%" class="img-fluid" src="images/emergency_help_700x800.jpg" alt="info-image">
 								</div>
 							</div>	
+
+
+
+<!-- BUANGAN PAGE PORTOFOLIO cathlab-->
+
+							<table class="table table-striped">
+									<tr>
+										<th>No</th>
+										<th>Jenis Kerja Sama</th>
+										<th>Rumah Sakit</th>
+										<th>Tipe Peralatan</th>
+									</tr>
+									<tr>
+										<td>1</td>
+										<td>KSO Cathlab</td>
+										<td>RS Dustira Cimahi</td>
+										<td>-</td>
+									</tr>
+									<tr>
+										<td>2</td>
+										<td>KSO Cathlab</td>
+										<td>RS Al Islam Bandung</td>
+										<td>-</td>
+									</tr>
+									<tr>
+										<td>3</td>
+										<td>KSO Cathlab</td>
+										<td>RS Soepraoen Malang</td>
+										<td>-</td>
+									</tr>
+									<tr>
+										<td>4</td>
+										<td>KSO Cathlab</td>
+										<td>RSAL Ramelan</td>
+										<td>-</td>
+									</tr>
+
+								</table>
+
+								
+
+
+
+<!-- BUANGAN PAGE PORTOFOLIO ct scan-->
+
+
+<table class="table table-striped">
+									<tr>
+										<th>No</th>
+										<th>Jenis Kerja Sama</th>
+										<th>Rumah Sakit</th>
+										<th>Tipe Peralatan</th>
+									</tr>
+									<tr>
+										<td>1</td>
+										<td>KSO CT-Scan</td>
+										<td>RSI.   Muhammadyah Palembang</td>
+										<td>GE   Dxi Single Slice</td>
+									</tr>
+									<tr>
+										<td>2</td>
+										<td>KSO CT-Scan</td>
+										<td>RSUD   Palabuanratu, Sukabumi</td>
+										<td>GE   Brivo, 16 Slice</td>
+									</tr>
+									<tr>
+										<td>3</td>
+										<td>KSO CT-Scan	</td>
+										<td>RS.   Dustira Cimahi</td>
+										<td>Siemens Somatom   Emotions, 16 Slice</td>
+									</tr>
+									<tr>
+										<td>4</td>
+										<td>KSO CT-Scan</td>
+										<td>RSU   Bangli - Bali</td>
+										<td>GE   Brightspeed 16 Slice</td>
+									</tr>
+
+								</table>
+
+<!-- BUANGAN PAGE PORTOFOLIO pcr-->
+
+<table class="table table-striped">
+									<tr>
+										<th>No</th>
+										<th>Jenis Kerja Sama</th>
+										<th>Rumah Sakit</th>
+										<th>Tipe Peralatan</th>
+									</tr>
+									<tr>
+										<td>1</td>
+										<td>KSO PCR</td>
+										<td>RS Tiara Sella Bengkulu</td>
+										<td>-</td>
+									</tr>
+
+								</table>

@@ -231,45 +231,10 @@ display: none;
 
 				<!-- PRODUK NI BOS -->	
 
-									
+				</div>	<!-- END TAB-1 CONTENT -->
 
 									
 									
-								<table class="table table-striped">
-									<tr>
-										<th>No</th>
-										<th>Jenis Kerja Sama</th>
-										<th>Rumah Sakit</th>
-										<th>Tipe Peralatan</th>
-									</tr>
-									<tr>
-										<td>1</td>
-										<td>KSO Cathlab</td>
-										<td>RS Dustira Cimahi</td>
-										<td>-</td>
-									</tr>
-									<tr>
-										<td>2</td>
-										<td>KSO Cathlab</td>
-										<td>RS Al Islam Bandung</td>
-										<td>-</td>
-									</tr>
-									<tr>
-										<td>3</td>
-										<td>KSO Cathlab</td>
-										<td>RS Soepraoen Malang</td>
-										<td>-</td>
-									</tr>
-									<tr>
-										<td>4</td>
-										<td>KSO Cathlab</td>
-										<td>RSAL Ramelan</td>
-										<td>-</td>
-									</tr>
-
-								</table>
-
-								</div>	<!-- END TAB-1 CONTENT -->
 
 
 								<!-- TAB-2 CONTENT -->
@@ -343,39 +308,6 @@ display: none;
 
 				<!-- PRODUK NI BOS -->	
 
-								<table class="table table-striped">
-									<tr>
-										<th>No</th>
-										<th>Jenis Kerja Sama</th>
-										<th>Rumah Sakit</th>
-										<th>Tipe Peralatan</th>
-									</tr>
-									<tr>
-										<td>1</td>
-										<td>KSO CT-Scan</td>
-										<td>RSI.   Muhammadyah Palembang</td>
-										<td>GE   Dxi Single Slice</td>
-									</tr>
-									<tr>
-										<td>2</td>
-										<td>KSO CT-Scan</td>
-										<td>RSUD   Palabuanratu, Sukabumi</td>
-										<td>GE   Brivo, 16 Slice</td>
-									</tr>
-									<tr>
-										<td>3</td>
-										<td>KSO CT-Scan	</td>
-										<td>RS.   Dustira Cimahi</td>
-										<td>Siemens Somatom   Emotions, 16 Slice</td>
-									</tr>
-									<tr>
-										<td>4</td>
-										<td>KSO CT-Scan</td>
-										<td>RSU   Bangli - Bali</td>
-										<td>GE   Brightspeed 16 Slice</td>
-									</tr>
-
-								</table>
 								</div>	<!-- END TAB-2 CONTENT -->
 
 
@@ -403,21 +335,6 @@ display: none;
 
 									
 									
-								<table class="table table-striped">
-									<tr>
-										<th>No</th>
-										<th>Jenis Kerja Sama</th>
-										<th>Rumah Sakit</th>
-										<th>Tipe Peralatan</th>
-									</tr>
-									<tr>
-										<td>1</td>
-										<td>KSO PCR</td>
-										<td>RS Tiara Sella Bengkulu</td>
-										<td>-</td>
-									</tr>
-
-								</table>
 								</div>	<!-- END TAB-3 CONTENT -->
 
 
