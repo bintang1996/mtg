@@ -492,6 +492,11 @@ dots[slideIndex1-1].className += " w3-white";
 
 
 <!-- BUANGAN PAGE PORTOFOLIO cathlab-->
+<!-- Image -->
+<div class="tab-img">
+										<img style="border-radius: 20px;" class="img-fluid" src="images/head/cathlab.jpg" alt="tab-image" width="60%"/>
+										</div>
+										<br>
 
 							<table class="table table-striped">
 									<tr>
@@ -533,7 +538,11 @@ dots[slideIndex1-1].className += " w3-white";
 
 <!-- BUANGAN PAGE PORTOFOLIO ct scan-->
 
-
+<!-- Image -->
+<div class="tab-img">
+										<img style="border-radius: 20px;" class="img-fluid" src="images/portofolio/ct.webp" alt="tab-image" width="60%"/>
+										</div>
+										<br>
 <table class="table table-striped">
 									<tr>
 										<th>No</th>
@@ -569,6 +578,12 @@ dots[slideIndex1-1].className += " w3-white";
 								</table>
 
 <!-- BUANGAN PAGE PORTOFOLIO pcr-->
+
+									<!-- Image -->
+									<div class="tab-img">
+										<img  style="border-radius: 20px;" class="img-fluid" src="images/Laboratorium.jpg" alt="tab-image" width="60%"/>
+										</div>
+										<br>
 
 <table class="table table-striped">
 									<tr>

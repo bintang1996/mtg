@@ -172,11 +172,7 @@ display: none;
 						</div> 
 					</div>
 
-									<!-- Image -->
-									<div class="tab-img">
-										<img style="border-radius: 20px;" class="img-fluid" src="images/head/cathlab.jpg" alt="tab-image" width="60%"/>
-										</div>
-										<br>
+									
 
 									<!-- Text -->
 									<p>Adapun Rumah Sakit yang telah bekerjasama dengan kami untuk Penyediaan Layanan Kateterisasi Jantung (Cathlab) adalah sebagai berikut.
@@ -249,11 +245,7 @@ display: none;
 						</div> 
 					</div>
 
-									<!-- Image -->
-									<div class="tab-img">
-										<img style="border-radius: 20px;" class="img-fluid" src="images/portofolio/ct.webp" alt="tab-image" width="60%"/>
-										</div>
-										<br>
+									
 
 									<!-- Text -->
 									<p>Adapun Rumah Sakit yang telah bekerjasama dengan kami untuk Penyediaan Layanan CT Scan adalah sebagai berikut.
@@ -323,11 +315,6 @@ display: none;
 						</div> 
 					</div>
 
-									<!-- Image -->
-									<div class="tab-img">
-										<img  style="border-radius: 20px;" class="img-fluid" src="images/Laboratorium.jpg" alt="tab-image" width="60%"/>
-										</div>
-										<br>
 
 									<!-- Text -->
 									<p>Adapun Rumah Sakit yang telah bekerjasama dengan kami untuk Penyediaan Layanan PCR adalah sebagai berikut.
