@@ -1,4 +1,10 @@
 <?php include "header.php";?>
+<style>
+	.indicators {
+display: none;
+	}
+
+</style>
 
 <!-- HERO-2
 			============================================= -->	
