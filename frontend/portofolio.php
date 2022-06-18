@@ -188,7 +188,7 @@ display: none;
 				<div class="row">
 				<?php
 				$r=$_GET['id'];
-				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Samsung Healthcare'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='portofolio-cathlab'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 				while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
 				$sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 				while($d1=mysqli_fetch_array($sql1)){ 
@@ -218,7 +218,7 @@ display: none;
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
-				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+				... </p><br><a href="<?php echo $d1['spec'];?>" class="btn btn-sm btn-orange" >Kunjungi</a>
 
 				</div>	
 
