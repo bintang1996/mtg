@@ -215,10 +215,9 @@ display: none;
 				<div class="doctor-meta" style="padding: 20px;">
 
 				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
-				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
-				... </p><br><a href="<?php echo $d1['spec'];?>" class="btn btn-sm btn-orange" >Kunjungi</a>
+				</p><br><a href="<?php echo $d1['spec']; ?>" class="btn btn-sm btn-orange" >Kunjungi</a>
 
 				</div>	
 
