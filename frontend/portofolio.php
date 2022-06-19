@@ -597,31 +597,224 @@ display: none;
 										</table>
 								</div>	<!-- END TAB-4 CONTENT -->
 
+
+
+
+
+
+
 								<!-- TAB-4 CONTENT -->
-								<div class="tab-pane fade" id="tab-15" role="tabpanel" aria-labelledby="tab14-list">
+								<div class="tab-pane fade" id="tab-15" role="tabpanel" aria-labelledby="tab15-list">
 
 									<!-- Title -->
 									<div class="row">	
 						<div class="" style="margin-bottom:0px;">		
 							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>Lain-lain</b></b></h3>								
+							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>Konstruksi</b></b></h3>								
 						</div> 
 					</div>
 
+									<!-- Image -->
+									<div class="tab-img">
+										<img style="border-radius: 20px;" class="img-fluid" src="images/portofolio/kons.webp" alt="tab-image" width="60%"/>
+										</div>
+										<br>
+
 									<!-- Text -->
-									<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-									   integer congue magna at pretium  purus pretium 
-									</p><br>
-									<?php
-										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-										while($d=mysqli_fetch_array($sql)){
-										?> 
-										
-										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+									<p>Adapun Rumah Sakit yang telah bekerjasama dengan kami untuk Penyediaan Layanan Konstruksi adalah sebagai berikut.
+									</p>
 									
-									<?php }?>
-									
+									<br>
+									<table class="table table-striped">
+										<thead>
+										<tr>
+										<th class="tg-7btt">No</th>
+										<th class="tg-amwm">Rumah Sakit</th>
+										<th class="tg-amwm">Deskripsi</th>
+										<th class="tg-amwm">Tahun</th>
+										</tr>
+										</thead>
+										<tbody>
+										<tr>
+										<td class="tg-baqh">1</td>
+										<td class="tg-0lax">RS. Brawijaya Saharjo</td>
+										<td class="tg-0lax">- Timbalisasi Ruangan Cathlab &amp; Hybrid<br>
+										- Pemasangan Raise Floor<br>
+										- Pemasangan Frame Kaca Pb<br>
+										- Pengadaan Kaca Pb<br>
+										- Pengadaan scrub Station</td>
+										<td class="tg-baqh">2020</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">2</td>
+										<td class="tg-0lax">RS. Medistra Jakarta</td>
+										<td class="tg-0lax">Renovasi &amp; Timbalisasi Ruang Cathlab GE</td>
+										<td class="tg-0lax">2019</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">3</td>
+										<td class="tg-0lax">RS. Bhayangkara Kediri</td>
+										<td class="tg-0lax">Pengerjaan timbalisasi ruang Radiologi</td>
+										<td class="tg-0lax">2019</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">4</td>
+										<td class="tg-0lax">RS. Bhayangkara Kediri</td>
+										<td class="tg-0lax">Pengerjaan Timbalisasi Ruang CT-Scan</td>
+										<td class="tg-baqh">2019</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">5</td>
+										<td class="tg-0lax">RS. Budi Kemuliaan Jakarta</td>
+										<td class="tg-0lax">Renovasi dan Timbalisasi Ruang CT-Scan</td>
+										<td class="tg-baqh">2019</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">6</td>
+										<td class="tg-0lax">RS. Budi Kemuliaan Jakarta</td>
+										<td class="tg-0lax">Timbalisasi dan Finishing Ruang Radilogi</td>
+										<td class="tg-baqh">2019</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">7</td>
+										<td class="tg-0lax">RSAD. Dustira Cimahi</td>
+										<td class="tg-0lax">Timbalisasi, Rangka Atas, Raisefloor untuk Ruang Cathlab</td>
+										<td class="tg-baqh"></td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">8</td>
+										<td class="tg-0lax">RS. Akademis Makassar</td>
+										<td class="tg-0lax">Timbalisasi, Rangka atas dan raisefloor ruang Cathlab</td>
+										<td class="tg-baqh">2019</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">9</td>
+										<td class="tg-0lax">RS. Bhayangkara Kediri</td>
+										<td class="tg-0lax">Timbalisasi ruang Operasi Kecil dan CT-Scan</td>
+										<td class="tg-baqh">2018</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">10</td>
+										<td class="tg-0lax">RS. Persada Malang</td>
+										<td class="tg-0lax">Timbalisasi ruang Cathlab</td>
+										<td class="tg-baqh">2018</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">11</td>
+										<td class="tg-0lax">RS. Aisyah Malang</td>
+										<td class="tg-0lax">Timbalisasi ruang Operasi Kecil</td>
+										<td class="tg-baqh">2018</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">12</td>
+										<td class="tg-0lax">RSUD. Dr. Sutomo Surabaya</td>
+										<td class="tg-0lax">Timbalisasi 2 ruang Cathlab dan Ruang Operasi Kecil Gedung PJT Baru</td>
+										<td class="tg-baqh">2018</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">13</td>
+										<td class="tg-0lax">RSUD Cibinong</td>
+										<td class="tg-0lax">Pengerjaan full package ruang Cathlab</td>
+										<td class="tg-baqh">2018</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">14</td>
+										<td class="tg-0lax">RS. Andalas Padang</td>
+										<td class="tg-0lax">Pengerjaan full package ruang Cathlab</td>
+										<td class="tg-baqh">2018</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">15</td>
+										<td class="tg-0lax">RSI. Jemur Sari Surabaya</td>
+										<td class="tg-0lax">Pengerjaan full package ruang Cathlab</td>
+										<td class="tg-baqh">2017</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">16</td>
+										<td class="tg-0lax">RS. Universitas Indonesia</td>
+										<td class="tg-0lax">- Ruang Radiologi<br>
+										- Ruang Cathlab<br>
+										- Ruang CT-Scan</td>
+										<td class="tg-baqh">2017</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">17</td>
+										<td class="tg-0lax">RS. Nasional Surabaya</td>
+										<td class="tg-0lax">Timbalisasi ruang Cathlab</td>
+										<td class="tg-baqh">2016</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">18</td>
+										<td class="tg-0lax">RS. Unhas Makassar</td>
+										<td class="tg-0lax">- Ruang Radiologi<br>
+										- Ruang Cathlab</td>
+										<td class="tg-baqh">2016</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">19</td>
+										<td class="tg-0lax">RS. Gastelina Makassar</td>
+										<td class="tg-0lax">Timbalisasi ruang Cathlab</td>
+										<td class="tg-baqh">2015</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">20</td>
+										<td class="tg-0lax">RS. Adi Husada</td>
+										<td class="tg-0lax">Timbalisasi ruang Cathlab</td>
+										<td class="tg-baqh">2015</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">21</td>
+										<td class="tg-0lax">RS. PT Freeport Papua</td>
+										<td class="tg-0lax">Timbalisasi ruang Operasi Kecil</td>
+										<td class="tg-baqh">2015</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">22</td>
+										<td class="tg-0lax">RSUD Solok</td>
+										<td class="tg-0lax">Timbalisasi ruang Operasi Kecil</td>
+										<td class="tg-baqh">2015</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">23</td>
+										<td class="tg-0lax">RS. Soebandi Jember</td>
+										<td class="tg-0lax">Timbalisasi ruang Cathlab</td>
+										<td class="tg-baqh">2014</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">24</td>
+										<td class="tg-0lax">RS. Unair Surabaya</td>
+										<td class="tg-0lax">- Ruang MRI<br>
+										- Ruang CT-Scan</td>
+										<td class="tg-baqh">2014</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">25</td>
+										<td class="tg-0lax">RS. Syaiful Anwar Malang</td>
+										<td class="tg-0lax">Timbalisasi ruang Cathlab</td>
+										<td class="tg-baqh">2013</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">26</td>
+										<td class="tg-0lax">RSUD Dr. Sutomo Surabaya</td>
+										<td class="tg-0lax">Ruang cathlab bangunan lama</td>
+										<td class="tg-baqh">2013</td>
+										</tr>
+										<tr>
+										<td class="tg-baqh">27</td>
+										<td class="tg-0lax">RS. Soewandi Surabaya</td>
+										<td class="tg-0lax">Timbalisai dan renovasi<br>
+										- Ruang Cathlab<br>
+										- Ruang Operasi<br>
+										- Ruang CT-Scan</td>
+										<td class="tg-baqh">2012</td>
+										</tr>
+										</tbody>
+										</table>
 								</div>	<!-- END TAB-4 CONTENT -->
+
+
+
+
 
 								<!-- TAB-4 CONTENT -->
 								<div class="tab-pane fade" id="tab-16" role="tabpanel" aria-labelledby="tab14-list">
