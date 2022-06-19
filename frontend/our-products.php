@@ -344,7 +344,7 @@ display: none;
 				<!-- Doctor Meta -->		
 				<div class="doctor-meta" style="padding: 20px;">
 
-				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<h6 class="steelblue-color"><?php echo $d1['p_name']; ?></h6>
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
@@ -424,7 +424,7 @@ display: none;
 				<!-- Doctor Meta -->		
 				<div class="doctor-meta" style="padding: 20px;">
 
-				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<h6 class="steelblue-color"><?php echo $d1['p_name']; ?></h6>
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
@@ -505,7 +505,7 @@ display: none;
 				<!-- Doctor Meta -->		
 				<div class="doctor-meta" style="padding: 20px;">
 
-				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<h6 class="steelblue-color"><?php echo $d1['p_name']; ?></h6>
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
@@ -591,7 +591,7 @@ display: none;
 				<!-- Doctor Meta -->		
 				<div class="doctor-meta" style="padding: 20px;">
 
-				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<h6 class="steelblue-color"><?php echo $d1['p_name']; ?></h6>
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
@@ -670,7 +670,7 @@ display: none;
 				<!-- Doctor Meta -->		
 				<div class="doctor-meta" style="padding: 20px;">
 
-				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<h6 class="steelblue-color"><?php echo $d1['p_name']; ?></h6>
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
@@ -755,7 +755,7 @@ display: none;
 				<!-- Doctor Meta -->		
 				<div class="doctor-meta" style="padding: 20px;">
 
-				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<h6 class="steelblue-color"><?php echo $d1['p_name']; ?></h6>
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
@@ -838,7 +838,7 @@ display: none;
 				<!-- Doctor Meta -->		
 				<div class="doctor-meta" style="padding: 20px;">
 
-				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<h6 class="steelblue-color"><?php echo $d1['p_name']; ?></h6>
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
@@ -923,7 +923,7 @@ display: none;
 				<!-- Doctor Meta -->		
 				<div class="doctor-meta" style="padding: 20px;">
 
-				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<h6 class="steelblue-color"><?php echo $d1['p_name']; ?></h6>
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
@@ -1012,7 +1012,7 @@ display: none;
 				<!-- Doctor Meta -->		
 				<div class="doctor-meta" style="padding: 20px;">
 
-				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<h6 class="steelblue-color"><?php echo $d1['p_name']; ?></h6>
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
@@ -1092,7 +1092,7 @@ display: none;
 				<!-- Doctor Meta -->		
 				<div class="doctor-meta" style="padding: 20px;">
 
-				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<h6 class="steelblue-color"><?php echo $d1['p_name']; ?></h6>
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
@@ -1194,7 +1194,7 @@ display: none;
 								<!-- Doctor Meta -->		
 								<div class="doctor-meta" style="padding: 20px;">
 
-									<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+									<h6 class="steelblue-color"><?php echo $d1['p_name']; ?></h6>
 									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
@@ -1276,7 +1276,7 @@ diri dalam R&D, manufaktur, penjualan, dan layanan teknis reagen dan peralatan d
 				<!-- Doctor Meta -->		
 				<div class="doctor-meta" style="padding: 20px;">
 
-				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<h6 class="steelblue-color"><?php echo $d1['p_name']; ?></h6>
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
@@ -1356,7 +1356,7 @@ Pengujian dan Pengukuran. Menggabungkan teknologi unggul dengan layanan teknik, 
 				<!-- Doctor Meta -->		
 				<div class="doctor-meta" style="padding: 20px;">
 
-				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<h6 class="steelblue-color"><?php echo $d1['p_name']; ?></h6>
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
@@ -1471,7 +1471,7 @@ Ruang Cathlab, Ruang MRI, Ruang CT-Scan dan Ruang Hybrid OR.
 								<!-- Doctor Meta -->		
 								<div class="doctor-meta" style="padding: 20px;">
 
-									<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+									<h6 class="steelblue-color"><?php echo $d1['p_name']; ?></h6>
 									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
@@ -1557,7 +1557,7 @@ komputer untuk penyimpanan jangka pendek dan panjang, pengambilan, pengelolaan, 
 				<!-- Doctor Meta -->		
 				<div class="doctor-meta" style="padding: 20px;">
 
-				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<h6 class="steelblue-color"><?php echo $d1['p_name']; ?></h6>
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
@@ -1646,7 +1646,7 @@ komputer untuk penyimpanan jangka pendek dan panjang, pengambilan, pengelolaan, 
 				<!-- Doctor Meta -->		
 				<div class="doctor-meta" style="padding: 20px;">
 
-				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<h6 class="steelblue-color"><?php echo $d1['p_name']; ?></h6>
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
@@ -1732,7 +1732,7 @@ while($d2=mysqli_fetch_array($sql2)){
 <!-- Doctor Meta -->		
 <div class="doctor-meta" style="padding: 20px;">
 
-<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+<h6 class="steelblue-color"><?php echo $d1['p_name']; ?></h6>
 <span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 <p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
