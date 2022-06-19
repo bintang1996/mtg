@@ -149,8 +149,8 @@ display: none;
                                             </a>
 										</li>
 										<li class="nav-item icon-xs">
-                                            <a style="font-weight: bolder;" class="nav-link" id="tab14-list" data-toggle="pill" href="#tab-14" role="tab" aria-controls="tab-14" aria-selected="false">
-                                              <b>  Lain-lain </b>
+                                            <a style="font-weight: bolder;" class="nav-link" id="tab15-list" data-toggle="pill" href="#tab-15" role="tab" aria-controls="tab-15" aria-selected="false">
+                                              <b>  Timbalisasi </b>
                                             </a>
 										</li>
 
