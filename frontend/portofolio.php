@@ -431,37 +431,37 @@ display: none;
 										<td class="tg-baqh">2020</td>
 										</tr>
 										<tr>
-										<td class="tg-baqh">7</td>
+										<td class="tg-baqh">2</td>
 										<td class="tg-0lax">RSAD. Dustira Cimahi</td>
 										<td class="tg-0lax">Timbalisasi, Rangka Atas, Raisefloor untuk Ruang Cathlab</td>
 										<td class="tg-baqh"></td>
 										</tr>
 										<tr>
-										<td class="tg-baqh">8</td>
+										<td class="tg-baqh">3</td>
 										<td class="tg-0lax">RS. Akademis Makassar</td>
 										<td class="tg-0lax">Timbalisasi, Rangka atas dan raisefloor ruang Cathlab</td>
 										<td class="tg-baqh">2019</td>
 										</tr>
 										<tr>
-										<td class="tg-baqh">13</td>
+										<td class="tg-baqh">4</td>
 										<td class="tg-0lax">RSUD Cibinong</td>
 										<td class="tg-0lax">Pengerjaan full package ruang Cathlab</td>
 										<td class="tg-baqh">2018</td>
 										</tr>
 										<tr>
-										<td class="tg-baqh">14</td>
+										<td class="tg-baqh">5</td>
 										<td class="tg-0lax">RS. Andalas Padang</td>
 										<td class="tg-0lax">Pengerjaan full package ruang Cathlab</td>
 										<td class="tg-baqh">2018</td>
 										</tr>
 										<tr>
-										<td class="tg-baqh">15</td>
+										<td class="tg-baqh">6</td>
 										<td class="tg-0lax">RSI. Jemur Sari Surabaya</td>
 										<td class="tg-0lax">Pengerjaan full package ruang Cathlab</td>
 										<td class="tg-baqh">2017</td>
 										</tr>
 										<tr>
-										<td class="tg-baqh">16</td>
+										<td class="tg-baqh">7</td>
 										<td class="tg-0lax">RS. Universitas Indonesia</td>
 										<td class="tg-0lax">- Ruang Radiologi<br>
 										- Ruang Cathlab<br>
@@ -469,27 +469,27 @@ display: none;
 										<td class="tg-baqh">2017</td>
 										</tr>
 										<tr>
-										<td class="tg-baqh">18</td>
+										<td class="tg-baqh">8</td>
 										<td class="tg-0lax">RS. Unhas Makassar</td>
 										<td class="tg-0lax">- Ruang Radiologi<br>
 										- Ruang Cathlab</td>
 										<td class="tg-baqh">2016</td>
 										</tr>
 										<tr>
-										<td class="tg-baqh">24</td>
+										<td class="tg-baqh">9</td>
 										<td class="tg-0lax">RS. Unair Surabaya</td>
 										<td class="tg-0lax">- Ruang MRI<br>
 										- Ruang CT-Scan</td>
 										<td class="tg-baqh">2014</td>
 										</tr>
 										<tr>
-										<td class="tg-baqh">26</td>
+										<td class="tg-baqh">10</td>
 										<td class="tg-0lax">RSUD Dr. Sutomo Surabaya</td>
 										<td class="tg-0lax">Ruang cathlab bangunan lama</td>
 										<td class="tg-baqh">2013</td>
 										</tr>
 										<tr>
-										<td class="tg-baqh">27</td>
+										<td class="tg-baqh">11</td>
 										<td class="tg-0lax">RS. Soewandi Surabaya</td>
 										<td class="tg-0lax">Timbalisai dan renovasi<br>
 										- Ruang Cathlab<br>
@@ -541,75 +541,75 @@ display: none;
 										<tbody>
 								
 										<tr>
-										<td class="tg-baqh">2</td>
+										<td class="tg-baqh">1</td>
 										<td class="tg-0lax">RS. Medistra Jakarta</td>
 										<td class="tg-0lax">Renovasi &amp; Timbalisasi Ruang Cathlab GE</td>
 										<td class="tg-0lax">2019</td>
 										</tr>
 										<tr>
-										<td class="tg-baqh">3</td>
+										<td class="tg-baqh">2</td>
 										<td class="tg-0lax">RS. Bhayangkara Kediri</td>
 										<td class="tg-0lax">Pengerjaan timbalisasi ruang Radiologi</td>
 										<td class="tg-0lax">2019</td>
 										</tr>
 										<tr>
-										<td class="tg-baqh">4</td>
+										<td class="tg-baqh">3</td>
 										<td class="tg-0lax">RS. Bhayangkara Kediri</td>
 										<td class="tg-0lax">Pengerjaan Timbalisasi Ruang CT-Scan</td>
 										<td class="tg-baqh">2019</td>
 										</tr>
 										<tr>
-										<td class="tg-baqh">5</td>
+										<td class="tg-baqh">4</td>
 										<td class="tg-0lax">RS. Budi Kemuliaan Jakarta</td>
 										<td class="tg-0lax">Renovasi dan Timbalisasi Ruang CT-Scan</td>
 										<td class="tg-baqh">2019</td>
 										</tr>
 										<tr>
-										<td class="tg-baqh">6</td>
+										<td class="tg-baqh">5</td>
 										<td class="tg-0lax">RS. Budi Kemuliaan Jakarta</td>
 										<td class="tg-0lax">Timbalisasi dan Finishing Ruang Radilogi</td>
 										<td class="tg-baqh">2019</td>
 										</tr>
 										
 										<tr>
-										<td class="tg-baqh">9</td>
+										<td class="tg-baqh">6</td>
 										<td class="tg-0lax">RS. Bhayangkara Kediri</td>
 										<td class="tg-0lax">Timbalisasi ruang Operasi Kecil dan CT-Scan</td>
 										<td class="tg-baqh">2018</td>
 										</tr>
 										<tr>
-										<td class="tg-baqh">10</td>
+										<td class="tg-baqh">7</td>
 										<td class="tg-0lax">RS. Persada Malang</td>
 										<td class="tg-0lax">Timbalisasi ruang Cathlab</td>
 										<td class="tg-baqh">2018</td>
 										</tr>
 										<tr>
-										<td class="tg-baqh">11</td>
+										<td class="tg-baqh">8</td>
 										<td class="tg-0lax">RS. Aisyah Malang</td>
 										<td class="tg-0lax">Timbalisasi ruang Operasi Kecil</td>
 										<td class="tg-baqh">2018</td>
 										</tr>
 										<tr>
-										<td class="tg-baqh">12</td>
+										<td class="tg-baqh">9</td>
 										<td class="tg-0lax">RSUD. Dr. Sutomo Surabaya</td>
 										<td class="tg-0lax">Timbalisasi 2 ruang Cathlab dan Ruang Operasi Kecil Gedung PJT Baru</td>
 										<td class="tg-baqh">2018</td>
 										</tr>
 										
 										<tr>
-										<td class="tg-baqh">17</td>
+										<td class="tg-baqh">10</td>
 										<td class="tg-0lax">RS. Nasional Surabaya</td>
 										<td class="tg-0lax">Timbalisasi ruang Cathlab</td>
 										<td class="tg-baqh">2016</td>
 										</tr>
 										<tr>
-										<td class="tg-baqh">19</td>
+										<td class="tg-baqh">11</td>
 										<td class="tg-0lax">RS. Gastelina Makassar</td>
 										<td class="tg-0lax">Timbalisasi ruang Cathlab</td>
 										<td class="tg-baqh">2015</td>
 										</tr>
 										<tr>
-										<td class="tg-baqh">20</td>
+										<td class="tg-baqh">12</td>
 										<td class="tg-0lax">RS. Adi Husada</td>
 										<td class="tg-0lax">Timbalisasi ruang Cathlab</td>
 										<td class="tg-baqh">2015</td>
@@ -621,19 +621,19 @@ display: none;
 										<td class="tg-baqh">2015</td>
 										</tr>
 										<tr>
-										<td class="tg-baqh">22</td>
+										<td class="tg-baqh">13</td>
 										<td class="tg-0lax">RSUD Solok</td>
 										<td class="tg-0lax">Timbalisasi ruang Operasi Kecil</td>
 										<td class="tg-baqh">2015</td>
 										</tr>
 										<tr>
-										<td class="tg-baqh">23</td>
+										<td class="tg-baqh">14</td>
 										<td class="tg-0lax">RS. Soebandi Jember</td>
 										<td class="tg-0lax">Timbalisasi ruang Cathlab</td>
 										<td class="tg-baqh">2014</td>
 										</tr>
 										<tr>
-										<td class="tg-baqh">25</td>
+										<td class="tg-baqh">15</td>
 										<td class="tg-0lax">RS. Syaiful Anwar Malang</td>
 										<td class="tg-0lax">Timbalisasi ruang Cathlab</td>
 										<td class="tg-baqh">2013</td>
