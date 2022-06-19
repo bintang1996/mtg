@@ -635,16 +635,7 @@ display: none;
 										</tr>
 										</thead>
 										<tbody>
-										<tr>
-										<td class="tg-baqh">1</td>
-										<td class="tg-0lax">RS. Brawijaya Saharjo</td>
-										<td class="tg-0lax">- Timbalisasi Ruangan Cathlab &amp; Hybrid<br>
-										- Pemasangan Raise Floor<br>
-										- Pemasangan Frame Kaca Pb<br>
-										- Pengadaan Kaca Pb<br>
-										- Pengadaan scrub Station</td>
-										<td class="tg-baqh">2020</td>
-										</tr>
+								
 										<tr>
 										<td class="tg-baqh">2</td>
 										<td class="tg-0lax">RS. Medistra Jakarta</td>
