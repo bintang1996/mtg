@@ -18,6 +18,17 @@ display: none;
 
   background-color: #fff;
 	}
+	.gambar{
+			width: 100%;
+			height: 200px;
+		
+			background-repeat: no-repeat;
+			background-size: cover;
+			
+  background-position: center;
+			
+
+			}
 </style>
 <!-- HERO-2
 			============================================= -->	
@@ -202,7 +213,9 @@ display: none;
 				$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM p_image where p_id='$x' limit 1") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 				while($d2=mysqli_fetch_array($sql2)){
 				?> 
-				<img class="img-fluid" width="100%" src="assets/imgs/shop/<?php echo $d2['img_name']; ?>" alt="doctor-foto">	
+					<div class="gambar" style="background-image: url('assets/imgs/shop/<?php echo $d2['img_name']; ?>'); border-radius: 25px;">
+								
+
 				<?php } ?>
 
 
