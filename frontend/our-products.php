@@ -344,7 +344,7 @@ display: none;
 				<!-- Doctor Meta -->		
 				<div class="doctor-meta" style="padding: 20px;">
 
-				<h6 class="steelblue-color"><?php echo $d1['p_name']; ?></h6>
+				<h6 class="steelblue-color"><?php $rt1=$d1['p_name']; echo substr("$rt1", 0, 36); ?> ..</h6>
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 70); ?>
