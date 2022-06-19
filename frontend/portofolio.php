@@ -223,7 +223,7 @@ display: none;
 				<!-- Doctor Meta -->		
 				<div class="doctor-meta" style="padding: 20px;">
 
-				<h5 class="h5-sm steelblue-color"><?php echo $d1['p_name']; ?></h5>
+				<h6 class="steelblue-color"><?php echo $d1['p_name']; ?></h6>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 45); ?>
 				</p><br><a href="<?php echo $d1['p_code']; ?>" class="btn btn-sm btn-orange" >Kunjungi</a>
