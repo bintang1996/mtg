@@ -1524,7 +1524,7 @@ komputer untuk penyimpanan jangka pendek dan panjang, pengambilan, pengelolaan, 
 				<div class="row">
 				<?php
 				$r=$_GET['id'];
-				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='Osirix PACS'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+				$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM collections where cat_name='osirix'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 				while($d=mysqli_fetch_array($sql)){ $x=$d['p_id'];
 				$sql1 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM product where id='$x'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
 				while($d1=mysqli_fetch_array($sql1)){ 
