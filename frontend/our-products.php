@@ -1391,14 +1391,7 @@ Pengujian dan Pengukuran. Menggabungkan teknologi unggul dengan layanan teknik, 
 Ruang Cathlab, Ruang MRI, Ruang CT-Scan dan Ruang Hybrid OR.
 
 								</p><br>
-								<?php
-									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
-									while($d=mysqli_fetch_array($sql)){
-									?> 
-									
-									<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid lugi" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
-
-								<?php }?>
+				
 
 								</div>	<!-- END TAB-4 CONTENT -->
 							
