@@ -168,7 +168,6 @@ display: none;
 
   <h3 class="h3-md steelblue-color">Kontak Kami</h3>
 
-<p>Silahkan download brosur produk pada link berikut.</p>
 
   <p>Informasi Produk Lebih Lanjut</p>
  <a href="contact-us.php" class="btn btn-md btn-blue blue-hover">Hubungi Kami</a>
