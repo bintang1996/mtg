@@ -137,7 +137,7 @@
 								</p>
 <br>
 								<!-- Button -->
-								<a href="location.php"><h6 style="color: #f96845;"><b>LOKASI KAMI</b></h6></a>
+								<a href="contact-us.php"><h6 style="color: #f96845;"><b>LOKASI KAMI</b></h6></a>
 							</div>
 						</div>
 
