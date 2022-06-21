@@ -105,8 +105,8 @@ display: none;
 								</p>  -->
               
                 <?php } ?>
-                <br><p>Informasi Produk Lebih Lanjut</p>
-                <a href="contact-us.php" class="btn btn-md btn-blue blue-hover">Hubungi Kami</a>
+               <!-- <br><p>Informasi Produk Lebih Lanjut</p>
+                <a href="contact-us.php" class="btn btn-md btn-blue blue-hover">Hubungi Kami</a> -->
 
 							</div>
 						</div>	<!-- END TEXT BLOCK -->	
@@ -146,12 +146,12 @@ display: none;
                 ?> 
 					 		
                 
-								<!-- Title -->
-								<h3 class="h3-md steelblue-color"><?php echo $d['p_name']; ?></h3>
+								<!-- Title 
+								<h3 class="h3-md steelblue-color"><?php echo $d['p_name']; ?></h3>-->
 
-								<!-- Text -->
+								<!-- Text 
 								<p><?php echo $d['p_desc']; ?>
-								</p>
+								</p>-->
 
                 <h5 class=" steelblue-color">Spesifikasi</h5>
 								<!-- Text -->
