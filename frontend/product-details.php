@@ -99,10 +99,10 @@ display: none;
 								<p><?php echo $d['p_desc']; ?>
 								</p>
 
-                <h5 class=" steelblue-color">Spesifikasi</h5>
-								<!-- Text -->
-								<p><?php echo $d['spec']; ?>
-								</p>
+               <!--  <h5 class=" steelblue-color">Spesifikasi</h5>
+								
+								<p> <?php // echo $d['spec']; ?>
+								</p>  -->
               
                 <?php } ?>
                 <br><p>Informasi Produk Lebih Lanjut</p>
