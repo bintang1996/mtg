@@ -399,11 +399,11 @@ display: none;
 						</div> 
 					</div>
 
-									<!-- Image -->
+									<!-- Image 
 									<div class="tab-img">
 										<img style="border-radius: 20px;" class="img-fluid" src="images/portofolio/kons.webp" alt="tab-image" width="60%"/>
 										</div>
-										<br>
+										<br>-->
 
 									<!-- Text -->
 									<p>Adapun Rumah Sakit yang telah bekerjasama dengan kami untuk Penyediaan Layanan Konstruksi adalah sebagai berikut.
@@ -514,15 +514,15 @@ display: none;
 									<div class="row">	
 						<div class="" style="margin-bottom:0px;">		
 							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>Konstruksi</b></b></h3>								
+							<h3 class="h4-md steelblue-color" style="color: #214068; PADDING-LEFT: 15PX;"><b><b>Timbalisasi</b></b></h3>								
 						</div> 
 					</div>
 
-									<!-- Image -->
+									<!-- Image 
 									<div class="tab-img">
 										<img style="border-radius: 20px;" class="img-fluid" src="images/portofolio/kons.webp" alt="tab-image" width="60%"/>
 										</div>
-										<br>
+										<br>-->
 
 									<!-- Text -->
 									<p>Adapun Rumah Sakit yang telah bekerjasama dengan kami untuk Penyediaan Layanan Konstruksi adalah sebagai berikut.
