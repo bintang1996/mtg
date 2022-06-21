@@ -177,10 +177,10 @@ h6
     					<!-- MAIN MENU -->
       					<nav class="wsmenu clearfix">
         					<ul class="wsmenu-list">
-								
+							<li class="nl-simple" aria-haspopup="true"><a href="index.php">HOME</a></li>
 							
 							<?php
-									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_desc=1 and cat_name!='BERITA' and cat_name!='KARIR' and cat_name!='KONTAK'");
+									$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_desc=1 and cat_name!='BERITA' and cat_name!='KARIR' and cat_name!='KONTAK' and cat_name!='HOME'");
 									while($d=mysqli_fetch_array($sql)){$x=$d['cat_id'];
 										?>  	
 
