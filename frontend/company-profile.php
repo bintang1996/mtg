@@ -176,7 +176,7 @@ display: none;
 										<h5 class="h5-xs steelblue-color">Tari Pristiyanti</h5>
 
 										<!-- Text -->
-										<p>Operation and Marketing Director
+										<p>Director
 										</p>
 										</div>
 										<br><a href="https://www.linkedin.com/in/tari-pristiyanti-266057162/" class="btn btn-sm btn-orange">READ MORE</a>
@@ -197,7 +197,7 @@ display: none;
 										<h5 class="h5-xs steelblue-color">Horraizi Hosen</h5>
 
 										<!-- Text -->
-										<p>Director of Engineering
+										<p>Director
 										</p>
 										</div>
 										<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>
