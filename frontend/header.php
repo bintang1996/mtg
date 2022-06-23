@@ -208,7 +208,7 @@ h6
 					          	 
 								
         						<!-- DROPDOWN MENU -->
-					        	<li aria-haspopup="true" ><a style="padding-left:12px; padding-right:18px;" href="#"><img src="images/flag/1.png" width="20px"><span class="wsarrow"></span></a>
+					        	<li aria-haspopup="true" ><a href="#"><img src="images/flag/1.png" width="20px"><span class="wsarrow"></span></a>
 					           		<ul class="sub-menu">
 					           			<li><a href="#"><img src="images/flag/1.png" width="20px">&nbsp;&nbsp;INDONESIA</a></li>
 					              		<li><a href="#"><img src="images/flag/2.png" width="20px">&nbsp;&nbsp;ENGLISH</a></li>
