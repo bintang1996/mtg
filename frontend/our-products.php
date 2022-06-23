@@ -1387,8 +1387,15 @@ Pengujian dan Pengukuran. Menggabungkan teknologi unggul dengan layanan teknik, 
 
 								<!-- Text -->
 								<p>
-								Kami hadir memberi solusi Proteksi Radiasi untuk instalasi
-Ruang Cathlab, Ruang MRI, Ruang CT-Scan dan Ruang Hybrid OR.
+								Kami hadir memberi solusi Proteksi Radiasi untuk instalasi Ruang Cathlab, Ruang MRI, Ruang CT-Scan dan Ruang Hybrid OR, diantaranya sebagai berikut :  </p>
+
+<p> a. Pemasangan Lead Lining (Timbalisassi Dinding) <br>
+
+b. Pemasangan Frame dan Kaca PB <br>
+
+c. Pemasangan Kusen dan Pintu PB <br>
+
+d. Pemasangan Atap PB 
 
 								</p><br>
 				
