@@ -181,7 +181,7 @@ display: none;
                                 <div class="card">
                                 <div class="card-header" style="background-color: #fff;">
                                     <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree">
-                                    <b style="color: #214068;">HEALTHCARE IT</b>
+                                    <b style="color: #214068;">TEKNOLOGI</b>
                                     </a>
                                 </div>
                                 <div id="collapseThree" class="collapse" data-parent="#accordion">
@@ -294,7 +294,7 @@ display: none;
 								<div class="tab-pane fade" id="tab-11" role="tabpanel" aria-labelledby="tab11-list">									
 									<!-- Title -->
 									<table style="border: none;" width="100%"><tr><td>
-									<h3 class="h3-md steelblue-color">Medis</h3>
+									<h3 class="h3-md steelblue-color">Medis Medical Imaging</h3>
 									</td>
 									<td style="text-align: right; align:right;">
 									<?php
@@ -373,7 +373,7 @@ display: none;
 
 									<!-- Title -->
 									<table style="border: none;" width="100%"><tr><td>
-									<h3 class="h3-md steelblue-color">Elixir</h3>
+									<h3 class="h3-md steelblue-color">Elixir Medical</h3>
 									</td>
 									<td style="text-align: right; align:right;">
 									<?php
