@@ -1676,7 +1676,7 @@ komputer untuk penyimpanan jangka pendek dan panjang, pengambilan, pengelolaan, 
 
 <!-- Title -->
 <table style="border: none;" width="100%"><tr><td>
-<h3 class="h3-md steelblue-color">Layanan Lainnya</h3>
+<h3 class="h3-md steelblue-color">Lain Lain</h3>
 	</td>
 	<td style="text-align: right; align:right;">
 
@@ -1694,7 +1694,7 @@ komputer untuk penyimpanan jangka pendek dan panjang, pengambilan, pengelolaan, 
 
 <!-- Text -->
 <p>
-Kami juga melayani pengerjaan Modular Operating Theater (MOT), Raised Floor, Hospital Vynil dan Polymer.
+Perusahaan kami juga sudah berpengalaman dalam konstruksi berbagai ruangan untuk layanan rumah sakit. Salah satunya adalah pengerjaan Raised floor, jasa konstruksi penyediaan dan pemasangan lantai vinyl khusus rumah sakit, dan pengerjaan polimerisasi lantai rumah sakit dengan Teknik epoxy.  
 
 </p><br>
 
