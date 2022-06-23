@@ -158,8 +158,8 @@ display: none;
 										<p>Chief Executive Officer
 										</p>
 										</div>
-										<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>																										
-										</div>
+										
+									</div>
 	
 </td>
 <td style="width: 4%;"></td>
@@ -179,7 +179,6 @@ display: none;
 										<p>Director
 										</p>
 										</div>
-										<br><a href="https://www.linkedin.com/in/tari-pristiyanti-266057162/" class="btn btn-sm btn-orange">READ MORE</a>
 																																							
 										</div>
 </td>
@@ -200,7 +199,7 @@ display: none;
 										<p>Director
 										</p>
 										</div>
-																																							
+																																						
 										</div>
 
 </td></tr> </tbody></table>

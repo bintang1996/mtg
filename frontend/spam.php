@@ -600,3 +600,10 @@ dots[slideIndex1-1].className += " w3-white";
 									</tr>
 
 								</table>
+
+
+
+								<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>
+							    <br><a href="https://www.linkedin.com/in/tari-pristiyanti-266057162/" class="btn btn-sm btn-orange">READ MORE</a>
+								<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>																										
+												
