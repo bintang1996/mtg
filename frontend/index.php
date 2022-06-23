@@ -191,7 +191,7 @@
 						<span class="flaticon-136-monitor"></span>
 					</div>						
 					<!-- Title -->	
-					<h6 class="white-color" style="margin-top:0;"><b>HEALTHCARE IT</b></h6>																																	
+					<h6 class="white-color" style="margin-top:0;"><b>TEKNOLOGI</b></h6>																																	
 					</div>
 					</div>
 
