@@ -348,7 +348,7 @@ display: none;
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 70); ?>
-				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Lebih Lanjut</a>
 
 				</div>	
 
@@ -428,7 +428,7 @@ display: none;
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 70); ?>
-				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Lebih Lanjut</a>
 
 				</div>	
 
@@ -509,7 +509,7 @@ display: none;
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 70); ?>
-				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Lebih Lanjut</a>
 
 				</div>	
 
@@ -595,7 +595,7 @@ display: none;
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 70); ?>
-				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Lebih Lanjut</a>
 
 				</div>	
 
@@ -674,7 +674,7 @@ display: none;
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 70); ?>
-				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Lebih Lanjut</a>
 
 				</div>	
 
@@ -759,7 +759,7 @@ display: none;
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 70); ?>
-				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Lebih Lanjut</a>
 
 				</div>	
 
@@ -842,7 +842,7 @@ display: none;
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 70); ?>
-				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Lebih Lanjut</a>
 
 				</div>	
 
@@ -927,7 +927,7 @@ display: none;
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 70); ?>
-				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Lebih Lanjut</a>
 
 				</div>	
 
@@ -1016,7 +1016,7 @@ display: none;
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 70); ?>
-				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Lebih Lanjut</a>
 
 				</div>	
 
@@ -1096,7 +1096,7 @@ display: none;
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 70); ?>
-				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Lebih Lanjut</a>
 
 				</div>	
 
@@ -1198,7 +1198,7 @@ display: none;
 									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 70); ?>
-									... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+									... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Lebih Lanjut</a>
 
 								</div>	
 
@@ -1280,7 +1280,7 @@ diri dalam R&D, manufaktur, penjualan, dan layanan teknis reagen dan peralatan d
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 70); ?>
-				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Lebih Lanjut</a>
 
 				</div>	
 
@@ -1360,7 +1360,7 @@ Pengujian dan Pengukuran. Menggabungkan teknologi unggul dengan layanan teknik, 
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 70); ?>
-				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Lebih Lanjut</a>
 
 				</div>	
 
@@ -1468,7 +1468,7 @@ Ruang Cathlab, Ruang MRI, Ruang CT-Scan dan Ruang Hybrid OR.
 									<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 									<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 70); ?>
-									... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+									... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Lebih Lanjut</a>
 
 								</div>	
 
@@ -1554,7 +1554,7 @@ komputer untuk penyimpanan jangka pendek dan panjang, pengambilan, pengelolaan, 
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 70); ?>
-				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Lebih Lanjut</a>
 
 				</div>	
 
@@ -1643,7 +1643,7 @@ komputer untuk penyimpanan jangka pendek dan panjang, pengambilan, pengelolaan, 
 				<span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 				<p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 70); ?>
-				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+				... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Lebih Lanjut</a>
 
 				</div>	
 
@@ -1729,7 +1729,7 @@ while($d2=mysqli_fetch_array($sql2)){
 <span class="blue-color"><?php echo $d['cat_name']; ?></span>
 
 <p class="p-sm grey-color"><?php $rt=$d1['p_desc']; echo substr("$rt", 0, 70); ?>
-... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Read More</a>
+... </p><br><a href="product-details.php?id=<?php echo $x;?>" class="btn btn-sm btn-orange" >Lebih Lanjut</a>
 
 </div>	
 
