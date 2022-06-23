@@ -185,7 +185,7 @@ h6
 										?>  	
 
 							<!-- DROPDOWN MENU -->
-							<li aria-haspopup="true" style="padding-left:0px; padding-right:15px;" ><a href="<?php echo $d['logo']; ?>"><?php echo $d['cat_name'];?><span class="wsarrow"></span></a>
+							<li aria-haspopup="true" ><a style="padding-left:0px; padding-right:15px;" href="<?php echo $d['logo']; ?>"><?php echo $d['cat_name'];?><span class="wsarrow"></span></a>
 					           		<ul class="sub-menu">
 									   <?php
 										$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_parent='$x' and cat_desc=2");
@@ -202,13 +202,13 @@ h6
 									while($d=mysqli_fetch_array($sql)){
 										?>  
 								<!-- SIMPLE NAVIGATION LINK -->
-								<li class="nl-simple" style="padding-left:0px; padding-right:15px;" aria-haspopup="true"><a href="<?php echo $d['logo']; ?>"><?php echo $d['cat_name'] ?></a></li>
+								<li class="nl-simple" aria-haspopup="true"><a style="padding-left:0px; padding-right:15px;" href="<?php echo $d['logo']; ?>"><?php echo $d['cat_name'] ?></a></li>
 								<?php } ?>	
 
 					          	 
 								
         						<!-- DROPDOWN MENU -->
-					        	<li aria-haspopup="true" style="padding-left:0px; padding-right:15px;"><a href="#"><img src="images/flag/1.png" width="20px"><span class="wsarrow"></span></a>
+					        	<li aria-haspopup="true" ><a style="padding-left:0px; padding-right:15px;" href="#"><img src="images/flag/1.png" width="20px"><span class="wsarrow"></span></a>
 					           		<ul class="sub-menu">
 					           			<li><a href="#"><img src="images/flag/1.png" width="20px">&nbsp;&nbsp;INDONESIA</a></li>
 					              		<li><a href="#"><img src="images/flag/2.png" width="20px">&nbsp;&nbsp;ENGLISH</a></li>
