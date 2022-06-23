@@ -152,7 +152,7 @@ display: none;
 											
 										<!-- Title -->
 										<div class="text-left" style="margin-right: 20px; margin-left: 20px;">
-										<h5 class="h5-xs steelblue-color">Ibnu Affan</h5>
+										<a href="https://www.linkedin.com/in/tari-pristiyanti-266057162/"><h5 class="h5-xs steelblue-color">Ibnu Affan</h5></a>
 
 										<!-- Text -->
 										<p>Chief Executive Officer
@@ -193,7 +193,7 @@ display: none;
 											
 										<!-- Title -->
 										<div class="text-left" style="margin-right: 20px; margin-left: 20px;">
-										<h5 class="h5-xs steelblue-color">Horraizi Hosen</h5>
+										<a href="https://www.linkedin.com/in/tari-pristiyanti-266057162/"><h5 class="h5-xs steelblue-color">Horraizi Hosen</h5></a>
 
 										<!-- Text -->
 										<p>Director
