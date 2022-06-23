@@ -200,7 +200,6 @@ display: none;
 										<p>Director
 										</p>
 										</div>
-										<br><a href="https://mtg.sticare.co.id/frontend/company-profile.php" class="btn btn-sm btn-orange">READ MORE</a>
 																																							
 										</div>
 
