@@ -185,7 +185,7 @@ h6
 										?>  	
 
 							<!-- DROPDOWN MENU -->
-							<li aria-haspopup="true" ><a style="padding-left:12px; padding-right:18px;" href="<?php echo $d['logo']; ?>"><?php echo $d['cat_name'];?><span class="wsarrow"></span></a>
+							<li aria-haspopup="true" ><a href="<?php echo $d['logo']; ?>"><?php echo $d['cat_name'];?><span class="wsarrow"></span></a>
 					           		<ul class="sub-menu">
 									   <?php
 										$sql2 = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM navbar where cat_parent='$x' and cat_desc=2");
