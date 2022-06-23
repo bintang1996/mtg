@@ -62,7 +62,7 @@ display: none;
         <div class="wide-40 doctors-section division" style="background-color:#FFFFFF; padding-bottom: 50px;">
             <div class="container" style="background-color:#FFFFFF;">
 			<div class="row">	
-					<div class="" style="margin-bottom:30px;">		
+					<div class="col-md-12" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
 							<h3 class="h4-md steelblue-color" style="color: #214068; font-weight: 700;"><b><b>BERGABUNGLAH BERSAMA MEDITRANS</b></b></h3>								
 	
