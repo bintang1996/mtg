@@ -191,7 +191,7 @@ display: none;
 									<!-- TAB-1 LINK -->
 									<li class="nav-item icon-xs">
                                             <a class="nav-link" id="tab26-list" data-toggle="pill" href="#tab-26" role="tab" aria-controls="tab-26" aria-selected="true">
-											<b>QFR</b>
+											<b>Medis Medical Imaging</b>
                                             </a>
                                         </li>
 
@@ -1404,7 +1404,7 @@ Ruang Cathlab, Ruang MRI, Ruang CT-Scan dan Ruang Hybrid OR.
 
 									<!-- Title -->
 									<table style="border: none;" width="100%"><tr><td>
-									<h3 class="h3-md steelblue-color">QFR</h3>
+									<h3 class="h3-md steelblue-color">Medis Medical Imaging</h3>
 										</td>
 										<td style="text-align: right; align:right;">
 
@@ -1421,9 +1421,9 @@ Ruang Cathlab, Ruang MRI, Ruang CT-Scan dan Ruang Hybrid OR.
 									</table>
 
 									<!-- Text -->
-									<p>QFR ===> GANTI DONG CIS merupakan sistem informasi untuk klinik yang telah terhubung dengan BPJS. Sistem informasi ini mudah digunakan dengan alur yang sederhana.
+									<p>
+									Medis Medical Imaging adalah penyedia perangkat lunak pasca-pemrosesan yang inovatif untuk kuantifikasi gambar kardiovaskular yang memungkinkan dokter, teknisi, dan peneliti melakukan pengukuran dalam gambar medis secara akurat. Solusi Medis membantu meningkatkan kualitas diagnosis, perencanaan perawatan, dan tindak lanjut pasien. Solusi pencitraan medis membantu memulai inovasi dalam penelitian dan menilai efektivitas perawatan dan perangkat baru.
 
-										MOBILE WIFUS merupakan solusi penyedia Layanan Kesehatan untuk memanfaatkan dan menghubungkan pasien dengan Dokter dengan Telediagnostik, Telemedicine, pemesanan online, dan penyedia layanan Rumah
 									</p><br>
 							
 							
