@@ -442,7 +442,7 @@ setiap aktifitas kerja serta produk jasa pada pelanggan dan rekanan
 			<!-- OUR-NETWORK
 			============================================= -->
 			
-			<section id="doctors-1" class="wide-40 doctors-section division"style="background-color:white; border-bottom:1px solid grey; ">
+			<section id="doctors-1" class="wide-40 doctors-section division"style="background-color:white; border-bottom:1px solid grey; padding-top:80px; ">
 				<div class="container">
 
 
