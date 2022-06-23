@@ -59,7 +59,7 @@ display: none;
 
 			</section>	<!-- END HERO-2 -->
 
-        <div class="wide-100" style="background-color:#FFFFFF; padding-bottom: 50px;">
+        <div class="wide-40 doctors-section division" style="background-color:#FFFFFF; padding-bottom: 50px;">
             <div class="container" style="background-color:#FFFFFF;">
 			<div class="row">	
 					<div class="" style="margin-bottom:30px;">		
