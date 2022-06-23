@@ -210,7 +210,21 @@
 </div>
 							</div>
 						</li>
-
+            <li class="timeline-item">
+							<div class="timeline-badge primary orange-hover">2016</div>
+							<div class="timeline-panel">
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; width: 298px; height: 186.25px;" class="img-fluid" src="images/Milestone/2016.webp" alt="doctor-foto">	
+              	<!-- Icon -->
+								<br>	<br>
+											
+								<div class="timeline-heading" style="padding: 20px;">
+               
+									<h4 class="timeline-title">2015</h4>
+					
+									<p>Proyek Kemitraan Layanan Cathlab Pertama</p><br><br>
+								</div>
+							</div>
+						</li>
 
 						<li class="timeline-item">
 							<div class="timeline-badge primary orange-hover">2016</div>
@@ -223,7 +237,7 @@
                
 									<h4 class="timeline-title">2016</h4>
 					
-									<p>Proyek Kemitraan Layanan Cathlab Pertama</p><br><br>
+									<p>Proyek Kemitraan Layanan CT Scan Pertama</p><br><br>
 								</div>
 							</div>
 						</li>
@@ -258,7 +272,7 @@
                
 									<h4 class="timeline-title">2019</h4>
 					
-									<p>Proyek Kemitraan Layanan CT Scan Pertama </p><br><br>
+									<p>Proyek Kemitraan Layanan Cathlab dengan Rumah Sakit Dustira, Cimahi </p><br><br>
 								</div>
 							</div>
 						</li>
@@ -276,7 +290,7 @@
                
 									<h4 class="timeline-title">2020</h4>
 					
-									<p>Proyek Vyaire : distribusi 1000 ventilator donasi USAID untuk KEMENKES</p><br>
+									<p>Proyek Vyaire : distribusi 1000 ventilator donasi USAID untuk KEMENKES dan kerjasama dengan Medis Medical Imaging Netherland  </p><br>
 							</div>
 						</li>
 
@@ -292,7 +306,7 @@
                
 									<h4 class="timeline-title">2021</h4>
 					
-									<p>Kerjasama distribusi dengan Invamed dan Samsung Healthcare  </p><br><br>
+									<p>Kerjasama distribusi dengan Invamed</p><br><br>
 								</div>
 							</div>
 						</li>
