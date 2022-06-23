@@ -85,7 +85,7 @@ display: none;
 						<div>	
 
 							<!-- Title 	-->	
-							<div>		
+							<div class="col-md-12">		
 							<!-- Title 	-->	
 							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>LOWONGAN PEKERJAAN TERBARU</b></b></h3>								
 							</div> 
