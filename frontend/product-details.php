@@ -21,7 +21,7 @@ display: none;
 
     	
                                 <li style="height: 500px;">			
-								<img class="img-fluid" width="100%" height="500px" src="images/detailproduk.jpg" alt="hero-image">
+								<img class="img-fluid" width="100%" height="500px" src="images/detail_produk.jpg" alt="hero-image">
                                 
 							<!-- Image Caption -->
 							<div class="caption d-flex align-items-center left-align" style="background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)); ">
