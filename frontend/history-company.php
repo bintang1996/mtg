@@ -1,7 +1,13 @@
+<style>
+	.sbox-3{
+		min-height: 170px;
+		max-height: 170px;
+	}
+	</style>
 <div style="display:inline-block;width:100%;overflow-y: hidden;">
 <TABLE width="100%"><tr><td width="19%">
 										<!-- SERVICE BOX #1 -->
-										<div class="sbox-3 icon-sm orange-hover" width="19%" style="padding: 15px;" >
+										<div class="sbox-3 icon-sm orange-hover"  style="padding: 15px;" >
 
 										<!-- Icon -->
 			
