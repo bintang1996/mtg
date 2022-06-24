@@ -100,7 +100,7 @@ display: none;
 
 								<!-- TAB-2 LINK -->
 								<li class="nav-item icon-xs">
-									    <a class="nav-link" id="tab12-list" data-toggle="pill" href="#tab-12" role="tab" aria-controls="tab-12" aria-selected="true">
+									    <a class="nav-link" id="tab12-list" data-toggle="pill" href="#tab-12" role="tab" aria-controls="tab-12" aria-selected="false">
 									       <b>Elixir Medical</b>
 									    </a>
 									</li>
