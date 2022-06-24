@@ -47,7 +47,7 @@
 							
 							</div>
 							<div class="col-md-6" style="text-align:right;">
-							<ul class="foo-socials text-center align-right clearfix" >
+							<ul class="foo-socials text-center align-right clearfix" style="color:white;">
 
 <li><a href="https://www.facebook.com/meditrans.id" class="ico-facebook"><i class="fab fa-facebook-f" style="color:white;"></i></a></li>
 <li><a href="https://www.instagram.com/meditrans.id/" class="ico-instagram"><i class="fab fa-instagram"style="color:white;"></i></a></li>	
