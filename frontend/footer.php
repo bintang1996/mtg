@@ -49,7 +49,7 @@
 							<div class="col-md-6" style="text-align:right;">
 							<ul class="foo-socials text-center align-right clearfix" >
 
-<li><a href="https://www.facebook.com/meditrans.id" class="ico-facebook"><i class="fab fa-facebook-f" style="color:white;"></i></a></li>
+<li><a href="https://www.facebook.com/meditrans.id" class="ico-facebook"style="color:white;"><i class="fab fa-facebook-f" style="color:white;"></i></a></li>
 <li><a href="https://www.instagram.com/meditrans.id/" class="ico-instagram"><i class="fab fa-instagram"></i></a></li>	
 <li><a href="https://www.linkedin.com/company/meditransglobal/" class="ico-linkedin"><i class="fab fa-linkedin"></i></a></li>
 <li><a href="https://wa.me/+6281280001102" class="ico-whatsapp"><i class="fab fa-whatsapp"></i></a></li>			
