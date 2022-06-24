@@ -15,7 +15,7 @@
 						</div> 
 						<div class="col">		
 							
-						<img src="images/icon/phone-putih.png"  width="120"><br><B style="color:white;">TELEPONE</B><BR><BR>HOTLINE: (+62) 21 2204 7248<BR>
+						<img src="images/icon/phone-putih.png"  width="120"><br><B style="color:white;">TELEPON</B><BR><BR>HOTLINE: (+62) 21 2204 7248<BR>
 						SERVICE CENTER: (+62) 81 28000 1102						
 						</div> 
 						<div class="col">		
