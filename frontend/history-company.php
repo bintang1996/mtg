@@ -1,5 +1,7 @@
 <style>
 	.sbox-3{
+		min-width: 170px;
+		max-width: 170px;
 		min-height: 170px;
 		max-height: 170px;
 	}
