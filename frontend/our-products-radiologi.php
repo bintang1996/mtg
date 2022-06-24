@@ -86,7 +86,7 @@ display: none;
 
 				 		<!-- TABS NAVIGATION -->
 				 		<div class="col-lg-4">
-                         <div id="tabs-nav" class="list-group text-center clearfix">
+                         <div id="tabs-nav" class="list-group text-center clearfix" style="padding-bottom: 80px;">
                                 <div id="accordion">
                                 <div class="card">
                                 <div class="card-header" style="border-top-left-radius:20px; border-top-right-radius:20px;">
