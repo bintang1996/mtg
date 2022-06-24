@@ -306,7 +306,7 @@
                
 									<h4 class="timeline-title">2021</h4>
 					
-									<p>Kerjasama distribusi dengan Invamed</p><br><br>
+									<p>Kerjasama distribusi dengan Invamed</p><br><br><br>
 								</div>
 							</div>
 						</li>
