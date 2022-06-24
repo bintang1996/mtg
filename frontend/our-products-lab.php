@@ -94,7 +94,7 @@ display: none;
                                     <b style="color: #214068;">KARDIOVASKULER</b>
                                     </a>
                                 </div>
-                                <div id="collapseOne" class="collapse show" data-parent="#accordion" >
+                                <div id="collapseOne" class="collapse" data-parent="#accordion" >
                                 
 							    <ul class="nav nav-pills" id="pills-tab" role="tablist">
 
@@ -227,7 +227,7 @@ display: none;
                                     <b style="color: #214068;">LABORATORIUM</b>
                                 </a>
                                 </div>
-                                <div id="collapseFour" class="collapse" data-parent="#accordion">
+                                <div id="collapseFour" class="collapse show" data-parent="#accordion">
                                     <div class="card-body">
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
 
