@@ -94,7 +94,7 @@ display: none;
                                     <b style="color: #214068;">KARDIOVASKULER</b>
                                     </a>
                                 </div>
-                                <div id="collapseOne" class="collapse show" data-parent="#accordion" >
+                                <div id="collapseOne" class="collapse" data-parent="#accordion" >
                                 
 							    <ul class="nav nav-pills" id="pills-tab" role="tablist">
 
@@ -255,7 +255,7 @@ display: none;
                                     <b style="color: #214068;">KONSTRUKSI</b>
                                 </a>
                                 </div>
-                                <div id="collapseFive" class="collapse" data-parent="#accordion" style="border-bottom: 0px;">
+                                <div id="collapseFive" class="collapse show" data-parent="#accordion" style="border-bottom: 0px;">
                                     <div class="card-body" >
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                        <!-- TAB-1 LINK -->
