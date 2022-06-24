@@ -284,13 +284,13 @@
 							<div class="timeline-panel">
               <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; width: 298px; height: 186.25px;" class="img-fluid" src="images/Milestone/2020.webp" alt="doctor-foto">	
               	<!-- Icon -->
-								<br>
+								<br>	<br>
 											
 								<div class="timeline-heading" style="padding: 20px;">
                
 									<h4 class="timeline-title">2020</h4>
 					
-									<p>Proyek Vyaire : distribusi 1000 ventilator donasi USAID untuk KEMENKES dan kerjasama dengan Medis Medical Imaging Netherland  </p><br>
+									<p>Proyek Vyaire : distribusi 1000 ventilator donasi USAID untuk KEMENKES dan kerjasama dengan Medis Medical Imaging Netherland  </p>
 							</div>
 						</li>
 
