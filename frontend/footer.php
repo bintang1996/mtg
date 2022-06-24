@@ -2,24 +2,24 @@
 
 	<!-- SERVICES-3
 			============================================= -->
-			<section id="services-3" class="bg-lightgrey wide-100 services-section division" style="background-color:white; padding-bottom:0px;padding-top: 50px; ">
+			<section id="services-3" class="bg-lightgrey wide-100 services-section division" style="background-color:#214068; padding-bottom:0px;padding-top: 50px; ">
 				<div class="container" style="margin-left: 115; margin-right: 114;">
 
 					<!-- SECTION TITLE -->	
-					<div class="row text-center">	
+					<div class="row text-center" style="color:white;">	
 						<div class="col">		
 							
-						<img src="images/icon/rumah.png"  width="120"><br><B>ALAMAT</B><BR><BR>JL. MUNGGANG NO. 86 - 87 BALEKAMBANG,<BR>
+						<img src="images/icon/rumah-putih.png"  width="120"><br><B style="color:white;">ALAMAT</B><BR><BR>JL. MUNGGANG NO. 86 - 87 BALEKAMBANG,<BR>
 						KRAMAT JATI, JAKARTA TIMUR 13530
 
 						</div> 
 						<div class="col">		
 							
-						<img src="images/icon/phone1.png"  width="120"><br><B>TELEPONE</B><BR><BR>HOTLINE: (+62) 21 2204 7248<BR>
+						<img src="images/icon/phone-putih.png"  width="120"><br><B style="color:white;">TELEPONE</B><BR><BR>HOTLINE: (+62) 21 2204 7248<BR>
 						SERVICE CENTER: (+62) 81 28000 1102						
 						</div> 
 						<div class="col">		
-						<img src="images/icon/surat1.png"  width="120"><br><B>EMAIL</B><BR><BR>INFO@MEDITRANS.ID<BR>
+						<img src="images/icon/surat-putih.png"  width="120"><br><B style="color:white;">EMAIL</B><BR><BR>INFO@MEDITRANS.ID<BR>
 						
 														
 						</div> 
