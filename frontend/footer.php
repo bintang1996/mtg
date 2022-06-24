@@ -33,7 +33,7 @@
 			</section>	 <!-- END SERVICES-3 -->
 			<!-- FOOTER-1
 			============================================= -->
-			<footer id="footer-1" class="wide-40 footer division" style="background-color:white; padding-top:10px;">
+			<footer id="footer-1" class="wide-40 footer division" style="background-color:#214068; padding-top:10px; color:white;">
 				<div class="container">
 
 
