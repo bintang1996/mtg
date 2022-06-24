@@ -284,7 +284,7 @@
 							<div class="timeline-panel">
               <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; width: 298px; height: 186.25px;" class="img-fluid" src="images/Milestone/2020.webp" alt="doctor-foto">	
               	<!-- Icon -->
-								<br>	<br>
+								<br>
 											
 								<div class="timeline-heading" style="padding: 20px;">
                
