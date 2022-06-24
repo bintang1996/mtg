@@ -181,7 +181,7 @@ display: none;
                                 <div class="card">
                                 <div class="card-header" style="background-color: #fff;">
                                     <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree">
-                                    <b style="color: #214068;">TEKNOLOGI</b>
+                                    <b style="color: #214068;">IT Kesehatan</b>
                                     </a>
                                 </div>
                                 <div id="collapseThree" class="collapse" data-parent="#accordion">
