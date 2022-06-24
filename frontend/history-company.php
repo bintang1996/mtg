@@ -1,3 +1,4 @@
+<div style="display:inline-block;width:100%;overflow-y: hidden;">
 <TABLE width="100%"><tr><td width="19%">
 										<!-- SERVICE BOX #1 -->
 										<div class="sbox-3 icon-sm orange-hover" style="padding: 15px;" >
@@ -90,4 +91,4 @@
 										</div>
 								    </div>
                    
-                  </td></tr></table>
+                  </td></tr></table></div>
