@@ -277,7 +277,7 @@
 						<!-- INFO IMAGE -->
 						<div class="col-lg-6">
 				
-			<img  style="border-radius: 10%;" width="100%" src="images/cathlab2.jpg" >
+			<img  style="border-radius: 10%;" width="100%" src="images/selamatdatang.jpg" >
 			
 						</div>
 
