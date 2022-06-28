@@ -23,7 +23,56 @@
 
 	<!-- BREADCRUMB
 			============================================= -->
+			<section id="hero-2" class="hero-section division">
+
+
+<!-- SLIDER -->
+<div class="slider" style="height: 500px;">
+	<ul class="slides">
+
+
+		 <!-- SLIDE #1 -->
+		  
+
+
+				<li style="height: 500px;">			
+				<img class="img-fluid" width="100%" height="500px" src="images/produk_kami.jpg" alt="hero-image">
+				
+			<!-- Image Caption -->
+			<div class="caption d-flex align-items-center left-align" style="background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)); ">
+				   <div class="container">
+					   <div class="row" >
+						   <div class="col-md-12 col-lg-10" >
+							   <div class="caption-txt">
+								   <!-- Title -->
+								   <h3 class="white-color judul1">PRODUK KAMI</h3>
+
+								   <!-- Option Box #1 -->
+								<div class="box-list">							
+									<div class="box-list-icon white-color"></div>
+														
+								</div>
+					
+						
+							</div>
+						</div>
+					</div>  <!-- End row -->
+				</div>  <!-- End container -->
+			</div>	<!-- End Image Caption -->
+
 			
+			
+			</li>
+	   
+		
+			<!-- END SLIDE #1 -->
+
+
+	</ul>
+  </div>	<!-- END SLIDER -->
+
+
+</section>	<!-- END HERO-2 -->	
 
 
 
