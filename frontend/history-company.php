@@ -2,8 +2,8 @@
 	.sbox-3{
 		min-width: 95%;
 		max-width: 95%;
-		min-height: 170px;
-		max-height: 170px;
+		min-height: 95%;
+		max-height: 95%;
 	}
 	</style>
 <div style="display:inline-block;width:100%;overflow-y: hidden;">
