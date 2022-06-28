@@ -23,29 +23,7 @@
 
 	<!-- BREADCRUMB
 			============================================= -->
-			<div id="breadcrumb" class="division">
-				<div class="container">
-					<div class="row">						
-						<div class="col">
-							<div class="breadcrumb-holder">
-
-								<!-- Breadcrumb Nav -->
-								<nav aria-label="breadcrumb">
-								  	<ol class="breadcrumb">
-								    	<li class="breadcrumb-item"><a href="index.html">Home</a></li>
-								    	<li class="breadcrumb-item"><a href="blog-listing.html">Our Post</a></li>
-								    	<li class="breadcrumb-item active" aria-current="page">Post</li>
-								  	</ol>
-								</nav>
-
-								<!-- Title -->
-								<h4 class="h4-sm steelblue-color">Post</h4>
-
-							</div>
-						</div>
-					</div>  <!-- End row -->	
-				</div>	<!-- End container -->		
-			</div>	<!-- END BREADCRUMB -->	
+			
 
 
 
