@@ -191,7 +191,7 @@
 						<span class="flaticon-136-monitor"></span>
 					</div>						
 					<!-- Title -->	
-					<h6 class="white-color" style="margin-top:0;"><b>TEKNOLOGI</b></h6>																																	
+					<h6 class="white-color" style="margin-top:0;"><b>HEALTHCARE IT</b></h6>																																	
 					</div>
 					</div>
 
@@ -398,7 +398,7 @@
 					<div class="row">	
 						<div class="col-lg-10 offset-lg-1 section-title" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>BRAND</b></b></h3>								
+							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>PRODUCT BRAND</b></b></h3>								
 						</div> 
 					</div>
 					<div class="row d-flex align-items-center text-center">
@@ -441,7 +441,7 @@
 					<div class="row">	
 						<div class="col-lg-10 offset-lg-1 section-title" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>INFORMASI TERBARU</b></b></h3>								
+							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>RECENT UPDATE</b></b></h3>								
 						</div> 
 					</div>
 				
@@ -546,7 +546,7 @@
 					<div class="row">	
 						<div class="col-lg-10 offset-lg-1 section-title" style="margin-bottom:30px;">		
 							<!-- Title 	-->	
-							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>ARTIKEL DAN EDUKASI</b></b></h3>								
+							<h3 class="h4-md steelblue-color" style="color: #214068;"><b><b>NEWS, EDUCATION & OUR STORIES</b></b></h3>								
 						</div> 
 					</div>
 				
