@@ -189,7 +189,7 @@ display: none;
 										<div class="sbox-3 icon-sm" style="padding-top: 0; padding-left: 0; padding-right: 0;">
 
 										<!-- Icon -->
-										<img class="img-fluid" src="images/pimpinan/03.png" alt="doctor-foto" style="border-top-left-radius:20px; border-top-right-radius:20px; width: 100%;">	
+										<img class="img-fluid" src="images/pimpinan/07.png" alt="doctor-foto" style="border-top-left-radius:20px; border-top-right-radius:20px; width: 100%;">	
 											
 										<!-- Title -->
 										<div class="text-left" style="margin-right: 20px; margin-left: 20px;">
