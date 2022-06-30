@@ -209,9 +209,9 @@
 							</div>
 						</li>
             <li class="timeline-item">
-							<div class="timeline-badge primary orange-hover">2016</div>
+							<div class="timeline-badge primary orange-hover">2015</div>
 							<div class="timeline-panel">
-              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; width: 298px; height: 186.25px;" class="img-fluid" src="images/Milestone/2016.webp" alt="doctor-foto">	
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; width: 298px; height: 186.25px;" class="img-fluid" src="images/Milestone/2015-1.jpeg" alt="doctor-foto">	
               	<!-- Icon -->
 								<br>	<br>
 											
@@ -227,7 +227,7 @@
 						<li class="timeline-item">
 							<div class="timeline-badge primary orange-hover">2016</div>
 							<div class="timeline-panel">
-              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; width: 298px; height: 186.25px;" class="img-fluid" src="images/Milestone/2016.webp" alt="doctor-foto">	
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; width: 298px; height: 186.25px;" class="img-fluid" src="images/Milestone/2016-1.jpeg" alt="doctor-foto">	
               	<!-- Icon -->
 								<br>	<br>
 											
@@ -262,7 +262,7 @@
             <li class="timeline-item">
 							<div class="timeline-badge primary orange-hover">2019</div>
 							<div class="timeline-panel">
-              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; width: 298px; height: 186.25px;" class="img-fluid" src="images/Milestone/2019.webp" alt="doctor-foto">	
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; width: 298px; height: 186.25px;" class="img-fluid" src="images/Milestone/2016.webp" alt="doctor-foto">	
               	<!-- Icon -->
 								<br>	<br>
 											
@@ -296,7 +296,7 @@
             <li class="timeline-item">
 							<div class="timeline-badge primary orange-hover">2021</div>
 							<div class="timeline-panel">
-              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; width: 298px;  height: 186.25px;" class="img-fluid" src="images/head/legal.jpg" alt="doctor-foto">	
+              <img style="border-top-left-radius: 20px; border-top-right-radius: 20px; width: 298px;  height: 186.25px;" class="img-fluid" src="images/head/2021-1.jpeg" alt="doctor-foto">	
               	<!-- Icon -->
 								<br>	<br>
 											
