@@ -70,7 +70,21 @@ display: none;
 				<div class="container">
 
 
-			 	
+				<table style="border: none;" width="100%"><tr><td>
+									<h3 class="h3-md steelblue-color">PRODUK</h3>
+									</td>
+									<td style="text-align: right; align:right;">
+									<?php
+									 $r=$_GET['id'];
+										$sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM category where cat_name='$r'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+										while($d=mysqli_fetch_array($sql)){
+										?> 
+										
+										<a href="product-brands.php?id=<?php echo $d['cat_name']; ?>"><img class="img-fluid lugi" width="200px" src="assets/imgs/vendor/<?php echo $d['logo']; ?>" style="padding-right:20px; padding-bottom:25px;"></a>
+									
+									<?php }?>
+									</td></tr>
+									</table>
 
 
 					<div class="row">
