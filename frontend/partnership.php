@@ -241,7 +241,7 @@ display: none;
 										<!-- TAB-1 IMAGE -->
 										<div class="col-lg-6">
 											<div class="tab-img">
-												<img class="img-fluid" style="border-radius: 20px;" src="images/cathlab.jpeg" alt="tab-image" />
+												<img class="img-fluid" style="border-radius: 20px;" src="images/cathlab-1.jpeg" alt="tab-image" />
 											</div>
 										</div>
 
