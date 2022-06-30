@@ -51,7 +51,7 @@
                   while($d=mysqli_fetch_array($sql)){
                             
                 ?> 
-								   <h3 class="white-color judul1" STYLE="font-weight: 700;"><?php echo $d['p_name']; ?></h3>
+								   <h3 class="white-color judul1" STYLE="font-weight: 700;"><?php $judulgg= $d['p_name']; $judulggg=strtoupper($judulgg); echo $judulggg; ?></h3>
 <?php } ?>
 								   <!-- Option Box #1 -->
 								<div class="box-list">							
