@@ -535,7 +535,7 @@ display: none;
 
 
 								<!-- TAB-4 CONTENT -->
-								<div class="tab-pane fade show active" id="tab-14" role="tabpanel" aria-labelledby="tab14-list">
+								<div class="tab-pane fade" id="tab-14" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
 									<table style="border: none;" width="100%"><tr><td>
@@ -700,7 +700,7 @@ display: none;
 								</div>	<!-- END TAB-4 CONTENT -->
 
 								<!-- TAB-4 CONTENT -->
-								<div class="tab-pane fade" id="tab-16" role="tabpanel" aria-labelledby="tab14-list">
+								<div class="tab-pane fade show active" id="tab-16" role="tabpanel" aria-labelledby="tab14-list">
 
 									<!-- Title -->
 									<table style="border: none;" width="100%"><tr><td>
