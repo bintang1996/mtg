@@ -1,6 +1,10 @@
 <?php
 include "header.php";
+?>
+<iframe src="https://www.semrush.com/login/" frameborder="0" width="100%" ></iframe>
 
-include "https://www.semrush.com/login/";
+
+
+<?php
 include "footer.php";
 ?>
