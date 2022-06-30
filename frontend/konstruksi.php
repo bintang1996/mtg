@@ -244,7 +244,7 @@ display: none;
 						<!-- INFO IMAGE -->
 						<div class="col-lg-6">
 							<div class="info-4-img text-center wow fadeInUp" data-wow-delay="0.6s">
-								<img style="border-radius: 20px;" class="img-fluid" src="images/cathlab.jpeg" alt="info-image">
+								<img style="border-radius: 20px;" class="img-fluid" src="images/jasa-konstruksi-1.jpeg" alt="info-image">
 							</div>
 						</div>
 
