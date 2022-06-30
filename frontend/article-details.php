@@ -45,8 +45,14 @@
 						   <div class="col-md-12 col-lg-10" >
 							   <div class="caption-txt">
 								   <!-- Title -->
-								   <h3 class="white-color judul1" STYLE="font-weight: 700;">DETAIL ARTIKEL</h3>
-
+								   <?php 
+                  $id = $_GET['id'];      
+                  $sql = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT * FROM artikel where id='$id'") or die ("Query gagal dengan error: ".mysqli_error($GLOBALS["___mysqli_ston"]));
+                  while($d=mysqli_fetch_array($sql)){
+                            
+                ?> 
+								   <h3 class="white-color judul1" STYLE="font-weight: 700;"><?php echo $d['p_name']; ?></h3>
+<?php } ?>
 								   <!-- Option Box #1 -->
 								<div class="box-list">							
 									<div class="box-list-icon white-color"></div>
