@@ -1,31 +1,69 @@
 <?php include "header.php";?>
 
 
-		<!-- BREADCRUMB
-			============================================= -->
-			<div id="breadcrumb" class="division">
-				<div class="container">
-					<div class="row">						
-						<div class="col">
-							<div class=" breadcrumb-holder">
+<style>
+	.indicators {
+display: none;
+	}
 
-								<!-- Breadcrumb Nav -->
-								<nav aria-label="breadcrumb">
-								  	<ol class="breadcrumb">
-								    	<li class="breadcrumb-item"><a href="index.html">Home</a></li>
-								    	<li class="breadcrumb-item"><a href="all-services.html">Our Product</a></li>
-								    	<li class="breadcrumb-item active" aria-current="page">Product</li>
-								  	</ol>
-								</nav>
+	.lugi{
+		height: 100px;
+		width: auto;
+	}
+</style>
+	<!-- HERO-2
+			============================================= -->	
+			<section id="hero-2" class="hero-section division">
 
-								<!-- Title -->
-								<h4 class="h4-sm steelblue-color">Our Products</h4>
 
-							</div>
-						</div>
-					</div>  <!-- End row -->	
-				</div>	<!-- End container -->		
-			</div>	<!-- END BREADCRUMB -->	
+				<!-- SLIDER -->
+				<div class="slider" style="height: 500px;">
+			    	<ul class="slides">
+
+
+				     	<!-- SLIDE #1 -->
+				      	
+
+    	
+                                <li style="height: 500px;">			
+								<img class="img-fluid" width="100%" height="500px" src="images/produk_kami.jpg" alt="hero-image">
+                                
+							<!-- Image Caption -->
+							<div class="caption d-flex align-items-center left-align" style="background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)); ">
+		       					<div class="container">
+		       						<div class="row" >
+		       							<div class="col-md-12 col-lg-10" >
+		       								<div class="caption-txt">
+						       					<!-- Title -->
+						       					<h3 class="white-color judul1">PRODUK KAMI</h3>
+
+						       					<!-- Option Box #1 -->
+												<div class="box-list">							
+													<div class="box-list-icon white-color"></div>
+																		
+												</div>
+									
+									    
+											</div>
+										</div>
+									</div>  <!-- End row -->
+								</div>  <!-- End container -->
+					        </div>	<!-- End Image Caption -->
+
+							
+							
+							</li>
+                       
+						
+					    	<!-- END SLIDE #1 -->
+
+
+				    </ul>
+			  	</div>	<!-- END SLIDER -->
+
+
+			</section>	<!-- END HERO-2 -->
+
 	<!-- DOCTORS-1
 			============================================= -->
 			<section id="doctors-1" class="wide-40 doctors-section division" style="background-color:white;">
@@ -34,7 +72,7 @@
 
 			 		<!-- SECTION TITLE -->	
 					<div class="row">	
-						<div class="col-lg-10 offset-lg-1 section-title">		
+						<div class="col-md-12">		
 
 							<!-- Title 	-->	
 							<h3 class="h3-md steelblue-color">Our Products</h3>	
