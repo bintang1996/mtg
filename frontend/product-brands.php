@@ -71,7 +71,7 @@ display: none;
 
 
 				<table style="border: none;" width="100%"><tr><td>
-									<h3 class="h3-md steelblue-color">PRODUK</h3>
+									<h3 class="h3-md steelblue-color"></h3>
 									</td>
 									<td style="text-align: right; align:right;">
 									<?php
