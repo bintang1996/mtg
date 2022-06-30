@@ -70,20 +70,7 @@ display: none;
 				<div class="container">
 
 
-			 		<!-- SECTION TITLE -->	
-					<div class="row">	
-						<div class="col-md-12">		
-
-							<!-- Title 	-->	
-							<h3 class="h3-md steelblue-color">Our Products</h3>	
-
-							<!-- Text -->
-							<p>Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis libero at tempus, 
-							   blandit posuere ligula varius congue cursus porta feugiat
-							</p>
-										
-						</div> 
-					</div>	 <!-- END SECTION TITLE -->	
+			 	
 
 
 					<div class="row">
