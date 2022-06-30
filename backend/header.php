@@ -65,6 +65,7 @@ header ("location:sign-in.php");
                         <div class="submenu">
                             <a href="article-page.php">Article</a>
                             <a href="category_a-page.php">Categories</a>
+                            <a href="semursh.php">SEO Tools</a>
                         </div>
                     </li>
                     <li class="menu-item has-submenu">
