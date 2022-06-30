@@ -1,4 +1,11 @@
 <?php include "koneksi.php"; ?>
+<?php
+include "koneksi.php";
+session_start();
+if (!isset($_SESSION['email'])){
+header ("location:sign-in.php");
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
