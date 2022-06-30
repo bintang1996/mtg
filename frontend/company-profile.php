@@ -95,15 +95,16 @@ display: none;
 						
 
 								<!-- Text -->
-								<p class="mb-30" style="text-align:justify;">&emsp;PT. Meditrans Global berdiri sejak tahun 2012 di Surabaya, berawal dari bisnis penyedia barang dan jasa, seiring waktu Meditrans terus berkembang ke bidang bidang bisnis lainnya.<br>
+								<p class="mb-30" style="text-align:justify;">
+								&emsp;&emsp; PT. Meditrans Global berdiri sejak tahun 2012 di Surabaya, berawal dari bisnis penyedia barang dan jasa, seiring waktu Meditrans terus berkembang ke bidang bidang bisnis lainnya.<br>
 
-								&emsp;Berlatar belakang pendiri perusahaan yang memiliki pengalaman di bidang peralatan penunjang kesehatan, saat ini Meditrans fokus dalam pengembangan perusahaan dalam hal pelayanan Barang dan Jasa penunjang kesehatan.<br>
+								&emsp;&emsp; Berlatar belakang pendiri perusahaan yang memiliki pengalaman di bidang peralatan penunjang kesehatan, saat ini Meditrans fokus dalam pengembangan perusahaan dalam hal pelayanan Barang dan Jasa penunjang kesehatan.<br>
 
-								&emsp;Di dukung dengan tim yang solid dan berpengalaman, Meditrans bekerjasama dengan Rumah Sakit serta perusahaan penyedia peralatan kesehatan, baik principal ataupun pihak Public Private Partnership (PPP) dalam memberikan konsultasi dan pelaksanaan pekerjaan. Yakni meliputi Pra Instalasi peralatan kesehatan seperti instalasi X-Ray, CT-Scan, MRI dan Cathlab.<br>
+								&emsp;&emsp; Di dukung dengan tim yang solid dan berpengalaman, Meditrans bekerjasama dengan Rumah Sakit serta perusahaan penyedia peralatan kesehatan, baik principal ataupun pihak Public Private Partnership (PPP) dalam memberikan konsultasi dan pelaksanaan pekerjaan. Yakni meliputi Pra Instalasi peralatan kesehatan seperti instalasi X-Ray, CT-Scan, MRI dan Cathlab.<br>
 
-								&emsp;Meditrans juga berpengalaman dalam hal Konstruksi dan Renovasi untuk ruangan Operasi, ruang radiologi yang membutuhkan instalasi anti radiasi (Timbal Pb) maupun struktur penguat lantai dan rangka atas.<br>
+								&emsp;&emsp; Meditrans juga berpengalaman dalam hal Konstruksi dan Renovasi untuk ruangan Operasi, ruang radiologi yang membutuhkan instalasi anti radiasi (Timbal Pb) maupun struktur penguat lantai dan rangka atas.<br>
 
-								&emsp;Meditrans telah banyak bekerjasama dan memiliki jaringan yang luas dengan banyak perusahaan besar seperti Aneka Gas, Siemens Healthcare, GE Healthcare dan banyak Rumah Sakit Pemerintah ataupun Swasta.</p>
+								&emsp;&emsp; Meditrans telah banyak bekerjasama dan memiliki jaringan yang luas dengan banyak perusahaan besar seperti Aneka Gas, Siemens Healthcare, GE Healthcare dan banyak Rumah Sakit Pemerintah ataupun Swasta.</p>
 							</div>
 						</div>	<!-- END TEXT BLOCK -->	
 
